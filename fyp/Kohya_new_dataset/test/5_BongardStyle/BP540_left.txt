@@ -1,0 +1,1 @@
+Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Objects define a map from the top row of boxes to the bottom row of boxes' logic.

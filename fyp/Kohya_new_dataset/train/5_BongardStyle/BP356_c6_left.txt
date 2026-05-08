@@ -1,0 +1,1 @@
+Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Object at lower-right fits as n-th item in the top row of objects, where n is the number of dots at lower-left' logic.

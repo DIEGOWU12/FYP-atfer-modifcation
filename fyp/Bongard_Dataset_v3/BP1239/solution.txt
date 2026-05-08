@@ -1,0 +1,1 @@
+Fractal topologically closed (each white point has a neighborhood of pure white surrounding it) vs. not

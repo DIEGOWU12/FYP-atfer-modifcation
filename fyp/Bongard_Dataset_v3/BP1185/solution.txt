@@ -1,0 +1,1 @@
+Smaller section tiles the grid (element-wise rotation of tiles allowed) vs. not so.

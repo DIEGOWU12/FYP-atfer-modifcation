@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No tile shares a partial side with another tile' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A woven lattice pattern with interlocking diagonal lines forming a continuous, crisscross design.
+Top-right: A fragmented, irregular pattern resembling cracked earth or shattered glass, with jagged, uneven edges.
+Middle-left: A series of wavy, undulating lines that create a rhythmic, flowing texture.
+Middle-right: A honeycomb structure composed of interconnected hexagons, forming a uniform and symmetrical pattern.
+Bottom-left: A cluster of overlapping circles, creating a dense, organic arrangement with varying sizes.
+Bottom-right: A zigzag pattern with sharp, angular lines that alternate direction, producing a dynamic and energetic effect.
+
+Minimalist black-and-white style."

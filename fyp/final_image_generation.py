@@ -27,7 +27,7 @@ def get_image_from_sd(prompt, control_image_base64=None):
     payload = {
         "prompt": prompt,
         "negative_prompt": negative_prompt,
-        "steps": 30,
+        "steps": 25,
         "width": 384,
         "height": 512,
         "sampler_name": "Euler a",
@@ -45,7 +45,7 @@ def get_image_from_sd(prompt, control_image_base64=None):
                     "model": "diffusion_pytorch_model.fp16 [7b2ce256]",
                     "weight": 1.2,
                     "enabled": True,
-                    "control_mode": 2,
+                    "control_mode": 0,
                     "threshold_a": 100,   # Canny 低阈值
                     "threshold_b": 200,   # Canny 高阈值
                 }
@@ -76,7 +76,7 @@ else:
     img1 = get_image_from_sd(p1, control_image_base64=ref_base64)
 
     # 第二张图：普通生成
-    p2 = "Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'order is low (high entropy)' logic. <lora:sdxltrained4:1>"
+    p2 = "Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Points inside the figure outline are on a straight line' logic.<lora:sdxltrained4:1>"
     img2 = get_image_from_sd(p2, control_image_base64=ref_base64)  # 这里也用 ControlNet 来保持风格一致，如果不想要控制，传 None 即可
 
     if img1 and img2:

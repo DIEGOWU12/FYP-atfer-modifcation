@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Vaguely self-similar (looks like self-similar fractal after one iteration))' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A smooth, continuous curved line resembling an 'S' shape
+Top-right: Five small circles arranged in a loose cluster with varying sizes
+Middle-left: A simple, upward-pointing checkmark or 'V' shape
+Middle-right: A scattered pattern of small 'X' marks forming a dense, irregular cluster
+Bottom-left: Two overlapping, irregularly shaped loops with a small vertical line extending downward
+Bottom-right: A single, perfectly round circle
+
+Minimalist black-and-white style."

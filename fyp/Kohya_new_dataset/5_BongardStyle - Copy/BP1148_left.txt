@@ -1,0 +1,1 @@
+Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Number of dots in the Nth box (from the left) is how many times the number (N - 1) appears in the whole diagram' logic.

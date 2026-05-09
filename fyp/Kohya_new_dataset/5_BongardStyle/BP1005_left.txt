@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The collection of dot clumps has the same numerical property as each of the dot clumps' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of dots and stars with a mix of solid and outlined shapes.
+Top-right: A pattern of dots and stars arranged in a scattered, symmetrical layout.
+Middle-left: A combination of vertical lines, dots, and a central star-like shape.
+Middle-right: A series of dots and small squares forming a sparse, irregular pattern.
+Bottom-left: A dense cluster of dots forming a rectangular block with a central star-like shape.
+Bottom-right: A pattern of dots and small squares with a central star-like shape and surrounding clusters.
+
+Minimalist black-and-white style."

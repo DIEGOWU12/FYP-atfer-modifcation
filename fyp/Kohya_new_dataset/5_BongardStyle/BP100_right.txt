@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the letter Б' logic.
+"The image shows a 3x2 grid of six black typographic characters:
+
+Top-left: A stylized lowercase 'b' with a curved top and a looped bottom.
+Top-right: A stylized uppercase 'B' with a sharp, angular design.
+Middle-left: A bold, blocky uppercase 'B' with thick strokes.
+Middle-right: A stylized lowercase 'b' with a flowing, cursive appearance.
+Bottom-left: A stylized lowercase 'h' with a long, sweeping tail.
+Bottom-right: A standard, serif lowercase 'b' with a classic, rounded form.
+
+Minimalist black-and-white style."

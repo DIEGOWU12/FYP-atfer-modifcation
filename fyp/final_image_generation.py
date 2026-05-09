@@ -7,7 +7,8 @@ from PIL import Image
 # --- 配置区 ---
 URL = "http://127.0.0.1:7860/sdapi/v1/txt2img"
 # 确保这个路径下有一张参考图，或者改名为你现有的图片
-REF_IMAGE_PATH = "ref.png" 
+# 必须和文件夹里的名字一模一样
+REF_IMAGE_PATH = "fyp/Contronet.jpg"
 
 def encode_file_to_base64(path):
     with open(path, "rb") as f:
@@ -18,16 +19,22 @@ def get_image_from_sd(prompt, control_image_base64=None):
     向 SD 发送请求。
     如果提供了 control_image_base64，则开启 ControlNet (Canny)。
     """
+    negative_prompt = (
+        "color, shading, gradient, 3d, realistic, photo, texture, "
+        "grey, blurry, messy, chaotic, merged boxes, distorted lines, "
+        "complex background, grey background"
+    )
     payload = {
         "prompt": prompt,
-        "negative_prompt": "low quality, blurry, distorted",
-        "steps": 20,
-        "width": 512,
+        "negative_prompt": negative_prompt,
+        "steps": 30,
+        "width": 384,
         "height": 512,
         "sampler_name": "Euler a",
+        "cfg_scale": 9,
         "alwayson_scripts": {}
     }
-
+     
     # 如果有参考图，注入 ControlNet 配置
     if control_image_base64:
         payload["alwayson_scripts"]["ControlNet"] = {
@@ -35,9 +42,12 @@ def get_image_from_sd(prompt, control_image_base64=None):
                 {
                     "input_image": control_image_base64,
                     "module": "canny",         # 预处理器：边缘检测
-                    "model": "control_v11p_sd15_canny [d11c0f03]", # 确保模型名字匹配
-                    "weight": 1.0,
-                    "enabled": True
+                    "model": "diffusion_pytorch_model.fp16 [7b2ce256]",
+                    "weight": 1.2,
+                    "enabled": True,
+                    "control_mode": 2,
+                    "threshold_a": 100,   # Canny 低阈值
+                    "threshold_b": 200,   # Canny 高阈值
                 }
             ]
         }
@@ -62,12 +72,12 @@ else:
 
     # 2. 分别生成
     # 第一张图：使用 ControlNet 控制构图
-    p1 = "a cybernetic futuristic temple, neon lights, 8k"
+    p1 = "Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Is polygon' logic. <lora:sdxltrained4:1>"
     img1 = get_image_from_sd(p1, control_image_base64=ref_base64)
 
     # 第二张图：普通生成
-    p2 = "a peaceful zen garden, high quality"
-    img2 = get_image_from_sd(p2)
+    p2 = "Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'order is low (high entropy)' logic. <lora:sdxltrained4:1>"
+    img2 = get_image_from_sd(p2, control_image_base64=ref_base64)  # 这里也用 ControlNet 来保持风格一致，如果不想要控制，传 None 即可
 
     if img1 and img2:
         # 3. 左右拼接

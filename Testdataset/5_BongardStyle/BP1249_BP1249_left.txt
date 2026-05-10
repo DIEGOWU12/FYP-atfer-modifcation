@@ -1,0 +1,1 @@
+BongardStyle, Any straight path will hit a black region, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,0 +1,1 @@
+BongardStyle, Circled points are all possible vertices an equilateral triangle with a particular side length can take, provided that each of its corners lie on a grid point, black and white geometric 3x2 grid, white background, minimalist.

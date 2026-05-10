@@ -1,0 +1,1 @@
+BongardStyle, A "chess piece" that moves as shown may reach every square, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,0 +1,1 @@
+BongardStyle, Shape on the right is the convex hull of shape on the left, black and white geometric 3x2 grid, white background, minimalist.

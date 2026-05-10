@@ -1,0 +1,1 @@
+BongardStyle, Black region narrows at the boundary of black/white, black and white geometric 3x2 grid, white background, minimalist.

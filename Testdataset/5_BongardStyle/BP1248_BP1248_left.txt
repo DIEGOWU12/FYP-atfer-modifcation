@@ -1,0 +1,1 @@
+BongardStyle, No straight path passes from a white region to a grey one, then to white again (without hitting black), black and white geometric 3x2 grid, white background, minimalist.

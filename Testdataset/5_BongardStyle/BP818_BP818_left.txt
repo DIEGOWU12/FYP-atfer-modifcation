@@ -1,0 +1,1 @@
+BongardStyle, Dot's position within square is center of square's position within panel, black and white geometric 3x2 grid, white background, minimalist.

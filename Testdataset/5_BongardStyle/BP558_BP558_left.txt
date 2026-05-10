@@ -1,0 +1,1 @@
+BongardStyle, Point sequence that is increasing or decreasing in height, black and white geometric 3x2 grid, white background, minimalist.

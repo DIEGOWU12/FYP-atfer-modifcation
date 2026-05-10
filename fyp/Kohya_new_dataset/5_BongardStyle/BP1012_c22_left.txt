@@ -1,10 +1,10 @@
 "The image shows a 3x2 grid of six black geometric shapes:
 
-Top-left: A pattern of intersecting diagonal lines forming a series of triangles.
-Top-right: A woven lattice pattern with interlocking rectangular shapes.
-Middle-left: A network of irregular, interconnected polygons resembling a cracked surface.
-Middle-right: A series of wavy, parallel lines creating a zigzag effect.
-Bottom-left: A tessellation of hexagons and smaller surrounding shapes.
-Bottom-right: A similar tessellation of hexagons but with larger surrounding shapes.
+Top-left: Interlocking triangles forming a lattice pattern
+Top-right: Overlapping curved lines creating a woven texture
+Middle-left: Irregular, jagged shapes resembling cracked earth
+Middle-right: Wavy, zigzag lines with varying amplitudes
+Bottom-left: Hexagonal shapes arranged in a uniform grid
+Bottom-right: Irregular hexagons and pentagons forming a tessellated pattern
 
 Minimalist black-and-white style."

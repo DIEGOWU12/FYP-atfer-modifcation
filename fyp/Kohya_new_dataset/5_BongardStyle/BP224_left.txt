@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Diametrically opposite objects affect similarly the large black circular region' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black circle with two white 'X' marks near the top left.
+Top-right: A solid black circle with three small white dots arranged in a triangular pattern near the top right.
+Middle-left: A solid black circle with a horizontal white line and two white semicircles below it.
+Middle-right: A solid black circle with a small white dot near the bottom right.
+Bottom-left: A solid black circle with a small white square in the bottom left corner.
+Bottom-right: A solid black circle with a small white square at the top and bottom.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Exactly one connected white region for each possible way shapes can overlap)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'L' with a curved extension.
+Top-right: A complex interlocking pattern of lines forming a symmetrical design.
+Middle-left: A circular arrangement of nested, swirling lines creating a spiral effect.
+Middle-right: Three overlapping circles forming a Venn diagram-like structure.
+Bottom-left: Two intersecting circles creating a lens-shaped overlap.
+Bottom-right: A series of concentric circles decreasing in size.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Can be hand-written without raising the pen' logic.
+"The image shows a 3x2 grid of six black letters:
+
+Top-left: A
+Top-right: E
+Middle-left: M
+Middle-right: T
+Bottom-left: P
+Bottom-right: Q
+
+Minimalist black-and-white style."

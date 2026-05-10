@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Outlines made by triangles and circles intersect' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circular arrangement of alternating triangles and circles.
+Top-right: A scattered pattern of triangles, circles, and small dots.
+Middle-left: A dense cluster of triangles with varying orientations.
+Middle-right: A radial pattern of triangles emanating from the center.
+Bottom-left: A mix of triangles and circles forming a somewhat symmetrical design.
+Bottom-right: A combination of triangles and circles in a random distribution.
+
+Minimalist black-and-white style."

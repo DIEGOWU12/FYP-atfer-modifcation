@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Wireframe drawing of solid' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cube with all edges and vertices clearly defined.
+Top-right: A rectangular prism with a longer length than width and height.
+Middle-left: A tetrahedron with four triangular faces.
+Middle-right: A complex polyhedron resembling a truncated icosahedron.
+Bottom-left: A cylinder with circular bases and a curved side.
+Bottom-right: A pyramid with a triangular base and three triangular faces.
+
+Minimalist black-and-white style."

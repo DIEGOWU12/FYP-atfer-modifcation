@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(If "distance" is taken to be the sum of horizontal and vertical distances between points, the 3 points are equidistant from each other)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of four dots forming an irregular pattern with one dot slightly separated.
+Top-right: A diagonal line of three dots extending from the top-left to the bottom-right.
+Middle-left: Two dots aligned vertically near the center-left of the grid.
+Middle-right: Three dots forming a small triangle with one dot at the apex.
+Bottom-left: Four dots arranged in a square-like formation near the bottom-left corner.
+Bottom-right: Two dots aligned horizontally near the center-right of the grid.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'White dot is at center of mass' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with a horizontal line extending to the right
+Top-right: A square with a dot in the center
+Middle-left: A cross-like shape with four arms extending outward
+Middle-right: An L-shaped figure with a dot near the corner
+Bottom-left: An octagon with a dot in the center
+Bottom-right: A star with a dot in the center
+
+Minimalist black-and-white style."

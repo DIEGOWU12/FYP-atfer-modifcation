@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'no right angle (either interior or exterior)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with its base horizontal and apex pointing upwards
+Top-right: A trapezoid with a horizontal top and bottom, and non-parallel sides slanting inward
+Middle-left: A smaller triangle with its base horizontal and apex pointing downwards
+Middle-right: A regular pentagon with all sides and angles equal
+Bottom-left: A regular hexagon with all sides and angles equal
+Bottom-right: A regular octagon with all sides and angles equal
+
+Minimalist black-and-white style."

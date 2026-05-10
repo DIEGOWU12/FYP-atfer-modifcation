@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Exactly one axis of symmetry' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a comma or a backward 'C'
+Top-right: A parallelogram tilted to the right
+Middle-left: An L-shaped figure composed of two rectangles
+Middle-right: An equilateral triangle
+Bottom-left: A right-angled triangle with the right angle at the bottom left
+Bottom-right: A semicircle
+
+Minimalist black-and-white style."

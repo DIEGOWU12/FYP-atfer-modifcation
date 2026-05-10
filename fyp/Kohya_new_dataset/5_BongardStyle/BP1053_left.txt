@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Two parts black to one part white' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three circles, two white and one black, arranged in a triangular formation.
+Top-right: A single large black circle.
+Middle-left: A large black circle with a smaller white circle below it.
+Middle-right: A single large white circle.
+Bottom-left: Three circles, two white and one black, arranged in a triangular formation.
+Bottom-right: Six small circles, four black and two white, arranged in two rows.
+
+Minimalist black-and-white style."

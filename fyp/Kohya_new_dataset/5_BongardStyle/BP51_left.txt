@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Two circles close to each other' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Six small circles and one small square arranged in a scattered pattern.
+Top-right: Five small circles arranged in a diagonal line with one circle slightly offset.
+Middle-left: Four small circles and two small squares arranged in a cluster.
+Middle-right: Five small circles arranged in a zigzag pattern.
+Bottom-left: Three small circles and two small squares arranged in a vertical line.
+Bottom-right: Five small circles arranged in a circular pattern.
+
+Minimalist black-and-white style."

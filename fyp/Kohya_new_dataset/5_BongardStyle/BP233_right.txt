@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'lines minus triangles equal stars' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a star inside and a vertical line next to it
+Top-right: Two parallel lines intersected by a diagonal line, with a star above and a triangle below
+Middle-left: A diagonal line with a small triangle at the bottom
+Middle-right: A horizontal line with a triangle above and two stars below
+Bottom-left: A vertical line with a star above and a triangle below
+Bottom-right: Three triangles in a row with a star below
+
+Minimalist black-and-white style."

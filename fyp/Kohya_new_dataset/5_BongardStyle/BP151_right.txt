@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(If the circle closest to the cross is removed, the rest form an equilateral triangle)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small circles and a plus sign, with the plus sign positioned near the center.
+Top-right: A vertical arrangement of three circles, with a plus sign placed between the top two circles.
+Middle-left: A single circle at the top left, a plus sign in the center, and a circle at the bottom right.
+Middle-right: A plus sign near the center, surrounded by four circles, one in each corner.
+Bottom-left: A horizontal line of three circles, with a plus sign placed between the leftmost and middle circles.
+Bottom-right: A plus sign near the center, surrounded by five circles, one in each corner and one near the center.
+
+Minimalist black-and-white style."

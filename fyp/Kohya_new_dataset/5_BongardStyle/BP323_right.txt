@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'jigsaw puzzle pieces cannot be assembled into a square' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single large square piece with two protruding tabs and one recessed slot.
+Top-right: Two separate square pieces, each with one tab and one slot.
+Middle-left: A collection of various small puzzle pieces scattered randomly.
+Middle-right: Four identical square pieces arranged in a 2x2 grid, each with one tab and one slot.
+Bottom-left: Four identical square pieces arranged in a 2x2 grid, each with two tabs and two slots.
+Bottom-right: A cluster of irregularly shaped puzzle pieces scattered randomly.
+
+Minimalist black-and-white style."

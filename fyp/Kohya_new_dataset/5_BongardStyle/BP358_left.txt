@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The circles will collide if the arrows are their velocities' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical line with a small circle at the top and bottom.
+Top-right: Two lines, one vertical and one diagonal, both ending in small circles.
+Middle-left: Two diagonal lines intersecting at a small circle.
+Middle-right: A vertical line with a small circle at the bottom and a horizontal line extending to the right from the circle.
+Bottom-left: A single diagonal line ending in a small circle.
+Bottom-right: Two vertical lines, one above the other, each ending in a small circle.
+
+Minimalist black-and-white style."

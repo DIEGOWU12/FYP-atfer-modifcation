@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five stars in a horizontal line
+Top-right: Alternating circles and Xs in a repeating pattern
+Middle-left: Four squares with diagonal lines in a row
+Middle-right: The sequence ABCABCBA
+Bottom-left: A series of up and down arrows alternating
+Bottom-right: Three triangles pointing right
+
+Minimalist black-and-white style."

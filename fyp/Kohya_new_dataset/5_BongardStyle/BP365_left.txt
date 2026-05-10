@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Two independent quantities changing simultaneously' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of three wavy lines, each progressively larger.
+Top-right: A sequence of five vertical bars, with the last one filled in solid black.
+Middle-left: A diagonal line of hexagons decreasing in size from top-left to bottom-right.
+Middle-right: A pattern of circles connected by lines, forming a zigzag path.
+Bottom-left: A collection of squares arranged in a stepped, ascending pattern.
+Bottom-right: A set of vertical bars of varying heights, with the tallest bar on the right.
+
+Minimalist black-and-white style."

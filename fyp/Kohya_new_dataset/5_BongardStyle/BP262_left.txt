@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Exactly one point where lines bend at an angle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an 'S' with rounded corners and three dots.
+Top-right: A shape with a vertical line ending in a dot, connected to a horizontal line with another dot.
+Middle-left: A shape with a vertical line ending in a dot, connected to a horizontal line with another dot.
+Middle-right: A shape resembling an 'L' with a curved extension and two dots.
+Bottom-left: A shape resembling a rectangle with rounded corners and four dots.
+Bottom-right: A shape resembling a zigzag line with three dots.
+
+Minimalist black-and-white style."

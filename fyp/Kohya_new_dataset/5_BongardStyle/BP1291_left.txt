@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Black points are the set of vertices that are some shortest-distance away from some white vertex' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 4x4 grid of interconnected points forming a square lattice.
+Top-right: A diagonal line of connected points with alternating filled and empty circles.
+Middle-left: A complex, symmetrical network of interconnected points forming a star-like pattern.
+Middle-right: A branching structure with multiple points connected in a tree-like fashion.
+Bottom-left: A three-dimensional cube with all edges and vertices clearly defined.
+Bottom-right: A web-like structure with multiple interconnected points forming a dense network.
+
+Minimalist black-and-white style."

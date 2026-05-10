@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Circle that passes through points is contained within bounding box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three small dots forming an irregular triangle
+Top-right: One dot above two aligned dots
+Middle-left: Four dots forming a small square with one dot slightly offset
+Middle-right: Five dots arranged in a cross pattern with one dot at the center
+Bottom-left: Two dots vertically aligned with a third dot slightly offset to the left
+Bottom-right: Three dots forming a small triangle
+
+Minimalist black-and-white style."

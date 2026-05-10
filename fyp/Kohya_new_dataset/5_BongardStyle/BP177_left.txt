@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'All interiors are convex' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Overlapping triangles forming a complex star-like pattern
+Top-right: Intersecting triangles creating a dynamic, layered effect
+Middle-left: A simple triangle with a smaller triangle inside
+Middle-right: Triangles intersecting to form a three-dimensional illusion
+Bottom-left: A star shape composed of overlapping triangles
+Bottom-right: Triangles arranged to create a sense of depth and movement
+
+Minimalist black-and-white style."

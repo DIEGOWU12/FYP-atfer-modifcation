@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Approximately symmetric' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized atom with a central circle and two orbiting loops.
+Top-right: A collection of irregular, fragmented shapes including triangles and abstract forms.
+Middle-left: A pixelated, grayscale depiction of a human face.
+Middle-right: A spiral composed of concentric circles that gradually decrease in size towards the center.
+Bottom-left: A rounded, abstract shape with a smooth, flowing outline.
+Bottom-right: Two diagonal lines intersected by a vertical line.
+
+Minimalist black-and-white style."

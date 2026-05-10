@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Triangle located at the concave side of an arc' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line resembling a smile with a small triangle above it
+Top-right: A curved line resembling a frown with a small triangle below it
+Middle-left: A curved line resembling a smile with a small triangle below it
+Middle-right: A curved line resembling a frown with a larger triangle inside it
+Bottom-left: A small triangle pointing right with a curved line resembling a smile below it
+Bottom-right: A small triangle pointing right with a curved line resembling a frown above it
+
+Minimalist black-and-white style."

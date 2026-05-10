@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'triangle located at the convex side of an arc' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A semicircle with a small triangle at its base
+Top-right: A curved line with a small triangle above it
+Middle-left: A curved line with a small triangle pointing left
+Middle-right: An inverted triangle with a semicircle below it
+Bottom-left: A small triangle next to a curved parenthesis
+Bottom-right: A curved line with a small triangle at its end
+
+Minimalist black-and-white style."

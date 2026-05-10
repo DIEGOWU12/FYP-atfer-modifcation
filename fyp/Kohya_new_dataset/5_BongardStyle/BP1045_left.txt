@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'More of some color' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three circles, one large black and two smaller white
+Top-right: One large black circle
+Middle-left: Two circles, one large black and one smaller white
+Middle-right: One large white circle
+Bottom-left: Five circles, four smaller white and one larger black
+Bottom-right: Six circles, five smaller white and one larger black
+
+Minimalist black-and-white style.

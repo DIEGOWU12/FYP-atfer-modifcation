@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'some odd is left' logic.
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A vertical rectangle with a dense cluster of small dots in the top half and a single dot in the bottom half.
+Top-right: A vertical rectangle with a grid of evenly spaced dots in the top half and a single dot in the bottom half.
+Middle-left: A vertical rectangle with three evenly spaced dots in a vertical line.
+Middle-right: A vertical rectangle with a grid of evenly spaced dots in the top half and a single dot in the bottom half.
+Bottom-left: A vertical rectangle with a grid of evenly spaced dots in the top half and a pattern of smaller dots forming a triangle in the bottom half.
+Bottom-right: A vertical rectangle with a grid of evenly spaced dots in the top half and a pattern of smaller dots forming a triangle in the bottom half.
+
+Minimalist black-and-white style."

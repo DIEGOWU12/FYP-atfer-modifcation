@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Dot's position within square is center of square's position within panel' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small square with a smaller square inside it, both centered.
+Top-right: A small square with a dot in the bottom right corner.
+Middle-left: A small square with a dot in the center.
+Middle-right: A small square with a dot in the top left corner.
+Bottom-left: A large square with a dot in the center.
+Bottom-right: A small square with a dot in the center.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Small circles on different arcs' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling two connected loops with small dots at the ends.
+Top-right: A shape resembling a curved line with two small loops and dots at the ends.
+Middle-left: A wavy, elongated shape with multiple small loops and dots along its length.
+Middle-right: A V-shaped form with two small loops and dots extending from the ends.
+Bottom-left: A simple, curved line with a small loop and dot at one end.
+Bottom-right: A shape resembling a crescent with a small loop and dot at the end.
+
+Minimalist black-and-white style."

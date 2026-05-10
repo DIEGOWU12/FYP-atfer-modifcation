@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Compound shape would hit the dot if rotated' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with a vertical line extending upwards from its top.
+Top-right: A diagonal line ending in a circle at the bottom right.
+Middle-left: A small dot above a magnifying glass shape.
+Middle-right: A magnifying glass shape with a small dot below it.
+Bottom-left: A horizontal line ending in a circle at the left.
+Bottom-right: A diagonal line ending in a large circle at the bottom right.
+
+Minimalist black-and-white style."

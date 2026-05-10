@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'non-transitive relations between the red and blue circles' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square divided into four smaller squares, each containing a circle in different colors (blue, red, and gray).
+Top-right: A square divided into four smaller squares, each containing a cluster of circles in various sizes and colors (black, gray, and red).
+Middle-left: A square divided into four smaller squares, each containing a mix of circles and dots in blue, red, and gray.
+Middle-right: A square divided into four smaller squares, each containing a pattern of circles and dots in blue, red, and gray.
+Bottom-left: A square divided into four smaller squares, each containing a combination of circles and lines in blue, red, and gray.
+Bottom-right: A square divided into four smaller squares, each containing a single circle in blue, red, or gray.
+
+Minimalist black-and-white style with colored accents."

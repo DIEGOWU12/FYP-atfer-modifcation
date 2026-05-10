@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'curves only cross themselves (or do not cross at all)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A heart shape with a swirling tail extending from its bottom left.
+Top-right: An infinity symbol with two loops connected at the center.
+Middle-left: A spiral with concentric circles and a small circle at the center.
+Middle-right: A figure-eight shape with overlapping loops forming a continuous line.
+Bottom-left: A spiral with a smaller spiral inside it, accompanied by a small loop near the bottom.
+Bottom-right: A crossed lines pattern resembling an asterisk or a star with intersecting lines.
+
+Minimalist black-and-white style."

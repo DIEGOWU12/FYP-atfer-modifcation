@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Each attribute is shared by every group or none' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical oval with horizontal lines inside, two diamonds below it.
+Top-right: A diamond shape above three pairs of vertical ovals with horizontal lines.
+Middle-left: A small oval above three pairs of vertical ovals with horizontal lines, and three diamonds below.
+Middle-right: Three pairs of vertical ovals with horizontal lines above four diamond shapes.
+Bottom-left: A vertical oval with horizontal lines inside above a small oval and a vertical oval with horizontal lines, and a small oval below.
+Bottom-right: A vertical oval with horizontal lines inside above three vertical ovals with horizontal lines, and two small ovals below.
+
+Minimalist black-and-white style."

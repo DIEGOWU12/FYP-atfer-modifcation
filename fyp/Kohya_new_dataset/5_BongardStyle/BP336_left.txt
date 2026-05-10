@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Any one gear turns all' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of four gears with varying sizes and teeth, arranged in a compact formation.
+Top-right: A group of five gears with different sizes and teeth, forming a scattered pattern.
+Middle-left: A circular arrangement of eight gears with uniform size and teeth, creating a symmetrical design.
+Middle-right: A large gear with a smaller gear attached to its side, both featuring detailed teeth.
+Bottom-left: Two large gears with intricate teeth, positioned closely together.
+Bottom-right: A pair of gears with different sizes and teeth, placed apart from each other.
+
+Minimalist black-and-white style."

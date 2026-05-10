@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Intersection (AND)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two triangles and a star
+Top-right: Three circles with varying shading
+Middle-left: Two overlapping circles with a shaded intersection
+Middle-right: A combination of cubes, squares, and diamonds
+Bottom-left: Two circles with symbols inside
+Bottom-right: Rows of dots and lines
+
+Minimalist black-and-white style."

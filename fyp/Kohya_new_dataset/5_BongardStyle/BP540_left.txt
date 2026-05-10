@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Objects define a map from the top row of boxes to the bottom row of boxes' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of various symbols including a gear, a magnifying glass, and a bar chart.
+Top-right: A set of abstract icons featuring stars, squares, and a zigzag line.
+Middle-left: Two squares, one containing a smaller square pattern.
+Middle-right: A group of geometric shapes including triangles, a circle, and a parallelogram.
+Bottom-left: A pair of squares with intricate patterns inside them.
+Bottom-right: A mix of stars, circles, and a spiral.
+
+Minimalist black-and-white style."

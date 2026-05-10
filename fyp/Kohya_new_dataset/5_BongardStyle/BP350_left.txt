@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Some quantity keeps increasing from left to right' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of five shapes including a dot, dash, circle, triangle, and vertical line.
+Top-right: A series of interconnected geometric shapes forming a complex pattern.
+Middle-left: A bar chart with varying heights of bars, some filled and some outlined.
+Middle-right: A row of abstract symbols resembling stylized letters or icons.
+Bottom-left: A set of four distinct symbols including a diamond, number 8, hourglass, and a circular pattern.
+Bottom-right: A spiral design composed of concentric curves.
+
+Minimalist black-and-white style."

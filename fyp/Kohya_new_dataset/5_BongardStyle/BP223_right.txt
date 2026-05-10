@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'large black region if completed is an ellipse' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large black circle with two smaller white circles near the top left.
+Top-right: A large black circle with two small white squares near the top center.
+Middle-left: A large black circle with three smaller white circles forming a triangle near the top.
+Middle-right: A large black circle with a small white square near the bottom right.
+Bottom-left: A large black circle with two small white squares near the top left and one small white square near the bottom center.
+Bottom-right: A large black circle with two smaller white circles near the bottom center.
+
+Minimalist black-and-white style."

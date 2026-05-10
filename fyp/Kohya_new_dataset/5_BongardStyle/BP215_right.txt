@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Mouth convex upwards' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two diamonds above a curved line
+Top-right: Three dots and two squares above a curved line
+Middle-left: Two squares above a curved line of dots
+Middle-right: Two lines above a curved line
+Bottom-left: Two 'X' marks above a jagged line
+Bottom-right: Two small curves above a curved line
+
+Minimalist black-and-white style."

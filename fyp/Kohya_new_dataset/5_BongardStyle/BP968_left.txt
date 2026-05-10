@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Valid Bongard Problem' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of squares with one square containing a star.
+Top-right: A grid of various shapes including triangles, circles, and diamonds.
+Middle-left: A grid of squares with one square containing a diamond.
+Middle-right: A grid of spirals, circles, and dots.
+Bottom-left: A grid of triangles, circles, and lines.
+Bottom-right: A grid of triangles, circles, and dots.
+
+Minimalist black-and-white style."

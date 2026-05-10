@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'knot' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a figure-eight with a loop on top.
+Top-right: A shape with two interlocking loops forming a knot-like pattern.
+Middle-left: A shape with three interlocking loops forming a triangular knot.
+Middle-right: A shape with two intertwined loops forming a complex knot.
+Bottom-left: A shape with four interlocking loops forming a symmetrical knot.
+Bottom-right: A shape with two intertwined loops forming a simple knot.
+
+Minimalist black-and-white style."

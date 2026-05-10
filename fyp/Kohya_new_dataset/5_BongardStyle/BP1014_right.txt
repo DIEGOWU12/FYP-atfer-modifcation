@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'some other pattern in shape thickness based on position' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Wavy, irregular black and white pattern
+Top-right: Vertical arrangement of squares and dots
+Middle-left: Scattered diamonds of varying sizes
+Middle-right: Bold vertical stripes with alternating black and white
+Bottom-left: Randomly placed circles of different sizes
+Bottom-right: Zigzag line forming a staircase-like pattern
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Number in the Nth box (from the left) is how many numbers appear N times' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle divided into five equal segments, with three filled circles in the first three segments.
+Top-right: A square with a single filled circle centered inside it.
+Middle-left: A horizontal rectangle divided into two equal segments, with one filled circle in the left segment.
+Middle-right: A horizontal rectangle divided into three equal segments, with two filled circles in the first two segments.
+Bottom-left: A horizontal rectangle divided into five equal segments, with one filled circle in the first segment.
+Bottom-right: A horizontal rectangle divided into five equal segments, with two filled circles in the second and fourth segments.
+
+Minimalist black-and-white style."

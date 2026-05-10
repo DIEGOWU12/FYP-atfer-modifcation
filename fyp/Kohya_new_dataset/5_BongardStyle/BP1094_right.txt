@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two triangles pointing towards each other with a star in between
+Top-right: A diamond and two overlapping triangles
+Middle-left: A crescent moon with a small dot above it
+Middle-right: Three circles of varying sizes, with the smallest one partially overlapping the largest
+Bottom-left: A zigzag pattern formed by two parallel lines
+Bottom-right: Two stars side by side
+
+Minimalist black-and-white style."

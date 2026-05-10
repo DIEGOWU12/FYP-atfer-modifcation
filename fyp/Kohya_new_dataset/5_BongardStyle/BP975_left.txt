@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Symmetric' logic.
+"The image shows a 3x2 grid of six panels, each containing a unique arrangement of colored geometric shapes:
+
+Top-left: A panel with a mix of red, blue, and black circles and lines forming abstract patterns.
+Top-right: A panel featuring larger red and blue circles with smaller black dots, creating a dynamic composition.
+Middle-left: A panel with a central black circle surrounded by smaller red and blue circles, set against a white background.
+Middle-right: A panel displaying a variety of red, blue, and black circles of different sizes, arranged in a scattered pattern.
+Bottom-left: A panel with overlapping red and blue circles, some partially filled, creating a layered effect.
+Bottom-right: A panel with a grid of small black circles interspersed with red and blue dots, forming a structured layout.
+
+Colorful minimalist style."

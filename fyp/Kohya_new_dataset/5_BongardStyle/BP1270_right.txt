@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Straight line can separate the two types of figures)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square, a smaller square, a horizontal line, and a triangle.
+Top-right: A circle, two triangles, and a larger circle.
+Middle-left: A pentagon, a circle, a triangle, and a diamond.
+Middle-right: Curved lines and a straight line forming an abstract shape.
+Bottom-left: Dotted lines and dashed lines forming an abstract pattern.
+Bottom-right: A plus sign, a star, and an upward arrow.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not rigid' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pentagon with five vertices connected by straight lines.
+Top-right: A bowtie shape formed by two overlapping triangles sharing a common vertex.
+Middle-left: A 4x4 grid of points arranged in a square pattern, with each point connected to its adjacent points.
+Middle-right: A star-like pattern with multiple points radiating outward from a central point, connected by lines.
+Bottom-left: A complex network of interconnected points forming a web-like structure.
+Bottom-right: A cube-like structure with eight vertices and twelve edges, resembling a three-dimensional cube.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Ghost triangle' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A black square with a white triangular cutout pointing to the right.
+Top-right: Three black semicircles arranged in a triangular formation, pointing downwards.
+Middle-left: A chaotic cluster of intersecting black lines forming an abstract pattern.
+Middle-right: Two overlapping black and gray ovals, with a white triangular cutout pointing to the right.
+Bottom-left: A large, irregular black shape resembling a triangle with a textured, stippled fill.
+Bottom-right: A black and white geometric design featuring a large white triangle on a black background with a dotted texture.
+
+Minimalist black-and-white style.

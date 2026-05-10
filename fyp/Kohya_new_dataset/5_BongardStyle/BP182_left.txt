@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Concave if proximal border points are connected' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circular shape composed of dots forming a partial spiral
+Top-right: A rectangular grid of dots arranged in a 5x5 pattern
+Middle-left: A V-shaped arrangement of dots pointing downwards
+Middle-right: An angular, arrow-like shape pointing upwards and to the right
+Bottom-left: A curved line of dots resembling a diagonal stroke
+Bottom-right: A square outline with a smaller square inside, both formed by dots
+
+Minimalist black-and-white style."

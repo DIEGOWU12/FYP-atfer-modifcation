@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'If any non-nosed faces exist, they are happy if and only if happy nosed faces exist as well' logic.
+The image shows a 3x2 grid of six smiley face icons:
+
+Top-left: Three small smiley faces with simple eyes and mouths.
+Top-right: Four small smiley faces with varying expressions, including one with a winking eye.
+Middle-left: Two small smiley faces, one with a simple mouth and the other with a more detailed expression.
+Middle-right: Three small smiley faces with different expressions, including one with a wide smile.
+Bottom-left: Six small smiley faces arranged in two rows, all with simple expressions.
+Bottom-right: Two small smiley faces, one with a simple mouth and the other with a more detailed expression.
+
+Minimalist black-and-white style.

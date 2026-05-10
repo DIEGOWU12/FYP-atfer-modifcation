@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'there exists no such loop' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 4x4 grid with a single black square in the top-left corner.
+Top-right: A 3x3 grid with a single black square in the center.
+Middle-left: A 3x3 grid with a single black square in the bottom-left corner.
+Middle-right: A 5x5 grid with a single black square in the center.
+Bottom-left: A 6x6 grid with a single black square in the bottom-left corner.
+Bottom-right: A 2x2 grid with a single black square in the bottom-right corner.
+
+Minimalist black-and-white style."

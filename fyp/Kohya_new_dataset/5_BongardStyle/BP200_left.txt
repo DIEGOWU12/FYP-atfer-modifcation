@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Bongard Problem with solution based on features' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle, square, and triangle
+Top-right: A horizontal line, diagonal line, and parallel lines
+Middle-left: A vertical line, wavy line, and zigzag line
+Middle-right: A pentagon, hexagon, and octagon with small dots
+Bottom-left: Various patterns including solid, crosshatch, and striped
+Bottom-right: An oval, square, circle, diamond, and triangle
+
+Minimalist black-and-white style."

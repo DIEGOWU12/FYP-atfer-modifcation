@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Solution for this problem ( BP545 ) in English text' logic.
+"The image shows a 3x2 grid of six text-based comparisons:
+
+Top-left: [Text comparison description]
+Top-right: [Text comparison description]
+Middle-left: [Text comparison description]
+Middle-right: [Text comparison description]
+Bottom-left: [Text comparison description]
+Bottom-right: [Text comparison description]
+
+Minimalist black-and-white style."

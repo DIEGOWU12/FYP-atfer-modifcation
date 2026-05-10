@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'border of black rectangle is complete' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle with a small, abstract white shape on its left side.
+Top-right: A horizontal rectangle with a small, abstract white shape on its right side.
+Middle-left: A solid black horizontal rectangle.
+Middle-right: A horizontal rectangle with a small, abstract white shape on its right side.
+Bottom-left: A horizontal rectangle with a small, abstract white shape on its left side.
+Bottom-right: A solid black horizontal rectangle.
+
+Minimalist black-and-white style."

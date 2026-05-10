@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Angle bisectors meet at the incenter' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangular pyramid with a triangular base and three triangular faces.
+Top-right: A triangular prism with two triangular bases and three rectangular faces.
+Middle-left: A triangular pyramid with a triangular base and three triangular faces, viewed from a different angle.
+Middle-right: A triangular prism with two triangular bases and three rectangular faces, viewed from a different angle.
+Bottom-left: A triangular pyramid with a triangular base and three triangular faces, viewed from another angle.
+Bottom-right: A triangular pyramid with a triangular base and three triangular faces, viewed from yet another angle.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The long axes of the ellipse and rectangle are perpendicular' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of an oval, a triangle, and a parallelogram.
+Top-right: A group consisting of an ellipse, a triangle, and a rectangle.
+Middle-left: An arrangement featuring a rectangle, an oval, and a triangle.
+Middle-right: A set including a small circle, a triangle, and a rectangle.
+Bottom-left: A configuration with a rectangle, a triangle, and a small circle.
+Bottom-right: A mix of a rectangle, a triangle, and an ellipse.
+
+Minimalist black-and-white style."

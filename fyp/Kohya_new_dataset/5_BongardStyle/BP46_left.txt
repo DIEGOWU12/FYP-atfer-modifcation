@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Triangle on top of the circle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A black circle with a white triangle inside it
+Top-right: A white triangle with a black outline and a small black circle to the right
+Middle-left: A black circle with a white triangle inside it
+Middle-right: A white circle with a black sector inside it
+Bottom-left: A black triangle with a white circle around it
+Bottom-right: A white triangle with a black outline and a small white circle to the right
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'no cars' logic.
+"The image shows a 3x2 grid of six outdoor scenes:
+
+Top-left: A close-up view of green foliage with a blurred background.
+Top-right: A rooftop with a chimney, under a clear sky.
+Middle-left: A paved road with white crosswalk markings.
+Middle-right: A curved road with a pedestrian crossing and a small roundabout.
+Bottom-left: A railway track with trees in the background.
+Bottom-right: A traffic light at an intersection with a red building nearby.
+
+Realistic color style."

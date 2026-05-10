@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Counterclockwise along the curve following the arrow' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with a curved arrow pointing clockwise along its circumference.
+Top-right: A wavy, irregular shape resembling a stylized letter 'S' or a squiggly line.
+Middle-left: A serpentine, S-shaped curve with a smooth, flowing form.
+Middle-right: A square with a downward-pointing arrow inside it.
+Bottom-left: A complex, abstract shape with multiple loops and curves, resembling a tangled string.
+Bottom-right: A triangle with a rightward-pointing arrow along its base.
+
+Minimalist black-and-white style."

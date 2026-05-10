@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the chain branches' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of dots forming a curved, upward-sweeping line.
+Top-right: A series of dots forming a zigzag pattern.
+Middle-left: A series of dots forming a diagonal line with a slight curve.
+Middle-right: A series of dots forming a circular shape with a few scattered dots around it.
+Bottom-left: A series of dots forming an 'X' shape.
+Bottom-right: A series of dots forming a wavy line with a small crown-like shape at the top.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shapes become thicker the farther they are from the top-left and bottom-right corners of bounding box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Diagonal stripes forming a rectangular pattern
+Top-right: A square frame composed of progressively smaller circles
+Middle-left: A cluster of circles of varying sizes, with one large central circle
+Middle-right: A dynamic arrangement of squares and triangles pointing in different directions
+Bottom-left: Two stars of different sizes, one larger and one smaller
+Bottom-right: A small square above a larger rectangle
+
+Minimalist black-and-white style."

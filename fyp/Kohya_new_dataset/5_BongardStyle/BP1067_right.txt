@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(There is an infinite one-one-one-one-... chain present)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single square.
+Top-right: Two nested squares with a smaller square inside each.
+Middle-left: A grid of 16 smaller squares arranged in a 4x4 pattern.
+Middle-right: A series of concentric squares with a small rectangle inside the innermost square.
+Bottom-left: Two squares side by side, each containing a smaller square inside.
+Bottom-right: A series of concentric squares with a small rectangle inside the innermost square.
+
+Minimalist black-and-white style."

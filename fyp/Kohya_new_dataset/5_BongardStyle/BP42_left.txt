@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Points inside the figure outline are on a straight line' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An irregular, amoeba-like shape with five dots inside.
+Top-right: A rectangle with rounded corners and four dots inside.
+Middle-left: A teardrop-shaped figure with three dots inside.
+Middle-right: A triangle with three dots inside.
+Bottom-left: An oval shape with four dots inside.
+Bottom-right: A parallelogram with three dots inside.
+
+Minimalist black-and-white style."

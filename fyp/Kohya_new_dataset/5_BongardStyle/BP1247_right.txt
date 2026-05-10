@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'such a path exists' logic.
+"The image shows a 3x2 grid of six gray geometric shapes:
+
+Top-left: A circle with a diagonal cross inside
+Top-right: A hexagon with curved lines intersecting
+Middle-left: A rectangle with a diagonal line across
+Middle-right: A parallelogram with intersecting lines
+Bottom-left: A triangle with a small dot inside
+Bottom-right: A shape resembling an asterisk with intersecting lines
+
+Minimalist gray-and-white style."

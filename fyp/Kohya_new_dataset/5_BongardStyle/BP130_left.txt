@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Closed region is made of curves if flaws are ignored' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A crescent moon with two small circles above it
+Top-right: A shape resembling a comma with a small tail on the right side
+Middle-left: A four-pointed star-like shape with curved lines
+Middle-right: A crescent moon with a small dot inside it
+Bottom-left: A partial crescent moon with a small circle below it
+Bottom-right: A shape resembling a comma with a small tail on the bottom right
+
+Minimalist black-and-white style."

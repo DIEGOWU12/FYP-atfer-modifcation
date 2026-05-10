@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Same curvature close to the middle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling two overlapping ovals with curved lines inside.
+Top-right: A shape with a spiral at the top and wavy lines below.
+Middle-left: A shape with a large spiral and smaller spirals inside.
+Middle-right: A shape with a small spiral and a curved line below.
+Bottom-left: A shape with a large spiral and a smaller spiral inside.
+Bottom-right: A shape with a large spiral and wavy lines below.
+
+Minimalist black-and-white style."

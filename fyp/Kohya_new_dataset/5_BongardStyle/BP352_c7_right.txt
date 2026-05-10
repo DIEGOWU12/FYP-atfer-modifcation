@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'increasing quantity has lower bound' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside, surrounded by a series of five dots forming a curved line.
+Top-right: A horizontal line composed of ten dashes.
+Middle-left: A diagonal row of five hexagons decreasing in size from top-left to bottom-right.
+Middle-right: A series of vertical lines of varying lengths, each topped with a small circle.
+Bottom-left: A sequence of four rectangles decreasing in size from left to right.
+Bottom-right: A diagonal row of five parallelograms decreasing in size from top-left to bottom-right.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Wedged endings' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'F' with an extended horizontal line.
+Top-right: A shape resembling a stylized letter 'E' with a horizontal line extending to the right.
+Middle-left: A shape resembling a stylized letter 'L' with a vertical line extending upwards.
+Middle-right: A shape resembling a stylized letter 'G' with a curved bottom and a horizontal line extending to the right.
+Bottom-left: A shape resembling a stylized letter 'O' with a small protrusion on the left side.
+Bottom-right: A shape resembling a stylized letter 'T' with a horizontal line extending to the right.
+
+Minimalist black-and-white style."

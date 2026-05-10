@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Dots touch each other if and only if no large region touches the edges of the box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of irregular, abstract shapes resembling a splash or explosion.
+Top-right: Two overlapping ovals with smaller dots above them.
+Middle-left: An eye-like shape with a curved line and two small circles inside.
+Middle-right: A large semicircle with smaller dots scattered around it.
+Bottom-left: A group of irregular, cloud-like shapes with smaller dots nearby.
+Bottom-right: A vertical rectangle with a smaller square and dots next to it.
+
+Minimalist black-and-white style."

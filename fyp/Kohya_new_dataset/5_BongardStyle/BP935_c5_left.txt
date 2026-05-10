@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shapes have equal area' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A T-shaped figure composed of two rectangles
+Top-right: A diamond shape next to a parallelogram
+Middle-left: A vertical rectangle next to a diamond
+Middle-right: A circle next to a ring-like shape with a small protrusion
+Bottom-left: A square next to a silhouette resembling a bat
+Bottom-right: A plus sign next to an L-shaped figure
+
+Minimalist black-and-white style."

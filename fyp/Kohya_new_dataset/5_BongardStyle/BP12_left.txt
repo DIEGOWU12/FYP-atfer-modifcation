@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Thin elongated convex hull' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A slanted triangle
+Top-right: An elongated oval
+Middle-left: A vertical line segment
+Middle-right: A wavy curved line
+Bottom-left: A short vertical rectangle
+Bottom-right: A zigzag line
+
+Minimalist black-and-white style."

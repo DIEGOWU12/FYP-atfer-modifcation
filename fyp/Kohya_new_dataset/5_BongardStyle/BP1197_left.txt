@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No sequence is repeated twice in a row' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three overlapping circles with varying shades of gray
+Top-right: A horizontal row of ten small, solid black circles
+Middle-left: Four overlapping circles with varying shades of gray
+Middle-right: Two overlapping ellipses with varying shades of gray
+Bottom-left: A horizontal row of eight small, solid black circles
+Bottom-right: Three overlapping circles with varying shades of gray
+
+Minimalist black-and-white style."

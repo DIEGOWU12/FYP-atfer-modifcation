@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Fractals contain one another' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside, rotated 45 degrees, and a cross pattern in the center.
+Top-right: A square divided into four smaller squares, with three black squares forming an L-shape and one white square.
+Middle-left: A plus sign with four arms extending outward, each arm ending in a small square.
+Middle-right: A square composed of smaller squares arranged in a grid pattern, with a cross in the center.
+Bottom-left: Two triangles pointing upwards, placed side by side.
+Bottom-right: A square with a smaller square inside, rotated 45 degrees, and a cross pattern in the center.
+
+Minimalist black-and-white style."

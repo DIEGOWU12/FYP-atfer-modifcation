@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'all small individual figures' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line
+Top-right: A wavy line
+Middle-left: A circle with a triangle above it and a triangle below it, with a small dot to the right
+Middle-right: A single triangle
+Bottom-left: An 'X' shape
+Bottom-right: The word 'goes' written in cursive
+
+Minimalist black-and-white style."

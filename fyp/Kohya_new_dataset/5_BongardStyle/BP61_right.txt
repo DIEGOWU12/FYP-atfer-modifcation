@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'a line does not separate the crosses in half' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two plus signs flanking a diagonal line
+Top-right: Three plus signs forming a horizontal line with one below
+Middle-left: A vertical line with plus signs above, below, and to the right
+Middle-right: A diagonal line with plus signs above, below, and to the right
+Bottom-left: A diagonal line with plus signs above, below, and to the left
+Bottom-right: A diagonal line with plus signs above, below, and to the left
+
+Minimalist black-and-white style."

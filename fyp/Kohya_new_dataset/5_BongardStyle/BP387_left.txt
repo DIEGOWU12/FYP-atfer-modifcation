@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Dots can be shared equally between figures' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical rectangle with a small dot above it and two smaller shapes to the right.
+Top-right: Two vertical rectangles with a small dot above them and a larger dot to the left.
+Middle-left: A vertical rectangle with a small dot above it, a larger dot to the right, and a small dot below.
+Middle-right: A vertical rectangle with a small dot above it and a larger dot below.
+Bottom-left: Two vertical rectangles with a small dot above them, a larger dot to the right, and a small dot below.
+Bottom-right: Three vertical rectangles with a small dot above them and a larger dot below.
+
+Minimalist black-and-white style."

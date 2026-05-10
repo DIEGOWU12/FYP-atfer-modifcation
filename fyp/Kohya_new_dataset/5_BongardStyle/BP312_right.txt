@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'lines intersect out of the box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two diagonal lines intersecting at an angle
+Top-right: A horizontal line and a diagonal line forming an acute angle
+Middle-left: Two vertical lines parallel to each other
+Middle-right: A diagonal line and a short horizontal line forming an obtuse angle
+Bottom-left: Two diagonal lines intersecting at an angle
+Bottom-right: Three diagonal lines forming a triangular shape
+
+Minimalist black-and-white style."

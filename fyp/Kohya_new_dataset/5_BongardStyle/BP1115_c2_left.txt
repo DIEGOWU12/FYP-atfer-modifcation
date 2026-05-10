@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Fractals tile one another' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cross with four arms extending outward, each arm ending in a small square.
+Top-right: A cross with four arms, each arm ending in a small circle.
+Middle-left: A cross with four arms, each arm ending in a small diamond.
+Middle-right: A cross with four arms, each arm ending in a small plus sign.
+Bottom-left: A series of vertical lines forming a stepped pattern.
+Bottom-right: A series of diagonal lines forming a stepped pattern.
+
+Minimalist black-and-white style."

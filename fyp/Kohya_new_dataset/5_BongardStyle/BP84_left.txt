@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'A quadrangle is outside of a figure made by circles' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circular arrangement of small dots forming a larger circle with a square at its center.
+Top-right: A triangular arrangement of small dots forming a larger triangle with a square at its base.
+Middle-left: A square arrangement of small dots forming a larger square with a smaller square at its center.
+Middle-right: A circular arrangement of small dots forming a larger circle with a square at its center.
+Bottom-left: A circular arrangement of small dots forming a larger circle with a square at its bottom left.
+Bottom-right: A rectangular arrangement of small dots forming a larger rectangle with a square at its top left.
+
+Minimalist black-and-white style."

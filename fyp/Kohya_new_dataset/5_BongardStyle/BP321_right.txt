@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'small round object reachable from the border of the box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a small white circle near the center.
+Top-right: A spiral pattern with a small white circle at the center.
+Middle-left: A white square with a small black circle in the top-left corner.
+Middle-right: A four-petal flower-like shape with a small white circle at the center.
+Bottom-left: Concentric circles with a small white circle near the center.
+Bottom-right: An irregular, abstract shape with a small white circle inside.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Angle of incidence equals angle of reflection' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A parallelogram with a diagonal line extending from its top left corner to the bottom right.
+Top-right: A zigzag line forming an angular shape.
+Middle-left: A trapezoid with a slanted top and bottom.
+Middle-right: A vertical line with two shorter lines branching off at angles.
+Bottom-left: A parallelogram tilted to the right.
+Bottom-right: A V-shape with a straight base.
+
+Minimalist black-and-white style."

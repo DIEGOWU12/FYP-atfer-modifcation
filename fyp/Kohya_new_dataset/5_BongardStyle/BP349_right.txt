@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'all objects form one pattern' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Triangles of varying sizes and orientations
+Top-right: Triangles with some filled in solid black and others outlined
+Middle-left: Triangles and a single hexagon, all outlined
+Middle-right: Hexagons of various sizes, some filled in solid black and others outlined
+Bottom-left: Triangles with a mix of solid black and outlined styles
+Bottom-right: Hexagons with a mix of solid black and outlined styles
+
+Minimalist black-and-white style."

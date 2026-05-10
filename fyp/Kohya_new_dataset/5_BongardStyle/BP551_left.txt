@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Unstable balance' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle above a circle
+Top-right: A large triangle with a smaller triangle inside it
+Middle-left: A square with a diamond on top
+Middle-right: A horizontal rectangle above three circles stacked vertically
+Bottom-left: A pentagon
+Bottom-right: A square above a triangle
+
+Minimalist black-and-white style."

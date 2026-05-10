@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Every other side, if extended, passes through one point)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A five-pointed star-like shape with irregular angles
+Top-right: A hexagon with one side extended outward, creating a unique angular form
+Middle-left: A four-sided irregular polygon with rounded edges
+Middle-right: A square with each corner extending outward into sharp points
+Bottom-left: A four-sided irregular polygon with one side extending outward
+Bottom-right: A shape resembling a rounded triangle with an extended point
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Smaller section tiles the grid)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pattern of alternating circles and triangles with the sequence Ø △ Ø △
+Top-right: A series of cloud-like shapes arranged in two rows, with the top row containing three shapes and the bottom row containing four.
+Middle-left: A grid of small circles and triangles arranged in a 4x4 pattern, with alternating rows of circles and triangles.
+Middle-right: A collection of abstract shapes including diamonds and curves, arranged in two rows with varying numbers of shapes in each row.
+Bottom-left: A pattern of 'X' shapes and circles arranged in a 5x5 grid, with alternating rows of 'X's and circles.
+Bottom-right: A series of pie charts and circles, with the top row containing three pie charts and the bottom row containing three circles.
+
+Minimalist black-and-white style."

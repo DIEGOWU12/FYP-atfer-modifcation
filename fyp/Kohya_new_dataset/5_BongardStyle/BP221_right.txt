@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'curve ends at a small square' logic.
+"The image shows a 3x2 grid of six black handwritten symbols:
+
+Top-left: A symbol resembling the number '2'
+Top-right: A symbol resembling the number '1'
+Middle-left: A symbol resembling the letter 'O'
+Middle-right: A symbol resembling the letter 'X'
+Bottom-left: A symbol resembling the letter 'N'
+Bottom-right: A symbol resembling the letter 'L'
+
+Minimalist black-and-white style."

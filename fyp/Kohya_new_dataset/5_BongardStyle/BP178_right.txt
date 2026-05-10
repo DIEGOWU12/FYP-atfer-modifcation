@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Center of circle in triangle perpendicular to the other two)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a smaller triangle and a circle inside it
+Top-right: A circle containing three triangles
+Middle-left: A large triangle with a small circle and a small triangle below it
+Middle-right: A large triangle with a smaller triangle and a small cone-like shape inside it
+Bottom-left: A circle with a triangle and a small triangle below it
+Bottom-right: A circle with a triangle and a small triangle inside it
+
+Minimalist black-and-white style."

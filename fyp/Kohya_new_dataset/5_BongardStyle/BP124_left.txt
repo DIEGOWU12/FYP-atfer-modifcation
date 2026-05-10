@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Similar textures' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a small dot to its right
+Top-right: An L-shaped figure composed of two rectangles
+Middle-left: Two triangles pointing towards each other
+Middle-right: A curved line resembling a hook next to a circle
+Bottom-left: A shape resembling a teardrop or an inverted cone
+Bottom-right: A circle intersected by a diagonal line
+
+Minimalist black-and-white style."

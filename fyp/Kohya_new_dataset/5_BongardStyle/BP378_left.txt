@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The two objects are conceptually related' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A regular pentagon
+Top-right: A dodecahedron with a smaller dodecahedron inside
+Middle-left: A wavy line above a circle
+Middle-right: A spiral above a square divided into smaller squares
+Bottom-left: A cluster of small dots above a sphere
+Bottom-right: A diamond shape above a hexagonal prism
+
+Minimalist black-and-white style."

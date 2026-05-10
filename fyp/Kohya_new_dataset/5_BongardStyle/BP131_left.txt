@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Dots are vertices of a parallelogram' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tilted square with a dot inside and three dots around it
+Top-right: A triangle with a dot inside and two dots around it
+Middle-left: A circle with a dot inside and two dots around it
+Middle-right: A rectangle with a dot inside and two dots around it
+Bottom-left: A triangle with a dot inside and three dots around it
+Bottom-right: A triangle with a dot inside and two dots around it
+
+Minimalist black-and-white style."

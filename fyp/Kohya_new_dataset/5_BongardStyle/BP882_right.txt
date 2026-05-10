@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'vaguely negative' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large, bold 'X' symbol
+Top-right: A square with a horizontal line through its center
+Middle-left: A simple sad face with two dots for eyes and a curved line for a mouth
+Middle-right: A skull and crossbones with a biohazard symbol below it
+Bottom-left: A circular radiation hazard symbol with three arcs
+Bottom-right: A theatrical mask with a sad expression
+
+Minimalist black-and-white style."

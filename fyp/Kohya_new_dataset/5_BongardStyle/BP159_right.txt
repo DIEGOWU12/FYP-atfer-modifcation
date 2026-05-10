@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle above a diagonal line intersecting a smaller circle below.
+Top-right: A circle above a diagonal line intersecting a larger circle below.
+Middle-left: The word 'context' above a diagonal line, with 'matters' below it.
+Middle-right: A series of shapes including an oval, a rectangle, and a diagonal line within a larger rectangle.
+Bottom-left: An oval containing three diagonal lines.
+Bottom-right: A series of overlapping rectangles and diagonal lines.
+
+Minimalist black-and-white style."

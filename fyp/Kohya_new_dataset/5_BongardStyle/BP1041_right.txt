@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'right infinite' logic.
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A square divided into three rows, with the top and bottom rows containing a single dot each and the middle row containing three dots arranged in a horizontal line.
+Top-right: A square divided into four rows, with the top and bottom rows containing a single dot each and the middle two rows containing two dots each, arranged horizontally.
+Middle-left: A square divided into four rows, with the top and bottom rows containing a single dot each and the middle two rows containing three dots each, arranged horizontally.
+Middle-right: A square divided into four rows, with the top and bottom rows containing a single dot each and the middle two rows containing four dots each, arranged horizontally.
+Bottom-left: A square divided into three rows, with the top and bottom rows containing a single dot each and the middle row containing three dots arranged in a vertical line.
+Bottom-right: A square divided into four rows, with the top and bottom rows containing a single dot each and the middle two rows containing four dots each, arranged vertically.
+
+Minimalist black-and-white style."

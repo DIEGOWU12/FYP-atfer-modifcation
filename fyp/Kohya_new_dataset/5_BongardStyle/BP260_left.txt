@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Squares are either all empty or all contain something' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square containing a smaller triangle and a small square.
+Top-right: Two overlapping squares, one with a diagonal line and the other with a triangle.
+Middle-left: Four small squares arranged in a 2x2 grid.
+Middle-right: A larger square with a smaller square inside it, containing a dot and a diagonal line.
+Bottom-left: A large square with four small squares around it.
+Bottom-right: A large square with a small square at the bottom right corner.
+
+Minimalist black-and-white style."

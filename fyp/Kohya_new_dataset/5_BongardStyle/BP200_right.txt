@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Bongard Problem with solution based on number' logic.
+"The image shows a 3x2 grid of six sets of black geometric shapes:
+
+Top-left: A vertical line separates four triangles of varying sizes and orientations.
+Top-right: A vertical line separates five distinct symbols, including a flower-like shape, a star, a cross, a square with a dot, and a star.
+Middle-left: A vertical line separates two groups of small dots arranged in patterns.
+Middle-right: A vertical line separates five different symbols, including two zeros, a triangle, a square, and a spiral.
+Bottom-left: A vertical line separates three pairs of arrows pointing in various directions.
+Bottom-right: A vertical line separates five Greek letters: Psi, H, Chi, Sigma, and Phi.
+
+Minimalist black-and-white style."

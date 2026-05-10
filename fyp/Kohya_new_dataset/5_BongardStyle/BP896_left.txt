@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Filled completely by fluid poured into gap (assuming there is already air)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy vertical line
+Top-right: A five-pointed star
+Middle-left: A circle containing three dots, an 'I', a 'V', and a 'J'
+Middle-right: An inverted trapezoid
+Bottom-left: A plus sign
+Bottom-right: A diamond shape with two smaller circles on opposite sides
+
+Minimalist black-and-white style."

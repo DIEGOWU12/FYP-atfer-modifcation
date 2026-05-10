@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The centers (barycenters) of the objects are collinear' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line with two small squares above it
+Top-right: A horizontal line with a small square on each end
+Middle-left: A horizontal line with a small square on the left end and another small square below it
+Middle-right: A horizontal line with a small square on the left end and another small square above it
+Bottom-left: A vertical line with a small square above it
+Bottom-right: A horizontal line with a small square below it
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Loops are entangled (in 3-D)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two interlocking loops forming a figure-eight pattern.
+Top-right: Three interlocking loops creating a complex knot-like design.
+Middle-left: A single loop with a smaller loop intertwined within it.
+Middle-right: A series of interconnected loops forming an intricate, swirling pattern.
+Bottom-left: Four interlocking loops arranged in a symmetrical, cross-like formation.
+Bottom-right: A circular arrangement of interlocking loops with a central knot.
+
+Minimalist black-and-white style."

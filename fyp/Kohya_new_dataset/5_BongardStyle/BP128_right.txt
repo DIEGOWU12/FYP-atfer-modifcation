@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not same objects inside and outside the large shape' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A T-shaped figure with two small circles below it.
+Top-right: An elongated oval shape with a smaller circle inside and two small circles to the right.
+Middle-left: A pentagon with a circle inside and a small dot above it.
+Middle-right: Two overlapping circles, one filled black and the other outlined, with a small circle near the filled one.
+Bottom-left: A rectangular shape with a small circle inside and a small dot above it.
+Bottom-right: Three concentric circles with a small dot above them.
+
+Minimalist black-and-white style."

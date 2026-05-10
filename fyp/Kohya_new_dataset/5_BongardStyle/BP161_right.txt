@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'midpoints are not collinear' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape with two intersecting lines forming an 'X' and a short horizontal line below.
+Top-right: A shape with two parallel diagonal lines and a short horizontal line above.
+Middle-left: A shape with two vertical lines and a short horizontal line between them.
+Middle-right: A shape with three intersecting diagonal lines.
+Bottom-left: A shape with three horizontal lines of varying lengths.
+Bottom-right: A shape with a vertical line and a diagonal line crossing it.
+
+Minimalist black-and-white style."

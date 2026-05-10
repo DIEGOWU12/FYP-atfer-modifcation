@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Solid dark quadrangles are identical' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square, a triangle, and another square
+Top-right: A square, a smaller square, and another square
+Middle-left: A small square, a larger square, and a triangle
+Middle-right: A triangle, a small square, and another square
+Bottom-left: A small square, a triangle, and two squares
+Bottom-right: Two squares, a square, and a triangle
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Large black dot on the main branch' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a small tree with three curved branches extending from a central point.
+Top-right: A shape resembling a small tree with two curved branches extending from a central point.
+Middle-left: A shape resembling a small tree with three curved branches extending from a central point, with the middle branch slightly longer.
+Middle-right: A shape resembling a small tree with two straight branches extending from a central point.
+Bottom-left: A shape resembling a small tree with three curved branches extending from a central point, with the middle branch slightly shorter.
+Bottom-right: A shape resembling a small tree with three curved branches extending from a central point, with the middle branch slightly longer.
+
+Minimalist black-and-white style."

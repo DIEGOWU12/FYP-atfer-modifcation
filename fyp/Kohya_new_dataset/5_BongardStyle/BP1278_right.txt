@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'there exists no such way of dividing the grid' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three wavy lines of varying lengths and orientations
+Top-right: A 4x4 grid of small, intricate patterns featuring abstract designs and symbols
+Middle-left: Two pairs of symbols, each pair consisting of a circle with a line through it, two zeros, and a triangle
+Middle-right: A 4x4 grid of alternating circles and triangles, with some circles containing additional lines
+Bottom-left: Repeated Chinese characters "美" arranged in a grid pattern
+Bottom-right: A 3x3 grid of pie chart-like shapes with varying filled sections
+
+Minimalist black-and-white style."

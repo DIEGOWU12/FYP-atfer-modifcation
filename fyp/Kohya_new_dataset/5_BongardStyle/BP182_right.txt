@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'convex if proximal border points are connected' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circular arrangement of dots forming a dense, rounded pattern.
+Top-right: An inverted triangle composed of evenly spaced dots.
+Middle-left: A rectangular grid of dots arranged in a uniform, compact pattern.
+Middle-right: A diagonal line of dots slanting from the top left to the bottom right.
+Bottom-left: An elongated oval shape with dots densely packed along its curved edges.
+Bottom-right: A circular outline made of evenly spaced dots.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Complete finite collection' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Tetrominoes arranged in a pattern with various configurations
+Top-right: A complex arrangement of tetrominoes forming a larger, intricate design
+Middle-left: Circles and ovals organized in a structured, symmetrical layout
+Middle-right: Circles and ovals in a more scattered, less symmetrical arrangement
+Bottom-left: Three-dimensional geometric shapes including a cube, a tetrahedron, and a dodecahedron
+Bottom-right: A network of interconnected dots and lines forming a molecular or atomic structure
+
+Minimalist black-and-white style."

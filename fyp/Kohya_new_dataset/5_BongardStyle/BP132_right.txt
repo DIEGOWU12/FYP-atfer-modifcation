@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'dots are vertices of a triangle standing on a vertex' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with two small dots above and to the left of it
+Top-right: Two small dots above and to the left, and a circle below and to the right
+Middle-left: A large circle with three small dots inside it
+Middle-right: Three small dots above and to the left, and a circle below and to the right
+Bottom-left: A large circle with two small dots inside it and one small dot outside to the left
+Bottom-right: Three small dots arranged in a triangle
+
+Minimalist black-and-white style."

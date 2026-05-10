@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Fractal topologically closed (each white point has a neighborhood of pure white surrounding it)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square filled with a complex, repeating pattern of smaller squares and dots.
+Top-right: A large triangle composed of three smaller triangles, each containing a similar triangular pattern.
+Middle-left: A rectangular area with a dense, intricate pattern of small, interconnected shapes.
+Middle-right: A circular arrangement of snowflake-like patterns radiating outward from the center.
+Bottom-left: A cluster of star-like shapes with multiple points extending outward.
+Bottom-right: Three vertical lines evenly spaced apart.
+
+Minimalist black-and-white style."

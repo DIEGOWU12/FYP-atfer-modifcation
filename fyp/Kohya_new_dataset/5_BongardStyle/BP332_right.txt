@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'drawing of opaque solid' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangular prism
+Top-right: A cylinder
+Middle-left: A tetrahedron
+Middle-right: A dodecahedron
+Bottom-left: A cube
+Bottom-right: A pyramid
+
+Minimalist black-and-white style."

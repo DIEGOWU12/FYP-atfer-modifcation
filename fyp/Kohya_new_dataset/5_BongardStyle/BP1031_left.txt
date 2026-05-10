@@ -1,0 +1,18 @@
+"The image shows a 3x4 grid of twelve black geometric shapes:
+
+Top-left: A square with a single dot in the center.
+Top-second: A square with five dots arranged in a cross pattern.
+Top-third: A square with six dots arranged in two rows of three.
+Top-right: A square with a single dot in the center.
+
+Middle-left: A square with a single dot in the center.
+Middle-second: A square with four dots arranged in a 2x2 grid.
+Middle-third: A square with nine dots arranged in a 3x3 grid.
+Middle-right: A square with six dots arranged in two rows of three.
+
+Bottom-left: A square with four dots arranged in a 2x2 grid.
+Bottom-second: A square with six dots arranged in two rows of three.
+Bottom-third: A square with nine dots arranged in a 3x3 grid.
+Bottom-right: A square with sixteen dots arranged in a 4x4 grid.
+
+Minimalist black-and-white style."

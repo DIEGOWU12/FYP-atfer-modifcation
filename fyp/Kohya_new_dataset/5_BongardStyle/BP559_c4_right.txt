@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not cross section of a cube' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Trapezoid
+Top-right: Circle
+Middle-left: Rectangle with a folded corner
+Middle-right: Parallelogram
+Bottom-left: Hexagon
+Bottom-right: Arrow pointing upwards
+
+Minimalist black-and-white style."

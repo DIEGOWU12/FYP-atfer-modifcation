@@ -1,0 +1,10 @@
+"The image shows a 5x2 grid of ten black geometric patterns:
+
+Top-left: A pattern of five dots arranged in a diamond shape.
+Top-right: A pattern of six dots arranged in two rows of three.
+Middle-left: A pattern of seven dots forming a triangle with a dot in the center.
+Middle-right: A pattern of eight dots arranged in a square with a dot in the center.
+Bottom-left: A pattern of nine dots arranged in a 3x3 grid.
+Bottom-right: A pattern of ten dots arranged in two rows of five.
+
+Minimalist black-and-white style."

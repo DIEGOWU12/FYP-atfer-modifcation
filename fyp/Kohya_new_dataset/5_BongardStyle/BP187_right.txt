@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'sides of parts are one less than sides of whole' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Triangles pointing in various directions
+Top-right: Squares and diamonds arranged in a scattered pattern
+Middle-left: Triangles pointing upwards and downwards
+Middle-right: Triangles pointing in various directions
+Bottom-left: Hexagons and squares arranged in a circular pattern
+Bottom-right: Squares and diamonds arranged in a circular pattern
+
+Minimalist black-and-white style."

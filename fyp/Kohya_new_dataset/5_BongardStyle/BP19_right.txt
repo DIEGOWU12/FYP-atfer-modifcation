@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'vertical pinch' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a lowercase 'g' with a small loop at the top.
+Top-right: A shape that looks like a stylized letter 'S' with a horizontal line extending from its bottom.
+Middle-left: A shape similar to a lowercase 'n' with a curved tail.
+Middle-right: A shape resembling a lowercase 'u' with a horizontal line extending from its bottom.
+Bottom-left: A shape that looks like a lowercase 'q' with a small loop at the top.
+Bottom-right: A shape resembling a stylized tree or plant with a rounded base and branching top.
+
+Minimalist black-and-white style."

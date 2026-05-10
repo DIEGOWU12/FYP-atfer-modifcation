@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(The number of dots in one cluster is a multiple of the other)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single dot
+Top-right: Four dots arranged in a square
+Middle-left: Three dots forming a triangle
+Middle-right: Five dots arranged in a cross shape
+Bottom-left: Six dots arranged in a hexagon
+Bottom-right: Seven dots arranged in a larger hexagon with a central dot
+
+Minimalist black-and-white style."

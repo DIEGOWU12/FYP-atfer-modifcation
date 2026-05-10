@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'five parts' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five small circles scattered in a loose cluster
+Top-right: Three pairs of touching circles with one pair separated
+Middle-left: Six small circles with three forming a vertical line and three scattered
+Middle-right: Four pairs of touching circles in a horizontal row
+Bottom-left: Four small circles with two pairs touching and one pair separate
+Bottom-right: Five pairs of touching circles in a horizontal row
+
+Minimalist black-and-white style."

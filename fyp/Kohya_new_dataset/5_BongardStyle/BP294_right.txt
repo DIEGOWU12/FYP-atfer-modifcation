@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the two points are unreachable by any path' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A maze with a complex network of paths and a single entrance and exit.
+Top-right: A maze with a dense pattern of vertical and horizontal lines, creating a highly intricate path.
+Middle-left: A maze with a more open layout, featuring fewer dead ends and a clear path from start to finish.
+Middle-right: A maze with concentric square patterns, leading to a central exit.
+Bottom-left: A maze with a mix of straight and curved paths, creating a moderate level of complexity.
+Bottom-right: A maze with a spiral design, winding towards the center.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Net (folding along edges can make a 3D solid)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cross-like shape with four arms extending from a central square.
+Top-right: A star-like shape with four triangular points extending outward.
+Middle-left: A cluster of interconnected hexagons forming a honeycomb pattern.
+Middle-right: A satellite-like shape with a rectangular body and two circular ends.
+Bottom-left: A zigzag pattern with alternating squares and rectangles.
+Bottom-right: A plus-like shape with multiple smaller squares extending from a central square.
+
+Minimalist black-and-white style."

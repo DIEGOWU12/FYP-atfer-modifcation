@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'wiggly outline' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Irregular blob-like shape
+Top-right: Perfect circle
+Middle-left: Curved, crescent-like shape
+Middle-right: Equilateral triangle
+Bottom-left: Sharp, pointed triangular shape
+Bottom-right: Square with jagged, zigzag edges
+
+Minimalist black-and-white style."

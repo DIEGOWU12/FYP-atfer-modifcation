@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Increasing quantity is angular' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five circles in a horizontal line, with alternating solid and outlined patterns.
+Top-right: A series of diagonal lines forming a zigzag pattern.
+Middle-left: Four overlapping circles arranged in a staggered row.
+Middle-right: A grid of vertical bars with alternating solid and outlined patterns.
+Bottom-left: Ten dots in a horizontal line, evenly spaced.
+Bottom-right: Three angular shapes resembling stylized arrows pointing to the right.
+
+Minimalist black-and-white style."

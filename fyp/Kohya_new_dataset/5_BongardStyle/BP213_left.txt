@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The tightest-curved section, out of all sections of curve that make a complete turn (360 degrees), contains an x-crossing point' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line with a small loop at the top
+Top-right: A simple, elongated curve resembling a lowercase 'b'
+Middle-left: A large, open circle with a small square inside
+Middle-right: A curved line with a small loop at the bottom
+Bottom-left: Two overlapping curves forming an abstract shape
+Bottom-right: A closed, rounded shape similar to a lowercase 'g'
+
+Minimalist black-and-white style."

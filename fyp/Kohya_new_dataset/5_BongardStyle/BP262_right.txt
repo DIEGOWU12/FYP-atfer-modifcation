@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not exactly one point where lines bend at an angle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a backward 'L' with a small curve at the top.
+Top-right: A shape resembling a 'U' with a small curve at the top right.
+Middle-left: A zigzag pattern with three connected segments.
+Middle-right: A shape resembling an inverted 'L' with a small curve at the bottom left.
+Bottom-left: A shape resembling a horizontal line with a small curve at the bottom.
+Bottom-right: A shape resembling a 'J' with a small curve at the bottom.
+
+Minimalist black-and-white style."

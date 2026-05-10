@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Bulky interior, if closed' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three overlapping circles forming a clover-like shape
+Top-right: A leaf-like shape with four rounded lobes
+Middle-left: A U-shaped figure with a rounded bottom and two vertical extensions
+Middle-right: A cross-like shape with four rectangular protrusions
+Bottom-left: The number '8' in a continuous loop
+Bottom-right: A diamond shape divided into four triangular sections by intersecting lines
+
+Minimalist black-and-white style."

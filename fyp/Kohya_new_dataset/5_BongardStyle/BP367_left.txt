@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Center of mass within the black area of the shape' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black circle
+Top-right: A solid black square with a small white dot in the top right corner
+Middle-left: A solid black rectangle with a vertical line extending downward from its bottom center
+Middle-right: A solid black L-shaped figure with a horizontal line extending to the right from the top
+Bottom-left: A solid black irregular polygon resembling a rounded hexagon
+Bottom-right: A solid black five-pointed star with a small square at its top point
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Any two lines intersect, and no three lines share an intersection point' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single diagonal line from the top-left to the bottom-right.
+Top-right: Two intersecting diagonal lines forming an 'X'.
+Middle-left: Three intersecting diagonal lines creating multiple crossing points.
+Middle-right: Four intersecting diagonal lines forming a complex web of crossings.
+Bottom-left: Five intersecting diagonal lines creating a dense network of crossings.
+Bottom-right: A single diagonal line from the top-left to the bottom-right.
+
+Minimalist black-and-white style."

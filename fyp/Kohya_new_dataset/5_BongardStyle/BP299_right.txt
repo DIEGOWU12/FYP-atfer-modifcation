@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'lines if slightly extended cannot make up a regular polygon' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two intersecting diagonal lines forming an 'X' shape
+Top-right: A right angle with two perpendicular lines
+Middle-left: An inverted 'V' shape formed by two converging lines
+Middle-right: An L-shape composed of two perpendicular lines
+Bottom-left: Three horizontal parallel lines stacked vertically
+Bottom-right: Three horizontal parallel lines stacked vertically with the middle line slightly offset
+
+Minimalist black-and-white style."

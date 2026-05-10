@@ -1,1 +1,13 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'analogy does not make sense' logic.
+"The image shows a 3x3 grid of nine black geometric shapes:
+
+Top-left: Small dots arranged in a triangular pattern
+Top-center: Three small triangles forming a larger triangle
+Top-right: Two stylized 'S' shapes, one solid and one outlined
+Middle-left: A 3x3 grid of alternating black and white squares
+Middle-center: A 3x3 grid of alternating black and white squares, rotated 90 degrees
+Middle-right: A solid black circle and a smaller outlined circle
+Bottom-left: A mix of triangles and circles in various sizes
+Bottom-center: A square with a dotted outline and a smaller square inside it
+Bottom-right: A triangle with a dot inside and a smaller outlined triangle
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The left part is wider than the right part' logic.
+"The image shows a 3x2 grid of six black symbols:
+
+Top-left: A smiley face emoticon
+Top-right: A question mark followed by an exclamation point
+Middle-left: The number twelve
+Middle-right: The number seventy-one
+Bottom-left: The letters 'ml'
+Bottom-right: The letters 'W/' followed by a forward slash
+
+Minimalist black-and-white style."

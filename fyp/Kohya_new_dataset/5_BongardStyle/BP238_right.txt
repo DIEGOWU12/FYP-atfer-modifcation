@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'c-like curves point to opposite directions' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a mushroom with a rounded cap and a narrow stem.
+Top-right: Two overlapping circles forming a figure-eight or infinity symbol.
+Middle-left: A curved line with a small circle inside it, resembling a parenthesis with a dot.
+Middle-right: A larger circle with a smaller, concentric circle inside it.
+Bottom-left: An elongated oval shape.
+Bottom-right: A simple curved line resembling a parenthesis.
+
+Minimalist black-and-white style."

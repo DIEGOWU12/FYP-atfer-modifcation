@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Innermost shape is reachable from the outermost one' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a triangle inside, both outlined in black.
+Top-right: A larger square containing a smaller square and a triangle, all outlined in black.
+Middle-left: A triangle with a circle inside, both outlined in black.
+Middle-right: A circle with a square inside, both outlined in black.
+Bottom-left: A triangle with a small triangle inside, both outlined in black.
+Bottom-right: A circle with two smaller circles inside, all outlined in black.
+
+Minimalist black-and-white style."

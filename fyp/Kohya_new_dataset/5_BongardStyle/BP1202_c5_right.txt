@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Color of any region is an equal mix of the colors of the overlapping shapes)' logic.
+"The image shows a 3x2 grid of six colorful abstract shapes:
+
+Top-left: [Shape description]
+Top-right: [Shape description]
+Middle-left: [Shape description]
+Middle-right: [Shape description]
+Bottom-left: [Shape description]
+Bottom-right: [Shape description]
+
+Vibrant and abstract style."

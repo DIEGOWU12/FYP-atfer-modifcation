@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'concave' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved, open shape resembling a lowercase 'c'
+Top-right: A figure-eight-like shape with two loops
+Middle-left: A jagged, wavy line composed of three connected segments
+Middle-right: A small, solid, upward-pointing triangle
+Bottom-left: A zigzag pattern with alternating angles forming a stepped outline
+Bottom-right: A smooth, curved, open shape resembling a lowercase 's'
+
+Minimalist black-and-white style."

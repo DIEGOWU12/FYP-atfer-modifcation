@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Four X-like points' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside it, rotated 45 degrees.
+Top-right: A diamond shape with a smaller diamond inside it, aligned with the outer diamond.
+Middle-left: A square with a smaller square inside it, rotated 45 degrees and positioned diagonally.
+Middle-right: A square with a smaller square inside it, rotated 45 degrees and tilted to the right.
+Bottom-left: A square with a smaller square inside it, rotated 45 degrees and tilted to the left.
+Bottom-right: A square with a smaller square inside it, rotated 45 degrees and positioned diagonally.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'five parts' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an 'H' with a diagonal line extending from the top left.
+Top-right: A shape resembling a 'T' with a horizontal line extending to the right.
+Middle-left: A shape resembling a 'H' with two vertical lines and a horizontal line connecting them.
+Middle-right: A shape resembling a 'Z' with a diagonal line extending from the bottom left.
+Bottom-left: A pentagon with five equal sides.
+Bottom-right: A shape resembling a 'M' with three peaks.
+
+Minimalist black-and-white style."

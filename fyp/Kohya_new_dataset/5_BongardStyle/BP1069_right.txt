@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'finitely many branches' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Nested squares with decreasing size and alternating shading
+Top-right: Hierarchical arrangement of small squares forming larger squares
+Middle-left: Grid of uniformly sized squares in a dense, orderly pattern
+Middle-right: Two adjacent rectangles, one smaller than the other, aligned horizontally
+Bottom-left: Two identical squares side by side, each containing a smaller square inside
+Bottom-right: Clustered squares of varying sizes arranged in a compact, irregular pattern
+
+Minimalist black-and-white style."

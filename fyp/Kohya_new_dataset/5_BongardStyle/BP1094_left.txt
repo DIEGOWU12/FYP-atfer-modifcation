@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Convex hulls intersect' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a star inside it
+Top-right: A stick figure with arms and legs spread out
+Middle-left: A square with a smaller square cut out from its center
+Middle-right: Three overlapping circles of varying sizes
+Bottom-left: A parallelogram with a smaller parallelogram cut out from its top right corner
+Bottom-right: Two stars of different sizes
+
+Minimalist black-and-white style."

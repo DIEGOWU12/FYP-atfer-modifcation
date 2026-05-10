@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Finitely many copies of the shape can be arranged such that they are locked together' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of horizontal, wavy lines stacked vertically
+Top-right: A vertical rectangle with a smaller circle above and to the right, and a larger circle below and to the left
+Middle-left: A plus sign composed of four equal-length lines intersecting at their midpoints
+Middle-right: A shape resembling a simplified letter 'E' with an additional horizontal line extending from the top
+Bottom-left: A vertical rectangle with a shorter horizontal line extending from its top and bottom
+Bottom-right: A shape resembling a simplified letter 'T' with an additional horizontal line extending from the top
+
+Minimalist black-and-white style.

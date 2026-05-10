@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shorter on the left, taller on the right' logic.
+"The image shows a 3x2 grid of six black text elements:
+
+Top-left: A smiley face emoticon
+Top-right: A forward slash and plus sign
+Middle-left: The letter 'a' followed by an at symbol '@'
+Middle-right: The letters 'ab'
+Bottom-left: The letter 'l' with an acute accent
+Bottom-right: The letters 'xy'
+
+Minimalist black-and-white style."

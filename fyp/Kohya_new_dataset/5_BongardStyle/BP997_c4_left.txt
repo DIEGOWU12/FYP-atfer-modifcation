@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'There exists a loop that passes through every white square once without passing through the black square' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 4x4 grid with a single black square in the center.
+Top-right: A 4x4 grid with a single black square in the top-right corner.
+Middle-left: A 6x6 grid with a single black square in the bottom-left corner.
+Middle-right: A 6x6 grid with a single black square in the center.
+Bottom-left: A 8x8 grid with a single black square in the bottom-left corner.
+Bottom-right: A 4x4 grid with a single black square in the center.
+
+Minimalist black-and-white style."

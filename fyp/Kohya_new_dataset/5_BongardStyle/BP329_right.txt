@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not regular polygon' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Diamond
+Top-right: Triangle
+Middle-left: Parallelogram
+Middle-right: Irregular quadrilateral
+Bottom-left: Pentagon
+Bottom-right: Irregular pentagon
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Reversing the sequence permutes the objects' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of alternating capital letters 'A' and 'B'
+Top-right: A pattern of four asterisks followed by three 'n' characters
+Middle-left: A sequence of dots, a dash, an 'x', another dash, an 'x', and a final dash
+Middle-right: A series of nested parentheses
+Bottom-left: A sequence of Greek letters 'phi', 'Delta', 'phi', 'Delta'
+Bottom-right: A pattern of stars, arrows pointing down, and a square
+
+Minimalist black-and-white style."

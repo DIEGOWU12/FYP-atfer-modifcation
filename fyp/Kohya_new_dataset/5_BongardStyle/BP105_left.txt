@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Ends of line point to the same direction' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a lowercase 'j' with a small circle attached to its top left.
+Top-right: A vertical line with a small circle at the top and a larger circle at the bottom.
+Middle-left: A rounded rectangle with a triangle extending from its bottom right corner.
+Middle-right: A parallelogram with a small triangle attached to its top left corner.
+Bottom-left: A combination of a small circle, a curved line, and a small triangle.
+Bottom-right: Two overlapping triangles forming a larger triangle.
+
+Minimalist black-and-white style."

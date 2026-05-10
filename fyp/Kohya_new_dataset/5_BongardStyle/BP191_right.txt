@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'orifice on the right' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A parallelogram with a smaller rectangle attached to its right side
+Top-right: An inverted triangle with a horizontal line inside
+Middle-left: A square with a smaller rectangle attached to its right side
+Middle-right: A shape resembling an 'E' with a triangular top
+Bottom-left: A circle with a horizontal line inside
+Bottom-right: A triangle with a horizontal line inside
+
+Minimalist black-and-white style."

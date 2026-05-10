@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'number of sides minus number of pluses = 4' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pentagon with an irregular, elongated protrusion extending from one of its sides.
+Top-right: A kite-shaped figure with two pairs of adjacent sides of equal length.
+Middle-left: A regular pentagon with all sides and angles equal.
+Middle-right: A trapezoid with a curved top edge and a straight bottom edge.
+Bottom-left: A rectangle with a slightly skewed orientation.
+Bottom-right: An L-shaped figure composed of two perpendicular rectangles.
+
+Minimalist black-and-white style."

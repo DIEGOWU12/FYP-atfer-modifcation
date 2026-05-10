@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'it is not' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of various symbols including circles, squares, and letters arranged in a pattern.
+Top-right: A grid of dots forming a symmetrical pattern with varying densities.
+Middle-left: A grid of puzzle pieces with different shapes and orientations.
+Middle-right: A grid of rectangles and lines creating a structured pattern.
+Bottom-left: A grid of dots and small circles forming a dense, intricate pattern.
+Bottom-right: A grid of L-shaped blocks arranged in a repeating pattern.
+
+Minimalist black-and-white style."

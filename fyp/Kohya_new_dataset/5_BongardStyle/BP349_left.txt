@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'One object does not belong to the pattern of the rest' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Small circles, ovals, and abstract shapes
+Top-right: Various symbols including stars, circles, and infinity signs
+Middle-left: A mix of triangles, arrows, and a small animal-like figure
+Middle-right: Triangles and arrow-like shapes pointing in different directions
+Bottom-left: Stars, circles, and simple geometric forms
+Bottom-right: Stars, circles, and abstract shapes
+
+Minimalist black-and-white style."

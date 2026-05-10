@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Smaller section tiles the grid)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Cloud-like shapes with varying sizes and orientations
+Top-right: Triangles, circles, and abstract shapes in a repeating pattern
+Middle-left: A mix of cloud-like and angular shapes in a scattered arrangement
+Middle-right: Xs, Ns, and Os in a structured grid
+Bottom-left: Repeated stylized characters resembling Chinese or Japanese symbols
+Bottom-right: Pizza slices and whole pizzas in a playful design
+
+Minimalist black-and-white style."

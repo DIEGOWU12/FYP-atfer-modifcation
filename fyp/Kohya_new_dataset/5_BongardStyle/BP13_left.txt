@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Tall rectangle OR wide ellipse' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tall, thin rectangle
+Top-right: A small, horizontal oval
+Middle-left: A slightly wider, vertical rectangle
+Middle-right: A larger, horizontal oval
+Bottom-left: A small, horizontal oval
+Bottom-right: A short, vertical rectangle
+
+Minimalist black-and-white style."

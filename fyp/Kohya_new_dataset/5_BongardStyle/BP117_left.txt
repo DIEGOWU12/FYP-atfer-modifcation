@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Triangle points to center of circle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with a small triangle pointing upwards and to the right, positioned above it.
+Top-right: A triangle with a small circle near its bottom vertex.
+Middle-left: A circle with a small triangle pointing downwards, positioned below it.
+Middle-right: A larger circle containing a smaller triangle inside it, pointing upwards.
+Bottom-left: A circle with a small arrow-like shape pointing diagonally upwards and to the right, positioned within it.
+Bottom-right: A small triangle with a small circle near its bottom vertex.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'object on the right does not fit in pattern on the left' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of various symbols including a crescent moon, stars, and abstract shapes.
+Top-right: A set of geometric shapes including a square, circle, and puzzle piece.
+Middle-left: A group of hexagons and triangles in different orientations.
+Middle-right: A mix of irregular shapes and a single vertical line.
+Bottom-left: A combination of triangles, circles, and other abstract forms.
+Bottom-right: A series of hexagons and a small diagonal line.
+
+Minimalist black-and-white style."

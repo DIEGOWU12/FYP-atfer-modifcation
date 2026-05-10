@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'five parts' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three intersecting lines forming an abstract shape
+Top-right: A stylized letter 'M' with a diagonal line crossing it
+Middle-left: A complex arrangement of intersecting lines creating a dynamic, angular form
+Middle-right: A regular pentagon with all sides and angles equal
+Bottom-left: Three parallel horizontal lines intersected by two diagonal lines
+Bottom-right: A star-like shape formed by four intersecting lines
+
+Minimalist black-and-white style."

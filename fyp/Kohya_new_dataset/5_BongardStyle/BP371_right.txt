@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not a net' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cross shape with an additional square attached to its bottom right arm
+Top-right: A hexagon with a smaller hexagon inside it
+Middle-left: A cross shape with arms of equal length
+Middle-right: A complex arrangement of overlapping squares and hexagons
+Bottom-left: A zigzag pattern with alternating squares and rectangles
+Bottom-right: An L-shaped figure composed of four squares
+
+Minimalist black-and-white style."

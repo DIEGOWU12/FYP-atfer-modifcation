@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'bottom object behind top objects in 3-D' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle above a square
+Top-right: Two back-to-back hourglass shapes above a square
+Middle-left: A chain-like shape above a square
+Middle-right: Three triangles and a diamond arranged in a row
+Bottom-left: Three circles above a triangle
+Bottom-right: Three ovals above a wavy line
+
+Minimalist black-and-white style."

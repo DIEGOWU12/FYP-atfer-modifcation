@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'petals thicken' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A four-petal flower-like shape with rounded petals.
+Top-right: A triangle divided into three smaller triangles by lines from the center to each vertex.
+Middle-left: A star-like shape with eight points extending outward.
+Middle-right: A curved, petal-like shape resembling a blooming flower with multiple layers.
+Bottom-left: A cross-like shape with circular ends on each arm.
+Bottom-right: A star-like shape with six points and small circles at the tips.
+
+Minimalist black-and-white style."

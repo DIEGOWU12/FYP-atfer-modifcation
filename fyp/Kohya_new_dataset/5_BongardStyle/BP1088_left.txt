@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Top piece can fit into bottom piece without leaving any overhangs' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'J' with a horizontal line extending from the top.
+Top-right: A shape resembling a T with a horizontal line at the top and a vertical line extending downward.
+Middle-left: A shape resembling a small square above a series of vertical lines of varying heights.
+Middle-right: A shape resembling a series of vertical lines with a zigzag pattern on the right side.
+Bottom-left: A shape resembling a stepped pyramid with a horizontal line at the top.
+Bottom-right: A shape resembling a series of vertical lines with a zigzag pattern on the right side.
+
+Minimalist black-and-white style."

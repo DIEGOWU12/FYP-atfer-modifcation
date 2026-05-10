@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Stays put' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large, bold, angular 'L' shape
+Top-right: A stylized 'Π' (Pi) symbol with two vertical lines and a horizontal line above them
+Middle-left: A 'H' shape with a vertical line and two horizontal lines intersecting it
+Middle-right: An inverted 'V' shape with a diagonal line extending upwards from the bottom center
+Bottom-left: A shape resembling a 'W' with a small circle on top
+Bottom-right: A stack of three squares forming a stepped structure
+
+Minimalist black-and-white style."

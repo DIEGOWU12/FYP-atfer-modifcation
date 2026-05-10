@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'y-coordinates of dots are equidistant' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of five dots forming an irregular pentagon
+Top-right: A cluster of four dots forming a square with one dot slightly offset
+Middle-left: A vertical line of three dots with one dot slightly offset to the left
+Middle-right: A horizontal line of three dots with one dot slightly offset to the top
+Bottom-left: A single dot centered in the square
+Bottom-right: A cluster of four dots forming a diamond shape
+
+Minimalist black-and-white style."

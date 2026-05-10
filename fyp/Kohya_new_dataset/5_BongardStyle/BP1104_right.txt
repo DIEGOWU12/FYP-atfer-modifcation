@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line near the top
+Top-right: A horizontal line near the top
+Middle-left: A horizontal line near the middle
+Middle-right: A horizontal line near the middle
+Bottom-left: A horizontal line near the bottom
+Bottom-right: A horizontal line near the bottom
+
+Minimalist black-and-white style."

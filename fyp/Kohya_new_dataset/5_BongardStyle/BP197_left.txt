@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Some style (font)' logic.
+"The image shows a 3x2 grid of six white rectangular tiles with black text:
+
+Top-left: 'woven'
+Top-right: 'pyjamas'
+Middle-left: 'for blue'
+Middle-right: 'silk'
+Bottom-left: 'exchanged'
+Bottom-right: 'quartz'
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'one can find such a path' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an infinity symbol with a loop at the center
+Top-right: A vertical rectangle with a thick black border on the right side
+Middle-left: A square filled with diagonal black stripes
+Middle-right: An outlined equilateral triangle
+Bottom-left: A square with four diagonal lines pointing towards the center and a small cross in the middle
+Bottom-right: A square with three curved lines inside, resembling a stylized wave or smile
+
+Minimalist black-and-white style."

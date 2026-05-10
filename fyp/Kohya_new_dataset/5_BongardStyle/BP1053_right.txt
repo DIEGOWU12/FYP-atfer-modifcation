@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Two parts black to one part white)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Nine circles arranged in a 3x3 grid, alternating between solid black and outlined white.
+Top-right: Ten circles arranged in a star-like pattern with one central circle surrounded by nine others.
+Middle-left: Seven circles arranged in a cluster with one central circle surrounded by six others.
+Middle-right: Twenty-five circles arranged in a 5x5 grid, all outlined in white.
+Bottom-left: Thirty-six circles arranged in a 6x6 grid, all solid black.
+Bottom-right: Forty-nine circles arranged in a 7x7 grid, alternating between solid black and outlined white.
+
+Minimalist black-and-white style."

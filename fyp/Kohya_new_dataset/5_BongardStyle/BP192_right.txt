@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'elongated horizontally' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rectangle with a horizontal line segment extending from its left side.
+Top-right: A circle with a horizontal line segment inside it.
+Middle-left: A trapezoid with a horizontal line segment extending from its right side.
+Middle-right: A trapezoid with a horizontal line segment extending from its right side.
+Bottom-left: A rectangle with a horizontal line segment extending from its left side.
+Bottom-right: A trapezoid with a horizontal line segment extending from its right side.
+
+Minimalist black-and-white style."

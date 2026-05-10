@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Long distance between the marked locations' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex arrangement of intersecting lines forming multiple enclosed spaces with small circular markers.
+Top-right: A configuration of lines creating a series of interconnected loops and angles, with a single circular marker near the center.
+Middle-left: A design featuring a mix of straight and angled lines, with two circular markers positioned at different points.
+Middle-right: A pattern of lines forming a grid-like structure with a central circular marker and additional smaller markers.
+Bottom-left: A layout of lines creating a series of open spaces and intersecting paths, with a single circular marker.
+Bottom-right: A composition of lines forming a network of interconnected shapes, with multiple circular markers scattered throughout.
+
+Minimalist black-and-white style."

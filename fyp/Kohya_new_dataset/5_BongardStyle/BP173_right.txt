@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'large variance of slopes' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Diagonal lines intersecting at various angles
+Top-right: Randomly oriented diagonal lines with no clear pattern
+Middle-left: Diagonal lines forming a more structured, grid-like pattern
+Middle-right: Diagonal lines with a mix of orientations and spacing
+Bottom-left: Diagonal lines arranged in a staggered, overlapping pattern
+Bottom-right: Diagonal lines scattered with varying lengths and angles
+
+Minimalist black-and-white style."

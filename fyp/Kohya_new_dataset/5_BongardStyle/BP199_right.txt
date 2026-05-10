@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'tumbles' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangular prism
+Top-right: A diagonal line
+Middle-left: The letter 'P'
+Middle-right: A stepped shape with three squares
+Bottom-left: A vertical line with a horizontal extension at the top
+Bottom-right: A cross with a circle at the intersection
+
+Minimalist black-and-white style."

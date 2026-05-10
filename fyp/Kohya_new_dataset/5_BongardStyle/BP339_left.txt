@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Union of left sets is right set' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three circles with various symbols inside, including a triangle and an 'S'.
+Top-right: Two large circles and one small circle, each containing different symbols like triangles and an 'X'.
+Middle-left: Four circles with symbols such as stars, 'S's, and a small circle.
+Middle-right: Three circles with symbols including 'X's and 'S's.
+Bottom-left: Three circles with symbols like triangles, 'X's, and an 'S'.
+Bottom-right: Three circles with symbols including 'X's and a small circle.
+
+Minimalist black-and-white style."

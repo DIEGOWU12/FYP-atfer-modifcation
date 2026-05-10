@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No infinite nesting' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two small squares side by side
+Top-right: A larger square with a smaller square inside it
+Middle-left: A 3x3 grid of small squares
+Middle-right: A large square with a smaller square and a small square above it inside it
+Bottom-left: Four small squares arranged in a 2x2 pattern with an additional square below the bottom right square
+Bottom-right: A series of concentric squares decreasing in size
+
+Minimalist black-and-white style."

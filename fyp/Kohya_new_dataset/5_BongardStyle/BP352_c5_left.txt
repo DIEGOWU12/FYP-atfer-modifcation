@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Increasing quantity has no lower (or upper) bound (and gives a representation of negative numbers)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of interconnected geometric shapes including circles, triangles, and polygons forming a complex pattern.
+Top-right: A series of elongated, stick-like shapes arranged in a staggered formation.
+Middle-left: A vertical arrangement of small circles and lines creating a cascading effect.
+Middle-right: A cluster of short, intersecting lines with some dots, forming an abstract pattern.
+Bottom-left: A diagonal line of various geometric shapes including diamonds, pentagons, and triangles.
+Bottom-right: A combination of letters and symbols, including 'u', 'm', and a bar graph, arranged in a linear fashion.
+
+Minimalist black-and-white style."

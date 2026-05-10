@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Transitive' logic.
+"The image shows a 3x2 grid of six sets of colored geometric shapes:
+
+Top-left: [Six squares with various combinations of red, blue, and black circles and lines]
+Top-right: [Six squares with different arrangements of red, blue, and black circles and lines]
+Middle-left: [Six squares featuring black, red, and blue circles and dots in various patterns]
+Middle-right: [Six squares with black and white circles and dots arranged in distinct patterns]
+Bottom-left: [Six squares containing red, blue, and black circles and lines in unique configurations]
+Bottom-right: [Two squares with simple arrangements of red, blue, and black circles and dots]
+
+Colorful minimalist style."

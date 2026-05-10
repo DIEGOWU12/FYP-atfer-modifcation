@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The sum of vertices, line ends, and dots is 7' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large triangle with a smaller diamond shape below it
+Top-right: A large triangle with two intersecting lines inside it
+Middle-left: Two triangles, one larger and one smaller, with a small dot above them
+Middle-right: A small 'X' shape with a diagonal line intersecting it
+Bottom-left: A large rectangle with a smaller triangle below it
+Bottom-right: A large triangle with an 'X' shape inside it
+
+Minimalist black-and-white style."

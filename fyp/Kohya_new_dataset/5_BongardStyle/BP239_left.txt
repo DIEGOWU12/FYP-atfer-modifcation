@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Straight line parallel to line joining the ends of curve AND sliding the straight line suitably can make a closed area' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line resembling a partial spiral
+Top-right: A U-shaped curve with a vertical line extending from its top
+Middle-left: A horizontal line centered within a circular arc
+Middle-right: A curved line forming a shape similar to a lowercase 'y'
+Bottom-left: A stylized letter 'A' with a diagonal stroke
+Bottom-right: A small, simple curved line resembling a comma
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not cross section of a cylinder' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An oval shape with a small dot on its top left.
+Top-right: A horizontal rectangle with rounded ends.
+Middle-left: A quarter-circle shape with the straight edges forming a right angle.
+Middle-right: An equilateral triangle.
+Bottom-left: Two separate circles side by side.
+Bottom-right: A square with a semicircle on top, resembling a house.
+
+Minimalist black-and-white style.

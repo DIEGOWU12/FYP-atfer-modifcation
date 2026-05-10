@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Dots are in tight clusters around convex vertices' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An equilateral triangle with small dots around its perimeter.
+Top-right: A square with small dots around its perimeter.
+Middle-left: A five-pointed star with small dots around its perimeter.
+Middle-right: An inverted equilateral triangle with small dots around its perimeter.
+Bottom-left: A parallelogram with small dots around its perimeter.
+Bottom-right: A five-pointed star with small dots around its perimeter.
+
+Minimalist black-and-white style."

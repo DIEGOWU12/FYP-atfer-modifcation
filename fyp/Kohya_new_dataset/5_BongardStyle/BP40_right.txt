@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'no three points on a straight line' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five dots arranged in a cross pattern
+Top-right: Six dots arranged in a hexagon with one dot in the center
+Middle-left: Four dots forming a diamond shape
+Middle-right: Five dots arranged in a T-shape with an additional dot below the center
+Bottom-left: Six dots arranged in a hexagon
+Bottom-right: Five dots arranged in a V-shape with an additional dot below the center
+
+Minimalist black-and-white style."

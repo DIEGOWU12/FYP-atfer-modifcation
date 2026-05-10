@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Straight line joining the curve ends does not cut the curve' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A spiral shape with a rounded, open end
+Top-right: A curved, incomplete loop resembling a 'C' shape
+Middle-left: A right triangle with a horizontal base and a vertical side
+Middle-right: A rectangular shape with a diagonal line cutting through it
+Bottom-left: Three parallel, wavy lines forming a zigzag pattern
+Bottom-right: A figure-eight or infinity symbol with a smooth, continuous curve
+
+Minimalist black-and-white style."

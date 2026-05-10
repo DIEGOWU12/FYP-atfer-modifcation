@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'convex hull elongated horizontally' logic.
+"The image shows a 3x2 grid of six black text characters:
+
+Top-left: É
+Top-right: i
+Middle-left: ...
+Middle-right: cs
+Bottom-left: m
+Bottom-right: W
+
+Minimalist black-and-white style."

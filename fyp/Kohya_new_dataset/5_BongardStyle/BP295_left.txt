@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Line joins large and small square' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a small square to its right and a small square below it.
+Top-right: A square with a small square above it and a small square to its left, connected by a diagonal line.
+Middle-left: A square with a small square above it and a small square to its right, connected by a diagonal line.
+Middle-right: A square with a small square above it and two small squares below it.
+Bottom-left: A diagonal line connecting a small square at the bottom left to a small square at the top right.
+Bottom-right: A square with a small square above it and a small square to its left, connected by a diagonal line.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Isosceles triangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single dot and a short diagonal line
+Top-right: A single dot and a longer diagonal line
+Middle-left: A short diagonal line and a single dot
+Middle-right: A horizontal line and a single dot
+Bottom-left: A long diagonal line and a single dot
+Bottom-right: A short vertical line and a single dot
+
+Minimalist black-and-white style."

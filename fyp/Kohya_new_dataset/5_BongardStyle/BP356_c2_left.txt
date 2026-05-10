@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Object at lower-right fits as n-th item in the top row of objects, where n is the number of dots at lower-left' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three curved lines and two asterisks
+Top-right: A bar chart with varying heights and a single dot below it
+Middle-left: A series of dots, a star-like shape, and a complex geometric pattern
+Middle-right: A row of dots and a cluster of dots with a single dot below it
+Bottom-left: A series of dots, a star-like shape, and a complex geometric pattern
+Bottom-right: Three curved lines and two asterisks, a single dot, and a plus sign
+
+Minimalist black-and-white style."

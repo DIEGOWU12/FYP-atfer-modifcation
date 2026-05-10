@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shape can be maneuvered around the corner' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square cut out from its top-left corner
+Top-right: A rectangle with a semicircle cut out from its top-right corner
+Middle-left: A rectangle with a triangle cut out from its top-left corner
+Middle-right: A rectangle with a smaller rectangle cut out from its top-right corner
+Bottom-left: A rectangle with a semicircle cut out from its bottom-left corner
+Bottom-right: A rectangle with a smaller rectangle cut out from its bottom-left corner
+
+Minimalist black-and-white style."

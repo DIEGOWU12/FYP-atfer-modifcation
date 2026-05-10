@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'scalene triangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical line with a small dot near its bottom end.
+Top-right: A horizontal line with a small dot near its right end.
+Middle-left: A diagonal line slanting upwards from left to right, with a small dot near its upper end.
+Middle-right: A diagonal line slanting upwards from left to right, with a small dot near its lower end.
+Bottom-left: A diagonal line slanting downwards from left to right, with a small dot near its lower end.
+Bottom-right: A short diagonal line slanting upwards from left to right, with no additional dots.
+
+Minimalist black-and-white style."

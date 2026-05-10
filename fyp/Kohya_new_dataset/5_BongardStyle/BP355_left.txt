@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Fractal iteration based on 2-D (shapes)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Triangles arranged in a pattern with alternating filled and empty spaces
+Top-right: Squares of varying sizes forming a larger square pattern
+Middle-left: Vertical bars with intricate patterns of smaller shapes within them
+Middle-right: Squares and circles with a mix of solid and dotted textures
+Bottom-left: A combination of squares and plus signs creating a complex structure
+Bottom-right: Squares and plus signs arranged in a diagonal line with increasing complexity
+
+Minimalist black-and-white style."

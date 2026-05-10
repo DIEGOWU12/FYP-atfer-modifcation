@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'There are more small circles inside the figure outline than outside' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An irregular, cloud-like shape with three small circles inside.
+Top-right: A triangle with two small circles inside and one small circle outside near the top right corner.
+Middle-left: An oval shape with no additional markings.
+Middle-right: A rectangle with four small circles inside and two small circles outside near the bottom left and top right corners.
+Bottom-left: An oval shape with five small circles inside.
+Bottom-right: A rectangle with four small circles inside and two small circles outside near the top left and bottom right corners.
+
+Minimalist black-and-white style."

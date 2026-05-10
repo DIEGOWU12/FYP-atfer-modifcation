@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Black region narrows at the boundary of black/white' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A parallelogram with a triangular cutout on the left side
+Top-right: A hexagon with a smaller, darker hexagon inside it
+Middle-left: A trapezoid with a triangular cutout on the left side
+Middle-right: An oval shape with a semicircular cutout at the bottom
+Bottom-left: A triangle with a smaller, darker triangle inside it
+Bottom-right: A trapezoid with a triangular cutout on the right side
+
+Minimalist black-and-white style."

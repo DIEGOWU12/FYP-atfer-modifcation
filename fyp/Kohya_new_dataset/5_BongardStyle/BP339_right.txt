@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'intersection of left sets is right set' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with a small triangle and a dot inside.
+Top-right: A circle with a small triangle and a dot inside, and another circle with a dot and a small shape inside.
+Middle-left: A circle with an asterisk and a dot inside, and a small circle.
+Middle-right: A circle with an asterisk and a dot inside, and another circle with an asterisk inside.
+Bottom-left: A circle with an asterisk and a dot inside, and a small circle and a small triangle.
+Bottom-right: A small triangle and a small circle, and a small circle.
+
+Minimalist black-and-white style."

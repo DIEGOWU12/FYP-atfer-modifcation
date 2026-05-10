@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'A multiple of a left number fits right' logic.
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern of small dots arranged in a 3x3 grid with a larger dot in the center.
+Top-right: A pattern of small dots arranged in a 3x3 grid with a larger dot in the center, similar to the top-left but with a different arrangement of smaller dots.
+Middle-left: A pattern of small dots arranged in a 2x2 grid with a larger dot in the center.
+Middle-right: A pattern of small dots arranged in a 3x3 grid with a larger dot in the center, similar to the top-left and top-right but with a different arrangement of smaller dots.
+Bottom-left: A pattern of small dots arranged in a 3x3 grid with a larger dot in the center, similar to the top-left and top-right but with a different arrangement of smaller dots.
+Bottom-right: A pattern of small dots arranged in a 3x3 grid with a larger dot in the center, similar to the top-left and top-right but with a different arrangement of smaller dots.
+
+Minimalist black-and-white style."

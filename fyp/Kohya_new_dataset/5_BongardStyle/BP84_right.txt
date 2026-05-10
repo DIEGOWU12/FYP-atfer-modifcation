@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'a quadrangle is inside of a figure made by circles' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square surrounded by a circular pattern of small circles and dots.
+Top-right: A square surrounded by a dense circular pattern of small circles.
+Middle-left: A square surrounded by a rectangular pattern of small circles.
+Middle-right: A square surrounded by a semi-circular pattern of small circles.
+Bottom-left: A square surrounded by a circular pattern of small circles and dots, with a smile-like curve at the bottom.
+Bottom-right: A square surrounded by a circular pattern of small circles, with a curved line at the bottom.
+
+Minimalist black-and-white style."

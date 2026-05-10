@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'wider than tall' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid horizontal rectangle
+Top-right: A wavy horizontal line
+Middle-left: An oval shape
+Middle-right: A horizontal line with two perpendicular lines extending from its ends
+Bottom-left: A series of vertical parallel lines
+Bottom-right: A wavy horizontal line similar to the top-right but with a different pattern
+
+Minimalist black-and-white style."

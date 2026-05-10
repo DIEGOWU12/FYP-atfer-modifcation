@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Odd number of enclosed regions' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved, abstract shape resembling intertwined loops
+Top-right: A large, rounded number '6'
+Middle-left: A square with a diagonal line crossing through it and a smaller square inside
+Middle-right: A vertical, slightly curved number '9'
+Bottom-left: A right-angled triangle with its hypotenuse extending upwards
+Bottom-right: The number '84' in a bold, rounded font
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Predominance of curves and hook-like endings' logic.
+The image shows a 3x2 grid of six black handwritten symbols:
+
+Top-left: A symbol resembling three horizontal lines with a slight curve.
+Top-right: A symbol resembling the Greek letter epsilon (ε).
+Middle-left: A symbol resembling the Greek letter sigma (Σ).
+Middle-right: A symbol resembling the Greek letter nu (ν).
+Bottom-left: A symbol resembling the Greek letter phi (Φ) with a small loop.
+Bottom-right: A symbol resembling the Greek letter pi (π).
+
+Minimalist black-and-white style.

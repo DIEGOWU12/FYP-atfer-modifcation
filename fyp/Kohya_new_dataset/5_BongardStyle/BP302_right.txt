@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a '5 collinear objects, of which the 2nd/4th is moved elsewhere' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single square centered in the cell
+Top-right: A diagonal line of four dots forming a descending pattern
+Middle-left: Five triangles pointing upwards, arranged in a staggered formation
+Middle-right: Four squares and one small square, with three squares forming a horizontal line and the fourth square below and to the right
+Bottom-left: Seven squares and one larger square, with six smaller squares forming a diagonal line and the larger square at the end
+Bottom-right: Six rectangles of varying lengths, stacked vertically with each rectangle slightly offset to the right
+
+Minimalist black-and-white style."

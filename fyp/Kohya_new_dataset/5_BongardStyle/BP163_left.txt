@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Line connecting small shapes does not intersect large one' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A bean-shaped figure with two small squares at the top corners
+Top-right: A curved, U-shaped form with a triangle inside and a small triangle below
+Middle-left: A large triangle with two small rectangles at the bottom
+Middle-right: A small circle above a square, with another small circle to the right
+Bottom-left: An oval shape with two small circles, one above and one below
+Bottom-right: A star-like shape with multiple points and small triangles around it
+
+Minimalist black-and-white style."

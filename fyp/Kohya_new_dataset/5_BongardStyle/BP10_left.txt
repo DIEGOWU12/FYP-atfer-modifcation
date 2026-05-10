@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Approximately triangular outline' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid equilateral triangle
+Top-right: A jagged, irregular triangular shape
+Middle-left: A small solid equilateral triangle
+Middle-right: A large triangle with a zigzag outline
+Bottom-left: A very small solid equilateral triangle
+Bottom-right: A small triangle with a jagged outline
+
+Minimalist black-and-white style."

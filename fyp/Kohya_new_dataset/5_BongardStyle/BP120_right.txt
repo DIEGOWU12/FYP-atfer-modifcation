@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'turns in different directions and no rectangular loop exists' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tall, irregular shape with a rectangular base and a protruding section on the right side.
+Top-right: A compact, L-shaped figure with a small extension on the top right corner.
+Middle-left: A complex, multi-layered shape with several interconnected rectangular sections.
+Middle-right: A shape resembling a staircase with a series of horizontal and vertical lines forming a stepped pattern.
+Bottom-left: A shape with a rectangular base and a smaller, offset section on the top left.
+Bottom-right: A long, horizontal rectangle with a vertical line extending downward from the right end.
+
+Minimalist black-and-white style."

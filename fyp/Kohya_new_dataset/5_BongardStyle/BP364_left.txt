@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Two clearly separable groups' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two clusters of dense, scattered dots forming an abstract pattern
+Top-right: A triangle and a square positioned side by side
+Middle-left: Two clusters of evenly spaced dots creating a symmetrical design
+Middle-right: An irregular shape with small dots inside and around it
+Bottom-left: A scattered arrangement of small dots forming a sparse pattern
+Bottom-right: A triangle, a square, and a pentagon arranged together
+
+Minimalist black-and-white style."

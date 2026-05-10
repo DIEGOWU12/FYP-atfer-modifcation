@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Pi-like shape' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A stylized depiction of flowing hair or a leaf-like shape
+Top-right: Two stacked figures with a horizontal line above them, resembling a structure or monument
+Middle-left: Two stick figures standing side by side under a horizontal line with text above it
+Middle-right: A cluster of small circles arranged in a pattern
+Bottom-left: A rectangular shape composed of smaller squares, resembling a brick wall
+Bottom-right: A curved shape with a dotted pattern inside, resembling a horseshoe
+
+Minimalist black-and-white style."

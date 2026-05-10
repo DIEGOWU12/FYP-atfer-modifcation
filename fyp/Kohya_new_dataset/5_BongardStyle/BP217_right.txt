@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'lines with white specks' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized 'X' with intersecting lines
+Top-right: A shape resembling a curved 'N' with a diagonal line
+Middle-left: A shape resembling a looped 'D' with a small tail
+Middle-right: A shape resembling a diagonal slash '/'
+Bottom-left: A shape resembling a horizontal line with a diagonal cut
+Bottom-right: A shape resembling a 'V' with a vertical line through it
+
+Minimalist black-and-white style."

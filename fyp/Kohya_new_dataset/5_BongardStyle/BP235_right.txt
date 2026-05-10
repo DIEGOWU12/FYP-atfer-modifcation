@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the rope, if extended, does not reach the other ball' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small circle with a wavy line extending from it
+Top-right: A vertical rectangle with a small circle and a larger circle above it
+Middle-left: A small circle with a wavy line extending from it
+Middle-right: A square with a smaller circle inside it, and a wavy line below it
+Bottom-left: A square with a small circle inside it and a wavy line extending from the top left corner
+Bottom-right: A square with two small circles, one on each side
+
+Minimalist black-and-white style."

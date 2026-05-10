@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Circles on same side of curve' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a curved line with a small loop at the end.
+Top-right: A shape with a wavy line and a small loop near the bottom.
+Middle-left: A shape with a large loop and a smaller loop connected by a curved line.
+Middle-right: A shape with a curved line and a small loop near the top.
+Bottom-left: A shape with a series of connected loops forming a spiral-like pattern.
+Bottom-right: A shape with a large loop and a smaller loop connected by a straight line.
+
+Minimalist black-and-white style."

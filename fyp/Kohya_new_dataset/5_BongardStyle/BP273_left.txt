@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Stays put (both when placed on its top and bottom)' logic.
+"The image shows a 3x2 grid of six black letters:
+
+Top-left: A
+Top-right: M
+Middle-left: F
+Middle-right: J
+Bottom-left: N
+Bottom-right: P
+
+Minimalist black-and-white style."

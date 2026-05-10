@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No entirely white paths from one side to another' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black square
+Top-right: Two diagonal lines forming an 'X'
+Middle-left: A pattern of small white diamonds on a black background
+Middle-right: A shape resembling a lowercase 'm' with horizontal lines at the top and bottom
+Bottom-left: Four short lines radiating outward from a central point, forming a cross-like shape
+Bottom-right: A shape resembling a lowercase 'y' with a longer vertical line extending downward
+
+Minimalist black-and-white style."

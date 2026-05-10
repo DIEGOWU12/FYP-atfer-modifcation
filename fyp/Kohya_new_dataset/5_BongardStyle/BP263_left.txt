@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'At least one ending edge is straight' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an open letter 'C' with a small loop extending from the bottom.
+Top-right: A shape resembling an open letter 'J' with a small loop extending from the top.
+Middle-left: A shape resembling a vertical line with a small loop extending from the middle.
+Middle-right: A shape resembling an open letter 'U' with a small loop extending from the bottom right.
+Bottom-left: A shape resembling a curved line with a small loop extending from the bottom left.
+Bottom-right: A shape resembling an open letter 'B' with a small loop extending from the bottom.
+
+Minimalist black-and-white style."

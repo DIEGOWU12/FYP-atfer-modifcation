@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the end of the right branch is lower than that of the left branch' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a Y with two branches extending upwards and one downwards.
+Top-right: A shape resembling a Y with two branches extending upwards and one downwards, but the branches are slightly more curved.
+Middle-left: A shape resembling a Y with two branches extending upwards and one downwards, with the branches appearing more angular.
+Middle-right: A shape resembling a Y with two branches extending upwards and one downwards, with the branches appearing more curved.
+Bottom-left: A shape resembling a Y with two branches extending upwards and one downwards, with the branches appearing more angular and less symmetrical.
+Bottom-right: A shape resembling a Y with two branches extending upwards and one downwards, with the branches appearing more curved and asymmetrical.
+
+Minimalist black-and-white style."

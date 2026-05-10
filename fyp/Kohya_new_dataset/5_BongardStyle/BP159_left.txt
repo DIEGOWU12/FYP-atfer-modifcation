@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle, a diamond, and two triangles on a diagonal line
+Top-right: Two circles and a square with a diagonal line
+Middle-left: Rectangles and squares with a diagonal line
+Middle-right: Triangles and a square with a diagonal line
+Bottom-left: A hexagon, a star, a circle, and a pentagon with a diagonal line
+Bottom-right: Squares, hexagons, and pentagons with a diagonal line
+
+Minimalist black-and-white style."

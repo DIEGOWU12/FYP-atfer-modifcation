@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'one sorted right' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square divided into four smaller squares, with the top-left and bottom-right squares filled with dots.
+Top-right: A square divided into nine smaller squares, with the center square filled with dots.
+Middle-left: A square divided into sixteen smaller squares, with various patterns of dots in each.
+Middle-right: A square divided into four smaller squares, with the top-right square filled with dots.
+Bottom-left: A square divided into sixteen smaller squares, with various patterns of dots in each.
+Bottom-right: A square divided into sixteen smaller squares, with various patterns of dots in each.
+
+Minimalist black-and-white style."

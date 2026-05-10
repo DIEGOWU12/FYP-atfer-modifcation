@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an elongated 'L' with a sharp angle at the top left.
+Top-right: A square rotated 45 degrees, appearing as a diamond.
+Middle-left: A triangle with one side extended outward, forming an irregular polygon.
+Middle-right: A trapezoid with a slanted top and bottom edge.
+Bottom-left: A rectangle with one corner cut off, creating an irregular quadrilateral.
+Bottom-right: A parallelogram with a slanted top and bottom edge.
+
+Minimalist black-and-white style."

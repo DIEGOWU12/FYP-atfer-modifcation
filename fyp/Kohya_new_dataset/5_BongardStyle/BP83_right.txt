@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'a circle is outside of figures made by crosses' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three plus signs and one circle
+Top-right: Three plus signs and one circle
+Middle-left: One circle and three plus signs
+Middle-right: Four plus signs
+Bottom-left: Five plus signs and one circle
+Bottom-right: Three plus signs and one circle
+
+Minimalist black-and-white style."

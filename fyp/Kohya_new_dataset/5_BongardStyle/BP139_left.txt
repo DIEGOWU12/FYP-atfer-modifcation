@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Similar components that change regularly' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Seven small circles arranged in an arc
+Top-right: A triangular shape with horizontal lines filling its interior
+Middle-left: Five vertical lines of varying heights
+Middle-right: Four diagonal lines radiating from a single point
+Bottom-left: A series of concentric squares creating a layered effect
+Bottom-right: A series of nested rectangular frames
+
+Minimalist black-and-white style."

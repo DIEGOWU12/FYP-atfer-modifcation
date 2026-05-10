@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Smaller section tiles the grid' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of 16 squares arranged in 4 rows and 4 columns, with alternating filled and empty squares.
+Top-right: A grid of 16 circular patterns, each containing a unique design of lines and dots.
+Middle-left: Three wavy lines of varying lengths and curves, evenly spaced.
+Middle-right: A collection of 8 squares, each with a different pattern of smaller squares and lines inside.
+Bottom-left: Four wavy lines of varying lengths and curves, stacked vertically.
+Bottom-right: A grid of 16 squares arranged in 4 rows and 4 columns, each containing a unique figure of a person in motion.
+
+Minimalist black-and-white style."

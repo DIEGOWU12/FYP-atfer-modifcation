@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Discrete quantity' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of interconnected hexagons and lines forming a branching pattern
+Top-right: Four arrows pointing downwards
+Middle-left: Triangles arranged in a triangular formation with alternating orientations
+Middle-right: A cluster of irregular shapes including circles, crosses, and abstract forms
+Bottom-left: A sequence of ovals and a single triangle
+Bottom-right: A set of vertical bars of varying heights
+
+Minimalist black-and-white style."

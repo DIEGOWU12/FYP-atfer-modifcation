@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Circled points are all possible vertices a regular hexagon with a particular side length can take, provided that each of its corners lie on a grid point' logic.
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A hexagonal arrangement of evenly spaced dots forming a dense cluster.
+Top-right: A larger hexagonal pattern with concentric layers of dots, creating a textured appearance.
+Middle-left: A hexagonal design with alternating solid and outlined circles, forming a symmetrical pattern.
+Middle-right: A hexagonal layout of dots with a central cluster and radiating lines, giving a sense of expansion.
+Bottom-left: A hexagonal formation of dots with a gradient effect, transitioning from dense to sparse.
+Bottom-right: A hexagonal pattern with a mix of solid and outlined circles, arranged in a complex, layered design.
+
+Minimalist black-and-white style."

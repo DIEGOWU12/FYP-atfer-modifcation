@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'middle shape is not a triangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a smaller square inside it.
+Top-right: A square with a smaller circle inside it.
+Middle-left: A triangle with a play button symbol inside it.
+Middle-right: A circle with a smaller square inside it.
+Bottom-left: A diamond with a smaller square inside it.
+Bottom-right: A circle with a smaller concentric circle inside it.
+
+Minimalist black-and-white style."

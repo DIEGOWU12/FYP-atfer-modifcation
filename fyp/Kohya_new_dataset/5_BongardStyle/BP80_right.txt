@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'points located at different distances from a cross' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A plus sign and a circle
+Top-right: A plus sign and a circle
+Middle-left: A plus sign and a circle
+Middle-right: A plus sign and a circle
+Bottom-left: A plus sign and a circle
+Bottom-right: A plus sign and a circle
+
+Minimalist black-and-white style."

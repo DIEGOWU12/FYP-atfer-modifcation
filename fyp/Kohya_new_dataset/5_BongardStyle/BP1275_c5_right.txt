@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'there exists no such grouping' logic.
+"The image shows a 3x2 grid of six black abstract symbols:
+
+Top-left: A sequence of alternating circles and triangles
+Top-right: A series of Greek letters (phi, beta, alpha, phi)
+Middle-left: A pattern of vertical bars with two horizontal lines intersecting them
+Middle-right: A repeating star symbol followed by vertical bars
+Bottom-left: A row of small, evenly spaced circles
+Bottom-right: A series of wavy lines resembling a stylized letter 'S'
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Half of the square is filled' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle with a smaller square centered on it
+Top-right: A square divided into two triangles by a diagonal line, with the top triangle shaded
+Middle-left: A diamond shape with a smaller diamond cut out from its center
+Middle-right: A vertical rectangle with a smaller square centered on it
+Bottom-left: A square divided into four smaller squares, with alternating black and white colors
+Bottom-right: A horizontal rectangle with two smaller squares centered on it
+
+Minimalist black-and-white style."

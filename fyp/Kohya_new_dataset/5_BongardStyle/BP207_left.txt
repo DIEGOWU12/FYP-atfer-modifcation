@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Curve ends on the left part of the box' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a backward 'C' with a small protrusion on its lower left side.
+Top-right: A shape that looks like a looped 'G' with a small tail extending from its bottom right.
+Middle-left: A shape similar to a forward 'C' with a small loop at its top left.
+Middle-right: A shape resembling a curved 'S' with a small tail at its bottom right.
+Bottom-left: A shape that looks like a spiral starting from the bottom left and curving upwards.
+Bottom-right: A shape resembling a backward 'C' with a small loop at its top right.
+
+Minimalist black-and-white style.

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Any straight path will hit a black region)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two intersecting lines forming an 'X' shape
+Top-right: A cross with four equal arms
+Middle-left: A vertical line segment
+Middle-right: A square filled with diagonal stripes
+Bottom-left: An equilateral triangle
+Bottom-right: A small 'X' shape formed by two intersecting lines
+
+Minimalist black-and-white style."

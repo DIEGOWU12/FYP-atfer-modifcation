@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The rule is about squares having a certain relationship with their neighbors' logic.
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern featuring various symbols including letters, a circle, and directional arrows.
+Top-right: A pattern composed of letters arranged in a seemingly random sequence.
+Middle-left: A pattern of dots forming a grid with some dots missing.
+Middle-right: A pattern of dots placed at specific intersections within a grid.
+Bottom-left: A pattern of intersecting lines forming a complex network of shapes.
+Bottom-right: A pattern of angular shapes resembling a series of connected Ls.
+
+Minimalist black-and-white style."

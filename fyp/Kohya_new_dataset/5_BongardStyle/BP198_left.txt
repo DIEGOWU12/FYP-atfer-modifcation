@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Stays in' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square followed by two circles
+Top-right: A trapezoid with a dotted pattern extending from its right side
+Middle-left: A hexagram (six-pointed star) with smaller shapes inside it
+Middle-right: A hexagon with stars around it
+Bottom-left: The letter 'A' above the letter 'E', repeated multiple times
+Bottom-right: A mountain-like shape with circular patterns on either side
+
+Minimalist black-and-white style.

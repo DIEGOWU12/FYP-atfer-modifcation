@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Exactly one connected white region for each possible way shapes can overlap' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Interlocking loops forming a complex, symmetrical pattern
+Top-right: A single, irregular, rounded shape resembling a simplified bean
+Middle-left: A cluster of overlapping, abstract, and fluid forms creating a dynamic composition
+Middle-right: Two separate, irregular shapes with one being elongated and the other more rounded
+Bottom-left: A figure-eight-like loop intersecting itself in a minimalist design
+Bottom-right: Overlapping circles creating a Venn diagram-like structure with multiple intersections
+
+Minimalist black-and-white style."

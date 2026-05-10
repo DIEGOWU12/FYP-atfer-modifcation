@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Polygon enclosed in smallest possible circle)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with its base along the bottom of the circle
+Top-right: A diamond shape tilted to the right
+Middle-left: A square rotated 45 degrees
+Middle-right: A parallelogram tilted to the right
+Bottom-left: A sector of a circle with a straight edge along the bottom
+Bottom-right: A sector of a circle with a straight edge along the top
+
+Minimalist black-and-white style."

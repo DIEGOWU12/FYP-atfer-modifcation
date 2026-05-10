@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Small object can glide in the bay' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A stylized, incomplete octagon with a small gap and a circular cutout.
+Top-right: A bold, angular shape resembling a stylized letter 'C' with a rectangular cutout.
+Middle-left: A smooth, curved shape resembling a partial circle with a small dot inside.
+Middle-right: A bold, angular shape resembling a stylized letter 'C' with a small solid dot inside.
+Bottom-left: A stylized, incomplete circle with a small gap and a circular cutout.
+Bottom-right: A bold, angular shape resembling a stylized letter 'C' with a vertical line inside.
+
+Minimalist black-and-white style."

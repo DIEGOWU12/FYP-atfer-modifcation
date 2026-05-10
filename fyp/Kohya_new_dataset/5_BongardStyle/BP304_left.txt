@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'At least one (interior or exterior) right angle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle
+Top-right: A square
+Middle-left: A diamond (rotated square)
+Middle-right: An equilateral triangle
+Bottom-left: A house-like shape with a triangular roof and rectangular base
+Bottom-right: A rightward-pointing arrow
+
+Minimalist black-and-white style."

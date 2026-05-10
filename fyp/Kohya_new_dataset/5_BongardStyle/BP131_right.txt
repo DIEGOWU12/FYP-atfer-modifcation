@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'dots are not vertices of a parallelogram' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small rectangle with a dot inside
+Top-right: A larger rectangle with a dot inside
+Middle-left: A shape resembling an L with a dot inside
+Middle-right: A triangle with a dot inside
+Bottom-left: An oval with a dot inside
+Bottom-right: A fish-like shape with a dot inside
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Solid dark circle not at end' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line of five circles with the middle circle filled in black.
+Top-right: A curved line of five circles with the middle circle filled in black.
+Middle-left: An X-shaped arrangement of five circles with the center circle filled in black.
+Middle-right: A Y-shaped arrangement of five circles with the top circle filled in black.
+Bottom-left: A triangular arrangement of five circles with the bottom center circle filled in black.
+Bottom-right: A curved line of five circles with the second circle from the left filled in black.
+
+Minimalist black-and-white style."

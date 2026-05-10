@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Solid black triangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle pointing up, a circle, and a triangle pointing down.
+Top-right: A filled circle, a circle, a filled circle, and a triangle pointing down.
+Middle-left: A circle, a triangle pointing up, a filled circle, and a triangle pointing down.
+Middle-right: A circle, a filled triangle pointing down, a filled circle, and a triangle pointing down.
+Bottom-left: A triangle pointing up, a filled circle, a triangle pointing down, and a triangle pointing up.
+Bottom-right: A triangle pointing up, a triangle pointing down, and two circles.
+
+Minimalist black-and-white style."

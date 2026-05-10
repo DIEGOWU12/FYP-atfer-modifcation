@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'one row is rearranged to make the other by swapping an even number of object pairs' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two circles above two triangles
+Top-right: Two circles and a square, with a triangle, circle, and square below
+Middle-left: A circle, triangle, and square in the top row, and a square, circle, and triangle in the bottom row
+Middle-right: A circle, triangle, and square in the top row, and a cross, circle, and triangle in the bottom row
+Bottom-left: A circle, triangle, square, and cross in the top row, and a triangle, circle, cross, and square in the bottom row
+Bottom-right: A circle, triangle, square, and cross in the top row, and a circle, square, cross, and triangle in the bottom row
+
+Minimalist black-and-white style."

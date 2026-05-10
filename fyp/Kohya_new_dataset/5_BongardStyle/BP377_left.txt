@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The two objects have similar representations' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cube and a dodecahedron
+Top-right: A hexagon and a pentagon
+Middle-left: Three dots and a cluster of seven dots
+Middle-right: Two interconnected star-like shapes
+Bottom-left: A single star and a cluster of three stars
+Bottom-right: Three interlocking loops resembling a Borromean ring
+
+Minimalist black-and-white style."

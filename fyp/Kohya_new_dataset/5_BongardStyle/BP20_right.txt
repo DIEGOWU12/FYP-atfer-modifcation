@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'dots on opposite bulbs' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a curved line with two small circles at its ends.
+Top-right: A U-shaped form with two small circles at the top corners.
+Middle-left: A shape that looks like a looped figure-eight with two small circles on the left side.
+Middle-right: A wavy, S-like curve with a small circle near the bottom right.
+Bottom-left: A vertical, elongated shape with two small circles at the top and bottom.
+Bottom-right: A complex, irregular shape with multiple curves and a small circle near the bottom right.
+
+Minimalist black-and-white style."

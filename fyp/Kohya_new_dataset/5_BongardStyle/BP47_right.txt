@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'circle inside of the triangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large triangle with a smaller circle inside it.
+Top-right: A large circle with a smaller triangle inside it.
+Middle-left: A large circle with two smaller circles and a small triangle around it.
+Middle-right: A large triangle with a smaller circle and a small triangle around it.
+Bottom-left: Three small triangles arranged in a triangular pattern.
+Bottom-right: A large triangle with a smaller circle inside it, surrounded by three small circles and a small triangle.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Dots collinear with center of circle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with a small dot to its left
+Top-right: A circle with a small dot above and below it
+Middle-left: A circle with a smaller circle inside it, both containing dots
+Middle-right: A circle with a small dot below it
+Bottom-left: A circle with a small dot to its right
+Bottom-right: A circle with two small dots below it
+
+Minimalist black-and-white style."

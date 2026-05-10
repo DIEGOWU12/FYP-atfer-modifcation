@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the two objects have dissimilar representations' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A white dodecahedron
+Top-right: A black infinity symbol
+Middle-left: A black hexagon with a small cluster of dots below it
+Middle-right: A white icosahedron with a small white dodecahedron below it
+Bottom-left: A white complex polyhedron with a black pentagon below it
+Bottom-right: A black star-like shape with a small cluster of dots below it
+
+Minimalist black-and-white style."

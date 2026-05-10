@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'There is a way of grouping elements into (more than one) equal-sized blocks such that no block appears twice' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Four letters arranged in a pattern (ABBA)
+Top-right: A sequence of four symbols (40*404*04)
+Middle-left: A row of alternating symbols and arrows (←→←→←)
+Middle-right: A mix of various symbols including stars and arrows (♠️⭐↓➡️)
+Bottom-left: A series of five asterisks (*****)
+Bottom-right: A pattern of arrows pointing up and down (↑↓↑↓↑↓)
+
+Minimalist black-and-white style."

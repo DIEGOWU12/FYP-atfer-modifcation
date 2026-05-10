@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'an extra copy of something is added' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large black square with a smaller black square attached to its top-right corner
+Top-right: A hollow square with a horizontal line extending from its bottom-left corner
+Middle-left: A collection of various hollow geometric shapes including a square, pentagon, hexagon, and triangle
+Middle-right: A pattern of small black dots arranged in horizontal lines
+Bottom-left: A grid of nine smaller squares, each containing a different pattern of black dots
+Bottom-right: A series of black circles decreasing in size from left to right
+
+Minimalist black-and-white style."

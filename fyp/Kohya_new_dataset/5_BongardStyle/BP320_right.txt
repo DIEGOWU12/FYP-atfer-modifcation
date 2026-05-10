@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the numbers of dots in the two clusters differ a lot' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single dot
+Top-right: A cluster of dots forming a rectangular pattern
+Middle-left: A vertical line of dots
+Middle-right: A small cluster of dots
+Bottom-left: A small cluster of dots with one dot slightly separated
+Bottom-right: A diagonal line of dots
+
+Minimalist black-and-white style."

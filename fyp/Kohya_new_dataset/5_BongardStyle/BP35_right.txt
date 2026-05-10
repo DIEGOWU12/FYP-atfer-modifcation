@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the axis of the hole is perpendicular to the figure axis' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A skewed rectangle with a smaller, centered oval inside.
+Top-right: A horizontal rectangle with a small diamond shape in the center.
+Middle-left: A parallelogram with a vertical line near its center.
+Middle-right: An elongated oval with a horizontal line across its center.
+Bottom-left: An elongated oval with a smaller, centered oval inside.
+Bottom-right: An elongated oval with a smaller, centered oval inside.
+
+Minimalist black-and-white style."

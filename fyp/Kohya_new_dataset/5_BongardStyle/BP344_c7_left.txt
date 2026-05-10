@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shape can tile itself' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black equilateral triangle
+Top-right: A solid black vertical rectangle
+Middle-left: A solid black parallelogram tilted to the right
+Middle-right: A solid black L-shape rotated 90 degrees clockwise
+Bottom-left: A solid black L-shape rotated 90 degrees counterclockwise
+Bottom-right: A solid black spiral shape
+
+Minimalist black-and-white style."

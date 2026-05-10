@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'non-equidiagonal quadrilaterals' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A diamond shape tilted to the side
+Top-right: A parallelogram with a slanted orientation
+Middle-left: A larger, vertically oriented parallelogram
+Middle-right: A smaller, horizontally oriented parallelogram
+Bottom-left: A parallelogram tilted at an angle
+Bottom-right: A small, horizontally oriented parallelogram
+
+Minimalist black-and-white style."

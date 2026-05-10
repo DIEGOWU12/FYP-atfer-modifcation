@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The vibration amplitude increases from left to right' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A continuous, wavy line with a single loop.
+Top-right: A series of three connected, upward and downward curves.
+Middle-left: A zigzag pattern with alternating sharp angles.
+Middle-right: A wavy line with multiple loops and varying amplitudes.
+Bottom-left: A series of small, triangular peaks forming a jagged line.
+Bottom-right: A smooth, undulating wave with gentle curves.
+
+Minimalist black-and-white style."

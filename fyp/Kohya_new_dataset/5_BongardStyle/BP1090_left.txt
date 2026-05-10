@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Top piece can slide into bottom area in such that there is an unbroken black horizontal region' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line with a vertical extension on the left side.
+Top-right: Two squares stacked vertically, with a horizontal line above them.
+Middle-left: A small horizontal line above a taller vertical line, with additional short lines extending from it.
+Middle-right: A series of ascending steps forming a staircase-like pattern.
+Bottom-left: A horizontal line above a cluster of irregular shapes resembling a landscape.
+Bottom-right: A vertical line with a horizontal extension at the bottom, accompanied by smaller vertical lines.
+
+Minimalist black-and-white style."

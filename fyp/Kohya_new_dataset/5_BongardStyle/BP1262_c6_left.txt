@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shapes overlap in every possible way' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Interlocking loops forming a complex, symmetrical pattern
+Top-right: Irregular, organic shape with smooth curves and no intersections
+Middle-left: Two separate, simple oval-like forms with no overlap
+Middle-right: A star-like figure with intersecting lines creating a dynamic, angular design
+Bottom-left: Overlapping circles creating a Venn diagram-like structure with multiple intersections
+Bottom-right: Three interlocking circles forming a classic Venn diagram with a central overlapping area
+
+Minimalist black-and-white style."

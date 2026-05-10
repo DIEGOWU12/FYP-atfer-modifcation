@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Every other side, if extended, passes through one point' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A trapezoid with a horizontal top and bottom, and two non-parallel sides.
+Top-right: A quadrilateral with one side slightly curved inward.
+Middle-left: A shape resembling a stylized animal head with a circular eye and a small droplet below.
+Middle-right: A quadrilateral with one side extending outward in a pointed manner.
+Bottom-left: A jagged, angular shape with sharp points.
+Bottom-right: A wavy, irregular shape with smooth curves.
+
+Minimalist black-and-white style."

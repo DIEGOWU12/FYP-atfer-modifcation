@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Number of objects is one less than sides of each object' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two parallelograms and one rectangle
+Top-right: An oval
+Middle-left: A semicircle
+Middle-right: A triangle with a smaller triangle inside
+Bottom-left: A square with a smaller square inside
+Bottom-right: A V-shape with two small squares at the top corners
+
+Minimalist black-and-white style."

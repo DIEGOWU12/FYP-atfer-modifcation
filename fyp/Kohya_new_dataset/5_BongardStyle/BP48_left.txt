@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Solid dark figures above the outline figures' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle, circle, and square
+Top-right: Squares, a rectangle, and a triangle
+Middle-left: A circle, triangle, square, and another triangle
+Middle-right: Triangles, a circle, a square, and an oval
+Bottom-left: Circles, squares, triangles, and an oval
+Bottom-right: Circles, squares, and triangles
+
+Minimalist black-and-white style."

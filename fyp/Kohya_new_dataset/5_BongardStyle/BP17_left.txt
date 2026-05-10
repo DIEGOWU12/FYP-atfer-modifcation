@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shape with a reflex corner' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A crescent moon shape
+Top-right: A bird-like shape with a curved beak
+Middle-left: A zigzag line resembling a mountain range
+Middle-right: A triangular arrow pointing to the right
+Bottom-left: A parallelogram tilted to the left
+Bottom-right: Two overlapping circles forming an infinity symbol
+
+Minimalist black-and-white style.

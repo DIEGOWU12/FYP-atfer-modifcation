@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(All points (small white circles) on one figure can be glued together to make the other figure)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small circle with a larger circle around it, connected by a curved line.
+Top-right: A spiral shape with a droplet-like form at the center.
+Middle-left: An 'X' shape intersected by a looped line.
+Middle-right: A wavy line followed by a 'Z' shape.
+Bottom-left: A chain-like pattern leading to a spiral.
+Bottom-right: A figure-eight shape with a vertical line extending from it.
+
+Minimalist black-and-white style."

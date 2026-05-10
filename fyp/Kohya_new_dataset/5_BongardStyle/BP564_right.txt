@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'connected segment intersecting boundary of convex hull' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with its base horizontal and apex pointing upwards, intersected by a horizontal line.
+Top-right: An 'X' shape formed by two intersecting diagonal lines.
+Middle-left: A vertical arrow pointing upwards.
+Middle-right: A dollar sign ($).
+Bottom-left: A curved line resembling a checkmark or a partial arc.
+Bottom-right: A hashtag (#) symbol.
+
+Minimalist black-and-white style."

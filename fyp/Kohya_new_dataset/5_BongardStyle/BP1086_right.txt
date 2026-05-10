@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Endpoints of curve have the same height)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tightly coiled spiral with concentric circles
+Top-right: A smooth, continuous wavy line resembling a sine wave
+Middle-left: Two intersecting diagonal lines forming an 'X' shape
+Middle-right: A symmetrical, flowing curve resembling the letter 'W'
+Bottom-left: A simple, open loop with a rounded top and curved bottom
+Bottom-right: A complex, intertwined line forming a tangled knot-like pattern
+
+Minimalist black-and-white style."

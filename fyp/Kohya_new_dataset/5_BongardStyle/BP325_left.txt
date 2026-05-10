@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Left shapes can combine by symmetric difference (XOR' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line and a small, sharp angle
+Top-right: A triangle, a smaller triangle, and a star-like shape
+Middle-left: A large circle, a small circle, and an open circle
+Middle-right: A small triangle, a larger triangle, and a triangle with a thick outline
+Bottom-left: Two squares
+Bottom-right: Three triangles, one with a thick outline
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Circle on the right of the box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three plus signs and one circle
+Top-right: Four plus signs and one circle
+Middle-left: Five plus signs and one circle
+Middle-right: Three plus signs and one circle
+Bottom-left: Two plus signs, one circle, and one plus sign
+Bottom-right: Three plus signs and one circle
+
+Minimalist black-and-white style."

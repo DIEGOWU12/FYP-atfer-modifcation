@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Drawing of platonic solid (regular polyhedron)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tetrahedron
+Top-right: A regular octahedron
+Middle-left: A truncated octahedron
+Middle-right: A dodecahedron
+Bottom-left: A cube
+Bottom-right: A rhombicuboctahedron
+
+Minimalist black-and-white style."

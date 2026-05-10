@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'more outline figures' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square, a triangle, and a circle
+Top-right: A square, a triangle, and another square
+Middle-left: A circle, a triangle, a square, and a triangle
+Middle-right: A circle, a triangle, a square, a triangle, and a circle
+Bottom-left: A square, a circle, a circle, a triangle, and a triangle
+Bottom-right: A circle, a circle, a circle, a triangle, a square, and a triangle
+
+Minimalist black-and-white style."

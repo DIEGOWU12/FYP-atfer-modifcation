@@ -1,10 +1,10 @@
 "The image shows a 3x2 grid of six black geometric shapes:
 
-Top-left: A woven lattice pattern with interlocking diagonal lines forming a continuous, crisscross design.
-Top-right: A fragmented, irregular pattern resembling cracked earth or shattered glass, with jagged, uneven edges.
-Middle-left: A series of wavy, undulating lines that create a rhythmic, flowing texture.
-Middle-right: A honeycomb structure composed of interconnected hexagons, forming a uniform and symmetrical pattern.
-Bottom-left: A cluster of overlapping circles, creating a dense, organic arrangement with varying sizes.
-Bottom-right: A zigzag pattern with sharp, angular lines that alternate direction, producing a dynamic and energetic effect.
+Top-left: Interlocking woven pattern
+Top-right: Irregular cracked or fractured pattern
+Middle-left: Zigzagging wavy lines
+Middle-right: Hexagonal tessellation
+Bottom-left: Honeycomb-like hexagonal pattern
+Bottom-right: Wavy, layered zigzag lines
 
 Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Three points on a straight line' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five scattered dots with no apparent pattern
+Top-right: Six dots arranged in a loose triangular formation
+Middle-left: Four dots forming a small cluster with one dot slightly separated
+Middle-right: Five dots arranged in a horizontal line with one dot above and to the right
+Bottom-left: Six dots arranged in a vertical line with one dot slightly offset below
+Bottom-right: Five dots arranged in a zigzag pattern
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Mouth concave upwards' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A smiling face with a dotted mouth and two small dots above it
+Top-right: A simple face with two dots for eyes and a checkmark-like smile
+Middle-left: A face with a curved line for a mouth and two small dots above it
+Middle-right: A pixelated face with a wide, jagged smile and two small squares above it
+Bottom-left: A face with large, leaf-like shapes for eyes and a dotted mouth
+Bottom-right: A face with a dotted smile and a textured, scribbled area above it
+
+Minimalist black-and-white style."

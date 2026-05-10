@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Five' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized face with a dot for an eye, a curved line for a mouth, and small lines for teeth.
+Top-right: A shape resembling the Chinese character for "five" (五).
+Middle-left: A pentagon with a series of dots along its perimeter.
+Middle-right: A curved line with a few small dots scattered around it.
+Bottom-left: A shape resembling a clock with a circular center and two hands.
+Bottom-right: A crescent moon shape with a square cutout in the middle.
+
+Minimalist black-and-white style."

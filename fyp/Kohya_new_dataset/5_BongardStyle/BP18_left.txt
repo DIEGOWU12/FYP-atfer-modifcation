@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Pinched" shape (drastically thinner somewhere in the middle than on the ends)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A symmetrical bowtie-like shape with two pointed ends.
+Top-right: A vertical hourglass shape with a narrow middle and wider ends.
+Middle-left: A skewed parallelogram with one angle pointing downward.
+Middle-right: A horizontally oriented figure-eight or infinity symbol.
+Bottom-left: A rounded, balloon-like shape with a small loop at the bottom.
+Bottom-right: A small, abstract shape resembling a stylized letter 'P' or a hook.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'polygon stands on vertex' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A hexagon with a smaller circle inside it
+Top-right: A triangle with a small circle above it
+Middle-left: An octagon with a small circle near its top left corner
+Middle-right: A right-angled triangle with a small circle below it
+Bottom-left: A triangle with a small circle above it
+Bottom-right: A quadrilateral with a small circle inside it
+
+Minimalist black-and-white style."

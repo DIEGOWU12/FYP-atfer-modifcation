@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Ghost rectangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square surrounded by a ring of smaller circles
+Top-right: A textured, irregular shape resembling a cluster of dots
+Middle-left: A diamond with diagonal stripes and a smaller square in the center
+Middle-right: A simple, solid square
+Bottom-left: A triangle with a smaller square inside it
+Bottom-right: A square with a corner cut out, creating an L-shape
+
+Minimalist black-and-white style."

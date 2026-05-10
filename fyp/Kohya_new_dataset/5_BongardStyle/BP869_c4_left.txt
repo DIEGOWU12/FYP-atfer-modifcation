@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Approximately symmetric' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'Q' with a curved tail.
+Top-right: A roughly circular, irregular blob-like shape.
+Middle-left: A collection of fragmented, angular pieces scattered in various orientations.
+Middle-right: A spiral composed of concentric circles that tighten towards the center.
+Bottom-left: A rounded, elongated shape with a wider base and a narrower top.
+Bottom-right: Two diagonal lines intersecting near the center, forming an 'X' shape.
+
+Minimalist black-and-white style."

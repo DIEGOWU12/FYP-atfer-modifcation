@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'A dark circle is closer to the outline circle than to the triangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle, a triangle, and a filled circle
+Top-right: A triangle, a filled circle, and a circle
+Middle-left: A filled circle, a circle, and a triangle
+Middle-right: Two circles, a filled circle, and a triangle
+Bottom-left: A filled circle, a circle, and a triangle
+Bottom-right: Two circles and a triangle
+
+Minimalist black-and-white style."

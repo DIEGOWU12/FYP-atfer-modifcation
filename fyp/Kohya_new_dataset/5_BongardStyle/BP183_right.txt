@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'change of curvature close to the middle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A spiral shape with two loops, one larger than the other, both curving inwards.
+Top-right: A wavy, elongated shape with a small loop at the end, resembling a stylized letter 'S'.
+Middle-left: Two intertwined spirals, each with a smaller loop inside a larger one, creating a complex, layered effect.
+Middle-right: A compact, rounded shape with a small, tight spiral at the top and a larger, looser spiral below it.
+Bottom-left: A smooth, flowing curve that loops back on itself, forming a continuous, elegant shape.
+Bottom-right: A dynamic, swirling pattern with multiple loops and curves, giving a sense of movement.
+
+Minimalist black-and-white style."

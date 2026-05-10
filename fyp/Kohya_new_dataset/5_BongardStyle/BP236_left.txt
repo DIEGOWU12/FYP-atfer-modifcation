@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Texture with stripy squiggle' logic.
+"The image shows a 3x2 grid of six black abstract shapes:
+
+Top-left: A jagged, irregular shape with a dense, textured appearance.
+Top-right: A compact, rounded form with a rough, stippled texture.
+Middle-left: A vertical, elongated shape with a fragmented, layered look.
+Middle-right: A horizontal, blocky form with a rough, uneven surface.
+Bottom-left: A short, stubby shape with a textured, almost eroded edge.
+Bottom-right: A rectangular form with a rough, stippled texture and a slightly uneven border.
+
+Minimalist black-and-white style."

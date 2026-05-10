@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'there are no inside figures of the second order' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle containing a square and a circle
+Top-right: A square with a circle and a triangle inside, and a small triangle below
+Middle-left: A circle with a dot, a triangle, and a square inside
+Middle-right: A circle with a triangle inside, and a small square below
+Bottom-left: Three circles and two triangles, one of which is a square
+Bottom-right: A larger triangle containing a smaller triangle inside
+
+Minimalist black-and-white style."

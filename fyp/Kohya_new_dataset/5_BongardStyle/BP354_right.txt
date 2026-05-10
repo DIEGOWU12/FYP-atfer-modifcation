@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Increasing quantity is angular)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal row of five solid black circles.
+Top-right: A diagonal line of five decreasingly sized open circles.
+Middle-left: A wavy, irregular line composed of interconnected, elongated shapes resembling a chain.
+Middle-right: A series of four parallel, slanted lines with varying lengths.
+Bottom-left: A vertical sequence of three open triangles pointing upwards, decreasing in size.
+Bottom-right: A pattern of five vertical bars of increasing height, followed by a shorter bar and a taller bar.
+
+Minimalist black-and-white style."

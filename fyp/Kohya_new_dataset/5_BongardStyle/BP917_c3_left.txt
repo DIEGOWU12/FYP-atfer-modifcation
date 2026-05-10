@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Reversible transformations' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A spiral shape resembling a snail shell
+Top-right: A white square and a black square
+Middle-left: A tree with roots and a square with a smaller square inside it
+Middle-right: A star and two diamond shapes
+Bottom-left: A group of people walking and a square with a smaller square inside it
+Bottom-right: A star and a square with a smaller square inside it
+
+Minimalist black-and-white style."

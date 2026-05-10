@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'two clusters' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved, segmented line forming a partial spiral with two square end caps.
+Top-right: A cluster of five solid black circles and a section of diagonal hatching.
+Middle-left: A dynamic, abstract shape with a mix of smooth curves and jagged edges, accompanied by a single small black dot.
+Middle-right: A chaotic, splattered pattern with irregular black splotches on a white background.
+Bottom-left: A bold, angular shape resembling a stylized animal or creature with a short, dashed line extending from its side.
+Bottom-right: A large, flowing, cursive-like black line forming an abstract, continuous curve.
+
+Minimalist black-and-white style."

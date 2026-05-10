@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Two clusters of three and two that are adjacent' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line with small circular dots along its path
+Top-right: A series of nested, right-angled L-shapes decreasing in size
+Middle-left: A rectangular grid with three vertical columns, each containing five rows of evenly spaced circular dots
+Middle-right: Three curved lines resembling stylized, elongated S-shapes
+Bottom-left: A circle divided into six equal triangular segments, with alternating shaded and unshaded areas
+Bottom-right: A sequence of four connected, curved arrows pointing to the right
+
+Minimalist black-and-white style."

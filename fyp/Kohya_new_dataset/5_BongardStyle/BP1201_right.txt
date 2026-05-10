@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'there is some other triangle made of triangles' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large triangle composed of smaller triangles, with the topmost triangle pointing upwards.
+Top-right: A large triangle composed of smaller triangles, with the bottommost triangle pointing downwards.
+Middle-left: A large triangle composed of smaller triangles, with the topmost triangle pointing upwards and a smaller inverted triangle in the center.
+Middle-right: A large triangle composed of smaller triangles, with the bottommost triangle pointing downwards and a smaller inverted triangle in the center.
+Bottom-left: A large triangle composed of smaller triangles, with the topmost triangle pointing upwards and multiple layers of smaller triangles filling the space.
+Bottom-right: A large triangle composed of smaller triangles, with the bottommost triangle pointing downwards and multiple layers of smaller triangles filling the space.
+
+Minimalist black-and-white style."

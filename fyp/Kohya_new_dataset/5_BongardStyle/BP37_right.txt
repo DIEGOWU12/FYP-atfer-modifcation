@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'circle above triangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle, circle, and square arranged in a triangular formation.
+Top-right: A circle, square, and triangle arranged in a triangular formation.
+Middle-left: A square, circle, and triangle arranged in a triangular formation.
+Middle-right: A square, circle, and triangle arranged in a triangular formation.
+Bottom-left: A square, circle, and triangle arranged in a triangular formation.
+Bottom-right: A circle, square, and triangle arranged in a triangular formation.
+
+Minimalist black-and-white style."

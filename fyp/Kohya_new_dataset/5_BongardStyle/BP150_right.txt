@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'even number of squares' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside it, positioned above a triangle.
+Top-right: Two triangles, one pointing up and the other pointing down, with a small filled triangle between them.
+Middle-left: A large circle with a small circle above it and a triangle below it.
+Middle-right: A square with a smaller square inside it, positioned above a filled square.
+Bottom-left: A triangle with two small circles inside it.
+Bottom-right: A diamond shape with a small circle inside it.
+
+Minimalist black-and-white style."

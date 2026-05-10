@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not all clusters are made of objects of the same texture' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle above a circle, with a square and a circle below.
+Top-right: A triangle above a circle, with three circles and a square below.
+Middle-left: A square above a triangle, with a circle and a square below.
+Middle-right: A triangle above a square.
+Bottom-left: A square above a circle, with a triangle below.
+Bottom-right: Three circles.
+
+Minimalist black-and-white style."

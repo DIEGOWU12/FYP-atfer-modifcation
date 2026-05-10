@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so (fractals are rather tiled by some combination of one another and themselves)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A zigzag pattern with alternating right and left turns
+Top-right: A cross-like shape with four arms extending outward
+Middle-left: A plus sign with additional smaller squares around it
+Middle-right: Two interlocking shapes resembling a chain link
+Bottom-left: An 'H' shape with a square in the center
+Bottom-right: A triangle composed of smaller triangles
+
+Minimalist black-and-white style."

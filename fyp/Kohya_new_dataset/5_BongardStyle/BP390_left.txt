@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Each graph vertex is uniquely defined by its connections (the graph does not admit nontrivial automorphisms)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a star with five points, each connected to a central point.
+Top-right: A shape with a central point connected to four other points, forming a cross-like structure.
+Middle-left: A shape with a central point connected to four other points, forming a square with an additional diagonal connection.
+Middle-right: A shape with a central point connected to three other points, forming a triangle.
+Bottom-left: A shape with a central point connected to four other points, forming a square with an additional diagonal connection.
+Bottom-right: A shape with a central point connected to four other points, forming a square with an additional diagonal connection.
+
+Minimalist black-and-white style."

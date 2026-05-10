@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No dot well within the convex hull' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five dots arranged in a cross pattern
+Top-right: Five dots arranged in a diamond shape
+Middle-left: Four dots forming a square
+Middle-right: Five dots forming a zigzag line
+Bottom-left: Three dots forming a horizontal line
+Bottom-right: Six dots forming a scattered cluster
+
+Minimalist black-and-white style."

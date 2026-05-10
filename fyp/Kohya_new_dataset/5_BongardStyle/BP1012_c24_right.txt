@@ -1,10 +1,10 @@
 "The image shows a 3x2 grid of six black geometric shapes:
 
-Top-left: A grid of rectangular bricks arranged in a staggered pattern.
-Top-right: A tessellation of irregular hexagons and pentagons forming a complex, organic pattern.
-Middle-left: A series of interlocking L-shaped blocks creating a continuous, maze-like design.
-Middle-right: A pattern of irregular, jagged shapes resembling fragmented tiles.
-Bottom-left: A dense arrangement of interconnected zigzag lines forming a continuous, wavy texture.
-Bottom-right: A series of parallel, diagonal lines creating a textured, woven appearance.
+Top-left: Rectangular bricks arranged in a staggered pattern
+Top-right: Irregular hexagonal shapes forming a tessellated pattern
+Middle-left: Interlocking L-shaped pieces creating a continuous design
+Middle-right: Zigzagging lines forming a dynamic, angular pattern
+Bottom-left: Square tiles with interlocking edges creating a puzzle-like appearance
+Bottom-right: Triangular shapes arranged in a repeating, layered pattern
 
 Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'four identical elements' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with rounded corners
+Top-right: A jagged, wavy line resembling a lightning bolt
+Middle-left: An 'X' shape formed by two intersecting lines
+Middle-right: A cross-like shape with circular extensions at each end
+Bottom-left: Four separate circles of varying sizes
+Bottom-right: A series of concentric, curved lines forming a spiral-like pattern
+
+Minimalist black-and-white style."

@@ -1,10 +1,10 @@
-The image shows a 3x2 grid of six black geometric shapes:
+"The image shows a 3x2 grid of six black geometric shapes:
 
-Top-left: A grid of evenly spaced horizontal and vertical lines forming a series of squares.
-Top-right: A pattern of intersecting diagonal lines creating a series of triangles.
-Middle-left: A woven pattern with interlocking lines forming a basket-like texture.
-Middle-right: An irregular, cracked pattern resembling fractured surfaces.
+Top-left: A grid of evenly spaced horizontal and vertical lines forming a simple square pattern.
+Top-right: A network of intersecting diagonal lines creating a series of triangular shapes.
+Middle-left: A woven pattern with interlocking crisscrossing lines forming a basket-like texture.
+Middle-right: An irregular, organic pattern resembling cracked earth or fragmented pieces.
 Bottom-left: A series of wavy, zigzag lines creating a dynamic, flowing effect.
-Bottom-right: A pattern of parallel, angled lines forming a textured, striped appearance.
+Bottom-right: A dense, textured pattern with overlapping, angular lines forming a complex, layered look.
 
-Minimalist black-and-white style.
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'some identical symbols are next to each other on the cube' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a circle inside, surrounded by an 'X' and two triangles.
+Top-right: A circle with an 'X' and two triangles around it, with a square below.
+Middle-left: A square with a circle inside, surrounded by an 'X' and two triangles, with another square below.
+Middle-right: A circle with an 'X' and two triangles around it, with a square below.
+Bottom-left: A triangle with an 'X' and a circle inside, surrounded by an 'X' and a square.
+Bottom-right: A square with a circle inside, surrounded by an 'X' and two triangles.
+
+Minimalist black-and-white style."

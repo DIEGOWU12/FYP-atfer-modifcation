@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Curves are longer than straight lines' logic.
+"The image shows a 3x2 grid of six black abstract shapes:
+
+Top-left: A shape resembling a stylized 'E' with a curved tail.
+Top-right: A shape resembling a stylized 'Z' with a looped end.
+Middle-left: A shape resembling a stylized 'F' with a curved tail.
+Middle-right: A shape resembling a stylized 'T' with a looped end.
+Bottom-left: A shape resembling a stylized 'S' with a looped end.
+Bottom-right: A shape resembling a stylized 'C' with a curled tail.
+
+Minimalist black-and-white style."

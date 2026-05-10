@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'even number of enclosed regions' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A number '85' written in a stylized font
+Top-right: A series of intersecting diagonal lines with the number '7' near the intersection
+Middle-left: An abstract shape resembling an eye with a circular pupil
+Middle-right: A complex geometric figure composed of multiple triangles and rectangles
+Bottom-left: The number '8' with a horizontal line beneath it
+Bottom-right: The number '5' written in a simple, bold style
+
+Minimalist black-and-white style."

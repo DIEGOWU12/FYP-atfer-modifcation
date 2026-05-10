@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Every nonempty region has one box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two small squares side by side, each containing a smaller square inside.
+Top-right: A series of concentric squares, decreasing in size towards the center.
+Middle-left: A series of concentric squares with a small square at the center.
+Middle-right: A series of concentric squares with a small square at the center, and two smaller squares above it.
+Bottom-left: A single large square.
+Bottom-right: Three small squares arranged in a triangular formation.
+
+Minimalist black-and-white style."

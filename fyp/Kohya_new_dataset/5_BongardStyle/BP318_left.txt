@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The numbers of dots can be put into a sequence of consecutive numbers' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three dots forming an equilateral triangle
+Top-right: Three dots in a vertical line
+Middle-left: Six dots arranged in two rows of three
+Middle-right: Four dots forming a square
+Bottom-left: Five dots with one dot separate from the others
+Bottom-right: Four dots forming a diamond shape
+
+Minimalist black-and-white style."

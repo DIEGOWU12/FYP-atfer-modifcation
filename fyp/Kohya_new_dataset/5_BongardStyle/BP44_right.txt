@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'small circles on one arc' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line with a small loop at the end
+Top-right: A wavy line with a small loop at the end
+Middle-left: A curved line with a small loop in the middle
+Middle-right: A wavy line with a small loop in the middle
+Bottom-left: A curved line with a small loop at the bottom
+Bottom-right: A wavy line with a small loop at the bottom
+
+Minimalist black-and-white style.

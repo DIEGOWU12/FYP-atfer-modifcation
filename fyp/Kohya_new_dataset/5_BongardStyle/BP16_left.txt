@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Clockwise spiraling curve' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A simple spiral with a single loop
+Top-right: A larger spiral with multiple loops
+Middle-left: A triangular shape with a smaller triangle inside, resembling a flag
+Middle-right: A square with a smaller square inside, rotated and spiraling inward
+Bottom-left: A complex, organic shape with multiple loops and curves
+Bottom-right: A circular shape with a smaller circle inside, creating a ring-like appearance
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Adding the top two waves yields the bottom wave)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line with a smooth, continuous curve.
+Top-right: A wavy line with a more pronounced and jagged curve.
+Middle-left: A straight horizontal line.
+Middle-right: A wavy line with a gentle, flowing curve.
+Bottom-left: A wavy line with a combination of smooth and jagged curves.
+Bottom-right: A wavy line with a dense, zigzag pattern.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'JPEG image' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Empty white square
+Top-right: Circle
+Middle-left: Curved line with two small loops
+Middle-right: Star
+Bottom-left: Diamond
+Bottom-right: Small dots arranged in a pattern
+
+Minimalist black-and-white style."

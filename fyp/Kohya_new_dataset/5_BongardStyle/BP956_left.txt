@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Nested pairs of brackets' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An empty parenthesis pair ( )
+Top-right: A deeply nested parenthesis structure (((())))
+Middle-left: A sequence of three empty parentheses ((()))
+Middle-right: A mixed nesting pattern (()(()))
+Bottom-left: A combination of nested and sequential parentheses (()(())())
+Bottom-right: A balanced but varied nesting pattern (()())
+
+Minimalist black-and-white style."

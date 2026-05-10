@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Every cluster has two clusters of dots' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small, scattered dots forming an irregular pattern.
+Top-right: A group of dots arranged in a loose, circular formation with a few outliers.
+Middle-left: A dense cluster of dots forming a compact, somewhat rectangular shape.
+Middle-right: A linear arrangement of dots with a slight curve, resembling a gentle arc.
+Bottom-left: A sparse distribution of dots with varying distances between them, creating a scattered appearance.
+Bottom-right: A symmetrical pattern of dots forming a cross-like shape with additional dots around it.
+
+Minimalist black-and-white style."

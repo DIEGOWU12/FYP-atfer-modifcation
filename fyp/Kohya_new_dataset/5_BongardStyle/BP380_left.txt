@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The completed version of the collection is finite' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of squares arranged in rows, with varying numbers of filled squares in each row.
+Top-right: A series of interconnected triangular and polygonal shapes forming a complex, evolving pattern.
+Middle-left: A set of three-dimensional geometric solids, including a tetrahedron, an octahedron, and a cube.
+Middle-right: A collection of molecular-like structures with atoms represented as circles and bonds as lines.
+Bottom-left: A sequence of letters rearranged in different orders, forming various combinations.
+Bottom-right: A grid of squares with some squares filled in, creating a pattern that evolves across the sequence.
+
+Minimalist black-and-white style."

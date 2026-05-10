@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'points inside the figure outline are not on a straight line' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a pointed bottom, containing five dots inside and one dot outside near the top.
+Top-right: An oval shape with two dots inside and two dots outside, one on each side.
+Middle-left: A rectangle with rounded corners, containing four dots inside and one dot outside near the bottom.
+Middle-right: A curved, irregular shape resembling a leaf, containing three dots inside and one dot outside near the top.
+Bottom-left: A shape resembling a stylized letter 'P' or a hook, containing three dots inside and one dot outside near the top.
+Bottom-right: A parallelogram with a slanted orientation, containing four dots inside and one dot outside near the bottom.
+
+Minimalist black-and-white style."

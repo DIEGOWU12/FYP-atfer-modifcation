@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Same transformation applied to circle, triangle, and square' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle, circle, and square
+Top-right: A small triangle, circle, and square
+Middle-left: A triangle, circle, and square
+Middle-right: Two triangles, circle, and square
+Bottom-left: Three triangles, two circles, and square
+Bottom-right: Four irregular shapes resembling clusters
+
+Minimalist black-and-white style."

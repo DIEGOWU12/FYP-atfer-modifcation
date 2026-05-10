@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'one path in maze object' logic.
+"The image shows a 3x2 grid of six black abstract shapes:
+
+Top-left: A tree-like structure with branches extending outward, accompanied by a circular shape and a rectangular block.
+Top-right: A similar tree-like structure with additional abstract elements including a spiral and a cluster of lines.
+Middle-left: A tree-like form with a wavy path leading to a circular shape and a rectangular block.
+Middle-right: A tree-like structure with a circular shape and a cluster of lines, along with a rectangular block.
+Bottom-left: A tree-like form with a wavy path leading to a circular shape and a rectangular block.
+Bottom-right: A tree-like structure with a circular shape and a cluster of lines, along with a rectangular block.
+
+Minimalist black-and-white style."

@@ -1,10 +1,10 @@
 "The image shows a 3x2 grid of six black geometric shapes:
 
-Top-left: A grid of evenly spaced horizontal and vertical lines forming a series of squares.
+Top-left: A grid of evenly spaced horizontal and vertical lines forming squares.
 Top-right: A pattern of intersecting diagonal lines creating a series of triangles.
-Middle-left: A woven pattern with interlocking rectangular shapes, resembling a basket weave.
-Middle-right: An irregular pattern of jagged, fragmented lines forming an abstract, cracked appearance.
-Bottom-left: A tessellation of hexagons arranged in a honeycomb-like structure.
-Bottom-right: A series of wavy, zigzag lines creating a dynamic, flowing texture.
+Middle-left: A woven basket-like pattern with interlocking rectangular shapes.
+Middle-right: An irregular, cracked pattern resembling shattered glass or dried mud.
+Bottom-left: A honeycomb-like structure composed of interconnected hexagons.
+Bottom-right: A zigzag pattern with alternating diagonal lines forming a wavy effect.
 
 Minimalist black-and-white style."

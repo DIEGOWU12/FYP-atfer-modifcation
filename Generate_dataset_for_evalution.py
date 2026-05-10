@@ -8,8 +8,8 @@ from pathlib import Path
 # --- 配置区 ---
 URL = "http://127.0.0.1:7860/sdapi/v1/txt2img"
 REF_IMAGE_PATH = "fyp/Contronet.jpg"  # ControlNet 参考图路径
-INPUT_FOLDER = "prompts_folder"       # 存放 txt 文件的文件夹
-OUTPUT_FOLDER = "generated_results"   # 结果输出文件夹
+INPUT_FOLDER = "Kohya_new_dataset/test/5_BongardStyle"       # 存放 txt 文件的文件夹
+OUTPUT_FOLDER = "FID_results"   # 结果输出文件夹
 
 # 确保输出文件夹存在
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)

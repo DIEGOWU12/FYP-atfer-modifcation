@@ -14,7 +14,7 @@ MAX_RETRIES = 3  # 新增：网络抖动/限流自动重试次数
 
 dashscope.api_key = API_KEY
 
-PROMPT_TEMPLATE = """Please help me to describe the figure using a similar style as follows in a brief way:
+PROMPT_TEMPLATE = """BongardStyle,Please help me to describe the figure using a similar style as follows in a brief way:
 "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: [Shape description]

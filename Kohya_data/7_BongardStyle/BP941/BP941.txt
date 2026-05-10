@@ -1,1 +1,1 @@
-JPEG image vs. PNG image.
+The image shows a 3x4 grid of twelve black figures: Row 1, Left: Empty space; Row 1, Mid-Left: Circle; Row 1, Mid-Right: Empty space; Row 1, Right: Circle; Row 2, Left: Curved line with loops; Row 2, Mid-Left: Star; Row 2, Mid-Right: Curved line with loops; Row 2, Right: Star; Row 3, Left: Square; Row 3, Mid-Left: Small dots arranged in a pattern; Row 3, Mid-Right: Square; Row 3, Right: Small dots arranged in a pattern. Minimalist black-and-white style with rough, hand-drawn or pixelated edges.

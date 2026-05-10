@@ -1,0 +1,1 @@
+Circle: VV; square: VΛ; triangle: ΛΛ ; blank: ΛV vs. circle: ΛΛ; square: ΛV; triangle: VV; blank: VΛ.

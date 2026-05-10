@@ -1,1 +1,0 @@
-BongardStyle, Triangle closer to box corner than any of the circles, black and white geometric 3x2 grid, white background, minimalist.

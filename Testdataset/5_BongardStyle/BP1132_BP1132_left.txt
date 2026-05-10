@@ -1,1 +1,0 @@
-BongardStyle, Circle that passes through points is contained within bounding box, black and white geometric 3x2 grid, white background, minimalist.

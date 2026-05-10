@@ -1,1 +1,0 @@
-BongardStyle, Exactly one point where lines bend at an angle, black and white geometric 3x2 grid, white background, minimalist.

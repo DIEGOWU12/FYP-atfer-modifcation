@@ -1,1 +1,0 @@
-There is a path between any two nodes vs. not so.

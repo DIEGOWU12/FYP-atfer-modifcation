@@ -1,1 +1,0 @@
-BongardStyle, large black region if completed is an ellipse, black and white geometric 3x2 grid, white background, minimalist.

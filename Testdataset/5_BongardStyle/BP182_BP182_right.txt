@@ -1,1 +1,0 @@
-BongardStyle, convex if proximal border points are connected, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,1 +1,0 @@
-BongardStyle, not all clusters are made of objects of the same texture, black and white geometric 3x2 grid, white background, minimalist.

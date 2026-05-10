@@ -1,1 +1,0 @@
-BongardStyle, a shape contains a square if and only if it is a triangle, black and white geometric 3x2 grid, white background, minimalist.

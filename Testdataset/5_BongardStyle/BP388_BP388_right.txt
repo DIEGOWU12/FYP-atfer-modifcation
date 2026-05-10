@@ -1,1 +1,0 @@
-BongardStyle, white dot cannot see (in straight lines) all black points, black and white geometric 3x2 grid, white background, minimalist.

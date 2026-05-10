@@ -1,1 +1,0 @@
-BongardStyle, number of sides minus number of pluses = 4, black and white geometric 3x2 grid, white background, minimalist.

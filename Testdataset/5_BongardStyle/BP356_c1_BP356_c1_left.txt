@@ -1,1 +1,0 @@
-BongardStyle, Object at lower-right fits as n-th item in the top row of objects, where n is the number of dots at lower-left, black and white geometric 3x2 grid, white background, minimalist.

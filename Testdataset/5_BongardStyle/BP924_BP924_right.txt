@@ -1,1 +1,0 @@
-BongardStyle, Polygons where not all sides are different lengths, black and white geometric 3x2 grid, white background, minimalist.

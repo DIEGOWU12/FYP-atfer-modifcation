@@ -1,1 +1,0 @@
-BongardStyle, Ends of line point to the same direction, black and white geometric 3x2 grid, white background, minimalist.

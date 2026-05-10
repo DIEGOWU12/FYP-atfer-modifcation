@@ -1,1 +1,0 @@
-BongardStyle, extensions of segments do not cross at one point, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,1 +1,0 @@
-BongardStyle, Angles either only increase or only decrease as one moves along the curve, black and white geometric 3x2 grid, white background, minimalist.

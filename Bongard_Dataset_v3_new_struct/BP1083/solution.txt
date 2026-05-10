@@ -1,1 +1,0 @@
-Image of Bongard Problem where each left example corresponds intuitively to a right example vs. image of Bongard Problem whose examples do not share this correlation.

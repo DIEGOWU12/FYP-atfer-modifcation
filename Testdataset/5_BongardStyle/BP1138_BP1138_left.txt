@@ -1,1 +1,0 @@
-BongardStyle, Each attribute is shared by every group or none, black and white geometric 3x2 grid, white background, minimalist.

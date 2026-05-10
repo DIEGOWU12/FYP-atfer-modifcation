@@ -1,1 +1,0 @@
-BongardStyle, the circles will not collide if the arrows are their velocities, black and white geometric 3x2 grid, white background, minimalist.

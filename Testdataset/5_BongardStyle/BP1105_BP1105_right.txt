@@ -1,1 +1,0 @@
-BongardStyle, one path in maze object, black and white geometric 3x2 grid, white background, minimalist.

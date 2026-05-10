@@ -1,1 +1,0 @@
-BongardStyle, Rows show all possible ways a certain number of dots can be divided between a certain number of bins, black and white geometric 3x2 grid, white background, minimalist.

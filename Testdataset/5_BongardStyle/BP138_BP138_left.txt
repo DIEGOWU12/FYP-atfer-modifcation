@@ -1,1 +1,0 @@
-BongardStyle, No dot well within the convex hull, black and white geometric 3x2 grid, white background, minimalist.

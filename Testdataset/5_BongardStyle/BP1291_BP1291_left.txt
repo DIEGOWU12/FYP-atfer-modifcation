@@ -1,1 +1,0 @@
-BongardStyle, Black points are the set of vertices that are some shortest-distance away from some white vertex, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,1 +1,0 @@
-BongardStyle, No sequence is repeated twice in a row, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,1 +1,0 @@
-BongardStyle, No straight path from one side of the panel to the other passes through the grey shape without hitting a black region, black and white geometric 3x2 grid, white background, minimalist.

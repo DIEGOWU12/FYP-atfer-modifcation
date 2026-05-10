@@ -1,1 +1,0 @@
-Considering only the ways they are connected, anything that can be said about a given node can be said about every other node vs. not so.

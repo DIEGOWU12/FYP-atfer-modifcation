@@ -1,1 +1,0 @@
-Neighbouring tiles share exactly 1 side vs not so.

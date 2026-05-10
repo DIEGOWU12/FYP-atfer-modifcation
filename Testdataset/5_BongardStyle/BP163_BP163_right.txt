@@ -1,1 +1,0 @@
-BongardStyle, line connecting small shapes intersects large one, black and white geometric 3x2 grid, white background, minimalist.

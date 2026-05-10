@@ -1,1 +1,0 @@
-No same-sized copies of self overlap vs. distinct same-sized copies overlap.

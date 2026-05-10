@@ -1,1 +1,0 @@
-BongardStyle, no grouping of elements into (more than one) equal-sized blocks is palindromic, black and white geometric 3x2 grid, white background, minimalist.

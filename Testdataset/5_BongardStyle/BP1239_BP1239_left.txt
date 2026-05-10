@@ -1,1 +1,0 @@
-BongardStyle, Fractal topologically closed (each white point has a neighborhood of pure white surrounding it), black and white geometric 3x2 grid, white background, minimalist.

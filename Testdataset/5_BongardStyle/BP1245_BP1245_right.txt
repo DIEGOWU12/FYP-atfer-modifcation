@@ -1,1 +1,0 @@
-BongardStyle, either can force connection from left edge to right edge, black and white geometric 3x2 grid, white background, minimalist.

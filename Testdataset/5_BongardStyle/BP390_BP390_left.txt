@@ -1,1 +1,0 @@
-BongardStyle, Each graph vertex is uniquely defined by its connections (the graph does not admit nontrivial automorphisms), black and white geometric 3x2 grid, white background, minimalist.

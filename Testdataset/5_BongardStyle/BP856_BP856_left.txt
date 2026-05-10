@@ -1,1 +1,0 @@
-BongardStyle, Compound shape would hit the dot if rotated, black and white geometric 3x2 grid, white background, minimalist.

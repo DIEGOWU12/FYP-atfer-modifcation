@@ -1,1 +1,0 @@
-BongardStyle, The whole rectangle can be filled in by successively replacing pairs of adjacent rectangles with one, black and white geometric 3x2 grid, white background, minimalist.

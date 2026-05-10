@@ -1,1 +1,0 @@
-BongardStyle, A dark circle is closer to the outline circle than to the triangle, black and white geometric 3x2 grid, white background, minimalist.

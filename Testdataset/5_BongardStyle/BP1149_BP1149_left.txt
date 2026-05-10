@@ -1,1 +1,0 @@
-BongardStyle, Number in the Nth box (from the left) is how many numbers appear N times, black and white geometric 3x2 grid, white background, minimalist.

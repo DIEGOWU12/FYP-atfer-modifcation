@@ -1,1 +1,0 @@
-BongardStyle, Low contrast (no fully black region), black and white geometric 3x2 grid, white background, minimalist.

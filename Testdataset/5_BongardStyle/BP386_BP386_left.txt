@@ -1,1 +1,0 @@
-BongardStyle, Lower shape can be used as a tile to build the upper one, black and white geometric 3x2 grid, white background, minimalist.

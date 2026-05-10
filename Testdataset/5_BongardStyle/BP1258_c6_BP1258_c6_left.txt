@@ -1,1 +1,0 @@
-BongardStyle, It is possible to deduce the contents of any square from the rest, black and white geometric 3x2 grid, white background, minimalist.

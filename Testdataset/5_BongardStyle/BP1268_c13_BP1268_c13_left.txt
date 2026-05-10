@@ -1,1 +1,0 @@
-BongardStyle, Palindromic when elements are grouped into (more than one) equal-sized blocks, black and white geometric 3x2 grid, white background, minimalist.

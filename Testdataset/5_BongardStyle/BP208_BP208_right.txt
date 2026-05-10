@@ -1,1 +1,0 @@
-BongardStyle, all curves spiral clockwise, starting from maximum curvature, black and white geometric 3x2 grid, white background, minimalist.

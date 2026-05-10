@@ -1,1 +1,0 @@
-BongardStyle, Dots touch each other if and only if no large region touches the edges of the box, black and white geometric 3x2 grid, white background, minimalist.

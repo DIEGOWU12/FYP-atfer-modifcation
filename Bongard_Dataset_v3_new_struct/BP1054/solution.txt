@@ -1,1 +1,0 @@
-Ratio of total circles to black circles is a power of two vs. not so.

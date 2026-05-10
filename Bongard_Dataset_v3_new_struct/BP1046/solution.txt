@@ -1,1 +1,0 @@
-More white circles than black circles vs. at least as many black circles as white circles.

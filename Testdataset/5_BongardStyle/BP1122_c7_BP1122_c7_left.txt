@@ -1,1 +1,0 @@
-BongardStyle, Content of any square is an image of the whole panel, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,1 +1,0 @@
-No sequence is repeated twice in a row vs. some sequence is repeated twice in a row.

@@ -1,1 +1,0 @@
-See BP793 "sorts self left vs. sorts self right". See BP944 "sorts every BP on one side vs. doesn't". Adjacent-numbered pages: BP922 BP923 BP924 BP925 BP926 * BP928 BP929 BP930 BP931 BP932

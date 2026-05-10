@@ -1,1 +1,0 @@
-BongardStyle, Top piece can slide into bottom area in such that there is an unbroken black horizontal region, black and white geometric 3x2 grid, white background, minimalist.

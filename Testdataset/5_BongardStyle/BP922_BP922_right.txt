@@ -1,1 +1,0 @@
-BongardStyle, one row is rearranged to make the other by swapping an even number of object pairs, black and white geometric 3x2 grid, white background, minimalist.

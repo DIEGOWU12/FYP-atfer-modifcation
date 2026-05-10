@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Negative slope' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single dot near the top left corner.
+Top-right: Two dots and a hexagon near the top center.
+Middle-left: A small circle, a larger circle, and a dot near the bottom left.
+Middle-right: A dot and a diamond shape near the center right.
+Bottom-left: A small circle and a hexagon near the bottom center.
+Bottom-right: A small circle and a dot near the bottom right.
+
+Minimalist black-and-white style."

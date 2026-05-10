@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pattern of squares and rectangles arranged in a staggered formation.
+Top-right: A complex arrangement of squares and rectangles forming a larger, irregular shape.
+Middle-left: A series of circles and ovals with some containing smaller shapes inside them.
+Middle-right: A pattern of circles and ovals with some containing smaller shapes inside them, arranged in a specific sequence.
+Bottom-left: A network of interconnected dots and lines forming a web-like structure.
+Bottom-right: A repeating pattern of triangles and diamonds arranged in rows.
+
+Minimalist black-and-white style."

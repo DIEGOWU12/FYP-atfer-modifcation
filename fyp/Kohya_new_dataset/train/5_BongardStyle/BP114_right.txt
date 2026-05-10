@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside it, rotated slightly.
+Top-right: Two overlapping squares, one larger and one smaller, both rotated.
+Middle-left: A square with a triangle inside it, all rotated.
+Middle-right: Two overlapping squares, one larger and one smaller, with the smaller square partially inside the larger one.
+Bottom-left: A square with a smaller square inside it, both aligned.
+Bottom-right: Two overlapping squares, one larger and one smaller, with the smaller square fully inside the larger one.
+
+Minimalist black-and-white style."

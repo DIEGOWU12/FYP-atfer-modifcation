@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Ratio of inside to outside identical shapes is constant' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside, surrounded by four circles and four Xs.
+Top-right: A square with a smaller square inside, surrounded by four triangles and four Xs.
+Middle-left: A square with a smaller square inside, surrounded by four triangles and four Xs.
+Middle-right: A square with a smaller square inside, surrounded by four squares and four Xs.
+Bottom-left: A square with a smaller square inside, surrounded by four circles and four Xs.
+Bottom-right: A square with a smaller square inside, surrounded by four squares and four Xs.
+
+Minimalist black-and-white style."

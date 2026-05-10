@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Low contrast (no fully black region)' logic.
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A diagonal gradient transitioning from light to dark with a textured pattern.
+Top-right: A smooth gradient from light to dark with a subtle texture.
+Middle-left: A square with a gradient from light in the center to dark at the edges, featuring a dense texture.
+Middle-right: A diagonal gradient from light to dark with a fine, stippled texture.
+Bottom-left: A vertical gradient from light on the left to dark on the right, with a detailed, speckled texture.
+Bottom-right: A circular gradient from light in the center to dark at the edges, with a consistent, dotted texture.
+
+Minimalist black-and-white style."

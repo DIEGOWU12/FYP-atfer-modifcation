@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle above a horizontal rectangle
+Top-right: Two vertical rectangles with a gap between them
+Middle-left: An inverted triangle above a pentagon
+Middle-right: A star above a smaller pentagon
+Bottom-left: A square above a small circle
+Bottom-right: A semicircle with a vertical line inside
+
+Minimalist black-and-white style."

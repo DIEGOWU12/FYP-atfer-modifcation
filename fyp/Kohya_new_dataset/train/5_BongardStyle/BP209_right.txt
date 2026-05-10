@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'one object is centered at the center of the box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small circle with two intersecting lines forming an 'X' shape
+Top-right: Various sizes of circles and ovals, some solid and some outlined
+Middle-left: A large square with a smaller circle inside it
+Middle-right: Multiple overlapping squares of different sizes, some solid and some outlined, with a small square in the top right corner
+Bottom-left: A small square with a small circle below it and a small 'X' shape below the circle
+Bottom-right: Four small squares arranged in a diamond pattern
+
+Minimalist black-and-white style."

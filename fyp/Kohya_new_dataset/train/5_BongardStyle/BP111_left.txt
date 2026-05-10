@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Middle shape is a triangle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a smaller triangle inside, both pointing upwards.
+Top-right: A circle containing a triangle pointing upwards.
+Middle-left: A rectangle with a triangle inside, pointing upwards.
+Middle-right: A circle containing a smaller triangle pointing upwards.
+Bottom-left: A square with a circle inside, centered.
+Bottom-right: A triangle with a smaller triangle inside, both pointing upwards.
+
+Minimalist black-and-white style."

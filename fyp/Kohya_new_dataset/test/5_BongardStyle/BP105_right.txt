@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle connected to a rectangle via a short line.
+Top-right: A circle and a triangle with a curved line connecting them.
+Middle-left: A square connected to a triangle via a short line.
+Middle-right: Two overlapping ovals forming a figure-eight shape.
+Bottom-left: A vertical line with a horizontal line extending from its top, forming an L-shape.
+Bottom-right: A circle with a triangle inside it, connected by a curved line.
+
+Minimalist black-and-white style."

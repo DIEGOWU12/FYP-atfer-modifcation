@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'drawing of non-platonic solid' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cylinder with a slightly tilted orientation
+Top-right: A triangular prism with a pointed top
+Middle-left: A hexagonal prism with a rectangular base
+Middle-right: A quadrilateral prism with a trapezoidal base
+Bottom-left: A tetrahedron with four triangular faces
+Bottom-right: A rectangular prism with a parallelogram base
+
+Minimalist black-and-white style."

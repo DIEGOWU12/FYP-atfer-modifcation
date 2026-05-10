@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'White background' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical line with a horizontal line intersecting it near the top, resembling the letter 'H'.
+Top-right: A small circle above a horizontal rectangle, with an oval shape below and a diagonal line extending from the rectangle.
+Middle-left: A series of wavy lines forming a zigzag pattern.
+Middle-right: A right triangle with its hypotenuse facing upwards, placed above a horizontal rectangle.
+Bottom-left: A vertical line with a curved line extending from its bottom, resembling a sine wave.
+Bottom-right: Several intersecting diagonal lines of varying lengths and thicknesses.
+
+Minimalist black-and-white style."

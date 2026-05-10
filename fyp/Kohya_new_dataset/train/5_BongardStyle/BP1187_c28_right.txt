@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Smaller section tiles the grid)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pattern of alternating triangles and circles in a linear arrangement.
+Top-right: A sequence of crescents and triangles forming a repeating pattern.
+Middle-left: A design featuring a central star-like shape surrounded by smaller triangular and circular elements.
+Middle-right: A series of X's and O's arranged in a grid-like pattern with varying sizes.
+Bottom-left: A repetitive pattern of vertical lines and small dots creating a textured appearance.
+Bottom-right: A combination of circles and semi-circles forming a symmetrical, decorative motif.
+
+Minimalist black-and-white style."

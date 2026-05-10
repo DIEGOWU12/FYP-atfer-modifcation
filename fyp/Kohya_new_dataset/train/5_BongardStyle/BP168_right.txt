@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'narrow interior, if closed' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two intersecting diagonal lines forming an 'X' shape
+Top-right: A wavy, irregular line with multiple curves and bends
+Middle-left: A branching structure resembling a tree or coral, with a central stem and several offshoots
+Middle-right: A vertical, wavy line composed of multiple connected segments
+Bottom-left: A symmetrical, angular shape with four vertical lines connected by horizontal bars
+Bottom-right: An irregular, organic outline with smooth curves and a complex, open form
+
+Minimalist black-and-white style."

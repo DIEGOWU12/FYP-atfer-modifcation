@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five stars arranged horizontally
+Top-right: A sequence of four diamond shapes followed by two parallelograms
+Middle-left: Alternating circles and diamonds in a horizontal line
+Middle-right: A pattern of three squares, a circle, and another square
+Bottom-left: The letters 'A', 'B', 'C' repeated twice, followed by an 'A'
+Bottom-right: A sequence of arrows pointing up, down, up, and down
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Vertical hatched lines' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with horizontal lines
+Top-right: A rectangle with vertical lines
+Middle-left: An oval with horizontal lines
+Middle-right: A circle with vertical lines
+Bottom-left: A diamond with diagonal lines
+Bottom-right: A triangle with horizontal lines
+
+Minimalist black-and-white style."

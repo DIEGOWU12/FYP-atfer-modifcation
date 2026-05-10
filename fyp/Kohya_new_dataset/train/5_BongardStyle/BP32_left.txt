@@ -1,0 +1,10 @@
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A crescent moon shape
+Top-right: An arrow pointing upwards and to the right
+Middle-left: A four-pointed star
+Middle-right: A triangle with one side longer than the others
+Bottom-left: A smaller crescent moon shape
+Bottom-right: A teardrop shape
+
+Minimalist black-and-white style.

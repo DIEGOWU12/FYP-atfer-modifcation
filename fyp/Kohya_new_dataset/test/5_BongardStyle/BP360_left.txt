@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Order is high (low entropy)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square filled with evenly spaced dots forming a grid pattern.
+Top-right: A square filled with vertical lines creating a striped effect.
+Middle-left: A square filled with horizontal lines creating a striped effect.
+Middle-right: A square filled with irregular, scattered black shapes resembling abstract fragments.
+Bottom-left: A square filled with curved, parallel lines forming a wavy pattern.
+Bottom-right: A square filled with intersecting horizontal and vertical lines creating a grid pattern.
+
+Minimalist black-and-white style."

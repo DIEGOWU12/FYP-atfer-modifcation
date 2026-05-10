@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'straight line not tangent to curve' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line with a diagonal stroke intersecting it
+Top-right: A circular shape with a diagonal stroke intersecting it
+Middle-left: A wavy line with a vertical stroke intersecting it
+Middle-right: A diagonal line with a crosshatch pattern
+Bottom-left: A wavy line with a vertical stroke and an additional curved extension
+Bottom-right: A curved line with a diagonal stroke intersecting it
+
+Minimalist black-and-white style."

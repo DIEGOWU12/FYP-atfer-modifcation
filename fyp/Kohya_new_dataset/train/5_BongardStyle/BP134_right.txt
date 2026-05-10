@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'circle centers are not collinear' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two circles, one larger and one smaller, with the smaller circle partially overlapping the larger one.
+Top-right: Two concentric circles, with the smaller circle centered within the larger one.
+Middle-left: Three small circles scattered in a triangular formation.
+Middle-right: Three overlapping circles forming a Venn diagram-like pattern.
+Bottom-left: A large circle with a small dot near its top edge.
+Bottom-right: Two circles, one larger and one smaller, with the smaller circle partially overlapping the larger one.
+
+Minimalist black-and-white style."

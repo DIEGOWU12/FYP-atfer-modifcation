@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large circle with a small loop extending from its top.
+Top-right: A large circle with a small loop extending from its top right.
+Middle-left: A small circle with a small loop extending from its left side.
+Middle-right: A large circle with a small loop extending from its top right.
+Bottom-left: A small, irregularly shaped curve resembling a partial loop.
+Bottom-right: A small circle with no additional loops or extensions.
+
+Minimalist black-and-white style."

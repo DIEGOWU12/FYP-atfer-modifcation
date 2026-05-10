@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three triangles forming a larger triangle
+Top-right: Two triangles above a 'T' shape
+Middle-left: Two parallelograms and two 'L' shapes
+Middle-right: A rectangle with triangles on each side
+Bottom-left: Irregular shapes forming abstract letters
+Bottom-right: A triangle, checkmark, and star
+
+Minimalist black-and-white style."

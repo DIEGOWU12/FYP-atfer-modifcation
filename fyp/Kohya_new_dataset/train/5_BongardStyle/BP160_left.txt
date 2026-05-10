@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An equilateral triangle with all sides equal and angles approximately 60 degrees.
+Top-right: A scalene triangle with all sides and angles of different measures.
+Middle-left: A right-angled triangle with one angle exactly 90 degrees.
+Middle-right: An isosceles triangle with two sides of equal length and two equal angles.
+Bottom-left: A smaller equilateral triangle, similar to the top-left but reduced in size.
+Bottom-right: A larger right-angled triangle, similar to the middle-left but increased in size.
+
+Minimalist black-and-white style."

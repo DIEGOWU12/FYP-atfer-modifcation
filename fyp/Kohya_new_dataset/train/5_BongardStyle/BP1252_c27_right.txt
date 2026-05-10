@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two intersecting lines forming an 'X' shape
+Top-right: A vertical line segment
+Middle-left: A square filled with diagonal stripes
+Middle-right: An equilateral triangle
+Bottom-left: A plus sign surrounded by four short lines pointing outward
+Bottom-right: A square with three inward-pointing triangular shapes at the bottom
+
+Minimalist black-and-white style."

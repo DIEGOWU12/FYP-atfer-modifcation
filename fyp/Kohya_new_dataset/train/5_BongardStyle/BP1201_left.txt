@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle divided into four smaller triangles by connecting the midpoints of its sides.
+Top-right: A larger triangle containing a smaller inverted triangle in its center, surrounded by six smaller triangles.
+Middle-left: A triangle divided into four smaller triangles, with one of the smaller triangles further subdivided into three even smaller triangles.
+Middle-right: A triangle divided into four smaller triangles, with the bottom right smaller triangle further subdivided into three even smaller triangles.
+Bottom-left: A triangle divided into four smaller triangles, with the central smaller triangle further subdivided into three even smaller triangles.
+Bottom-right: A triangle divided into four smaller triangles, with the bottom left smaller triangle further subdivided into three even smaller triangles.
+
+Minimalist black-and-white style."

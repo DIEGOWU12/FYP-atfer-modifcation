@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Ball will reach edge of bounding box under gravity)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small dot above a short horizontal line
+Top-right: A curved line ending in a dot
+Middle-left: A diagonal line with a small perpendicular line at its lower end
+Middle-right: A curved line intersecting a diagonal line
+Bottom-left: A curved line with a dot near its upper end
+Bottom-right: A circle with a dot inside
+
+Minimalist black-and-white style."

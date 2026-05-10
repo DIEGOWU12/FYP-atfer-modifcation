@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical oval with a small circle below it and a plus sign above the oval.
+Top-right: A horizontal oval with a small circle above it and a plus sign to the right of the oval.
+Middle-left: A horizontal oval with a small circle above it and a plus sign to the left of the oval.
+Middle-right: A horizontal oval with a small circle below it and a plus sign to the right of the oval.
+Bottom-left: A horizontal oval with a small circle to the right of it and a plus sign above the oval.
+Bottom-right: A vertical oval with a small circle below it and a plus sign to the right of the oval.
+
+Minimalist black-and-white style."

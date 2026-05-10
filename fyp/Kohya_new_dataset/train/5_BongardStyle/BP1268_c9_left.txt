@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Palindromic when elements are grouped into (more than one) equal-sized blocks' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three parentheses in a row, with the middle one inverted
+Top-right: A series of five interconnected loops resembling a chain
+Middle-left: A sequence of alternating vertical bars and dots
+Middle-right: Five connected oval shapes in a horizontal line
+Bottom-left: Three triangular shapes pointing upwards
+Bottom-right: A combination of symbols including a star-like shape and other abstract forms
+
+Minimalist black-and-white style."

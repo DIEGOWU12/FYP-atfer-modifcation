@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No dot is too far apart from another dot' logic.
+The image shows a 3x2 grid of six black dotted shapes:
+
+Top-left: Diagonal wavy lines
+Top-right: Two overlapping loops with a tail
+Middle-left: A short horizontal dashed line
+Middle-right: A curved shape resembling a lowercase 'e'
+Bottom-left: Interwoven wavy lines creating a textured pattern
+Bottom-right: A single vertical dashed line
+
+Minimalist black-and-white style.

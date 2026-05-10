@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large circle with a smaller circle inside it and a small dot below the inner circle.
+Top-right: Four squares arranged in a 2x2 pattern, with one square rotated to form a diamond shape.
+Middle-left: Three triangles pointing upwards, with a smaller triangle pointing downwards between them.
+Middle-right: Two triangles pointing upwards and one inverted triangle pointing downwards.
+Bottom-left: A small circle, a short horizontal line, and a small oval.
+Bottom-right: Two circles with a semicircle cut out from each, and a solid circle.
+
+Minimalist black-and-white style."

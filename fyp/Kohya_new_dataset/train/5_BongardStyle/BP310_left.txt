@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside it, surrounded by four small squares at the corners.
+Top-right: A square with a smaller square inside it, surrounded by four small squares at the corners.
+Middle-left: A square with a smaller square inside it, surrounded by four small squares at the corners.
+Middle-right: A square with a smaller square inside it, surrounded by eight small squares arranged in a circular pattern.
+Bottom-left: A square with a smaller square inside it, surrounded by twelve small squares arranged in a circular pattern.
+Bottom-right: A square with a smaller square inside it, surrounded by eight small squares arranged in a circular pattern.
+
+Minimalist black-and-white style."

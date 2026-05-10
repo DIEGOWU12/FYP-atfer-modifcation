@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Number of sides minus number of pluses = 3' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An equilateral triangle
+Top-right: A parallelogram
+Middle-left: A pentagon
+Middle-right: A scalene triangle
+Bottom-left: A regular hexagon
+Bottom-right: A quadrilateral with one right angle
+
+Minimalist black-and-white style."

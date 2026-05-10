@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Two clearly separable groups)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three small, evenly spaced dots forming a triangular pattern.
+Top-right: A collection of irregular, elongated shapes with varying sizes and orientations.
+Middle-left: A cluster of solid black circles of different sizes, densely packed together.
+Middle-right: A scattered arrangement of small, evenly spaced dots creating a sparse pattern.
+Bottom-left: A mix of irregular, organic shapes with varying sizes and orientations, resembling abstract forms.
+Bottom-right: A dense cluster of solid black circles of different sizes, similar to the middle-left but more compact.
+
+Minimalist black-and-white style."

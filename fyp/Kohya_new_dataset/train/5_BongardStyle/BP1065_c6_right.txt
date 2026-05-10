@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 4x4 grid of squares with the center square removed.
+Top-right: Two separate 2x2 grids of squares.
+Middle-left: A pyramid-like structure composed of stacked squares, decreasing in size from bottom to top.
+Middle-right: A large square with a smaller square inside it, and four smaller squares placed around the inner square.
+Bottom-left: A series of concentric squares forming a spiral pattern.
+Bottom-right: A 3x3 grid of squares with the center square removed.
+
+Minimalist black-and-white style."

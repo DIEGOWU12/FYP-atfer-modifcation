@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Identical pairs of symbols are always on opposite sides of the cube (when assembled)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a circle at the top center, an upward-pointing triangle in the middle, and three 'x' marks below the triangle.
+Top-right: A vertical rectangle with two circles at the top and bottom, an upward-pointing triangle in the middle, and two 'x' marks on either side of the triangle.
+Middle-left: A cross-shaped arrangement with a circle at the top center, an upward-pointing triangle in the middle, an 'x' mark to the right, and a circle at the bottom center.
+Middle-right: A vertical rectangle with an 'x' mark at the top left, an upward-pointing triangle in the middle, a circle at the bottom center, and an 'x' mark to the right.
+Bottom-left: A square with an 'x' mark at the top left, an upward-pointing triangle in the middle, an 'x' mark at the bottom left, and a circle at the bottom center.
+Bottom-right: A square with an 'x' mark at the top left, a circle at the top center, an upward-pointing triangle in the middle, an 'x' mark at the bottom left, and another 'x' mark at the bottom right.
+
+Minimalist black-and-white style."

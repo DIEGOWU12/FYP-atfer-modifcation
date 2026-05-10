@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Petals taper off' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a four-pointed star with elongated, curved points.
+Top-right: A shape with three pointed ends, each curving outward.
+Middle-left: A shape resembling an 'X' with rounded corners.
+Middle-right: A shape with a central curve and two smaller curves extending outward.
+Bottom-left: A shape resembling a five-pointed star with sharp, angular points.
+Bottom-right: A shape with intersecting lines forming a complex, abstract pattern.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A checkmark
+Top-right: A smiley face
+Middle-left: A thumbs-up
+Middle-right: A heart
+Bottom-left: A star
+Bottom-right: A crown
+
+Minimalist black-and-white style.

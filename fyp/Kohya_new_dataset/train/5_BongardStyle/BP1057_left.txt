@@ -1,0 +1,10 @@
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 2x2 grid with one square filled in the bottom-left corner.
+Top-right: A 4x4 grid with four squares filled in the top-left corner.
+Middle-left: A solid black square.
+Middle-right: A 3x3 grid with two squares filled in the top-left corner.
+Bottom-left: A 5x5 grid with four squares filled in the bottom-left corner.
+Bottom-right: A 2x2 grid with one square filled in the bottom-right corner.
+
+Minimalist black-and-white style.

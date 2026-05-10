@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'At least one path is a cycle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape with a central vertical line intersected by horizontal lines and small circles at the ends.
+Top-right: A shape with a central horizontal line intersected by vertical lines and small circles at the ends.
+Middle-left: A shape with a central vertical line intersected by horizontal lines, with small circles at the ends and additional intersecting lines.
+Middle-right: A shape with a central horizontal line intersected by vertical lines, with small circles at the ends and additional intersecting lines.
+Bottom-left: A shape with a complex arrangement of intersecting lines and small circles at various points.
+Bottom-right: A shape with a central vertical line intersected by horizontal lines, with small circles at the ends and additional intersecting lines.
+
+Minimalist black-and-white style."

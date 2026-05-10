@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangular prism
+Top-right: A cylinder
+Middle-left: A tetrahedron
+Middle-right: A dodecahedron
+Bottom-left: A cube
+Bottom-right: A pyramid
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Ball touches curve at a point of local minimum downwards' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line forming an upward arc with a dot at the bottom.
+Top-right: A wavy, irregular line with a dot near the end.
+Middle-left: A U-shaped curve with a dot at the bottom center.
+Middle-right: A wavy, undulating line with a dot near the middle.
+Bottom-left: A zigzagging line with a dot near the start.
+Bottom-right: A large, open C-shape with a dot at the bottom.
+
+Minimalist black-and-white style."

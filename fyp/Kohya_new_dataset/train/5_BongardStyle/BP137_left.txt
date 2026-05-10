@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An empty square
+Top-right: A right-angled triangle with dots along its edges
+Middle-left: A stylized letter 'E' composed of horizontal lines and dots
+Middle-right: A trapezoid-like shape with a jagged edge and dots along its perimeter
+Bottom-left: A zigzag or sawtooth shape with dots along its edges
+Bottom-right: A quadrilateral with one curved side and dots along its perimeter
+
+Minimalist black-and-white style."

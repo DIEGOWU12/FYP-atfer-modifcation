@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A jagged, angular shape resembling a stylized letter 'V' with a smaller inverted triangle inside.
+Top-right: A circular pattern composed of concentric circles and dots, divided into four triangular sections.
+Middle-left: A spiral design with alternating black and white squares, creating a sense of depth.
+Middle-right: Two symmetrical, abstract shapes resembling stylized eyes or teardrops, connected by a curved line.
+Bottom-left: A row of simple geometric symbols including a triangle, square, and circle, repeated twice.
+Bottom-right: A combination of vertical stripes and various geometric symbols, including a star, triangle, square, and circle.
+
+Minimalist black-and-white style."

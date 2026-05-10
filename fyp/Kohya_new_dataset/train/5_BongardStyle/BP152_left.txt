@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An irregular oval shape
+Top-right: A scalene triangle with no equal sides
+Middle-left: A pair of intersecting straight lines forming an 'X'
+Middle-right: A parallelogram with opposite sides parallel and equal
+Bottom-left: A pentagon with five sides of varying lengths
+Bottom-right: A curved, irregular shape resembling a semi-ellipse
+
+Minimalist black-and-white style."

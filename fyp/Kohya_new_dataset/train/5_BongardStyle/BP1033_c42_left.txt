@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Left all even' logic.
+"The image shows a 4x2 grid of eight black geometric patterns:
+
+Top-left: A grid of small dots arranged in a 3x3 pattern with a single dot in the center.
+Top-right: A grid of small dots arranged in a 3x3 pattern with a single dot in the top-left corner.
+Middle-left: A grid of small dots arranged in a 3x3 pattern with a single dot in the bottom-left corner.
+Middle-right: A grid of small dots arranged in a 3x3 pattern with a single dot in the center.
+Bottom-left: A grid of small dots arranged in a 3x3 pattern with a single dot in the top-right corner.
+Bottom-right: A grid of small dots arranged in a 3x3 pattern with a single dot in the bottom-right corner.
+
+Minimalist black-and-white style."

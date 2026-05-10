@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'solid dark circle at end' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A zigzag pattern of connected circles with a single circle at the end.
+Top-right: A straight line of connected circles with a single circle at the end.
+Middle-left: A curved line of connected circles forming a gentle arc with a single circle at the end.
+Middle-right: A Y-shaped pattern of connected circles with a single circle at the end of each arm.
+Bottom-left: A cross-like pattern of connected circles with a single circle at the end of each arm.
+Bottom-right: A curved line of connected circles forming a sharp arc with a single circle at the end.
+
+Minimalist black-and-white style."

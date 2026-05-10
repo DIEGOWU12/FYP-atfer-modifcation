@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(One protrusion and one indentation of the same shape)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a rotated L with an additional small protrusion on its right side.
+Top-right: A square with a small curved notch on its top-right corner and a vertical line extending downward from the bottom center.
+Middle-left: A shape with a rectangular base and two smaller rectangles attached to its left side, creating a stepped appearance.
+Middle-right: A shape with a rectangular base and a curved indentation at the bottom center, resembling a simplified letter 'P'.
+Bottom-left: A shape resembling a rotated parallelogram with a small triangular cutout on its bottom-left corner.
+Bottom-right: A wavy, irregular shape with a smooth, flowing outline.
+
+Minimalist black-and-white style."

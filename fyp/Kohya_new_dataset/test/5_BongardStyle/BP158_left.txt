@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A short, thick diagonal line from top-left to bottom-right
+Top-right: A long, thin diagonal line from top-left to bottom-right
+Middle-left: A long, thick diagonal line from top-left to bottom-right
+Middle-right: A short, thick diagonal line from top-right to bottom-left
+Bottom-left: A very short, thin diagonal line from top-left to bottom-right
+Bottom-right: A short, thin diagonal line from top-left to bottom-right
+
+Minimalist black-and-white style."

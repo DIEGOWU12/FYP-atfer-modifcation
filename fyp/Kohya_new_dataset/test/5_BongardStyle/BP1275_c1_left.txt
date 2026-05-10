@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of four characters 'ABBA'
+Top-right: A sequence of five characters '40×40×04'
+Middle-left: A sequence of five symbols '回卍★卍回'
+Middle-right: A sequence of four parentheses '(()())'
+Bottom-left: A sequence of five symbols '⊕⊕⊕↓⊕'
+Bottom-right: A sequence of seven asterisks '*******'
+
+Minimalist black-and-white style."

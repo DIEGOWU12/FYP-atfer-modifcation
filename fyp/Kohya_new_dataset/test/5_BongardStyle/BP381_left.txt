@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line with a consistent amplitude and frequency.
+Top-right: Two wavy lines, one above the other, with varying amplitudes and frequencies.
+Middle-left: A complex wavy line with multiple peaks and troughs of varying heights.
+Middle-right: Two wavy lines, one above the other, with smooth curves and gentle undulations.
+Bottom-left: A highly irregular wavy line with sharp, jagged peaks and troughs.
+Bottom-right: A wavy line with a moderate amplitude and frequency, creating a smooth, flowing pattern.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern of small dots arranged in a square grid.
+Top-right: A pattern of various dot arrangements, including clusters and lines.
+Middle-left: A pattern of dots forming squares and rectangles.
+Middle-right: A pattern of dots arranged in vertical lines.
+Bottom-left: A pattern of dots forming a dense cluster with some empty spaces.
+Bottom-right: A pattern of dots arranged in a mix of lines and clusters.
+
+Minimalist black-and-white style."

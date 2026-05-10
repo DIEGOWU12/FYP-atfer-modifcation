@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A grid of dots arranged in a 3x3 pattern with the center dot missing.
+Top-right: A grid of dots arranged in a 4x4 pattern with various smaller clusters of dots within it.
+Middle-left: A grid of dots arranged in a 3x3 pattern with the center dot and one corner dot missing.
+Middle-right: A grid of dots arranged in a 4x4 pattern with a mix of larger and smaller clusters of dots.
+Bottom-left: A grid of dots arranged in a 3x3 pattern with the center dot and two adjacent corner dots missing.
+Bottom-right: A grid of dots arranged in a 4x4 pattern with a variety of cluster sizes and shapes, including triangles.
+
+Minimalist black-and-white style."

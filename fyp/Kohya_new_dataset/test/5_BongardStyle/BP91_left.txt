@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a Y with three lines extending from a central point.
+Top-right: Two squares, one above the other, with a smaller square tilted between them.
+Middle-left: Three parallel horizontal lines of equal length.
+Middle-right: An equilateral triangle.
+Bottom-left: A circular shape with two triangular cutouts on opposite sides.
+Bottom-right: A curved line with a small circle at each end and a dot in the middle.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'A tail grows from the obtuse end' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A thin, elongated leaf shape with a pointed tip.
+Top-right: A solid black, elongated leaf shape with a pointed tip.
+Middle-left: A thin, curved leaf shape with a pointed tip.
+Middle-right: A thin, elongated leaf shape with a pointed tip and a slight curve.
+Bottom-left: A thin, curved shape resembling a small hook or swirl.
+Bottom-right: A solid black, elongated leaf shape with a pointed tip.
+
+Minimalist black-and-white style.

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'representationally non-uniform' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, layered pattern resembling interlocking L-shaped elements with labels 'P', 'Pr', and 'L'.
+Top-right: A dense, circular cluster of small dots forming a textured sphere.
+Middle-left: A network of intersecting lines and dots creating an abstract, web-like structure.
+Middle-right: A collection of distinct symbols including a peace sign, a sunburst, a fan, and a fork.
+Bottom-left: A chaotic arrangement of letters and symbols, including 'C', 'L', 'E', 'O', and 'X', with additional markings.
+Bottom-right: A minimalist design featuring a central square surrounded by plus signs and dots.
+
+Minimalist black-and-white style."

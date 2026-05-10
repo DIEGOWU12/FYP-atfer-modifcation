@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with its base along the bottom of the circle
+Top-right: A quadrilateral with one side along the circumference of the circle
+Middle-left: A quadrilateral tilted diagonally within the circle
+Middle-right: A quadrilateral with one vertex touching the center of the circle
+Bottom-left: A sector of a circle with a straight edge along the bottom
+Bottom-right: A pentagon inscribed within the circle
+
+Minimalist black-and-white style."

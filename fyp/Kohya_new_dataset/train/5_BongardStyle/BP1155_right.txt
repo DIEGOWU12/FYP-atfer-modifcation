@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'shapes are sorted according to some other rule (or lack thereof)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of various shapes including triangles, diamonds, and arrows.
+Top-right: A mix of diamonds, triangles, and abstract symbols.
+Middle-left: A combination of arrows, squares, and other geometric forms.
+Middle-right: A collection of triangles, diamonds, and angular shapes.
+Bottom-left: A group featuring diamonds, triangles, and small squares.
+Bottom-right: A dense arrangement of triangles, diamonds, and abstract patterns.
+
+Minimalist black-and-white style."

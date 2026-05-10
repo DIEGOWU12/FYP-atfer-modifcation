@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Two unique distances between points' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three dots arranged in a vertical line
+Top-right: Four dots forming a square with one dot at the center
+Middle-left: Four dots forming a square
+Middle-right: Three dots forming a triangle
+Bottom-left: Three dots arranged in a horizontal line
+Bottom-right: Five dots forming a cross shape
+
+Minimalist black-and-white style."

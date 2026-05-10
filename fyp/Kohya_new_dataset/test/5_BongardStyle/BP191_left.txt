@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square cut out from its bottom left corner
+Top-right: An oval with a horizontal line through its center
+Middle-left: A trapezoid with the longer base at the top and a vertical line extending downward from the center of the shorter base
+Middle-right: A parallelogram with a horizontal line through its center
+Bottom-left: A rectangle with a smaller rectangle cut out from its bottom left corner
+Bottom-right: A rounded rectangle with a small rectangular protrusion on its bottom right side
+
+Minimalist black-and-white style."

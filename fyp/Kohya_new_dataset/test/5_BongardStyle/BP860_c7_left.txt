@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical rectangle with a small circle above and a larger circle below
+Top-right: A plus sign composed of four equal-length lines intersecting at the center
+Middle-left: A jigsaw puzzle piece with a protruding tab on the right side
+Middle-right: A shape resembling a printer or copier with a rectangular body and a smaller rectangle on top
+Bottom-left: A bold, uppercase letter 'I'
+Bottom-right: A jigsaw puzzle piece with a tab on the left side and a corresponding hole on the right
+
+Minimalist black-and-white style."

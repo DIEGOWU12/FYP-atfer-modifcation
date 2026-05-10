@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Two of the same object are enclosed in the same space (there is a path between them)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two spiral shapes with varying sizes and orientations
+Top-right: Three triangles of different sizes arranged in a cluster
+Middle-left: Two maze-like patterns with intricate pathways
+Middle-right: A bean-shaped figure with two star-like marks inside
+Bottom-left: A larger maze with a complex network of lines
+Bottom-right: Two oval shapes resembling eyes with small dots inside
+
+Minimalist black-and-white style."

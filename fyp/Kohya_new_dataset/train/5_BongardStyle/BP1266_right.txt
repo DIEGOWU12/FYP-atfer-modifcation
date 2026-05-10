@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Angles either only increase or only decrease as one moves along the curve)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an 'A' with intersecting lines
+Top-right: A shape resembling an 'N' with intersecting lines
+Middle-left: A shape resembling a parallelogram with a diagonal line
+Middle-right: A shape resembling a zigzag or 'N' with a diagonal line
+Bottom-left: A shape resembling an 'X' with intersecting lines
+Bottom-right: A shape resembling a triangle with a smaller triangle inside
+
+Minimalist black-and-white style."

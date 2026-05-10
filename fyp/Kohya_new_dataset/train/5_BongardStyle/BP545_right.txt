@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black rectangular boxes with white text:
+
+Top-left: [Box contains the text 'Red text. vs. blue text']
+Top-right: [Box contains the text 'Is vs. is not']
+Middle-left: [Box contains the text 'In box. vs. not in box']
+Middle-right: [Box contains a white dollar sign symbol]
+Bottom-left: [Box contains the text 'Solution vs. solution']
+Bottom-right: [Box contains the text 'Is Has large black text vs. does not vs. is']
+
+Minimalist black-and-white style."

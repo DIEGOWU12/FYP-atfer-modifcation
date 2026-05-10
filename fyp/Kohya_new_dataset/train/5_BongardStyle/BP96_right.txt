@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'quadrangles' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square filled with diagonal lines from the top-left to the bottom-right.
+Top-right: A diamond shape filled with horizontal lines.
+Middle-left: A triangle pointing upwards, filled with diagonal lines from the top-left to the bottom-right.
+Middle-right: A V-shape pointing downwards, filled with vertical lines.
+Bottom-left: A parallelogram tilted to the right, filled with diagonal lines from the top-left to the bottom-right.
+Bottom-right: A trapezoid with a flat top and a slanted bottom, filled with vertical lines.
+
+Minimalist black-and-white style."

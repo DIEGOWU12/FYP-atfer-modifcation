@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Unconnected circles on a horizontal line' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A central node connected to five surrounding nodes, forming a star-like pattern.
+Top-right: A complex network of interconnected nodes with multiple branches extending outward.
+Middle-left: A central node connected to four surrounding nodes in a cross-like formation, with additional nodes below.
+Middle-right: A cluster of nodes with a dense central area and several branches extending outward.
+Bottom-left: A network of interconnected nodes forming a larger, more complex structure with multiple connections.
+Bottom-right: A central node connected to five surrounding nodes, with additional nodes branching out in a symmetrical pattern.
+
+Minimalist black-and-white style."

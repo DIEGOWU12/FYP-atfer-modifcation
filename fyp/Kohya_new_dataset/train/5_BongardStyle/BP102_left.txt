@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Internal arrows point outward' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pair of curved arrows pointing in opposite directions
+Top-right: A shape resembling a stylized letter 'E' with an additional vertical line extending downward
+Middle-left: Three horizontal lines with small curved extensions at the ends
+Middle-right: Two vertical lines connected by a curved line at the bottom
+Bottom-left: A single curved line forming a partial spiral
+Bottom-right: A complex arrangement of interconnected lines and angles forming an abstract pattern
+
+Minimalist black-and-white style."

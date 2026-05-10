@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'All big individual figures' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy, irregular line with multiple curves
+Top-right: A series of interconnected loops and curves forming an abstract shape
+Middle-left: A perfect circle with a smaller circle inside it
+Middle-right: A single, smooth curve resembling a partial spiral
+Bottom-left: Five vertical lines grouped together, resembling tally marks
+Bottom-right: A jagged, angular shape with sharp turns and a dynamic appearance
+
+Minimalist black-and-white style."

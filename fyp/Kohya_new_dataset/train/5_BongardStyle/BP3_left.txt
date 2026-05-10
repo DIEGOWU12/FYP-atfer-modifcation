@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Hollow outline' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Irregular blob-like shape
+Top-right: Small circle
+Middle-left: Irregular polygon with a pointed corner
+Middle-right: Triangle
+Bottom-left: Small square
+Bottom-right: Small triangle pointing downward
+
+Minimalist black-and-white style."

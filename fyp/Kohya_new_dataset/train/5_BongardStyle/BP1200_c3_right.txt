@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(The whole rectangle can be filled in by successively replacing pairs of adjacent rectangles with one)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle divided into ten equal vertical rectangles.
+Top-right: A square divided into various smaller rectangles and squares, creating a complex pattern.
+Middle-left: A square composed of nested, offset rectangles forming a spiral-like pattern.
+Middle-right: A square divided into several rectangles, with a central horizontal rectangle flanked by vertical ones.
+Bottom-left: A square divided into five rectangles of varying sizes, arranged in a stepped pattern.
+Bottom-right: A small square divided into four smaller squares, with one additional small square attached to the bottom.
+
+Minimalist black-and-white style."

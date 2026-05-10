@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Three parts' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a slanted 'L' with a short diagonal line extending from its top.
+Top-right: A shape resembling an 'X' with two intersecting lines forming a cross.
+Middle-left: A shape resembling a 'Y' with three lines converging at a single point.
+Middle-right: A shape resembling an equilateral triangle.
+Bottom-left: A shape resembling a 'N' with two vertical lines and a diagonal line connecting them.
+Bottom-right: A shape resembling an inverted 'A' with a horizontal line crossing through the middle.
+
+Minimalist black-and-white style."

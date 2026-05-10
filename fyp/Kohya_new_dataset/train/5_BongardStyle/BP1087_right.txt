@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'no such line exists' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two parallel vertical lines
+Top-right: A wavy, irregular line
+Middle-left: A rounded rectangular shape with a smaller circle inside it
+Middle-right: A star shape next to a small circle
+Bottom-left: The greater-than symbol followed by the number 2
+Bottom-right: A lightning bolt shape next to a small circle
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An elongated oval with a smaller oval inside, tilted slightly.
+Top-right: A larger oval with a smaller oval inside, centered.
+Middle-left: A vertical rectangle with a small oval inside, positioned near the top.
+Middle-right: A trapezoid with a small oval inside, oriented vertically.
+Bottom-left: A parallelogram with a small diamond shape inside, tilted.
+Bottom-right: A horizontal rectangle with a small oval inside, centered.
+
+Minimalist black-and-white style."

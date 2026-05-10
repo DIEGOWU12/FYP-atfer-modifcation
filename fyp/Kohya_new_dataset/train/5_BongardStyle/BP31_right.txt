@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'two lines' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single continuous loop with a small tail extending from it.
+Top-right: A shape resembling a figure-eight with a slight twist.
+Middle-left: Two parallel, wavy lines that are slightly curved.
+Middle-right: Two overlapping circles forming a lens-like shape.
+Bottom-left: A continuous, flowing line that loops back on itself.
+Bottom-right: A shape similar to a lowercase 'g' with an additional loop.
+
+Minimalist black-and-white style."

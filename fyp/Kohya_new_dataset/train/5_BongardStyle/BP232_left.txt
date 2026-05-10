@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Box divided into six areas' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a smaller inverted triangle inside it
+Top-right: Two intersecting lines forming an 'X' shape above a circle and a rectangle below
+Middle-left: A square with a smaller square inside it, intersected by a horizontal line
+Middle-right: Two vertical lines with two dots on each line, connected by a horizontal line
+Bottom-left: Three intersecting lines with two dots at the intersection points
+Bottom-right: A triangle with three lines radiating from its center
+
+Minimalist black-and-white style."

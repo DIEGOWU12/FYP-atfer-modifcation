@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an open bracket with a small dot above the top left corner
+Top-right: A diagonal line slanting from the top left to the bottom right
+Middle-left: A simple L-shape with a horizontal line extending to the right and a vertical line descending
+Middle-right: A vertical line with a small horizontal line extending to the right near the bottom
+Bottom-left: An L-shape with a vertical line extending downward and a horizontal line extending to the left
+Bottom-right: Two parallel horizontal lines stacked vertically
+
+Minimalist black-and-white style."

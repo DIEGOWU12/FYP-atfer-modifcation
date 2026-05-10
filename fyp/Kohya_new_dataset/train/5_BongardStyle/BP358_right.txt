@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical line with an arrowhead pointing upwards, connected to a circle at the bottom.
+Top-right: A diagonal line with an arrowhead pointing upwards and to the right, connected to a circle at the bottom.
+Middle-left: A diagonal line with an arrowhead pointing downwards and to the left, connected to a circle at the top.
+Middle-right: A diagonal line with an arrowhead pointing downwards and to the right, connected to a circle at the top.
+Bottom-left: Two vertical lines with arrowheads pointing upwards, each connected to a circle at the bottom.
+Bottom-right: Two vertical lines with arrowheads pointing downwards, each connected to a circle at the top.
+
+Minimalist black-and-white style."

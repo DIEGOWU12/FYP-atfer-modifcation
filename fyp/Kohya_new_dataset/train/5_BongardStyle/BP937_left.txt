@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shapes have equal perimeter' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two upward-pointing triangles
+Top-right: A T-shaped figure with a vertical line and a horizontal line extending to the right
+Middle-left: A circle with a smaller circle inside it, resembling a donut
+Middle-right: A shape resembling a bell with a small circle at the bottom
+Bottom-left: A circle next to a pentagon
+Bottom-right: A diamond next to a parallelogram
+
+Minimalist black-and-white style."

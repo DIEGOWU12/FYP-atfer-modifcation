@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the right branch begins at a lower point than the left branch' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single curved line resembling a lowercase 'y' with a short vertical stem.
+Top-right: A similar shape to the top-left, but with a slightly more pronounced curve and a longer vertical stem.
+Middle-left: A shape resembling an uppercase 'Y' with two branches extending upwards and outwards from a central vertical stem.
+Middle-right: A shape similar to the middle-left, but with the branches curving more sharply and the vertical stem being shorter.
+Bottom-left: A shape resembling a lowercase 'y' with two branches extending upwards and outwards from a central point, forming a wider angle.
+Bottom-right: A shape similar to the bottom-left, but with the branches curving more sharply and the central point higher.
+
+Minimalist black-and-white style.

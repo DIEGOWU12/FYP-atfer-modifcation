@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six white geometric shapes:
+
+Top-left: Three circles and two dots
+Top-right: Two circles and three dots
+Middle-left: Three circles and two dots
+Middle-right: Three circles and two dots
+Bottom-left: Three circles and one dot
+Bottom-right: Three circles and two dots
+
+Minimalist black-and-white style."

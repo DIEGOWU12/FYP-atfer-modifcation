@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six white geometric shapes:
+
+Top-left: Small squares arranged in a scattered pattern
+Top-right: Dots forming a diagonal line with a single dot below
+Middle-left: Squares of varying sizes placed in a cluster
+Middle-right: Rectangles and a square forming an L-shape
+Bottom-left: Triangles pointing upwards, with one pointing downwards
+Bottom-right: Squares and rectangles in a compact arrangement
+
+Minimalist black-and-white style."

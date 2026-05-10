@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five dots arranged in a diamond shape with one dot at the center.
+Top-right: Six dots forming a cluster with one dot slightly separated.
+Middle-left: Four dots forming a vertical line with two dots on top and two below.
+Middle-right: Five dots scattered in a loose, irregular pattern.
+Bottom-left: Five dots arranged in a cross shape with one dot at the center.
+Bottom-right: Six dots forming a compact cluster with one dot slightly separated.
+
+Minimalist black-and-white style."

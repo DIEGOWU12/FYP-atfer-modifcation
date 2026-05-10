@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Three parts' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three vertical lines of varying lengths
+Top-right: A cluster of ten small circles with one highlighted in black
+Middle-left: Two groups of four circles each, with one circle in the bottom group highlighted in black
+Middle-right: Six circles arranged in two rows of three
+Bottom-left: Seven circles arranged in a horizontal line
+Bottom-right: Five circles arranged in a horizontal line with three additional circles below them
+
+Minimalist black-and-white style."

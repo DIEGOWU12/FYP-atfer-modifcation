@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square containing various symbols including arrows, a circle, and letters.
+Top-right: A square with abstract shapes resembling puzzle pieces and curved lines.
+Middle-left: A grid with scattered black dots on a white background.
+Middle-right: A square filled with intricate patterns of swirls, circles, and angular shapes.
+Bottom-left: A grid with irregular black shapes forming a complex pattern.
+Bottom-right: A grid with evenly spaced black dots arranged in a uniform pattern.
+
+Minimalist black-and-white style."

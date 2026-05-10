@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of five alternating solid and outlined triangles pointing right
+Top-right: A sequence of seven alternating solid and outlined circles
+Middle-left: A sequence of five alternating solid and outlined squares
+Middle-right: The letters 'A', 'B', 'C' repeated twice
+Bottom-left: A sequence of five alternating upward and downward arrows
+Bottom-right: A sequence of five alternating solid and outlined diamonds
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Exactly one connected white region for each possible way shapes can overlap' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Interlocking loops forming a complex, symmetrical pattern
+Top-right: A single, smooth, heart-like curve
+Middle-left: Irregular, overlapping loops creating a chaotic, abstract shape
+Middle-right: Two intersecting loops forming an 'X' shape with rounded ends
+Bottom-left: Multiple overlapping circles creating a dense, circular pattern
+Bottom-right: Three interlocking circles forming a triangular arrangement
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a comma with a small dot at the curved end.
+Top-right: A shape resembling a backward 'C' with a small dot at the open end.
+Middle-left: A shape resembling a figure-eight with a small dot at the intersection.
+Middle-right: A shape resembling a lowercase 'g' with a small dot at the bottom.
+Bottom-left: A shape resembling a rounded square with a small dot at the top left corner.
+Bottom-right: A shape resembling a lowercase 's' with a small dot at the top.
+
+Minimalist black-and-white style."

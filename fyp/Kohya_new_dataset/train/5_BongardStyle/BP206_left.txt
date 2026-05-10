@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Curve ends in a roughly up or down direction' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line resembling a lowercase 'e' with a small loop at the top.
+Top-right: A small, simple curve resembling a lowercase 'c'.
+Middle-left: A shape that looks like a lowercase 'g' with a small horizontal line extending from its left side.
+Middle-right: A larger, more open curve resembling a lowercase 'g' with a prominent loop.
+Bottom-left: A combination of two shapes, resembling a lowercase 'p' with an additional small loop above it.
+Bottom-right: A vertical line with a small curve at the top, resembling a lowercase 'l'.
+
+Minimalist black-and-white style."

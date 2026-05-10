@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside, rotated and surrounded by four corner squares.
+Top-right: A symmetrical shape resembling a four-pointed star with rounded edges.
+Middle-left: A cluster of small squares forming an irregular pattern.
+Middle-right: A shape composed of two squares, one larger and one smaller, with the smaller square partially overlapping the larger one.
+Bottom-left: A symmetrical design with curved lines and circular patterns.
+Bottom-right: Abstract, flowing lines creating a dynamic, organic form.
+
+Minimalist black-and-white style."

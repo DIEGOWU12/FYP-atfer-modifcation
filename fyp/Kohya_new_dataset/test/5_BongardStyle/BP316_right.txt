@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'no path is a cycle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex arrangement of intersecting lines forming multiple angles and a small circle near the center.
+Top-right: A series of horizontal and vertical lines with a single circle near the top right corner.
+Middle-left: A mix of straight lines and curves, with two circles positioned near the center.
+Middle-right: A pattern of intersecting lines with a single circle near the center.
+Bottom-left: A combination of straight lines and a small circle near the bottom left corner.
+Bottom-right: A design featuring intersecting lines with a single circle near the top right corner.
+
+Minimalist black-and-white style."

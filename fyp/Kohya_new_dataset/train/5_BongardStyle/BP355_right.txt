@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'fractal iteration based on 1-D (line segments)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of angular, interconnected lines forming a complex, abstract pattern.
+Top-right: A series of connected, angular shapes resembling a zigzag path with a small cluster of dots at the end.
+Middle-left: Two large, angular brackets pointing inwards, with a wavy line extending from the right bracket.
+Middle-right: Two large, angular brackets pointing outwards, with a wavy line extending from the left bracket.
+Bottom-left: Two large, angular brackets pointing inwards, with a wavy line extending from the left bracket.
+Bottom-right: Two large, angular brackets pointing outwards, with a wavy line extending from the right bracket.
+
+Minimalist black-and-white style."

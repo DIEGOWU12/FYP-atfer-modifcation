@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An empty white square
+Top-right: A tilted square
+Middle-left: A diagonal line
+Middle-right: Three small black dots
+Bottom-left: A solid black circle
+Bottom-right: A 3D cube
+
+Minimalist black-and-white style."

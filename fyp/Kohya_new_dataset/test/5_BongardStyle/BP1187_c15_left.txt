@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of 16 squares arranged in 4 rows and 4 columns, with alternating filled and empty squares.
+Top-right: A grid of 16 star-like shapes arranged in 4 rows and 4 columns, with one shape having a unique pattern.
+Middle-left: Three wavy lines of varying lengths and orientations.
+Middle-right: A collection of 8 squares with different patterns inside, including solid, striped, and dotted designs.
+Bottom-left: Three wavy lines of varying lengths and orientations, similar to the middle-left but with different spacing.
+Bottom-right: A grid of 16 squares arranged in 4 rows and 4 columns, each containing a unique abstract design.
+
+Minimalist black-and-white style."

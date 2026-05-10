@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'perpendicular bisectors meet at the orthocenter' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a smaller triangle inside it, sharing one vertex.
+Top-right: A triangle divided into three smaller triangles by lines from the vertices to a central point.
+Middle-left: A right-angled triangle with a smaller right-angled triangle inside it, sharing the right angle.
+Middle-right: A triangle with a smaller triangle inside it, sharing one side.
+Bottom-left: A triangle divided into two smaller triangles by a line from one vertex to the midpoint of the opposite side.
+Bottom-right: A shape resembling a sailboat, with a vertical line and a diagonal line forming a triangular area.
+
+Minimalist black-and-white style."

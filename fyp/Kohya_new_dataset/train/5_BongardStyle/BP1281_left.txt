@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Circled points are all possible vertices an equilateral triangle with a particular side length can take, provided that each of its corners lie on a grid point' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle composed of smaller circles with alternating solid and outlined patterns.
+Top-right: A triangle made of solid black dots arranged in a triangular formation.
+Middle-left: A triangle formed by circles with alternating solid and outlined patterns, creating a textured appearance.
+Middle-right: A triangle composed of solid black dots with a gradient effect from dense to sparse.
+Bottom-left: A triangle made of alternating solid and outlined circles, forming a checkerboard-like pattern.
+Bottom-right: A triangle composed of solid black dots with a gradient effect from dense to sparse, similar to the middle-right but with a different arrangement.
+
+Minimalist black-and-white style."

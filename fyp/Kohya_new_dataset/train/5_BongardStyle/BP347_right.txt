@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'all shapes have something in common' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of various triangles, circles, and abstract shapes scattered randomly.
+Top-right: A pattern of triangles in different orientations and sizes, some filled and some outlined.
+Middle-left: A group of evenly spaced, outlined triangles pointing in the same direction.
+Middle-right: An intricate arrangement of overlapping triangles and other geometric shapes, creating a complex design.
+Bottom-left: A mix of octagons and irregular polygons, some filled and some outlined.
+Bottom-right: A combination of circles, triangles, and abstract shapes, including a yin-yang symbol, arranged in a seemingly random pattern.
+
+Minimalist black-and-white style."

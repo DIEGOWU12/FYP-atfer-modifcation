@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Inverted symmetry" present' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside, surrounded by four corner squares.
+Top-right: A pattern of stacked squares forming a stepped pyramid shape.
+Middle-left: A square with a smaller square and a small bird-like shape inside.
+Middle-right: A checkerboard pattern of alternating black and white squares.
+Bottom-left: A symmetrical design resembling a butterfly with dotted patterns.
+Bottom-right: Curved lines forming abstract shapes on a split background.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two triangles pointing in opposite directions
+Top-right: Three circles with an 'X' in the center
+Middle-left: A mix of small shapes including a heart, triangle, and circle
+Middle-right: A cluster of scattered circles
+Bottom-left: A combination of triangles, circles, and an 'O'
+Bottom-right: A mix of circles and squares
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'texture with blotchy squiggle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of irregular, textured strokes forming a dense, abstract pattern.
+Top-right: A solid, rectangular block with a rough, uneven edge, appearing almost like a smudged ink blot.
+Middle-left: A series of horizontal, jagged lines creating a textured, layered effect.
+Middle-right: A vertical, elongated shape with a rough, uneven surface, resembling a smudged or eroded form.
+Bottom-left: A compact, textured cluster of strokes with a somewhat rounded, organic appearance.
+Bottom-right: A solid, rectangular block similar to the top-right, but with a slightly more defined and less smudged edge.
+
+Minimalist black-and-white style."

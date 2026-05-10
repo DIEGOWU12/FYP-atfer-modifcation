@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(One large shape and two smaller identical ones)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller triangle attached to its bottom right corner
+Top-right: A circle with a smaller concentric circle inside it
+Middle-left: Three diagonal lines forming a checkmark pattern
+Middle-right: Two horizontal rectangles stacked vertically with a small dot below them
+Bottom-left: A curved shape resembling a stylized letter 'S' with three small circles above it and one below
+Bottom-right: A large square with a smaller square and two small rectangles attached to its bottom right corner
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'a cycle exists' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A heart-shaped loop with an arrow indicating clockwise direction.
+Top-right: A vertical oval with an arrow pointing upwards.
+Middle-left: Two vertical ovals side by side, each with an arrow pointing downwards.
+Middle-right: A wavy, irregular loop with an arrow indicating clockwise direction.
+Bottom-left: A shape resembling a lowercase 'p' with an arrow pointing to the right.
+Bottom-right: A complex, intertwined loop with multiple arrows indicating various directions.
+
+Minimalist black-and-white style."

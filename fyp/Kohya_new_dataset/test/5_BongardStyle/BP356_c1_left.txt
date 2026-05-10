@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three vertical lines with two horizontal lines intersecting them
+Top-right: A bar chart with varying heights of bars and a single dot below it
+Middle-left: A series of small dots and a star-like shape
+Middle-right: A row of small circles and a larger cluster of dots
+Bottom-left: A pattern of small dots and a complex geometric shape
+Bottom-right: A series of arrows pointing in different directions and a curved line
+
+Minimalist black-and-white style."

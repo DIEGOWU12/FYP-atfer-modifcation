@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square
+Top-right: An equilateral triangle
+Middle-left: A right triangle
+Middle-right: A regular hexagon
+Bottom-left: A stylized letter 'M'
+Bottom-right: A parallelogram
+
+Minimalist black-and-white style."

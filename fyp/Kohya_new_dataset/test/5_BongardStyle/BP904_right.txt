@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Four L-shaped figures arranged in a square pattern
+Top-right: A horizontal row of five small squares
+Middle-left: Six L-shaped figures forming two rows of three
+Middle-right: Nine L-shaped figures arranged in a 3x3 grid
+Bottom-left: Twelve L-shaped figures forming four rows of three
+Bottom-right: Five L-shaped figures arranged in a T-shape
+
+Minimalist black-and-white style."

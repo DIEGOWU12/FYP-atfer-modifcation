@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(The tightest-curved section, out of all sections of curve that make a complete turn (360 degrees), contains an x-crossing point)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line with a small loop at the bottom
+Top-right: A vertical line with a horizontal line extending to the right and a small loop at the end
+Middle-left: A complex curve forming a spiral-like shape with a small loop at the bottom
+Middle-right: A horizontal line with a small loop at the end
+Bottom-left: A curved line forming a spiral shape with a small loop at the bottom
+Bottom-right: A complex curve forming a large spiral shape with a small loop at the end
+
+Minimalist black-and-white style."

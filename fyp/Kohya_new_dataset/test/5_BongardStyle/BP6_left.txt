@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An outline of an equilateral triangle
+Top-right: A solid black right-angled triangle
+Middle-left: A solid black parallelogram
+Middle-right: A small solid black triangle
+Bottom-left: An outline of a right-angled triangle
+Bottom-right: A solid black isosceles triangle
+
+Minimalist black-and-white style."

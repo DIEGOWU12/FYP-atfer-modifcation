@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shades of green' logic.
+"The image shows a 3x2 grid of six green geometric shapes:
+
+Top-left: Dark forest green square
+Top-right: Bright lime green square
+Middle-left: Deep emerald green square
+Middle-right: Black square
+Bottom-left: Pale mint green square
+Bottom-right: Soft sage green square
+
+Minimalist green-and-black style."

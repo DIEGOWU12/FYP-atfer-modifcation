@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of squares and dots forming an irregular shape with a prominent square at the top left.
+Top-right: A vertical arrangement of squares and dots, with a larger square at the top and smaller elements below.
+Middle-left: A complex arrangement of squares and dots, with a central square surrounded by smaller elements.
+Middle-right: A simple horizontal line of squares and dots, with a single square at the end.
+Bottom-left: A single horizontal rectangle with a dot to its right.
+Bottom-right: A cluster of squares and dots, with a central square and additional elements around it.
+
+Minimalist black-and-white style."

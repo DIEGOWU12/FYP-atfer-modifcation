@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(A "chess piece" that moves as shown may reach every square)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with four circles at its corners and one circle in the center.
+Top-right: A square with three circles at the top corners and one circle at the bottom center.
+Middle-left: A square with one circle in the center.
+Middle-right: A square with one circle in the top left corner and two circles below it.
+Bottom-left: A square filled with five circles arranged in a cross pattern.
+Bottom-right: A square with five circles, one in each corner and one in the center.
+
+Minimalist black-and-white style."

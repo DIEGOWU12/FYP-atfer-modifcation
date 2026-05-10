@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'A circle is at the left of the cavity if you look from inside the figure' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rectangular shape with a protruding tab on the top right and a corresponding hole on the bottom left.
+Top-right: A parallelogram with a protruding tab on the bottom right and a corresponding hole on the top left.
+Middle-left: A circular shape with a protruding tab on the bottom left and a corresponding hole on the top right.
+Middle-right: A circular shape with a protruding tab on the top right and a corresponding hole on the bottom left.
+Bottom-left: A triangular shape with a protruding tab on the bottom right and a corresponding hole on the top left.
+Bottom-right: A square shape with a protruding tab on the bottom right and a corresponding hole on the top left.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single dot
+Top-right: Three dots forming a small triangle with an additional dot below it
+Middle-left: A single dot above a cluster of four dots
+Middle-right: A cluster of nine dots forming a larger triangle
+Bottom-left: Two dots above a cluster of three dots
+Bottom-right: A cluster of ten dots forming a larger triangle with an additional dot below it
+
+Minimalist black-and-white style."

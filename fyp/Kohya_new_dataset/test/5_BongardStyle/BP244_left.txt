@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical rectangle composed of five squares stacked vertically.
+Top-right: A diagonal line of five squares extending from the top-left to the bottom-right corner.
+Middle-left: A shape resembling a 'V' made up of four squares, with the point at the bottom center.
+Middle-right: A shape resembling an 'L' made up of four squares, with the longer side on the right.
+Bottom-left: A checkerboard pattern of alternating black and white squares.
+Bottom-right: A shape resembling a 'T' made up of four squares, with the longer side on the bottom.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Angles either only increase or only decrease as one moves along the curve' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a tilted triangle with intersecting lines.
+Top-right: A shape with a zigzag line and a diagonal line crossing it.
+Middle-left: A shape composed of two overlapping, curved lines forming an angular pattern.
+Middle-right: A shape with three intersecting lines forming a triangular outline with a diagonal cross.
+Bottom-left: A shape with a vertical line and two angled lines creating a partial triangular form.
+Bottom-right: A solid triangular shape with a diagonal line inside it.
+
+Minimalist black-and-white style."

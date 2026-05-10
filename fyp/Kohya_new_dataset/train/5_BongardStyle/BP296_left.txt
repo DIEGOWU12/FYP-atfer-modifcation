@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'All three sizes are present' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large square with smaller squares and dots scattered around it.
+Top-right: A large square with smaller squares and dots arranged in a more dispersed pattern.
+Middle-left: A large square surrounded by smaller squares and dots, with some squares overlapping.
+Middle-right: A large square with smaller squares and dots placed in a more compact arrangement.
+Bottom-left: A large square with smaller squares and dots scattered around, creating a balanced layout.
+Bottom-right: A large square with smaller squares and dots arranged in a sparse pattern.
+
+Minimalist black-and-white style."

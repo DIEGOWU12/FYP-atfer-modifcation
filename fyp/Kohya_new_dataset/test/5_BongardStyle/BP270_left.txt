@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black characters:
+
+Top-left: T
+Top-right: F
+Middle-left: L
+Middle-right: S
+Bottom-left: +
+Bottom-right: Q
+
+Minimalist black-and-white style."

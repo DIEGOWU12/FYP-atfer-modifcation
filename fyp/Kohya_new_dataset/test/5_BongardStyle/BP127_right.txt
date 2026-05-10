@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three circles of varying sizes, with one smaller circle inside a larger one.
+Top-right: Two circles, one above the other, with a smaller circle to the right of the top one.
+Middle-left: A single lightning bolt shape.
+Middle-right: A large circle containing a smaller circle with a horizontal line through it.
+Bottom-left: A collection of various shapes including circles, a diamond, and a small square.
+Bottom-right: A square containing a zigzag line, with a small square and a diamond outside the square.
+
+Minimalist black-and-white style."

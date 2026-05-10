@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Correct' logic.
+"The image shows a 3x2 grid of six abstract geometric patterns:
+
+Top-left: A 3x3 grid with various shapes including triangles, squares, and circles, with one square highlighted.
+Top-right: A sequence of three rows showing a pattern transformation from a single shape to multiple shapes.
+Middle-left: A vertical arrangement of black and white dots of varying sizes.
+Middle-right: A cross-like shape transforming into a 3D cube.
+Bottom-left: A set of L-shaped and rectangular blocks with arrows indicating movement.
+Bottom-right: A sequence of shapes including diamonds, circles, and triangles, with a transformation pattern.
+
+Minimalist black-and-white style."

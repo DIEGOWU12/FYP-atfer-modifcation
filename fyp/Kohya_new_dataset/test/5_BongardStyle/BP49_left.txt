@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with three small dots inside and four surrounding it.
+Top-right: A square with two small dots inside and four surrounding it.
+Middle-left: A triangle with three small dots inside and four surrounding it.
+Middle-right: A small circle with two small dots inside and two surrounding it, next to a larger circle with two small dots inside and four surrounding it.
+Bottom-left: An oval with three small dots inside and four surrounding it.
+Bottom-right: A circle with two small dots inside and four surrounding it.
+
+Minimalist black-and-white style."

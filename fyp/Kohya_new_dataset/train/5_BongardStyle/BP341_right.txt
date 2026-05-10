@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'both increasing and decreasing border line' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a semicircle with a flat base.
+Top-right: A stepped, irregular bar graph-like shape.
+Middle-left: A jagged, mountain-like pattern with sharp peaks and valleys.
+Middle-right: A smooth, ascending slope from left to right.
+Bottom-left: A solid, symmetrical triangular shape.
+Bottom-right: A dense, vertical line pattern resembling a forest or noise.
+
+Minimalist black-and-white style."

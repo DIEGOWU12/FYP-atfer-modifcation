@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Line perpendicular to one side of the object' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A downward-pointing triangle with a vertical line above it
+Top-right: A semicircle with a vertical line to its left
+Middle-left: A complex shape resembling a mountain with a downward arrow pointing to its peak
+Middle-right: A skewed parallelogram with a diagonal line extending from its top left corner
+Bottom-left: A pentagon with a diagonal line connecting two non-adjacent vertices
+Bottom-right: A jagged, irregular shape with a short horizontal line extending from its bottom right
+
+Minimalist black-and-white style."

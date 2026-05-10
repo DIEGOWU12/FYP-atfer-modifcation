@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'circumference longer than length of everything else' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large circle with a small square inside it.
+Top-right: A small circle with a square tangent to its right side.
+Middle-left: A small circle with a line segment extending from its top left.
+Middle-right: A small circle with a diagonal line passing through it.
+Bottom-left: A small circle with a vertical line segment below it.
+Bottom-right: A large circle with a right triangle inside it, sharing the circle's diameter as one of its sides.
+
+Minimalist black-and-white style."

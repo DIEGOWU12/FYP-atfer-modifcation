@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of five irregular, angular shapes resembling abstract letters or symbols.
+Top-right: A repeating pattern of circles and diamonds in an alternating sequence.
+Middle-left: A series of four interconnected, angular shapes forming a continuous line.
+Middle-right: The letters 'A', 'B', 'C' repeated twice in a linear arrangement.
+Bottom-left: A vertical sequence of arrows pointing up and down alternately.
+Bottom-right: A horizontal sequence of triangles pointing right.
+
+Minimalist black-and-white style."

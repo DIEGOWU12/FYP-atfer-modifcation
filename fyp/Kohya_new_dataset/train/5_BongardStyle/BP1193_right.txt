@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'short, long, long, short' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an L with a short horizontal line extending to the left and a longer vertical line extending upwards.
+Top-right: A shape resembling a V with two lines meeting at a point and extending outwards.
+Middle-left: A shape resembling an inverted L with a short vertical line extending downwards and a longer horizontal line extending to the left.
+Middle-right: A shape resembling a right angle with a short horizontal line extending to the right and a longer vertical line extending downwards.
+Bottom-left: A shape resembling an L with a short horizontal line extending to the left and a longer vertical line extending downwards.
+Bottom-right: A shape resembling a V with two lines meeting at a point and extending outwards.
+
+Minimalist black-and-white style."

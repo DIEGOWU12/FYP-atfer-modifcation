@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'all ending edges are curved' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A zigzagging line with three connected segments and four endpoints.
+Top-right: A shape resembling a question mark with a loop at the bottom.
+Middle-left: A horizontal line with two bends, creating a stepped appearance.
+Middle-right: A curved line forming an incomplete circle with a small gap.
+Bottom-left: A U-shaped curve with a straight horizontal segment at the top.
+Bottom-right: A circular shape with a small gap, resembling a partial ring.
+
+Minimalist black-and-white style."

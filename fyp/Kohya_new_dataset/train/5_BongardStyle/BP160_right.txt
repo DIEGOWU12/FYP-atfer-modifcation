@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A quadrilateral with no parallel sides
+Top-right: A rectangle
+Middle-left: A rhombus
+Middle-right: A parallelogram
+Bottom-left: A trapezoid with one pair of parallel sides
+Bottom-right: A parallelogram
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line forming an incomplete circle with a short straight line extending from its top.
+Top-right: A curved line forming an incomplete circle with a short straight line extending downward from its center.
+Middle-left: A diagonal line with a small curve at one end.
+Middle-right: A curved line forming an incomplete circle with a short straight line extending diagonally from its bottom right.
+Bottom-left: A large curved line forming an incomplete circle with a short straight line extending from its left side.
+Bottom-right: The number '2' written in a cursive style.
+
+Minimalist black-and-white style."

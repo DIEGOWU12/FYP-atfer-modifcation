@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'large angles between segments' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two intersecting diagonal lines forming an 'X' shape
+Top-right: Three lines, one horizontal and two diagonal, creating a 'V' shape with a line through it
+Middle-left: A vertical line intersected by a short horizontal line near the top
+Middle-right: Two parallel horizontal lines intersected by a diagonal line
+Bottom-left: Three lines, one horizontal and two diagonal, forming a 'Z' shape
+Bottom-right: Three lines, one vertical and two diagonal, creating a 'N' shape
+
+Minimalist black-and-white style."

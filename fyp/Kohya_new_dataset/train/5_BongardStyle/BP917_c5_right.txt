@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'non-reversible transformations' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid with four insect-like shapes, including a fly and a beetle.
+Top-right: A grid with two squares and two stars, one square is shaded.
+Middle-left: A grid with three abstract shapes resembling organic forms.
+Middle-right: A grid with three zebra-like patterns and one solid shape.
+Bottom-left: A grid with a crescent, a circle, and a cross-like shape.
+Bottom-right: A grid with various dot patterns, including clusters and lines.
+
+Minimalist black-and-white style."

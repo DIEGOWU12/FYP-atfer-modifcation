@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Object thinner at top' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A layered, tree-like shape with three distinct sections.
+Top-right: A pointed, triangular shape with a flat base.
+Middle-left: A wavy, irregular shape resembling a stylized leaf or flame.
+Middle-right: A rounded, pentagonal shape with a flat bottom.
+Bottom-left: A stepped, rectangular shape with a wider base and narrower top.
+Bottom-right: A symmetrical, tree-like shape with multiple branches.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'One' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small equilateral triangle
+Top-right: A small circle
+Middle-left: A diamond (rotated square)
+Middle-right: A larger circle
+Bottom-left: A plus sign (+)
+Bottom-right: A horizontal rectangle
+
+Minimalist black-and-white style."

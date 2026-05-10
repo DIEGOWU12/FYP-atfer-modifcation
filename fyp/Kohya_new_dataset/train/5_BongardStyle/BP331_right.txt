@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex polyhedron with multiple triangular faces
+Top-right: A series of stacked, overlapping parallelograms forming a stepped pattern
+Middle-left: A layered structure composed of vertical and horizontal lines creating a textured appearance
+Middle-right: A simple cube with visible edges and vertices
+Bottom-left: A transparent cube with internal lines suggesting depth
+Bottom-right: A sphere with a stippled texture giving it a three-dimensional look
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six text-based comparisons:
+
+Top-left: [Text comparison description]
+Top-right: [Text comparison description]
+Middle-left: [Text comparison description]
+Middle-right: [Text comparison description]
+Bottom-left: [Text comparison description]
+Bottom-right: [Text comparison description]
+
+Minimalist black-and-white style."

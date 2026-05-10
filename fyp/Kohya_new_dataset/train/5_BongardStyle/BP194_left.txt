@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with diagonal stripes
+Top-right: A pattern of concentric circles
+Middle-left: A triangle within vertical lines
+Middle-right: A triangle surrounded by a textured, speckled pattern
+Bottom-left: A triangle composed of plus signs
+Bottom-right: A triangle within horizontal lines
+
+Minimalist black-and-white style."

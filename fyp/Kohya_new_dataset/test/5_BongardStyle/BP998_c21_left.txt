@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'X "X _' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of irregular, abstract shapes including circles, lines, and squiggles.
+Top-right: A series of repeating patterns featuring circles, triangles, and diamond shapes.
+Middle-left: A grid of small, evenly spaced squares arranged in a 3x3 pattern.
+Middle-right: A variety of symbols including circles, triangles, and arrows, some with additional markings.
+Bottom-left: A mix of numbers, letters, and geometric shapes like triangles and parallelograms.
+Bottom-right: A set of decorative elements including stars, hearts, and cloud-like shapes.
+
+Minimalist black-and-white style."

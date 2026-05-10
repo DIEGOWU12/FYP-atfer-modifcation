@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pentagon with a small circle inside it near the top vertex.
+Top-right: A triangle with a small circle inside it near the top vertex.
+Middle-left: A hexagon with a small circle inside it near the top vertex.
+Middle-right: A rectangle with a small circle inside it near the top vertex.
+Bottom-left: A circle with a vertical line inside it near the bottom.
+Bottom-right: A parallelogram with a small circle attached to its top right corner.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three dots forming a vertical line
+Top-right: Four dots forming a diagonal line
+Middle-left: Four dots forming a horizontal line
+Middle-right: Three dots forming a right angle
+Bottom-left: Five dots forming a cross shape
+Bottom-right: Four dots forming a zigzag pattern
+
+Minimalist black-and-white style."

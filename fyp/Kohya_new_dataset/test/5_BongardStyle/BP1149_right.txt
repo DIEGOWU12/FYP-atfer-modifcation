@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle composed of alternating black dots and white spaces
+Top-right: A solid black square
+Middle-left: A horizontal rectangle divided into two equal squares, with one square containing two black dots
+Middle-right: A horizontal rectangle composed of alternating black dots and white spaces
+Bottom-left: A horizontal rectangle composed of alternating black dots and white spaces
+Bottom-right: A horizontal rectangle composed of alternating black dots and white spaces
+
+Minimalist black-and-white style."

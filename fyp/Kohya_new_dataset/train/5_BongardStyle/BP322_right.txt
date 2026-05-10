@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'more than one outer outline' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle pointing left and a solid circle
+Top-right: A spiral, a wavy line, and a face with eyes and a mouth
+Middle-left: Various shapes including a triangle, circle, diamond, star, letter 'O', letter 'X', letter 'S', and a curved line
+Middle-right: A circle with a smaller circle inside and a curved line
+Bottom-left: A small circle and a larger circle with a triangle inside
+Bottom-right: Two wavy lines resembling an 'S' shape
+
+Minimalist black-and-white style."

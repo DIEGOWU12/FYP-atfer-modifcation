@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'accelerating change in quantity, left-to-right' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of vertical bars of varying heights, some filled with horizontal lines.
+Top-right: A sequence of circles, alternating between solid and outlined, with one shaded circle.
+Middle-left: Three horizontal bars of different lengths, with the middle bar filled with dots.
+Middle-right: A spiral pattern composed of nested squares, each rotated slightly to form a continuous line.
+Bottom-left: A set of vertical bars of increasing height from left to right.
+Bottom-right: A series of vertical bars with small dots placed at various heights within them.
+
+Minimalist black-and-white style."

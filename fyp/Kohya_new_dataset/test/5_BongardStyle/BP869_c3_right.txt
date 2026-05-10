@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two vertical lines with a horizontal line connecting their top ends, resembling a bracket.
+Top-right: A wavy line that curves downward and then upward, ending in a small loop.
+Middle-left: A cluster of small, scattered dots forming an irregular pattern.
+Middle-right: A shape resembling a right angle with a short horizontal line extending from the bottom of the vertical line.
+Bottom-left: A three-dimensional cube viewed from a perspective that shows three of its faces.
+Bottom-right: A tree with a thick trunk, spreading branches, and roots extending into the ground.
+
+Minimalist black-and-white style."

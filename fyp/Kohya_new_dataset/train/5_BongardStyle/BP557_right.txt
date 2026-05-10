@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single diagonal line intersecting a horizontal line below it
+Top-right: Two vertical lines above a horizontal line
+Middle-left: An 'A' shape formed by two diagonal lines and a horizontal line
+Middle-right: Two diagonal lines crossing each other
+Bottom-left: Two parallel diagonal lines
+Bottom-right: Three diagonal lines forming a triangular shape
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six red geometric shapes:
+
+Top-left: A red triangle
+Top-right: A red circle
+Middle-left: A red square
+Middle-right: A red curved line
+Bottom-left: A red oval
+Bottom-right: A red zigzag line
+
+Minimalist red-and-white style."

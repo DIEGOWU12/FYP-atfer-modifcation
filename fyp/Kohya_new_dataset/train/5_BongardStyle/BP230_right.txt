@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two overlapping triangles
+Top-right: A rectangle with an 'X' inside
+Middle-left: A triangle with a horizontal line below it
+Middle-right: A triangle with an 'X' and a dot below it
+Bottom-left: A parallelogram with a diagonal line through it
+Bottom-right: A rectangle with two diagonal lines inside
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Extensions of segments cross at one point' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two intersecting diagonal lines and one horizontal line below them
+Top-right: One short horizontal line above two intersecting diagonal lines
+Middle-left: One long horizontal line above two diagonal lines pointing downwards
+Middle-right: Three diagonal lines pointing in various directions
+Bottom-left: Two diagonal lines pointing upwards with a short horizontal line below them
+Bottom-right: Three diagonal lines pointing in various directions
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small circle
+Top-right: A vertical line with a circle above and two squares below
+Middle-left: A larger circle containing a smaller square inside
+Middle-right: A square rotated 45 degrees with a circle inside
+Bottom-left: Two squares stacked vertically with a small circle to the right
+Bottom-right: A circle with a star-like shape inside
+
+Minimalist black-and-white style."

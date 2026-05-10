@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside it, both aligned and centered.
+Top-right: A square with a circle inside it, and a triangle composed of smaller triangles to the right.
+Middle-left: A cross shape with four arms extending from a central point.
+Middle-right: A square with a smaller square inside it, rotated 45 degrees, and a patterned square to the right.
+Bottom-left: Two triangles pointing in opposite directions, one above the other.
+Bottom-right: A square with a smaller square inside it, and a patterned cross to the right.
+
+Minimalist black-and-white style."

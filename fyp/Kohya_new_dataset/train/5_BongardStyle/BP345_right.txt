@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rounded rectangle with a flat bottom
+Top-right: A circle with a small cylindrical protrusion on top
+Middle-left: A square with a semicircle attached to its bottom right corner
+Middle-right: A semicircle with a flat bottom
+Bottom-left: A square with a small circular protrusion at its bottom center
+Bottom-right: A small square with a small circle directly below it
+
+Minimalist black-and-white style."

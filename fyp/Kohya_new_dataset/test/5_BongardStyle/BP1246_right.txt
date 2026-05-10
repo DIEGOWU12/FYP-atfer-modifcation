@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square and a triangle
+Top-right: Three triangles of varying sizes
+Middle-left: A square with four triangles pointing outward
+Middle-right: Nine circles arranged in a 3x3 grid
+Bottom-left: A 'T' shape and a triangle
+Bottom-right: Three connected L-shaped figures
+
+Minimalist black-and-white style."

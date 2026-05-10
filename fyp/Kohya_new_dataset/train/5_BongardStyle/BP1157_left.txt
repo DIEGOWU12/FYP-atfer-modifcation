@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a diagonal line and a smaller square inside it, alongside a square divided into four smaller squares.
+Top-right: Two cloud-like shapes with an 'X' mark, and a curved arrow pointing to the right.
+Middle-left: A series of dots arranged in a pattern, with a grid of small squares below.
+Middle-right: A grid of squares above, and a pattern of small squares below.
+Bottom-left: Triangles and stars arranged in a pattern, with a triangle and star below.
+Bottom-right: Dots arranged in a pattern, with a row of dots below.
+
+Minimalist black-and-white style."

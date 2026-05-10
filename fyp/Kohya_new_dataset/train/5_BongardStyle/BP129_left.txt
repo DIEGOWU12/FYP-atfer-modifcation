@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Indentation on protrusion' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a comma with a small tail
+Top-right: A shape resembling a mushroom with a rounded cap and a stem
+Middle-left: A shape resembling a tree with a rounded canopy and a trunk
+Middle-right: A shape resembling a circle with two small protrusions at the bottom
+Bottom-left: A shape resembling a pentagon with a small tail
+Bottom-right: A shape resembling an L with a small protrusion at the corner
+
+Minimalist black-and-white style."

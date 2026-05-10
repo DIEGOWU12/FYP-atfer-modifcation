@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A quadrilateral with an inscribed triangle pointing upwards.
+Top-right: A pentagon with an inscribed triangle pointing upwards.
+Middle-left: A hexagon with an inscribed triangle pointing upwards.
+Middle-right: A hexagon with a small square in the center.
+Bottom-left: A hexagon with a small square near the bottom left corner.
+Bottom-right: A pentagon with a small square near the bottom right corner.
+
+Minimalist black-and-white style."

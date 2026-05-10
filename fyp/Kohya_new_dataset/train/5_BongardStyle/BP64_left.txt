@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An oval shape with a small 'x' mark to its left and a small 'o' mark below it.
+Top-right: An oval shape with a small 'o' mark above it and a small 'x' mark to its right.
+Middle-left: An oval shape with a small 'x' mark above it and a small 'o' mark to its left.
+Middle-right: An oval shape with a small 'o' mark above it and a small '+' mark to its right.
+Bottom-left: A small circular shape with a small 'o' mark above it and a small '+' mark below it.
+Bottom-right: An oval shape with a small 'x' mark above it and a small 'o' mark below it.
+
+Minimalist black-and-white style."

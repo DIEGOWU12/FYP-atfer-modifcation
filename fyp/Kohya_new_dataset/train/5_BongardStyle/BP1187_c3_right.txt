@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Smaller section tiles the grid)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pattern featuring a combination of circles, triangles, and the Greek letter phi (φ) arranged in a specific sequence.
+Top-right: A series of abstract shapes including what appear to be stylized letters or symbols, possibly representing a form of cryptic or symbolic language.
+Middle-left: A grid of small, repeating shapes consisting of circles, triangles, and lines, creating a dense, patterned texture.
+Middle-right: A collection of irregular, abstract shapes that resemble a mix of organic forms and geometric elements, scattered across the space.
+Bottom-left: A set of distinct symbols including stars, triangles, and tree-like figures, each with unique characteristics and orientations.
+Bottom-right: A group of circular and triangular shapes, some filled and others outlined, arranged in a balanced composition.
+
+Minimalist black-and-white style."

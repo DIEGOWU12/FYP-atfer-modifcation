@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Discrete points intersecting boundary of convex hull' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A five-pointed star
+Top-right: A vertical line with a short horizontal line extending to the right near the top
+Middle-left: A zigzag pattern resembling the letter 'W'
+Middle-right: A plus sign
+Bottom-left: A horizontal line with a short vertical line extending downward near the center
+Bottom-right: A curved line resembling the letter 'C'
+
+Minimalist black-and-white style."

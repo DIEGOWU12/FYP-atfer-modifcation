@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'One circle passes through the center of the other circle' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two overlapping circles of different sizes
+Top-right: A large circle with a smaller circle inside it
+Middle-left: A small circle partially overlapping a larger circle
+Middle-right: A large circle with a smaller circle inside it, offset from the center
+Bottom-left: Two overlapping circles of similar size
+Bottom-right: A large circle with a small circle inside it, offset from the center
+
+Minimalist black-and-white style."

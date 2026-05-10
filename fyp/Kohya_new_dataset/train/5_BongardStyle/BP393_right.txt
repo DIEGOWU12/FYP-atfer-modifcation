@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'incorrect' logic.
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A 3x3 grid of squares and circles, with the bottom-right square highlighted.
+Top-right: A sequence of arrows pointing right, followed by a sequence of dots increasing in number.
+Middle-left: A pattern of various-sized circles and dots within a rectangular frame.
+Middle-right: A sequence of L-shaped blocks leading to a 3D cube.
+Bottom-left: A sequence of L-shaped blocks with an arrow pointing to a smaller L-shape.
+Bottom-right: A sequence of shapes including diamonds, circles, and squares, followed by a sequence of triangles.
+
+Minimalist black-and-white style."

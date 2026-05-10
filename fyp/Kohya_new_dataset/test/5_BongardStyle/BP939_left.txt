@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two intersecting lines forming an 'X' shape
+Top-right: A large circle with a smaller filled circle inside it, and a separate small filled circle
+Middle-left: An inverted triangle with a horizontal line through its center
+Middle-right: Two parallel vertical lines intersected by two diagonal lines
+Bottom-left: Multiple intersecting lines radiating from a central point, creating a starburst pattern
+Bottom-right: Lines radiating from a single point, converging on a rectangular shape
+
+Minimalist black-and-white style."

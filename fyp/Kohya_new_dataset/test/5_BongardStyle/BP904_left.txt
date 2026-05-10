@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three vertical lines with a horizontal line connecting the top and bottom of each vertical line.
+Top-right: Four vertical lines with a horizontal line connecting the top and bottom of each vertical line.
+Middle-left: Six vertical lines with a horizontal line connecting the top and bottom of each vertical line.
+Middle-right: Five vertical lines with a horizontal line connecting the top and bottom of each vertical line.
+Bottom-left: Seven vertical lines with a horizontal line connecting the top and bottom of each vertical line.
+Bottom-right: Eight vertical lines with a horizontal line connecting the top and bottom of each vertical line.
+
+Minimalist black-and-white style."

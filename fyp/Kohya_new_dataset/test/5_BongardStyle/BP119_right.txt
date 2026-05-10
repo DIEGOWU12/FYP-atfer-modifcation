@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A thick, incomplete circle with a gap at the top
+Top-right: A thin, incomplete semicircle with a straight bottom edge
+Middle-left: A small, solid circle
+Middle-right: A square with rounded corners
+Bottom-left: A thick, incomplete circle with a gap at the bottom and a small line extending from the gap
+Bottom-right: A thin, incomplete circle with a gap at the top
+
+Minimalist black-and-white style."

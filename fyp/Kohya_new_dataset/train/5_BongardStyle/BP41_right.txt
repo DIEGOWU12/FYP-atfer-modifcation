@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'outline circles not on one straight line' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Six small black dots and one white star-like shape
+Top-right: Four small black dots, two white circles, and one white star-like shape
+Middle-left: Five small black dots, one white circle, and one white star-like shape
+Middle-right: Five small black dots and three white circles
+Bottom-left: Five small black dots and one white star-like shape
+Bottom-right: Four small black dots, two white circles, and one white star-like shape
+
+Minimalist black-and-white style."

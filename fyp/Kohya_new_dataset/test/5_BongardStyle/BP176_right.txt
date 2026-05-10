@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'line that connects dots avoiding obstacles is long' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Irregular, elongated shapes with small circular protrusions
+Top-right: Smooth, rounded shapes with varying sizes and orientations
+Middle-left: Elongated, wavy shapes with a few small circular elements
+Middle-right: Small, scattered, rounded shapes with a few larger ones
+Bottom-left: Curved, elongated shapes with a mix of smooth and rough edges
+Bottom-right: Smooth, rounded shapes with a few elongated elements
+
+Minimalist black-and-white style."

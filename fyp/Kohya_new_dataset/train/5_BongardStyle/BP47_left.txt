@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle containing a smaller triangle
+Top-right: A small triangle next to a larger circle with a smaller triangle inside
+Middle-left: Three triangles and a circle, with one triangle pointing downward
+Middle-right: A circle with a smaller triangle inside, a triangle pointing upward, and a small dot
+Bottom-left: A large circle with a smaller triangle inside, a small circle, and a triangle pointing upward
+Bottom-right: A large triangle with a small circle inside
+
+Minimalist black-and-white style."

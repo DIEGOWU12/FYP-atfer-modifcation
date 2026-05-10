@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'closed region is a polygon if flaws are ignored' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a small circular cutout on its right side
+Top-right: A wavy, irregular shape with a small circle near its top
+Middle-left: An inverted triangle with a horizontal line across its base
+Middle-right: A shape resembling a tooth or a jagged edge with a small circle near its top
+Bottom-left: A rectangular shape with a curved indentation on its left side
+Bottom-right: A square with a small circular protrusion on its left side
+
+Minimalist black-and-white style."

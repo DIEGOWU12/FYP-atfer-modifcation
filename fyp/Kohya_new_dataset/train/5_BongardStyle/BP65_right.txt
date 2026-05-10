@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'a set of triangles elongated vertically' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small circles and triangles, with triangles pointing in various directions.
+Top-right: A scattered arrangement of small circles and triangles, with triangles pointing in different directions.
+Middle-left: A mix of small circles and triangles, with triangles pointing in various directions.
+Middle-right: A combination of small circles and triangles, with triangles pointing in different directions.
+Bottom-left: A group of triangles pointing in various directions, with a few small circles interspersed.
+Bottom-right: A dense collection of small circles and triangles, with triangles pointing in multiple directions.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'the sum of the ratios of the filled areas is other than 1' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a smaller black triangle inside it, and a small black square below.
+Top-right: A square divided into two horizontal rectangles, with the bottom rectangle shaded black.
+Middle-left: Two small squares, one above the other, both shaded black.
+Middle-right: A triangle with a small black square near its top right corner.
+Bottom-left: Two small black squares, one above the other.
+Bottom-right: A circle divided into two sections, with the left section shaded black, and a small black square to the right.
+
+Minimalist black-and-white style."

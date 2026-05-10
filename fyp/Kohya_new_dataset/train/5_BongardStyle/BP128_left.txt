@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A diamond shape with a smaller circle inside and two dots near the top left corner.
+Top-right: A semicircle with a small circle inside and three dots to the right.
+Middle-left: A rectangle with three dots inside and a dot below it.
+Middle-right: An L-shaped figure with a small circle at the top, three circles inside, and a dot to the right.
+Bottom-left: A triangle with no additional shapes or dots.
+Bottom-right: A stylized flag-like shape with two circles inside and a dot above.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'It is possible to deduce the contents of any square from the rest' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 3x3 grid with various puzzle piece-like shapes in the top row and bottom row, and a single curved arrow in the middle row.
+Top-right: A 4x4 grid with alternating X's and O's, forming a checkerboard pattern with an additional X in the bottom right corner.
+Middle-left: A 5x5 grid with five black dots scattered across the grid, not forming any specific pattern.
+Middle-right: A 4x4 grid with a mix of abstract shapes including triangles, circles, and lines, arranged in a seemingly random pattern.
+Bottom-left: A 4x4 grid with a variety of small geometric shapes including squares, rectangles, and plus signs, each in a separate cell.
+Bottom-right: A 5x5 grid with five rows of three dots each, evenly spaced and aligned horizontally.
+
+Minimalist black-and-white style."

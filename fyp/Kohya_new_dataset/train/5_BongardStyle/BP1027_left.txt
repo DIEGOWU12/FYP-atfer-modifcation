@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a single dot in the center.
+Top-right: A square divided into four smaller squares, each containing a single dot.
+Middle-left: A square divided into sixteen smaller squares, each containing a single dot.
+Middle-right: A square divided into four smaller squares, with the top-left and bottom-right squares containing a single dot, and the other two squares empty.
+Bottom-left: A square divided into four smaller squares, with the top-left and bottom-right squares containing a single dot, and the other two squares empty.
+Bottom-right: A square divided into sixteen smaller squares, with the top-left, top-right, bottom-left, and bottom-right squares containing a single dot, and the remaining twelve squares empty.
+
+Minimalist black-and-white style."

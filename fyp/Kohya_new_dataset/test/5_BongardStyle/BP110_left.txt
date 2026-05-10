@@ -1,0 +1,10 @@
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three circles and one triangle
+Top-right: A pentagon, a circle with a smaller circle inside, and two circles
+Middle-left: A triangle, a line, and four circles
+Middle-right: Two circles, a square, and a small circle
+Bottom-left: A square, a rectangle, and five circles
+Bottom-right: A rectangle, a circle, and three small circles
+
+Minimalist black-and-white style.

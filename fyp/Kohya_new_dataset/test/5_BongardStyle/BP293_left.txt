@@ -1,0 +1,10 @@
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three vertical rectangles
+Top-right: A square divided into four smaller squares
+Middle-left: A square with two diagonals forming an 'X'
+Middle-right: A rectangle divided into five horizontal rectangles
+Bottom-left: A square divided into three triangles by two intersecting lines
+Bottom-right: A square with a continuous wavy line forming a spiral pattern
+
+Minimalist black-and-white style.

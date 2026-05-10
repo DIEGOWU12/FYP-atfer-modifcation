@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with two dots on the top left and one dot on the bottom right
+Top-right: A triangle with a dot near the top vertex
+Middle-left: A circle
+Middle-right: A pentagon with four dots, one near each corner except the bottom right
+Bottom-left: A parallelogram with five dots arranged in a diagonal line
+Bottom-right: A U-shaped figure with three dots on the vertical sides and one dot on the horizontal base
+
+Minimalist black-and-white style."

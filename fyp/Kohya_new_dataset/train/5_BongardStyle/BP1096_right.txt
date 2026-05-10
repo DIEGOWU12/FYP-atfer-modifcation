@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black characters:
+
+Top-left: Roman numeral I
+Top-right: Roman numeral V
+Middle-left: Digit 3
+Middle-right: Digit 2
+Bottom-left: Lowercase letter a
+Bottom-right: Uppercase letter Z
+
+Minimalist black-and-white style."

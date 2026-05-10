@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of circles and a diamond shape
+Top-right: Intersecting arrows forming an 'X' shape
+Middle-left: Vertical and horizontal lines with varying lengths
+Middle-right: A series of intersecting lines with small circular shapes
+Bottom-left: Triangles and squares arranged in a pattern
+Bottom-right: Circles with smaller circles inside them
+
+Minimalist black-and-white style."

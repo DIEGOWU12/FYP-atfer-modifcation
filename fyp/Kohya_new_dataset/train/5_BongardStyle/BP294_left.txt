@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square maze with a complex network of paths and a single entrance/exit point.
+Top-right: A square maze with a dense, intricate pattern of paths and a single entrance/exit point.
+Middle-left: A square maze with a relatively open layout and a single entrance/exit point.
+Middle-right: A square maze with a moderate level of complexity and a single entrance/exit point.
+Bottom-left: A square maze with a simple, straightforward path and a single entrance/exit point.
+Bottom-right: A square maze with a highly intricate and winding path and a single entrance/exit point.
+
+Minimalist black-and-white style."

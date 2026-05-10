@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The right branch begins at a higher point than the left branch' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single curved line with a small vertical extension at the top.
+Top-right: A similar curved line with a small vertical extension at the top, but slightly more open.
+Middle-left: A curved line with a small vertical extension at the top and a slight inward curve near the bottom.
+Middle-right: A curved line with a small vertical extension at the top and a slight outward curve near the bottom.
+Bottom-left: A curved line with a small vertical extension at the top and a more pronounced inward curve near the bottom.
+Bottom-right: A curved line with a small vertical extension at the top and a more pronounced outward curve near the bottom.
+
+Minimalist black-and-white style.

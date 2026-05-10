@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A jagged, L-shaped form composed of small squares.
+Top-right: A symmetrical pattern with four central dots surrounded by radiating lines and squares.
+Middle-left: Two intersecting diagonal lines forming an 'X' shape.
+Middle-right: A vertical rectangle with a horizontal line through its center and a smaller square below it.
+Bottom-left: A cross-like shape with extended arms made of small squares.
+Bottom-right: A right-angled triangle with a smaller triangle inside it.
+
+Minimalist black-and-white style."

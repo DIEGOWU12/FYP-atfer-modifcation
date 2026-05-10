@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical line intersected by a shorter horizontal line near its top.
+Top-right: Two diagonal lines forming an acute angle, with one line extending slightly longer than the other.
+Middle-left: Two diagonal lines forming an obtuse angle, both lines of equal length.
+Middle-right: Three diagonal lines intersecting at different points, creating a complex angular pattern.
+Bottom-left: Two diagonal lines forming an acute angle, similar to the top-right but mirrored.
+Bottom-right: Two parallel diagonal lines, evenly spaced and of equal length.
+
+Minimalist black-and-white style."

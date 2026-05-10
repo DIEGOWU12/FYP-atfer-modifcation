@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a Y with two branches extending upwards and slightly to the right.
+Top-right: A shape similar to the top-left but with the branches curving more sharply to the right.
+Middle-left: A shape with a single branch extending upwards and to the right, with a smaller branch branching off to the left.
+Middle-right: A shape with two main branches extending upwards and to the right, with a smaller branch branching off from the lower branch.
+Bottom-left: A shape with three branches extending upwards and slightly to the right, with one branch splitting into two.
+Bottom-right: A shape with two main branches extending upwards and to the right, with a smaller branch branching off from the lower branch and curving to the right.
+
+Minimalist black-and-white style."

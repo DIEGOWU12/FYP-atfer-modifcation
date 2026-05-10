@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Arrows which if moved at speeds proportional to their length would pass eachother' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two upward-pointing arrows, one above the other
+Top-right: One downward-pointing arrow above one upward-pointing arrow
+Middle-left: One upward-pointing arrow above another upward-pointing arrow
+Middle-right: One downward-pointing arrow above another downward-pointing arrow
+Bottom-left: One downward-pointing arrow above an upward-pointing arrow
+Bottom-right: One downward-pointing arrow above an upward-pointing arrow
+
+Minimalist black-and-white style.

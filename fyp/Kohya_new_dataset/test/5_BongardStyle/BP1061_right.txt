@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'nesting' logic.
+"The image shows a 3x2 grid of six white geometric shapes with black outlines:
+
+Top-left: A 4x4 grid of small squares
+Top-right: A 5x5 grid of small squares with one square missing in the top-right corner
+Middle-left: Two large squares side by side
+Middle-right: A 10x10 grid of small squares
+Bottom-left: Two large squares side by side, one slightly overlapping the other
+Bottom-right: Five squares arranged in a 2x2 pattern with one additional square below
+
+Minimalist black-and-white style."

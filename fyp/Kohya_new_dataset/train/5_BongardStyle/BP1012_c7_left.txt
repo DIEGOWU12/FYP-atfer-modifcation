@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of evenly spaced horizontal and vertical lines forming squares.
+Top-right: A pattern of intersecting diagonal lines creating a series of triangles.
+Middle-left: A woven basket-like pattern with interlocking rectangular shapes.
+Middle-right: A series of wavy, zigzag lines running horizontally across the shape.
+Bottom-left: A tessellation of hexagons and smaller triangular shapes forming a honeycomb-like structure.
+Bottom-right: A complex tessellation of irregular polygons, including hexagons and pentagons.
+
+Minimalist black-and-white style."

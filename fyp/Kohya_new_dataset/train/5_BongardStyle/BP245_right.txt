@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an open book or a bracket with a small line extending from the top left corner.
+Top-right: A shape consisting of two intersecting lines forming a 'V' or 'Y' shape.
+Middle-left: A vertical bracket-like shape with a horizontal line extending from the bottom.
+Middle-right: A rectangle with a diagonal line extending from the top right corner.
+Bottom-left: A shape resembling a triangle with a vertical line extending downward from the base.
+Bottom-right: A large triangle with a small dot near the bottom right corner.
+
+Minimalist black-and-white style."

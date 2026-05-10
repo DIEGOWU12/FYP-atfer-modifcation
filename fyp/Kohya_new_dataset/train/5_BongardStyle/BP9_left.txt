@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A jagged, irregular circular shape
+Top-right: A smooth, regular circular shape
+Middle-left: A jagged, heart-like shape with pointed ends
+Middle-right: A jagged, irregular oval shape
+Bottom-left: A solid square shape
+Bottom-right: A skewed, parallelogram-like shape
+
+Minimalist black-and-white style."

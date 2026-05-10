@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The left part has more pixels (area) than the right part' logic.
+"The image shows a 3x2 grid of six black text elements:
+
+Top-left: '83'
+Top-right: '?!'
+Middle-left: 'EL'
+Middle-right: 'mn'
+Bottom-left: 'Oo'
+Bottom-right: 'XY'
+
+Minimalist black-and-white style."

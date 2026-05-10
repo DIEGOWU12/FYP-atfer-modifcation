@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Shading thicker on the right side' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square tilted slightly to the right
+Top-right: An oval shape with a thick black outline
+Middle-left: A figure resembling a lowercase 'g' or a looped shape
+Middle-right: A diamond shape with sharp angles
+Bottom-left: A stylized, abstract shape resembling a lowercase 'y'
+Bottom-right: A shape resembling a lowercase 'h' with a horizontal line through the middle
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line resembling a lowercase 'c' with an open end.
+Top-right: A similar curved line to the top-left but mirrored horizontally.
+Middle-left: A wavy line with a small arrow at the end, pointing upwards and to the right.
+Middle-right: A straight diagonal line with an arrow at the end, pointing downwards and to the right.
+Bottom-left: A more complex curved line with multiple loops, ending in an arrow pointing downwards.
+Bottom-right: A simple closed loop with an arrow indicating a clockwise direction.
+
+Minimalist black-and-white style."

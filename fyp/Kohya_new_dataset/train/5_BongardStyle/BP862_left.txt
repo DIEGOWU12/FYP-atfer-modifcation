@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Human faces' logic.
+"The image shows a 3x2 grid of six black-and-white facial features:
+
+Top-left: [Close-up of a face with visible eyes and forehead]
+Top-right: [Close-up of a face focusing on the nose and mouth area]
+Middle-left: [Close-up of a face highlighting the eye and cheek area]
+Middle-right: [Close-up of a face emphasizing the nose and chin]
+Bottom-left: [Close-up of a face showing the eye and part of the nose]
+Bottom-right: [Close-up of a face focusing on the eye and eyebrow area]
+
+Minimalist black-and-white style."

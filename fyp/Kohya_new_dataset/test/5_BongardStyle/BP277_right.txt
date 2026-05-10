@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black symbols:
+
+Top-left: 'cs'
+Top-right: 'O'
+Middle-left: '#'
+Middle-right: '.'
+Bottom-left: '%'
+Bottom-right: '='
+
+Minimalist black-and-white style."

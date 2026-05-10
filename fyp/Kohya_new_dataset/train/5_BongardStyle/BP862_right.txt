@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'other images' logic.
+"The image shows a 3x2 grid of six black-and-white abstract shapes:
+
+Top-left: A cluster of rounded, interconnected forms resembling a dense, organic pattern.
+Top-right: A complex arrangement of angular and rectangular shapes, creating a sense of depth and structure.
+Middle-left: A central figure with a distinct outline, surrounded by flowing, leaf-like elements.
+Middle-right: An intricate network of lines and dots, forming a web-like or cellular structure.
+Bottom-left: A mountainous landscape with a prominent peak, set against a flat horizon.
+Bottom-right: A scene with vertical and horizontal lines, suggesting an urban environment with buildings and possibly a person.
+
+Minimalist black-and-white style."

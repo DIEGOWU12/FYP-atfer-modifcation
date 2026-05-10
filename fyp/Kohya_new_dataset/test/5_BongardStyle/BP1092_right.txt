@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tic-tac-toe board with Xs and Os partially filled
+Top-right: A tic-tac-toe board with Xs and Os fully filled
+Middle-left: A larger tic-tac-toe board with Xs filling most of the cells
+Middle-right: Two arrows, one pointing up and one pointing down
+Bottom-left: Four arrows pointing in different directions
+Bottom-right: A hexagon with circles and dots around it
+
+Minimalist black-and-white style."

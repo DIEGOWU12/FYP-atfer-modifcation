@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single line segment with two endpoints.
+Top-right: A zigzag line with three segments and four endpoints.
+Middle-left: A diamond shape with four vertices connected by straight lines, and a central point connected to all four vertices.
+Middle-right: A triangular shape with three vertices connected by straight lines, and an additional point connected to one of the vertices.
+Bottom-left: A line segment with two endpoints and an additional point connected to one endpoint.
+Bottom-right: A complex network of intersecting lines forming multiple triangles and connecting several points.
+
+Minimalist black-and-white style."

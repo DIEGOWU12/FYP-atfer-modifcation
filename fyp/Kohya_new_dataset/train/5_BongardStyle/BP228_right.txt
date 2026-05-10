@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized 'F' with a diagonal line extending from the top left to the bottom right.
+Top-right: A shape resembling a stylized 'Y' with three lines extending from a central point.
+Middle-left: A shape resembling a stylized 'Z' with a horizontal line and two diagonal lines.
+Middle-right: A shape resembling a stylized 'N' with a dot at the bottom right.
+Bottom-left: A shape resembling a stylized 'L' with an additional diagonal line crossing it.
+Bottom-right: A shape resembling a stylized 'M' with a small line at the bottom.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'The end of the right branch is higher than that of the left branch' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'J' with a curved top and a straight bottom.
+Top-right: A shape resembling a stylized letter 'C' with a curved form.
+Middle-left: A shape resembling a stylized letter 'L' with a vertical line and a short horizontal line at the bottom.
+Middle-right: A shape resembling a stylized letter 'S' with a curved form.
+Bottom-left: A shape resembling a stylized letter 'J' with a curved top and a straight bottom, similar to the top-left shape.
+Bottom-right: A shape resembling a stylized letter 'V' with two intersecting lines forming a sharp angle.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'One protrusion and one indentation of the same shape' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a diagonal line and a protruding arm
+Top-right: A rotated square with a curved extension
+Middle-left: A square with a circular hole and a vertical stem
+Middle-right: A square with a rounded corner and a protruding tab
+Bottom-left: A curved shape resembling a partial rectangle
+Bottom-right: A square with a curved cutout and a small tail
+
+Minimalist black-and-white style.

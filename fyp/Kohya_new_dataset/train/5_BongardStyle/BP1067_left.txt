@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'There is an infinite one-one-one-one-... chain present' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two small rectangles side by side
+Top-right: A series of concentric squares
+Middle-left: A series of nested squares with a smaller square inside
+Middle-right: A small rectangle and a square side by side
+Bottom-left: Two large squares side by side
+Bottom-right: A small square, a small rectangle, and a larger rectangle arranged in a cluster
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a spiral with a small loop at the end.
+Top-right: Two intertwined spirals with a zigzag line connecting them.
+Middle-left: A shape with two loops, one larger than the other, connected by a curved line.
+Middle-right: A single spiral with a smaller loop inside it.
+Bottom-left: A shape with a large spiral and a smaller loop, connected by a wavy line.
+Bottom-right: A shape with two spirals, one larger and one smaller, connected by a curved line.
+
+Minimalist black-and-white style."

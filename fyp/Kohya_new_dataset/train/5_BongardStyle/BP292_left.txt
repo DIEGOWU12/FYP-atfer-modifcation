@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six white geometric shapes on a black background:
+
+Top-left: A triangle, a square, and a smaller triangle arranged in a vertical line.
+Top-right: A square and a triangle, with the square above the triangle.
+Middle-left: A triangle, a square, and a smaller triangle, with the square in the middle.
+Middle-right: A triangle and a square, with the triangle above the square.
+Bottom-left: A triangle and a square, with the triangle above the square.
+Bottom-right: Three triangles arranged horizontally.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Lone square' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square, a circle, and an inverted triangle
+Top-right: An inverted triangle, a triangle, and a square
+Middle-left: A diamond, a small circle, and a large circle
+Middle-right: A small square
+Bottom-left: A circle, a triangle, an inverted triangle, and a square
+Bottom-right: A square and a rectangle
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'object thicker at top' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An elongated, rounded shape resembling an oval with a slightly pointed bottom.
+Top-right: A symmetrical, inverted funnel shape with a narrow top and wider base.
+Middle-left: A complex, irregular outline resembling the continent of Africa.
+Middle-right: A bell-shaped form with a wide opening at the top and a narrower base.
+Bottom-left: A fragmented, abstract shape with multiple protrusions and indentations.
+Bottom-right: A rectangular structure with a central column and two side extensions.
+
+Minimalist black-and-white style."

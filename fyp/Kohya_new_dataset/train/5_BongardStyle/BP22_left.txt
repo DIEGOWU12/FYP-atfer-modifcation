@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'All shapes approximately the same size' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle, a small square, and a small triangle
+Top-right: Two triangles and a square
+Middle-left: A square and a triangle
+Middle-right: A triangle and a circle
+Bottom-left: Two small dots
+Bottom-right: Three circles and a square
+
+Minimalist black-and-white style."

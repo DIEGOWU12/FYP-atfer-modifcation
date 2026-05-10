@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'shading thicker on the left side' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small, elongated oval shape
+Top-right: A curved, crescent-like shape
+Middle-left: A bold, uppercase letter 'H'
+Middle-right: A regular octagon
+Bottom-left: A shape resembling a lowercase 'q' with a tail
+Bottom-right: A larger, elongated oval shape
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large circle surrounded by scattered, irregular black shapes.
+Top-right: A large circle with a small square and line extending from its top right.
+Middle-left: A large circle with a smaller white circle in its center.
+Middle-right: A large circle with a small protrusion at the top.
+Bottom-left: A large circle with a series of small, curved black shapes around its bottom left.
+Bottom-right: A large circle with a small, irregular black shape extending from its bottom.
+
+Minimalist black-and-white style."

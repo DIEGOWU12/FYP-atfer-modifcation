@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Lower shape can be used as a tile to build the upper one' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of squares forming a compact, irregular shape with a small square below it.
+Top-right: A horizontal line of squares with a small L-shaped figure below it.
+Middle-left: A larger, more complex arrangement of squares with a small square below it.
+Middle-right: A vertical stack of squares with a small L-shaped figure below it.
+Bottom-left: A triangular formation of squares with a small square below it.
+Bottom-right: A dense, rectangular block of squares with a small L-shaped figure below it.
+
+Minimalist black-and-white style."

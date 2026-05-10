@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A slanted triangle
+Top-right: An elongated oval
+Middle-left: A vertical line segment
+Middle-right: A wavy curved line
+Bottom-left: A short vertical rectangle
+Bottom-right: A zigzag line
+
+Minimalist black-and-white style."

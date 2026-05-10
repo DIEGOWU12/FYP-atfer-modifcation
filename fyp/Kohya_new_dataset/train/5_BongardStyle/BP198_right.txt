@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'escapes' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A hexagon with dotted lines forming a spiral pattern inside
+Top-right: A vase-like shape with water droplets falling from it
+Middle-left: A square with a smaller square cut out from one corner, connected by a dotted line
+Middle-right: A keyhole shape with small circles around it
+Bottom-left: A heart shape with arrows pointing towards its center
+Bottom-right: A diamond shape with a cross inside and small circles around it
+
+Minimalist black-and-white style."

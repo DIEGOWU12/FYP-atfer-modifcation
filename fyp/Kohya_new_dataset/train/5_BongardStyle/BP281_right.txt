@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'unequal number of horizontal and vertical lines' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three horizontal lines intersected by two vertical lines
+Top-right: Three horizontal lines intersected by two vertical lines, with the rightmost vertical line extending below the horizontal lines
+Middle-left: Three horizontal lines intersected by two vertical lines, with the leftmost vertical line extending above the horizontal lines
+Middle-right: Three horizontal lines intersected by two vertical lines, with the rightmost vertical line extending below the horizontal lines and the leftmost vertical line extending above the horizontal lines
+Bottom-left: Three horizontal lines intersected by two vertical lines, with both vertical lines extending above and below the horizontal lines
+Bottom-right: Three horizontal lines intersected by two vertical lines, with the rightmost vertical line extending below the horizontal lines and the leftmost vertical line extending above the horizontal lines
+
+Minimalist black-and-white style."

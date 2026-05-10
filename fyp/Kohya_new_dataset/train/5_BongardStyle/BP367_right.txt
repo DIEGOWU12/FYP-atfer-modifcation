@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black circle
+Top-right: A solid black triangle pointing to the right
+Middle-left: An L-shaped line with a small dot near its corner
+Middle-right: A U-shaped line
+Bottom-left: A hashtag symbol made of intersecting lines
+Bottom-right: An L-shaped line
+
+Minimalist black-and-white style."

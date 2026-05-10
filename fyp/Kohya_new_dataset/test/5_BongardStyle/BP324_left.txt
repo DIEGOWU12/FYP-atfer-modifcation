@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A greater-than symbol followed by an 'x'
+Top-right: A less-than-or-equal-to symbol followed by the Greek letter Epsilon
+Middle-left: A not-equal-to symbol
+Middle-right: A triangle pointing down, a triangle pointing up, and a star
+Bottom-left: A small circle above a larger circle
+Bottom-right: Two overlapping squares with one square partially inside the other
+
+Minimalist black-and-white style."

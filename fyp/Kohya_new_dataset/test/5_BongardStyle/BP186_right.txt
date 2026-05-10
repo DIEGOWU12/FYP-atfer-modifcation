@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'object made of objects made of objects' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of small, irregularly spaced dots forming a curved line
+Top-right: Four rows of three dots each, arranged in a rectangular pattern
+Middle-left: A cluster of small, scattered dots with varying sizes and spacing
+Middle-right: A triangular shape composed of intersecting lines and dots
+Bottom-left: A circular arrangement of parallel lines with some gaps
+Bottom-right: A collection of concentric circles of varying sizes
+
+Minimalist black-and-white style."

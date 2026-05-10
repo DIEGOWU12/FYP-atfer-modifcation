@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'a circle is at the right of the cavity if you look from inside the figure' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved shape resembling a crescent with a small circular protrusion.
+Top-right: A rectangular shape with a small circular indentation on one side.
+Middle-left: A circular shape with a small circular protrusion on one side.
+Middle-right: A curved shape resembling a hook with a small circular protrusion.
+Bottom-left: A triangular shape with a small circular protrusion on one side.
+Bottom-right: A diamond-shaped figure with a small circular protrusion on one side.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three upward-pointing triangles of varying sizes
+Top-right: A large square with two smaller squares inside it
+Middle-left: A semicircle with a small arc on top
+Middle-right: A hexagon filled with smaller hexagons
+Bottom-left: A collection of rectangles and squares of different sizes
+Bottom-right: A cluster of irregular pentagons
+
+Minimalist black-and-white style."

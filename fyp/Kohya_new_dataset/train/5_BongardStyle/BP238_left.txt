@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'C-like curves point to the same direction' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A left parenthesis with a small arc above it
+Top-right: A simple human head outline with a circular top
+Middle-left: A horizontal oval with a smaller oval inside and a small arc on the right side
+Middle-right: A wide, curved smile line
+Bottom-left: Two lowercase 'c' letters side by side
+Bottom-right: A right parenthesis with a small arc above it
+
+Minimalist black-and-white style."

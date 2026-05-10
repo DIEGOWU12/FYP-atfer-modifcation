@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'shades of red' logic.
+The image shows a 3x2 grid of six colored geometric shapes:
+
+Top-left: Bright red square
+Top-right: Dark brown square
+Middle-left: Light pink square
+Middle-right: Black square
+Bottom-left: Medium red square
+Bottom-right: Deep red square
+
+Minimalist color style.

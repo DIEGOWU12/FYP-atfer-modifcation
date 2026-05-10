@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A regular hexagon with a smaller pentagon below it
+Top-right: A triangular pyramid above a rectangle
+Middle-left: A rectangular prism with a star below it
+Middle-right: An L-shaped figure above a parallelogram
+Bottom-left: A cube with a triangle below it
+Bottom-right: A sphere with a small circle below it
+
+Minimalist black-and-white style."

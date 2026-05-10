@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Representationally uniform' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A stylized, angular shape resembling a maze or labyrinth.
+Top-right: A chaotic tangle of overlapping curved lines forming an intricate scribble.
+Middle-left: A minimalist line drawing of a human face with distinct features.
+Middle-right: A block of abstract symbols and letters arranged in a grid.
+Bottom-left: A series of flowing, interconnected curves and loops.
+Bottom-right: A pattern of interlocking circular shapes creating a tessellated design.
+
+Minimalist black-and-white style."

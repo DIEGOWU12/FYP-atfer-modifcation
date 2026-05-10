@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A T-shaped figure composed of two rectangles, one vertical and one horizontal.
+Top-right: A diamond shape next to a parallelogram.
+Middle-left: Two circles connected by a vertical line with a small horizontal line at the top.
+Middle-right: A circle with a smaller circle inside it, resembling an eye.
+Bottom-left: A square next to a silhouette of a bat.
+Bottom-right: A plus sign next to an L-shaped figure.
+
+Minimalist black-and-white style."

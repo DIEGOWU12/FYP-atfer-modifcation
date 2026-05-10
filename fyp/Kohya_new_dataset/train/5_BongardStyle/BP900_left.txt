@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangular pyramid with a triangular base
+Top-right: A composite shape consisting of a rectangular prism and an L-shaped block
+Middle-left: A cylinder with a square base
+Middle-right: A diamond-shaped polyhedron with a square base
+Bottom-left: A cube with a hexagonal base
+Bottom-right: A cone with a circular base
+
+Minimalist black-and-white style."

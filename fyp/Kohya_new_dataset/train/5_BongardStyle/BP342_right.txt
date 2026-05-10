@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle
+Top-right: A square
+Middle-left: A shape resembling a 'C' with an open side
+Middle-right: A shape resembling a 'U' with an open side
+Bottom-left: A rectangle
+Bottom-right: A diamond
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six white geometric shapes on a black background:
+
+Top-left: A large square with a smaller square above it and two small squares below.
+Top-right: A large square with a smaller square below it and a tiny square further down.
+Middle-left: A large square with a smaller square to its right and two small squares below.
+Middle-right: A large square with a smaller square to its left and two small squares below.
+Bottom-left: A large square with a smaller square below it and three small squares in a row below that.
+Bottom-right: A large square with a smaller square to its right and three small squares in a row below.
+
+Minimalist black-and-white style."

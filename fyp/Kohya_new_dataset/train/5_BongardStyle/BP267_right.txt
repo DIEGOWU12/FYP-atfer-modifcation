@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black letters:
+
+Top-left: N
+Top-right: K
+Middle-left: H
+Middle-right: I
+Bottom-left: V
+Bottom-right: X
+
+Minimalist black-and-white style."

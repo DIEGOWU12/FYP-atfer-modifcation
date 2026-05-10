@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Complete finite collection' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pattern of squares and rectangles forming a larger square.
+Top-right: A complex arrangement of squares and rectangles creating a dense, abstract design.
+Middle-left: A series of circles and ovals arranged in a triangular formation.
+Middle-right: A pattern of circles and ovals forming a symmetrical, layered design.
+Bottom-left: A collection of three-dimensional geometric shapes including a cube, pyramid, and sphere.
+Bottom-right: A sequence of triangles and hexagons arranged in a repeating pattern.
+
+Minimalist black-and-white style."

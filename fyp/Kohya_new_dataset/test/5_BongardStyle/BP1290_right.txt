@@ -1,0 +1,10 @@
+The image shows a 3x2 grid of six colored geometric shapes:
+
+Top-left: Blue diamond
+Top-right: Yellow circle
+Middle-left: Green and white striped rectangle
+Middle-right: Cyan trapezoid
+Bottom-left: Blue triangle
+Bottom-right: Light green and white striped square
+
+Minimalist colored style.

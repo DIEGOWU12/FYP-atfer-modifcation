@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'White dot can see (in straight lines) all black points' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black circle
+Top-right: A solid black five-pointed star
+Middle-left: A solid black rightward-pointing arrow
+Middle-right: A solid black pentagon
+Bottom-left: A solid black eight-pointed star
+Bottom-right: A solid black L-shaped figure
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A dot connected to a diagonal line forming an L-shape
+Top-right: A vertical line with a diagonal line extending upwards and to the right, ending in a small horizontal line
+Middle-left: A horizontal line with a vertical line extending downwards and to the right, forming a T-shape with a small horizontal line at the top left
+Middle-right: A horizontal line with a vertical line extending downwards and to the right, ending in a small downward-pointing arrow
+Bottom-left: A diagonal line with a horizontal line extending to the right, forming a Z-shape
+Bottom-right: A vertical line with a diagonal line extending downwards and to the right, forming a V-shape
+
+Minimalist black-and-white style."

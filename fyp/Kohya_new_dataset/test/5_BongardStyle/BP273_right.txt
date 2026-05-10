@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black alphanumeric characters:
+
+Top-left: H
+Top-right: X
+Middle-left: C
+Middle-right: 4
+Bottom-left: Z
+Bottom-right: 9
+
+Minimalist black-and-white style."

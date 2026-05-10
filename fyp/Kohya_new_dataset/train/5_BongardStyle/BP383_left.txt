@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'When the shape is removed from the dots, the dots give enough information to place the shape back where it was (up to symmetry)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A diagonal line segment with dots at both ends
+Top-right: An equilateral triangle with dots at each vertex
+Middle-left: A square with dots at each corner
+Middle-right: A circle with a dot on its circumference
+Bottom-left: A square with a diagonal line segment from one corner to the opposite, with dots at the endpoints
+Bottom-right: A curved arc with dots along its path
+
+Minimalist black-and-white style."

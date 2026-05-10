@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large triangle pointing upwards, a small pentagon, and a smaller inverted triangle.
+Top-right: Three triangles of varying sizes, all pointing upwards.
+Middle-left: Two circles of different sizes with a small dot between them.
+Middle-right: Three circles, each with a semicircle cut out on one side.
+Bottom-left: Two diagonal lines with a small dot between them.
+Bottom-right: Three diagonal lines of varying lengths.
+
+Minimalist black-and-white style."

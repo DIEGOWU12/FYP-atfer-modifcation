@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Diamond, square, diamond, square
+Top-right: Circle, circle, circle, circle, L-shape, L-shape, L-shape, L-shape
+Middle-left: Zigzag, spiral, wave, triangle
+Middle-right: Triangle, triangle, triangle, triangle, X, X, X, X
+Bottom-left: Square, square, square, square, square, square, square, square
+Bottom-right: Star, star, star, star, heart, heart, heart, cloud
+
+Minimalist black-and-white style."

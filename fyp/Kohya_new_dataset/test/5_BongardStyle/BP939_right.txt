@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two separate black circles
+Top-right: A vertical line with a horizontal line intersecting it near the middle
+Middle-left: Two parallel vertical lines
+Middle-right: A horizontal line with a square centered on it
+Bottom-left: Two parallel horizontal lines
+Bottom-right: Two intersecting diagonal lines
+
+Minimalist black-and-white style."

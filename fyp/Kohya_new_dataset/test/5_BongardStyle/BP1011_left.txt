@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Irregular octagon
+Top-right: Right triangle
+Middle-left: Diamond
+Middle-right: Rectangle
+Bottom-left: Hexagon
+Bottom-right: Trapezoid
+
+Minimalist black-and-white style."

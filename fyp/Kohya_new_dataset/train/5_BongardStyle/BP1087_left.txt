@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'A vertical line may pass through both objects' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two horizontal lines of different lengths
+Top-right: A circle with a short line inside, resembling a clock face
+Middle-left: A question mark with a dot below it
+Middle-right: A curved, wavy line
+Bottom-left: A parallelogram with a small triangle attached to one corner
+Bottom-right: A small filled circle above an empty circle
+
+Minimalist black-and-white style."

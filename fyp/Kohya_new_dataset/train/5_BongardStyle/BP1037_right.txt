@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square divided into four smaller squares, with the top-left and bottom-right squares filled with dots.
+Top-right: A square divided into four smaller squares, with the top-right and bottom-left squares filled with dots.
+Middle-left: A square divided into four smaller squares, with all four squares filled with dots.
+Middle-right: A square divided into four smaller squares, with only the top-left square filled with dots.
+Bottom-left: A square divided into four smaller squares, with the top-left and bottom-right squares filled with dots.
+Bottom-right: A square divided into four smaller squares, with the top-right and bottom-left squares filled with dots.
+
+Minimalist black-and-white style."

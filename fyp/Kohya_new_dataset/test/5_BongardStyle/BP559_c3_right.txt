@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Trapezoid
+Top-right: Circle
+Middle-left: Rectangle
+Middle-right: Pentagon
+Bottom-left: Hexagon
+Bottom-right: Arrowhead pointing upwards
+
+Minimalist black-and-white style."

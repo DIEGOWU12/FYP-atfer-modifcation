@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'indentation on indentation' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'A' with a cutout in the middle.
+Top-right: A triangular shape with a small protrusion on one side.
+Middle-left: A shape that looks like a right angle with an additional horizontal line extending from the top.
+Middle-right: A curved shape with a small rectangular extension.
+Bottom-left: A shape resembling a letter 'M' with a vertical line extending from the bottom.
+Bottom-right: A crescent-like shape with a small protrusion.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Trapezoid
+Top-right: Oval
+Middle-left: Pentagon
+Middle-right: Plus sign
+Bottom-left: Triangle
+Bottom-right: Semi-circle
+
+Minimalist black-and-white style."

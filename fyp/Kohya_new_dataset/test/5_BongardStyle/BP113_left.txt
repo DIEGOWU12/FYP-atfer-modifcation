@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'T-like junction' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line with a short vertical line extending upwards from its right end.
+Top-right: A curved line that loops back on itself, forming a shape resembling a question mark.
+Middle-left: A series of connected curves and loops, creating an abstract, flowing form.
+Middle-right: A vertical line with a small horizontal line extending to the left near the top, and a curved line extending downwards from the bottom.
+Bottom-left: A diagonal line extending from the bottom left to the upper right, with a short horizontal line extending to the right from the upper end.
+Bottom-right: A vertical line with a small horizontal line extending to the left near the top.
+
+Minimalist black-and-white style."

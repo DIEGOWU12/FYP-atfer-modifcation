@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'a tail grows from the acute end' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A closed, irregular loop resembling a figure-eight.
+Top-right: A teardrop shape with a pointed bottom and rounded top.
+Middle-left: A small, elongated oval with a curved tail.
+Middle-right: A large, filled black teardrop shape with a curved tail.
+Bottom-left: A closed, irregular loop similar to the top-left shape but slightly larger.
+Bottom-right: A shape resembling a looped rope or a stylized letter 'g'.
+
+Minimalist black-and-white style."

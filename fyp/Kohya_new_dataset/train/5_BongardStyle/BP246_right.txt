@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'unequal numbers of straight lines and continuous curves' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle
+Top-right: Two intersecting lines forming an 'X' with a small oval near the top right intersection
+Middle-left: A vertical line intersected by a diagonal line forming a 'T' shape
+Middle-right: A curved line resembling a 'K' or a stylized letter
+Bottom-left: An 'X' shape with a curved line extending from the bottom left intersection
+Bottom-right: A horizontal line
+
+Minimalist black-and-white style."

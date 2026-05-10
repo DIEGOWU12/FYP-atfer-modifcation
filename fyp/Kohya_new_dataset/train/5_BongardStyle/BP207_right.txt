@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'curve ends on the right part of the box' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'C' with an additional curved line inside.
+Top-right: A shape that looks like a spiral with a small loop at the end.
+Middle-left: A simple curved line forming a partial arc.
+Middle-right: A larger, more complex spiral with a tight center and gradually widening loops.
+Bottom-left: A small, curved line resembling a comma or a small arc.
+Bottom-right: A larger, smooth curve forming a gentle arc.
+
+Minimalist black-and-white style."

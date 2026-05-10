@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Polygons where all sides are different lengths' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A scalene triangle with no equal sides
+Top-right: A quadrilateral with one pair of parallel sides (trapezoid)
+Middle-left: A trapezoid with two pairs of parallel sides (parallelogram)
+Middle-right: An equilateral triangle with all sides equal
+Bottom-left: A right triangle with one 90-degree angle
+Bottom-right: A pentagon with five sides
+
+Minimalist black-and-white style.

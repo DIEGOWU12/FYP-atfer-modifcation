@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six white geometric shapes with black outlines:
+
+Top-left: Four plus signs arranged in a square with one additional plus sign outside the square.
+Top-right: Three plus signs and one circle, with the circle positioned near the center and the plus signs surrounding it.
+Middle-left: Four plus signs and one circle, with the circle near the center and the plus signs distributed around it.
+Middle-right: Three plus signs and one circle, with the circle near the center and the plus signs surrounding it.
+Bottom-left: Three plus signs and one circle, with the circle near the bottom left corner and the plus signs above and to the right.
+Bottom-right: Two plus signs and one circle, with the circle near the center and the plus signs on either side.
+
+Minimalist black-and-white style."

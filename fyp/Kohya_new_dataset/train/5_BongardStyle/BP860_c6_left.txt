@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Finitely many copies of the shape can be arranged such that they are locked together' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A jagged, horizontal wavy line
+Top-right: A plus sign with equal arms
+Middle-left: A puzzle piece with a circular protrusion
+Middle-right: A rectangular shape with a smaller rectangle extending from its right side
+Bottom-left: A vertical bar with a horizontal bar extending from its top and bottom
+Bottom-right: A puzzle piece with a small horizontal bar extending from its right side
+
+Minimalist black-and-white style.

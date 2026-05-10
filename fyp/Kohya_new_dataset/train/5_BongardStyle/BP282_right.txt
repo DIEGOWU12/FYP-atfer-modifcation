@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'shape of black region has different number of sides than overall object' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A white arrow with a black outline pointing diagonally downward to the right
+Top-right: A black and white surfboard-like shape with a pointed end
+Middle-left: A three-dimensional hexagonal prism with a shaded base
+Middle-right: A trapezoid divided into two sections, one black and one white
+Bottom-left: A parallelogram with a shaded triangular section
+Bottom-right: A cone with a shaded base
+
+Minimalist black-and-white style."

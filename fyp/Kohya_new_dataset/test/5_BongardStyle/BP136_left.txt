@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a diagonal line dividing it into two smaller triangles, one shaded.
+Top-right: A shape resembling a capital 'L' with a small dot near the top right corner.
+Middle-left: A vertical rectangle with a zigzag pattern along its left side.
+Middle-right: A shape resembling a capital 'T' with a small dot near the bottom right corner.
+Bottom-left: A quadrilateral with a diagonal line dividing it into two triangles, one shaded.
+Bottom-right: A five-pointed star with dots at each point and in the center.
+
+Minimalist black-and-white style."

@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No tile shares a partial side with another tile' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Interlocking triangles forming a lattice pattern
+Top-right: Overlapping curved lines creating a woven texture
+Middle-left: Irregular, jagged shapes resembling cracked earth
+Middle-right: Wavy, zigzag lines with varying amplitudes
+Bottom-left: Hexagonal shapes arranged in a uniform grid
+Bottom-right: Irregular hexagons and pentagons forming a tessellated pattern
+
+Minimalist black-and-white style."

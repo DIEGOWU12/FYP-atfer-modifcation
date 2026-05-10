@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Line divides interior into two regions' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A teardrop shape with a pointed bottom and rounded top
+Top-right: A stylized letter 'E' with rounded edges
+Middle-left: A curved shape resembling a crescent moon with a spiral inside
+Middle-right: A circle with a zigzag line cutting through it
+Bottom-left: A shape resembling a pair of scissors with interlocking blades
+Bottom-right: A rectangle with a curved cutout on the right side
+
+Minimalist black-and-white style.

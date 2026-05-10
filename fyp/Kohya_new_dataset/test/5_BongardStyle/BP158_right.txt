@@ -1,0 +1,10 @@
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A short, thin diagonal line angled upwards from left to right.
+Top-right: A longer, thick diagonal line angled upwards from left to right.
+Middle-left: A thick horizontal line.
+Middle-right: A short, thin horizontal line.
+Bottom-left: A very short, thin diagonal line angled upwards from left to right.
+Bottom-right: A short, thick horizontal line.
+
+Minimalist black-and-white style.

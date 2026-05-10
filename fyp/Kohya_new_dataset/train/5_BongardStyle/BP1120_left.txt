@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No same-sized copies of self overlap' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, symmetrical pattern resembling interconnected snowflakes or stars.
+Top-right: A similar symmetrical pattern with a central star-like design surrounded by smaller star shapes.
+Middle-left: A triangular arrangement of smaller triangles forming a larger triangle.
+Middle-right: A series of intersecting lines creating a cross-like pattern with additional smaller crosses.
+Bottom-left: A square divided into smaller squares with diagonal lines forming a zigzag pattern.
+Bottom-right: A cross shape composed of smaller squares and dots.
+
+Minimalist black-and-white style."

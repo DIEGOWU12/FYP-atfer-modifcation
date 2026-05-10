@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangular pyramid with a square base
+Top-right: A triangular prism with a rectangular base
+Middle-left: A star-shaped polygon with five points
+Middle-right: Two overlapping circles forming a Venn diagram
+Bottom-left: A circle with four squares extending outward from its sides
+Bottom-right: A pentagonal prism with a pentagonal base
+
+Minimalist black-and-white style."

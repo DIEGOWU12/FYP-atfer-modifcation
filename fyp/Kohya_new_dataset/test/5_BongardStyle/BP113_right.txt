@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'y-like junction' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a pair of scissors with two curved handles and a straight line connecting them.
+Top-right: A shape that looks like a stylized letter 'J' with a curved top and a straight bottom.
+Middle-left: A shape similar to a 'C' with an additional diagonal line extending from the curve.
+Middle-right: A shape resembling a 'Y' with a vertical line and two diagonal lines extending upwards.
+Bottom-left: A simple 'Y' shape with three lines meeting at a single point.
+Bottom-right: A shape that looks like a 'Y' with a vertical line and two diagonal lines extending upwards, but with a curved top on the vertical line.
+
+Minimalist black-and-white style."

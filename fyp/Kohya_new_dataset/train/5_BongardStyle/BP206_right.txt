@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'curve ends in a roughly left or right direction' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line resembling a small hook
+Top-right: A closed loop with a tail extending from it
+Middle-left: A spiral shape starting from the center and expanding outward
+Middle-right: A shape resembling a lowercase 's' with a small loop at the end
+Bottom-left: A shape resembling a lowercase 't' with a short vertical line extending downward
+Bottom-right: A larger spiral shape similar to the middle-left but more expansive
+
+Minimalist black-and-white style."

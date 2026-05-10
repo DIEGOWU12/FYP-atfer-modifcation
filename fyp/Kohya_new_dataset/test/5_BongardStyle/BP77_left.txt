@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'Angle divided in half' logic.
+The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A downward-pointing arrow
+Top-right: An upward-pointing L-shape
+Middle-left: Three intersecting diagonal lines
+Middle-right: Two upward-pointing arrows
+Bottom-left: An upward-pointing V-shape
+Bottom-right: A downward-pointing L-shape
+
+Minimalist black-and-white style.

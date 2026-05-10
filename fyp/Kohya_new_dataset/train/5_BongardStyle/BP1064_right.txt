@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'not so(Each large shape is made up of small shapes which are the same shape as the other large shape)' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square composed of smaller squares and circles.
+Top-right: A diamond shape made of circles, with a star pattern below it.
+Middle-left: A circular arrangement of triangles and lines.
+Middle-right: A star shape formed by small circles, with a square pattern below it.
+Bottom-left: A triangular shape with a circular pattern inside.
+Bottom-right: A triangular shape with a circular pattern around it.
+
+Minimalist black-and-white style."

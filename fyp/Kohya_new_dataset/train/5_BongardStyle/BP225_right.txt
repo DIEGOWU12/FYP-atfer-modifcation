@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'high contrast (at least one fully black region)' logic.
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A triangular section filled with dense dots transitioning to a solid black area.
+Top-right: A square pattern with dots radiating outward from the center, creating a gradient effect.
+Middle-left: A circular pattern with dots concentrated at the center and gradually spreading out.
+Middle-right: A diagonal split pattern with dots on one side and a solid black area on the other.
+Bottom-left: A square pattern with dots arranged in a gradient from dense to sparse.
+Bottom-right: A spiral pattern with dots forming concentric circles that tighten towards the center.
+
+Minimalist black-and-white style."

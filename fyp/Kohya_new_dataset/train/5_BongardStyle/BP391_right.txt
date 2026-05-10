@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with three vertices connected by straight lines.
+Top-right: A hexagon with six vertices connected by straight lines, forming a symmetrical shape.
+Middle-left: A pentagon with five vertices connected by straight lines, creating a star-like pattern.
+Middle-right: A quadrilateral with four vertices connected by straight lines, intersecting in the middle.
+Bottom-left: A complex structure resembling a pyramid with a triangular base and additional vertices extending upwards.
+Bottom-right: A square with four vertices connected by straight lines, forming a simple quadrilateral.
+
+Minimalist black-and-white style."

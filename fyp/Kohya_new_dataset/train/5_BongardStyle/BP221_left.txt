@@ -1,1 +1,10 @@
-Bongard style, one large composite image consisting of six individual images arranged in a 3x2 layout. Each of the six images features a 'No small square at the end of any curve' logic.
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved, elongated shape resembling a stylized '2'
+Top-right: A looped, open shape with a small tail, similar to a lowercase 'a' with a dot
+Middle-left: A closed, swirling shape with a loop, akin to a lowercase 'c' with an additional curve
+Middle-right: A checkmark-like shape with a diagonal line and a small perpendicular line at the end
+Bottom-left: A sharp, angular shape with a pointed end, resembling a stylized '7'
+Bottom-right: A smooth, flowing curve with a slight upward tilt, similar to a lowercase 's'
+
+Minimalist black-and-white style."

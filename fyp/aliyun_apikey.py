@@ -5,11 +5,14 @@ from dashscope import MultiModalConversation
 
 # ================= 配置区 =================
 API_KEY = "myapikey"  # 🔑 替换为你的真实 Key
-IMAGE_DIR = r"C:\Users\Lenovo\OneDrive\文档\GitHub\FYP-atfer-modifcation\fyp\Kohya_new_dataset\5_BongardStyle"
+# 获取脚本所在的当前文件夹路径
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
+# 修改为相对路径定位
+IMAGE_DIR = os.path.join(BASE_DIR, "Kohya_new_dataset", "5_BongardStyle")
 MODEL = "qwen-vl-plus"
 DELAY_SECONDS = 1.5
-MAX_RETRIES = 3  # 新增：网络抖动/限流自动重试次数
+MAX_RETRIES = 3 
 # ==========================================
 
 dashscope.api_key = API_KEY
@@ -50,7 +53,7 @@ def call_model_with_retry(image_path, prompt, max_retries=3):
                 messages=[{
                     "role": "user",
                     "content": [
-                        {"image": image_path},  # ✅ 直接传本地路径，SDK 会自动上传
+                        {"image": image_path},  # ✅ 直接传本地路径
                         {"text": prompt}
                     ]
                 }]
@@ -103,6 +106,7 @@ def process_bongard_images():
     print("\n🎉 所有图片处理完成！")
 
 if __name__ == "__main__":
-    # 确保 SDK 为最新版（支持本地路径自动上传）
+    print(f"🚀 脚本所在目录: {BASE_DIR}")
+    print(f"📂 目标图片目录: {IMAGE_DIR}")
     print("💡 提示：首次运行请确保已执行 pip install -U dashscope")
     process_bongard_images()

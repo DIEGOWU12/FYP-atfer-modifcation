@@ -1,0 +1,1 @@
+BongardStyle, Points inside the figure outline are grouped more densely than outside the contour, black and white geometric 3x2 grid, white background, minimalist.

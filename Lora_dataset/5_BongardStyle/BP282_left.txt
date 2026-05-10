@@ -1,0 +1,1 @@
+BongardStyle, Shape of black region has as many sides as overall object, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,0 +1,1 @@
+BongardStyle, Regions in drawing (ignore background) can be coloured using three or fewer colours such that no adjacent regions are coloured the same colour, black and white geometric 3x2 grid, white background, minimalist.

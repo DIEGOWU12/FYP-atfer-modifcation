@@ -1,0 +1,1 @@
+BongardStyle, circle: ΛΛ; square: ΛV; triangle: VV; blank: VΛ, black and white geometric 3x2 grid, white background, minimalist.

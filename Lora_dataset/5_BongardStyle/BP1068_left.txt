@@ -1,0 +1,1 @@
+BongardStyle, Every nonempty region has two boxes, black and white geometric 3x2 grid, white background, minimalist.

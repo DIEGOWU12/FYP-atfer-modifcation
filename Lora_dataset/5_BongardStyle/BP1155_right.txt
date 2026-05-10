@@ -1,0 +1,1 @@
+BongardStyle, shapes are sorted according to some other rule (or lack thereof), black and white geometric 3x2 grid, white background, minimalist.

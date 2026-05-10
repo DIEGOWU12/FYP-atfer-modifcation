@@ -1,0 +1,1 @@
+BongardStyle, number of objects is one more than sides of each object, black and white geometric 3x2 grid, white background, minimalist.

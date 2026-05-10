@@ -1,0 +1,1 @@
+BongardStyle, Objects define a map from the top row of boxes to the bottom row of boxes, black and white geometric 3x2 grid, white background, minimalist.

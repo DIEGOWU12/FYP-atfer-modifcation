@@ -1,0 +1,1 @@
+BongardStyle, Shape can tile itself, black and white geometric 3x2 grid, white background, minimalist.

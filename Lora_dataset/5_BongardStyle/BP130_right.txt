@@ -1,0 +1,1 @@
+BongardStyle, closed region is a polygon if flaws are ignored, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,0 +1,1 @@
+BongardStyle, The center of mass can "see" (in straight lines) all points within the shape, black and white geometric 3x2 grid, white background, minimalist.

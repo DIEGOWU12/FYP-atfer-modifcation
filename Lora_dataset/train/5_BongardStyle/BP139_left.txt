@@ -1,0 +1,1 @@
+BongardStyle, Similar components that change regularly, black and white geometric 3x2 grid, white background, minimalist.

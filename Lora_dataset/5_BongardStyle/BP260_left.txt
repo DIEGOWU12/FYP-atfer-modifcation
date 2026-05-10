@@ -1,0 +1,1 @@
+BongardStyle, Squares are either all empty or all contain something, black and white geometric 3x2 grid, white background, minimalist.

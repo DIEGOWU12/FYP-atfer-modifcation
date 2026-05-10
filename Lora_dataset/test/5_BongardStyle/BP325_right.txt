@@ -1,0 +1,1 @@
+BongardStyle, left shapes can combine by intersection (AND logical operator) to make right shape, black and white geometric 3x2 grid, white background, minimalist.

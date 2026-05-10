@@ -1,0 +1,1 @@
+BongardStyle, Dots are in tight clusters around convex vertices, black and white geometric 3x2 grid, white background, minimalist.

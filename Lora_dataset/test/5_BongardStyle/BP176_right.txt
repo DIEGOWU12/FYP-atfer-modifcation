@@ -1,0 +1,1 @@
+BongardStyle, line that connects dots avoiding obstacles is long, black and white geometric 3x2 grid, white background, minimalist.

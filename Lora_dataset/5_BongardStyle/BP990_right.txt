@@ -1,0 +1,1 @@
+BongardStyle, the center of mass is not located in a region where it can see (in straight lines) all points, black and white geometric 3x2 grid, white background, minimalist.

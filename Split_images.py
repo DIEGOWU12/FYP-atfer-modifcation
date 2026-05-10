@@ -4,7 +4,7 @@ from PIL import Image
 # 1. 路径配置
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_ROOT = os.path.join(BASE_DIR, "Kohya_data")
-OUTPUT_FOLDER = os.path.join(BASE_DIR, "Testdataset2", "5_BongardStyle")
+OUTPUT_FOLDER = os.path.join(BASE_DIR, "Lora_dataset", "5_BongardStyle")
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 

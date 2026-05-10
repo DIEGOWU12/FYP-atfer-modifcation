@@ -1,0 +1,1 @@
+BongardStyle, increasing quantity cannot loop back to starting value, black and white geometric 3x2 grid, white background, minimalist.

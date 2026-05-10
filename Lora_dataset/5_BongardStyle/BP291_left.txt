@@ -1,0 +1,1 @@
+BongardStyle, The shapes in the large square never appear outside of it, black and white geometric 3x2 grid, white background, minimalist.

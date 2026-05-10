@@ -1,0 +1,1 @@
+BongardStyle, the centers (barycenters) of the objects are not collinear, black and white geometric 3x2 grid, white background, minimalist.

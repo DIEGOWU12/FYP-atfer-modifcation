@@ -1,0 +1,1 @@
+BongardStyle, The left part has more pixels (area) than the right part, black and white geometric 3x2 grid, white background, minimalist.

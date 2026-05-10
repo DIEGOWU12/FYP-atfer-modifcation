@@ -1,0 +1,1 @@
+BongardStyle, All boxes on each particular nesting depth have the same number of boxes in them, black and white geometric 3x2 grid, white background, minimalist.

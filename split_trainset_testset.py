@@ -7,10 +7,10 @@ import shutil
 # =========================================================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-SOURCE_DIR = os.path.join(BASE_DIR, "Kohya_new_dataset", "5_BongardStyle")
+SOURCE_DIR = os.path.join(BASE_DIR, "Lora_dataset", "5_BongardStyle")
 
-TRAIN_DIR = os.path.join(BASE_DIR, "Kohya_new_dataset", "train", "5_BongardStyle")
-TEST_DIR  = os.path.join(BASE_DIR, "Kohya_new_dataset", "test", "5_BongardStyle")
+TRAIN_DIR = os.path.join(BASE_DIR, "Lora_dataset", "train", "5_BongardStyle")
+TEST_DIR  = os.path.join(BASE_DIR, "Lora_dataset", "test", "5_BongardStyle")
 
 os.makedirs(TRAIN_DIR, exist_ok=True)
 os.makedirs(TEST_DIR, exist_ok=True)

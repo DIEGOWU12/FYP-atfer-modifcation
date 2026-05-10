@@ -1,0 +1,1 @@
+BongardStyle, high contrast (at least one fully black region), black and white geometric 3x2 grid, white background, minimalist.

@@ -1,0 +1,1 @@
+BongardStyle, Left is union of (non-constant) arithmetic progressions, black and white geometric 3x2 grid, white background, minimalist.

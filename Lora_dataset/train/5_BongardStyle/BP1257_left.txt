@@ -1,0 +1,1 @@
+BongardStyle, The rule is about squares having a certain relationship with their neighbors, black and white geometric 3x2 grid, white background, minimalist.

@@ -1,0 +1,1 @@
+BongardStyle, There exists a loop that passes through every white square once without passing through the black square, black and white geometric 3x2 grid, white background, minimalist.

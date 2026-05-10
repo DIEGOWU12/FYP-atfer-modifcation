@@ -1,0 +1,1 @@
+BongardStyle, Any two lines intersect, and no three lines share an intersection point, black and white geometric 3x2 grid, white background, minimalist.

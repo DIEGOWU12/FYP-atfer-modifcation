@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw
 # 1. 路径与全局配置
 # ====================================================================
 SOURCE_DIR = "Bongard_Dataset_v3"
-FINAL_TARGET_DIR = "Kohya_train_data/6_BongardStyle"
+FINAL_TARGET_DIR = "Kohya_data/6_BongardStyle"
 
 RIGHT_7 = [284, 344, 351, 529, 533, 809, 917, 1003, 1008, 1065, 1115, 1122, 1184, 1202, 1283, 559]
 LEFT_7 = [352, 356, 523, 524, 860, 869, 935, 1093, 1116, 1261, 1262, 1275]

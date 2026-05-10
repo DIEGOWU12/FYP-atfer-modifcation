@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six sets of colored geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six sets of colored geometric shapes:
 
 Top-left: [Six squares with various combinations of red, blue, and black circles and lines]
 Top-right: [Six squares with different arrangements of red, blue, and black circles and lines]

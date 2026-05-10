@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A square divided into four smaller squares, each containing a circle in different colors (blue, red, and gray).
 Top-right: A square divided into four smaller squares, each containing a cluster of circles in various sizes and colors (black, gray, and red).

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A small triangle and a larger triangle
 Top-right: A rectangle and a small square

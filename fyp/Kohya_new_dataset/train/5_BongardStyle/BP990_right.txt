@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A rectangular shape with a smaller rectangle on top, resembling a simplified building or structure.
 Top-right: A curved, L-shaped form that appears to be a stylized letter or symbol.

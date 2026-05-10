@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A circular arrangement of seven interconnected circles forming a chain-like pattern.
 Top-right: A circular arrangement of six interconnected circles with one circle at the center.

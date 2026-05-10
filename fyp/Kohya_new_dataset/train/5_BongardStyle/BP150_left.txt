@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A white circle with a smaller black circle inside it, above a black dot.
 Top-right: A white square with a smaller black square inside it, below two separate black squares.

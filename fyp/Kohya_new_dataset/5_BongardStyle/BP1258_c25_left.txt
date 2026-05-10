@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
 
 Top-left: [Puzzle piece-like shapes with varying orientations]
 Top-right: [Interlocking X and O shapes forming a grid pattern]

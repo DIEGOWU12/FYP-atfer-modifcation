@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Three overlapping loops forming a continuous, abstract pattern
 Top-right: A single, irregular loop with a small tail extending from it

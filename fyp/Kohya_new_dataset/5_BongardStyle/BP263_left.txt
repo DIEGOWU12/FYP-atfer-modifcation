@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling an open letter 'C' with a small loop extending from the bottom.
 Top-right: A shape resembling an open letter 'J' with a small loop extending from the top.

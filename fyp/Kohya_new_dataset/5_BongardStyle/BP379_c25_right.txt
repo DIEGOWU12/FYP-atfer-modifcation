@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
 
 Top-left: A grid of black and white squares forming a larger square with a central black cross.
 Top-right: Three-dimensional geometric shapes including a tetrahedron, cube, and dodecahedron.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling an L with a small protrusion on the top right corner
 Top-right: A cross-like shape with four arms extending outward, and a smaller square in the center

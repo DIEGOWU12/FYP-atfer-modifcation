@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A square with two smaller squares inside it, one in the top left corner and one in the bottom right corner.
 Top-right: A shape resembling a leaf or a teardrop with a curved top and a pointed bottom, accompanied by two small 'u' shapes below it.

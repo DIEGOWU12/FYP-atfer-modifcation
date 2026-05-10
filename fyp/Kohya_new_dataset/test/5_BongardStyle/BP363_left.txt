@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A circle with a curved arrow pointing clockwise along its circumference.
 Top-right: A wavy, irregular shape resembling a stylized letter 'S' or a squiggly line.

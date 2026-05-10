@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black-and-white facial features:
+BongardStyle, "The image shows a 3x2 grid of six black-and-white facial features:
 
 Top-left: [Close-up of a face with visible eyes and forehead]
 Top-right: [Close-up of a face focusing on the nose and mouth area]

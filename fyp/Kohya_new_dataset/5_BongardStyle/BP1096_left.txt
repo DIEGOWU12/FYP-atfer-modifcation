@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black letters:
+BongardStyle, "The image shows a 3x2 grid of six black letters:
 
 Top-left: A
 Top-right: U

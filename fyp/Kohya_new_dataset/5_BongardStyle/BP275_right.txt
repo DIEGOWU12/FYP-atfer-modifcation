@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black alphanumeric characters:
+BongardStyle, "The image shows a 3x2 grid of six black alphanumeric characters:
 
 Top-left: W
 Top-right: I

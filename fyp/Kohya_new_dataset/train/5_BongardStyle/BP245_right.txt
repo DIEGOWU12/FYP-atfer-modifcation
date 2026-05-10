@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling an open book or a bracket with a small line extending from the top left corner.
 Top-right: A shape consisting of two intersecting lines forming a 'V' or 'Y' shape.

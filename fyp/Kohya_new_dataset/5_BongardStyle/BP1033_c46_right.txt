@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
 
 Top-left: A vertical rectangle with a pattern of small dots arranged in a grid.
 Top-right: A vertical rectangle with a pattern of larger dots forming a grid.

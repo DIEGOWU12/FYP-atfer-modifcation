@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A central node connected to five surrounding nodes, forming a star-like pattern.
 Top-right: A complex network of interconnected nodes with multiple branches extending outward.

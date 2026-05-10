@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A cluster of five dots arranged in a diamond pattern
 Top-right: A cluster of nine dots forming a larger, irregular shape

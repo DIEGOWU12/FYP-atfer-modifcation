@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A single large square piece with two protruding tabs and one recessed slot.
 Top-right: Two separate square pieces, each with one tab and one slot.

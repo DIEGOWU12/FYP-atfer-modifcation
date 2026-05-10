@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A wavy line with a smooth, continuous curve.
 Top-right: A wavy line with a more pronounced and jagged curve.

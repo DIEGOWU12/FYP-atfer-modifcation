@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A series of vertical bars with varying heights and filled sections.
 Top-right: A sequence of abstract shapes including dots, triangles, and a complex geometric figure.

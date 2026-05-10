@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A linear arrangement of five circles connected in a zigzag pattern.
 Top-right: A curved line with four circles, forming a gentle S-shape.

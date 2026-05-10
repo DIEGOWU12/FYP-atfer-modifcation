@@ -1,4 +1,4 @@
-"The image shows a 3x3 grid of nine black geometric patterns:
+BongardStyle, "The image shows a 3x3 grid of nine black geometric patterns:
 
 Top-left: [Pattern description]
 Top-center: [Pattern description]

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six sets of black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six sets of black geometric shapes:
 
 Top-left: A vertical line separates four triangles of varying sizes and orientations.
 Top-right: A vertical line separates five distinct symbols, including a flower-like shape, a star, a cross, a square with a dot, and a star.

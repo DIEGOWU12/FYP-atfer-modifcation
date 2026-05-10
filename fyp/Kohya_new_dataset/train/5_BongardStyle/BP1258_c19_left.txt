@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
 
 Top-left: A square containing various symbols including letters, a circle, and arrows.
 Top-right: A square filled with a repeating pattern of letters and shapes.

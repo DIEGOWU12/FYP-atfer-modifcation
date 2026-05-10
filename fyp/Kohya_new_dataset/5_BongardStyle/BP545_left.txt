@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six text-based comparisons:
+BongardStyle, "The image shows a 3x2 grid of six text-based comparisons:
 
 Top-left: [Text comparison description]
 Top-right: [Text comparison description]

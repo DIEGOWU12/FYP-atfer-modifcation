@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A triangular pyramid with a triangular base
 Top-right: A composite shape consisting of a rectangular prism and an L-shaped block

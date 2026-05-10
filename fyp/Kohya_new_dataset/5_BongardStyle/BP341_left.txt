@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a stepped or jagged line sloping downward from left to right.
 Top-right: A shape with a smooth, curved edge on the left and a straight vertical edge on the right.

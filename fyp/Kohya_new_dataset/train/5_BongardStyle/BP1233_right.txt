@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A heart shape with a swirling tail extending from its bottom left.
 Top-right: An infinity symbol with two loops connected at the center.

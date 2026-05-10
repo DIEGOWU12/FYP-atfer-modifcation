@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a tilted triangle with intersecting lines.
 Top-right: A shape with a zigzag line and a diagonal line crossing it.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A parallelogram with a diagonal line extending from its top left corner to the bottom right.
 Top-right: A zigzag line forming an angular shape.

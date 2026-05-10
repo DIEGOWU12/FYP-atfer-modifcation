@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six gray geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six gray geometric shapes:
 
 Top-left: A three-dimensional cube viewed from an angle
 Top-right: A rounded, irregular shape with a small protrusion

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Three dots forming an inverted triangle
 Top-right: Two dots and one plus sign forming a small triangle

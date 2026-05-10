@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a stylized letter 'W' with a horizontal line at the top.
 Top-right: A circular shape with two smaller circles inside, one near the top and one near the bottom.

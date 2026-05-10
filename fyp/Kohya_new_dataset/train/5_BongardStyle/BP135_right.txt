@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A wavy, S-shaped line with two small loops at the ends.
 Top-right: A complex, intertwined loop with multiple curves and a small circular detail.

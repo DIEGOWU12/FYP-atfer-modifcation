@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A 3x3 grid with various puzzle piece-like shapes in the top row and bottom row, and a single curved arrow in the middle row.
 Top-right: A 4x4 grid with alternating X's and O's, forming a checkerboard pattern with an additional X in the bottom right corner.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a stylized 'F' with a diagonal line extending from the top left to the bottom right.
 Top-right: A shape resembling a stylized 'Y' with three lines extending from a central point.

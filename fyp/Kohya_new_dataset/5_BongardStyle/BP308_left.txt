@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black dot patterns:
+BongardStyle, "The image shows a 3x2 grid of six black dot patterns:
 
 Top-left: Five dots arranged in a cross shape
 Top-right: Six dots forming two rows of three

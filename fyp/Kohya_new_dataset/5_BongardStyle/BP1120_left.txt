@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A complex, symmetrical pattern resembling interconnected snowflakes or stars.
 Top-right: A similar symmetrical pattern with a central star-like design surrounded by smaller star shapes.

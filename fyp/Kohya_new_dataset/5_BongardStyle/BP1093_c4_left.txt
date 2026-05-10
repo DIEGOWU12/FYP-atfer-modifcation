@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A square divided into four smaller squares, with the top-left and bottom-right squares filled in black, and the center containing a smaller white square.
 Top-right: A symmetrical shape resembling a four-pointed star or flower, with alternating black and white sections creating a dynamic, flowing pattern.

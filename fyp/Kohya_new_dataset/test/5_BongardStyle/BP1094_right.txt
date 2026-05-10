@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Two triangles pointing towards each other with a star in between
 Top-right: A diamond and two overlapping triangles

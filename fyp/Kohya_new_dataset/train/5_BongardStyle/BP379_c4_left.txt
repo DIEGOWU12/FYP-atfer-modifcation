@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Tetrominoes arranged in a pattern with various configurations
 Top-right: A complex arrangement of tetrominoes forming a larger, intricate design

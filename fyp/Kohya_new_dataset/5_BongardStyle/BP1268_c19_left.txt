@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Three parentheses in a row, with the first and third being open and the middle one closed.
 Top-right: A sequence of brackets and parentheses, alternating between open and closed forms.

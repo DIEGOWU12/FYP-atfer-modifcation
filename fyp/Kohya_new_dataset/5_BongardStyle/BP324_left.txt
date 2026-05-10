@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A greater-than symbol followed by an 'x'
 Top-right: A less-than-or-equal-to symbol followed by the Greek letter Epsilon

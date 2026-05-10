@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A collection of various shapes including circles, ovals, and irregular forms.
 Top-right: A group of elongated oval shapes with one distinct black shape among them.

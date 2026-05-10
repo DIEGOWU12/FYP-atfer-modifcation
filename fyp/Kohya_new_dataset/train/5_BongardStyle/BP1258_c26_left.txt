@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Three rows of abstract, interconnected shapes resembling stylized letters or symbols.
 Top-right: A pattern of X's and O's arranged in a grid, similar to a tic-tac-toe game.

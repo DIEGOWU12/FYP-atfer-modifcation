@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A jagged, angular shape resembling a stylized letter 'V' with a smaller inverted triangle inside.
 Top-right: A circular pattern composed of concentric circles and dots, divided into four triangular sections.

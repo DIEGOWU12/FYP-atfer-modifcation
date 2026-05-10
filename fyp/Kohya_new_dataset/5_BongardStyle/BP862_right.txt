@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black-and-white abstract shapes:
+BongardStyle, "The image shows a 3x2 grid of six black-and-white abstract shapes:
 
 Top-left: A cluster of rounded, interconnected forms resembling a dense, organic pattern.
 Top-right: A complex arrangement of angular and rectangular shapes, creating a sense of depth and structure.

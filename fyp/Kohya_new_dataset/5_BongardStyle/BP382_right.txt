@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a figure-eight with a loop on top.
 Top-right: A shape with two interlocking loops forming a knot-like pattern.

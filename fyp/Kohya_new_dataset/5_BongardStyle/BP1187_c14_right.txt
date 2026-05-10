@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Two rows of symbols, with the top row containing a circle, two zeros, and a triangle, and the bottom row containing a triangle, two zeros, and a circle.
 Top-right: A series of cloud-like shapes arranged in three rows, with each row containing four distinct cloud patterns.

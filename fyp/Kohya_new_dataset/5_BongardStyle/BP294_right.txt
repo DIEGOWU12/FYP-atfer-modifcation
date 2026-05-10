@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A maze with a complex network of paths and a single entrance and exit.
 Top-right: A maze with a dense pattern of vertical and horizontal lines, creating a highly intricate path.

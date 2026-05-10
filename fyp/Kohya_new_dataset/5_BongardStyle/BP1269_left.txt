@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A square with a circle at the top center, an upward-pointing triangle in the middle, and three 'x' marks below the triangle.
 Top-right: A vertical rectangle with two circles at the top and bottom, an upward-pointing triangle in the middle, and two 'x' marks on either side of the triangle.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
 
 Top-left: A triangular section filled with dense dots transitioning to a solid black area.
 Top-right: A square pattern with dots radiating outward from the center, creating a gradient effect.

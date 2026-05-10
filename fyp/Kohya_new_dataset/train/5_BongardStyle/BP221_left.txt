@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A curved, elongated shape resembling a stylized '2'
 Top-right: A looped, open shape with a small tail, similar to a lowercase 'a' with a dot

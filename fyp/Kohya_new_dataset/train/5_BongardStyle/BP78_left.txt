@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Two intersecting diagonal lines and one horizontal line below them
 Top-right: One short horizontal line above two intersecting diagonal lines

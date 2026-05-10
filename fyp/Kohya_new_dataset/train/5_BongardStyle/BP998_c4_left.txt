@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A collection of abstract symbols including stars, arrows, and wavy lines.
 Top-right: A series of interconnected triangles and circles forming various patterns.

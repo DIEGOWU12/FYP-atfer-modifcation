@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A vertical rectangle with a small square below it and a dot to the right.
 Top-right: A cluster of squares and rectangles forming an irregular shape with a dot to the right.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black and white abstract shapes:
+BongardStyle, "The image shows a 3x2 grid of six black and white abstract shapes:
 
 Top-left: Two rectangular shapes, one with a curved edge and the other solid.
 Top-right: Two stylized faces, one with spiky hair and the other with a rounder, more whimsical design.

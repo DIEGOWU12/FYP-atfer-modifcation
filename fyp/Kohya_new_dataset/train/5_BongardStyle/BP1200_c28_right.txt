@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A series of concentric squares forming a spiral pattern
 Top-right: Interlocking L-shaped and rectangular blocks creating a woven effect

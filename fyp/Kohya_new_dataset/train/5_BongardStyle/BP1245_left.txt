@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A single vertical line centered in the square.
 Top-right: A pattern resembling a brick wall with horizontal and vertical lines forming rectangular shapes.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A sequence of alternating letters and numbers (A B 3 B A)
 Top-right: A pattern of arrows and circles pointing in various directions

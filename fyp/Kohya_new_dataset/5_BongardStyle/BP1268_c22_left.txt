@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A series of five interconnected, angular shapes resembling a stylized, abstract pattern.
 Top-right: A sequence of alternating solid and outlined squares, creating a rhythmic, binary-like pattern.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a star with five points, each connected to a central point.
 Top-right: A shape with a central point connected to four other points, forming a cross-like structure.

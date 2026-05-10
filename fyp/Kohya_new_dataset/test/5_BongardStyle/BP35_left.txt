@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: An elongated oval with a smaller oval inside, tilted slightly.
 Top-right: A larger oval with a smaller oval inside, centered.

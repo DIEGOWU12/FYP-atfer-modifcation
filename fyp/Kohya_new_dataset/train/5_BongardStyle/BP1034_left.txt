@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
 
 Top-left: A pattern of dots arranged in a square grid with varying dot densities.
 Top-right: A pattern of dots forming larger clusters within a grid, creating a mosaic-like effect.

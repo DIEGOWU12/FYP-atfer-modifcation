@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Three horizontal lines intersected by two vertical lines, forming a grid-like pattern.
 Top-right: Two horizontal lines intersected by one vertical line, creating a simple cross with an additional horizontal line.

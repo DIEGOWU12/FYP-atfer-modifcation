@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling an L with a short horizontal line extending to the left and a longer vertical line extending upwards.
 Top-right: A shape resembling a V with two lines meeting at a point and extending outwards.

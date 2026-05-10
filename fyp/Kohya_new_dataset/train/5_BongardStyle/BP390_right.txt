@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a Y with three circular nodes connected by lines.
 Top-right: A shape with a central node connected to four other nodes in a cross-like pattern.

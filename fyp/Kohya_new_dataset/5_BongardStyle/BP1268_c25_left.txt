@@ -1,4 +1,4 @@
-The image shows a 3x2 grid of six black abstract symbols:
+BongardStyle, The image shows a 3x2 grid of six black abstract symbols:
 
 Top-left: [Symbol description]
 Top-right: [Symbol description]

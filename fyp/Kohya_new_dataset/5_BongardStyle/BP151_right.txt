@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A cluster of small circles and a plus sign, with the plus sign positioned near the center.
 Top-right: A vertical arrangement of three circles, with a plus sign placed between the top two circles.

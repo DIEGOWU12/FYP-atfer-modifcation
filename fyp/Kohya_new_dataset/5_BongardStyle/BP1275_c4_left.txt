@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Four letters arranged in a pattern (ABBA)
 Top-right: A sequence of four symbols (40*404*04)

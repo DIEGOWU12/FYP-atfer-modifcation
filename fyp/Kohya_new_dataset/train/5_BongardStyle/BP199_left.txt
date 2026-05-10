@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A large, bold, angular 'L' shape
 Top-right: A stylized 'Π' (Pi) symbol with two vertical lines and a horizontal line above them

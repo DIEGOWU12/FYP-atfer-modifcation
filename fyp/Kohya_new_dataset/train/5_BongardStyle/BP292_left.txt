@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six white geometric shapes on a black background:
+BongardStyle, "The image shows a 3x2 grid of six white geometric shapes on a black background:
 
 Top-left: A triangle, a square, and a smaller triangle arranged in a vertical line.
 Top-right: A square and a triangle, with the square above the triangle.

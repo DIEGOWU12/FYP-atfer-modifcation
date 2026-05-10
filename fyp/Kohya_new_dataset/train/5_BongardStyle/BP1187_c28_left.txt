@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A grid of 16 squares arranged in 4 rows and 4 columns, with alternating filled and empty squares.
 Top-right: A grid of 16 star-like shapes arranged in 4 rows and 4 columns, with one shape having a unique design.

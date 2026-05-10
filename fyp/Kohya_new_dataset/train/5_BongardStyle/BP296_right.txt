@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A cluster of small squares and dots arranged in a scattered pattern.
 Top-right: A mix of larger and smaller squares with some overlapping, creating a layered effect.

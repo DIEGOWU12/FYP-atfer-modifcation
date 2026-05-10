@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling an infinity symbol with intersecting lines forming a loop.
 Top-right: Two curved lines forming a shape similar to a stylized letter 'V' or a chevron.

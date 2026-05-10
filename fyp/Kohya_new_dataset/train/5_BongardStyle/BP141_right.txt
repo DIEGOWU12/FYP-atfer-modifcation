@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A circle with a curved arrow pointing clockwise and a straight line dividing it into two sections.
 Top-right: A combination of vertical and horizontal lines forming an abstract shape.

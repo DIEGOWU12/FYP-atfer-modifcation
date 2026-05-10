@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a backward 'L' with a small curve at the top.
 Top-right: A shape resembling a 'U' with a small curve at the top right.

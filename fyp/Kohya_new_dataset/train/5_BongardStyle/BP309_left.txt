@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A curved line forming an upward arc with a dot at the bottom.
 Top-right: A wavy, irregular line with a dot near the end.

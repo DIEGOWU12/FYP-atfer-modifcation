@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A curved line with evenly spaced dots forming an arc, with a square at the end.
 Top-right: A symmetrical pattern resembling a stylized letter 'M' with alternating dots and squares.

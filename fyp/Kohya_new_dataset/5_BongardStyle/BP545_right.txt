@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black rectangular boxes with white text:
+BongardStyle, "The image shows a 3x2 grid of six black rectangular boxes with white text:
 
 Top-left: [Box contains the text 'Red text. vs. blue text']
 Top-right: [Box contains the text 'Is vs. is not']

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A white arrow with a black outline pointing diagonally downward to the right
 Top-right: A black and white surfboard-like shape with a pointed end

@@ -1,4 +1,4 @@
-"The image shows a 4x2 grid of eight black geometric patterns:
+BongardStyle, "The image shows a 4x2 grid of eight black geometric patterns:
 
 Top-left: A grid of small dots arranged in a 3x3 pattern with a single dot in the center.
 Top-right: A grid of small dots arranged in a 3x3 pattern with a single dot in the center, surrounded by larger dots.

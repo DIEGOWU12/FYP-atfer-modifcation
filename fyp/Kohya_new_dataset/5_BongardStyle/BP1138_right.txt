@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Five diamonds of varying sizes and orientations
 Top-right: A single diamond, a curved line, and two 'Z' shapes

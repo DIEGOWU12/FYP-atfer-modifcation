@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A complex arrangement of intersecting lines forming multiple enclosed spaces with a small circle near the center.
 Top-right: A series of vertical and horizontal lines creating a pattern with a small circle near the top right corner.

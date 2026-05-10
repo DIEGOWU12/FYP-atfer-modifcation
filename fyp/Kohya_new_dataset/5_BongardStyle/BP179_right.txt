@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: An elongated, rounded shape resembling an oval with a slightly pointed bottom.
 Top-right: A symmetrical, inverted funnel shape with a narrow top and wider base.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A curved, segmented line forming a partial spiral with two square end caps.
 Top-right: A cluster of five solid black circles and a section of diagonal hatching.

@@ -1,4 +1,4 @@
-The image shows a 3x2 grid of six black dotted shapes:
+BongardStyle, The image shows a 3x2 grid of six black dotted shapes:
 
 Top-left: Diagonal wavy lines
 Top-right: Two overlapping loops with a tail

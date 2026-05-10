@@ -1,4 +1,4 @@
-The image shows a 3x2 grid of six smiley face icons:
+BongardStyle, The image shows a 3x2 grid of six smiley face icons:
 
 Top-left: Three small smiley faces with simple eyes and mouths.
 Top-right: Four small smiley faces with varying expressions, including one with a winking eye.

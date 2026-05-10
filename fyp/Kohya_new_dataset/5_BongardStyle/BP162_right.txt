@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A five-pointed star-like shape with irregular angles
 Top-right: A hexagon with one side extended outward, creating a unique angular form

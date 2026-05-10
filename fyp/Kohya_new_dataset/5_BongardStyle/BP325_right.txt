@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A large triangle pointing upwards, a small pentagon, and a smaller inverted triangle.
 Top-right: Three triangles of varying sizes, all pointing upwards.

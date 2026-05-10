@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling an elongated 'L' with a sharp angle at the top left.
 Top-right: A square rotated 45 degrees, appearing as a diamond.

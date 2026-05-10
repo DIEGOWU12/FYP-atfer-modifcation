@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
 
 Top-left: A diagonal gradient transitioning from light to dark with a textured pattern.
 Top-right: A smooth gradient from light to dark with a subtle texture.

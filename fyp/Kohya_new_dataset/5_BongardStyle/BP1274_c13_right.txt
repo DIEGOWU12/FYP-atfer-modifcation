@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Five stars in a horizontal line
 Top-right: Alternating circles and diamonds in a repeating pattern

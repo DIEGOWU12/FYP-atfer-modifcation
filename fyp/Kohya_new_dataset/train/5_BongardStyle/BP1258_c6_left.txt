@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black-and-white patterns:
+BongardStyle, "The image shows a 3x2 grid of six black-and-white patterns:
 
 Top-left: A pattern featuring various symbols including letters, arrows, and question marks.
 Top-right: A pattern with abstract shapes resembling puzzle pieces and curved lines.

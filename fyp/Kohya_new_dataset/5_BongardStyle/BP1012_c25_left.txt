@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A pattern of interlocking triangles forming a lattice.
 Top-right: A woven, crisscross pattern resembling a basket weave.

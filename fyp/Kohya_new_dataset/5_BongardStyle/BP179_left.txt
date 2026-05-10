@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A layered, tree-like shape with three distinct sections.
 Top-right: A pointed, triangular shape with a flat base.

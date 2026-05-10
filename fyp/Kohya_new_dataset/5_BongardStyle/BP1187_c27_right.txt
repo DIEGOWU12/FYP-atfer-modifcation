@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Three pairs of crescent shapes pointing in opposite directions
 Top-right: Six pairs of small triangles and crescents alternating

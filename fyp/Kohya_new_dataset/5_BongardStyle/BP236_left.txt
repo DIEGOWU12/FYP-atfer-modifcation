@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black abstract shapes:
+BongardStyle, "The image shows a 3x2 grid of six black abstract shapes:
 
 Top-left: A jagged, irregular shape with a dense, textured appearance.
 Top-right: A compact, rounded form with a rough, stippled texture.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A pentagon with a slanted triangle above it
 Top-right: A square with a curved shape inside and a small, irregular shape below it

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A zigzagging line with three connected segments and four endpoints.
 Top-right: A shape resembling a question mark with a loop at the bottom.

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A series of dots forming a curved, elongated shape resembling a stylized 'S'.
 Top-right: A cluster of dots arranged in a circular pattern with a central void.

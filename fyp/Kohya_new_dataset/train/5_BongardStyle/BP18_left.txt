@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A symmetrical bowtie-like shape with two pointed ends.
 Top-right: A vertical hourglass shape with a narrow middle and wider ends.

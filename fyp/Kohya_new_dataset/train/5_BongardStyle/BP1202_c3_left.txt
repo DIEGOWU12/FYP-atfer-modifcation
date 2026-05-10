@@ -1,4 +1,4 @@
-The image shows a 3x2 grid of six colorful abstract shapes:
+BongardStyle, The image shows a 3x2 grid of six colorful abstract shapes:
 
 Top-left: [Red and yellow overlapping rounded shapes]
 Top-right: [Blue and red irregularly shaped forms with a gradient effect]

@@ -1,4 +1,4 @@
-The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Two upward-pointing arrows, one above the other
 Top-right: One downward-pointing arrow above one upward-pointing arrow

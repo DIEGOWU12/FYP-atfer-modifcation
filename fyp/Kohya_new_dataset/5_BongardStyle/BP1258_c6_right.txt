@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
 
 Top-left: A complex grid of intersecting lines forming a maze-like structure.
 Top-right: A set of five distinct shapes including a square, triangle, arrow, and two irregular polygons.

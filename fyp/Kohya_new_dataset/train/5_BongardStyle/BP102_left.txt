@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A pair of curved arrows pointing in opposite directions
 Top-right: A shape resembling a stylized letter 'E' with an additional vertical line extending downward

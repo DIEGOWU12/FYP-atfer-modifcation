@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A sequence of interconnected geometric shapes including circles, triangles, and polygons forming a pattern.
 Top-right: Five vertical ovals arranged in a straight line.

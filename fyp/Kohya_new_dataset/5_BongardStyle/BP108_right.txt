@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A four-petal flower-like shape with rounded petals.
 Top-right: A triangle divided into three smaller triangles by lines from the center to each vertex.

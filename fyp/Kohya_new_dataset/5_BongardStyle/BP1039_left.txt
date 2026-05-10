@@ -1,4 +1,4 @@
-"The image shows a 3x4 grid of twelve black geometric shapes:
+BongardStyle, "The image shows a 3x4 grid of twelve black geometric shapes:
 
 Top-left: A square with a single dot in the center.
 Top-second: A square with five dots arranged in a cross pattern.

@@ -1,4 +1,4 @@
-"The image shows a 3x3 grid of nine black geometric patterns:
+BongardStyle, "The image shows a 3x3 grid of nine black geometric patterns:
 
 Top-left: A square divided into four smaller squares, with the top-left and bottom-right squares filled with dots.
 Top-center: A square divided into four smaller squares, with the top-left and bottom-right squares filled with dots.

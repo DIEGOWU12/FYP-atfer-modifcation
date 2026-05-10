@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: Interlocking loops forming a complex, symmetrical pattern
 Top-right: A single, irregular, rounded shape resembling a simplified heart

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A collection of various abstract and geometric shapes including circles, triangles, and lines.
 Top-right: A mix of symbols such as a crescent moon, stars, and a lightning bolt.

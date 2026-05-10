@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six white rectangular tiles with black text:
+BongardStyle, "The image shows a 3x2 grid of six white rectangular tiles with black text:
 
 Top-left: 'woven'
 Top-right: 'pyjamas'

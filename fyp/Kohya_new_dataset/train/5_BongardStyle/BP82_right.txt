@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six white geometric shapes with black outlines:
+BongardStyle, "The image shows a 3x2 grid of six white geometric shapes with black outlines:
 
 Top-left: Three plus signs arranged in a vertical line.
 Top-right: A circle surrounded by four plus signs.

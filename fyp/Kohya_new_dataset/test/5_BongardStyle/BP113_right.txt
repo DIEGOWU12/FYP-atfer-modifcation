@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a pair of scissors with two curved handles and a straight line connecting them.
 Top-right: A shape that looks like a stylized letter 'J' with a curved top and a straight bottom.

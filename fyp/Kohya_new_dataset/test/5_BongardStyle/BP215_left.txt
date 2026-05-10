@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A smiling face with a dotted mouth and two small dots above it
 Top-right: A simple face with two dots for eyes and a checkmark-like smile

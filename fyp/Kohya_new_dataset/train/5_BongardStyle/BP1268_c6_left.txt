@@ -1,4 +1,4 @@
-The image shows a 3x2 grid of six black abstract symbols:
+BongardStyle, The image shows a 3x2 grid of six black abstract symbols:
 
 Top-left: Three nested parentheses-like shapes
 Top-right: A series of interconnected loops and curves

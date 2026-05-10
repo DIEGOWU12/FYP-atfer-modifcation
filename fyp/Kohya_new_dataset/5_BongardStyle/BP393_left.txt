@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six abstract geometric patterns:
+BongardStyle, "The image shows a 3x2 grid of six abstract geometric patterns:
 
 Top-left: A 3x3 grid with various shapes including triangles, squares, and circles, with one square highlighted.
 Top-right: A sequence of three rows showing a pattern transformation from a single shape to multiple shapes.

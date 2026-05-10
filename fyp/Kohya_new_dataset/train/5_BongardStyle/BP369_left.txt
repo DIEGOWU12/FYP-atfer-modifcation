@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A curved line with a small circle at one end and an elongated oval shape nearby.
 Top-right: A series of connected dots forming a wavy line, leading to a complex, layered spiral shape.

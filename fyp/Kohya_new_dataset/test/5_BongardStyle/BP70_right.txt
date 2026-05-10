@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a Y with two branches extending upwards and slightly to the right.
 Top-right: A shape similar to the top-left but with the branches curving more sharply to the right.

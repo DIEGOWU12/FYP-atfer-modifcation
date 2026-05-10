@@ -1,4 +1,4 @@
-"The image shows a 5x2 grid of ten black geometric patterns:
+BongardStyle, "The image shows a 5x2 grid of ten black geometric patterns:
 
 Top-left: A pattern of five dots arranged in a diamond shape.
 Top-right: A pattern of six dots arranged in two rows of three.

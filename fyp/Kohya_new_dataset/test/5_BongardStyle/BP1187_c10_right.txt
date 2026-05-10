@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A pattern of alternating circles and triangles with a central triangle pointing upwards.
 Top-right: A sequence of cloud-like shapes arranged in a grid, with some shapes having a solid fill.

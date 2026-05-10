@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A sequence of alternating circles and triangles
 Top-right: A series of Greek letters (phi, beta, alpha, phi)

@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A number '85' written in a stylized font
 Top-right: A series of intersecting diagonal lines with the number '7' near the intersection

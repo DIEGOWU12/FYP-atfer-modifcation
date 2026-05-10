@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black handwritten symbols:
+BongardStyle, "The image shows a 3x2 grid of six black handwritten symbols:
 
 Top-left: A symbol resembling the number '2'
 Top-right: A symbol resembling the number '1'

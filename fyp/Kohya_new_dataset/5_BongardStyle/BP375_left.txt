@@ -1,4 +1,4 @@
-"The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A stylized, angular shape resembling a maze or labyrinth.
 Top-right: A chaotic tangle of overlapping curved lines forming an intricate scribble.

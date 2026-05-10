@@ -1,4 +1,4 @@
-The image shows a 3x2 grid of six black geometric shapes:
+BongardStyle, The image shows a 3x2 grid of six black geometric shapes:
 
 Top-left: A shape resembling a backward 'C' with a small protrusion on its lower left side.
 Top-right: A shape that looks like a looped 'G' with a small tail extending from its bottom right.

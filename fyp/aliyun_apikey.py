@@ -4,7 +4,7 @@ import dashscope
 from dashscope import MultiModalConversation
 
 # ================= 配置区 =================
-API_KEY = "sk-e03f2df5f8ed44e2bb77a9bae5ff5121"  # 🔑 替换为你的真实 Key
+API_KEY = "myapikey"  # 🔑 替换为你的真实 Key
 IMAGE_DIR = r"C:\Users\Lenovo\OneDrive\文档\GitHub\FYP-atfer-modifcation\fyp\Kohya_new_dataset\5_BongardStyle"
 
 MODEL = "qwen-vl-plus"

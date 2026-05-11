@@ -1,0 +1,1 @@
+A similar, but different, solution is "center of mass is above the horizontal vs. center of mass is below the horizontal."

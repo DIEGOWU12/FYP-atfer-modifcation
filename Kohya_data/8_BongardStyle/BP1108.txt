@@ -1,0 +1,1 @@
+Solid chunk of black space in neighborhood of any point of the fractal vs. solid chunk of white space in any neighborhood.

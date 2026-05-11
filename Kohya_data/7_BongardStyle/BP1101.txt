@@ -1,0 +1,1 @@
+Each node is connected to the same number of nodes by straight lines vs. not so.

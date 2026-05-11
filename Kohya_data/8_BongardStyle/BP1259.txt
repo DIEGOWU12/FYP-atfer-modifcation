@@ -1,0 +1,1 @@
+Rule is the same for rows as it is for columns vs. not

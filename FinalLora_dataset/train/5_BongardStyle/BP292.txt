@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six white geometric shapes on a black background:
+
+Top-left: A triangle above a square, with another triangle below the square.
+Top-right: A single triangle in the upper right corner.
+Middle-left: A square above a triangle.
+Middle-right: A single square in the center.
+Bottom-left: A single square in the lower left corner.
+Bottom-right: A triangle, a square, and another triangle in a row.
+
+Minimalist black-and-white style.".

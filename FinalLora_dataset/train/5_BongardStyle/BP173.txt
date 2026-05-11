@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: [Sparse, evenly spaced diagonal lines]
+Top-right: [Dense, randomly oriented diagonal lines]
+Middle-left: [Moderate density of diagonal lines with some clustering]
+Middle-right: [Highly dense and chaotic diagonal lines]
+Bottom-left: [Varied density with both sparse and clustered areas]
+Bottom-right: [Highly dense and overlapping diagonal lines]
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Cloud-like shapes with varying numbers of peaks and curves.
+Top-right: Triangles, circles, and other simple geometric forms.
+Middle-left: A mix of cloud-like shapes and angular forms.
+Middle-right: Stars, circles, and other small geometric patterns.
+Bottom-left: Spider-like figures with multiple legs extending outward.
+Bottom-right: Circular shapes with internal divisions resembling slices or segments.
+
+Minimalist black-and-white style.".

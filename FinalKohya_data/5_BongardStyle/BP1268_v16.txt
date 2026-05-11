@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two open parentheses facing each other
+Top-right: A sequence of alternating filled and open squares
+Middle-left: A pattern of alternating filled and open circles with stars in between
+Middle-right: A series of crescent shapes pointing to the right
+Bottom-left: A sequence of alternating filled and open diamonds
+Bottom-right: A pattern of alternating filled and open triangles with a tree-like shape in the middle
+
+Minimalist black-and-white style."

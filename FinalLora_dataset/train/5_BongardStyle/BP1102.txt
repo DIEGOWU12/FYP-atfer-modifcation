@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A three-dimensional cube with vertices connected by edges.
+Top-right: A skewed, three-dimensional parallelogram with vertices connected by edges.
+Middle-left: A complex network of interconnected points and lines forming a web-like structure.
+Middle-right: A triangular prism with additional internal connections between vertices.
+Bottom-left: A hexagonal prism with vertices connected by edges.
+Bottom-right: A dense network of interconnected points and lines forming a complex web.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three dots arranged in a vertical line
+Top-right: Four dots arranged in a square
+Middle-left: Four dots arranged in a diamond shape
+Middle-right: Five dots arranged in an L-shape
+Bottom-left: Three dots arranged in a horizontal line
+Bottom-right: Two dots arranged vertically with one dot below
+
+Minimalist black-and-white style."

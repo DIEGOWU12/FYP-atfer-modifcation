@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle with a small protrusion on the left side.
+Top-right: A horizontal rectangle with a small protrusion on the right side.
+Middle-left: A horizontal rectangle with two small protrusions on the left side.
+Middle-right: A horizontal rectangle with two small protrusions on the right side.
+Bottom-left: A horizontal rectangle with three small protrusions on the left side.
+Bottom-right: A horizontal rectangle with three small protrusions on the right side.
+
+Minimalist black-and-white style.".

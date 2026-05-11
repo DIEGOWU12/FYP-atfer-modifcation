@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of connected lines with small circles at each end, forming a zigzag pattern.
+Top-right: A sequence of spirals decreasing in size from left to right.
+Middle-left: A row of hexagons with alternating orientations, creating a staggered effect.
+Middle-right: A series of arrows pointing in various directions, forming a dynamic, scattered pattern.
+Bottom-left: A diagonal arrangement of parallelograms, creating a sense of movement.
+Bottom-right: A set of parallel lines slanting upwards from left to right.
+
+Minimalist black-and-white style."

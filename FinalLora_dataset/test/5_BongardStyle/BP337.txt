@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large black semicircle with its straight edge at the top
+Top-right: A white triangular shape with a curved top edge
+Middle-left: A series of five small black vertical rectangles arranged in a zigzag pattern
+Middle-right: A large white triangle pointing upwards
+Bottom-left: A large black irregular shape resembling a distorted rectangle
+Bottom-right: A small black vertical rectangle with a jagged top edge
+
+Minimalist black-and-white style.".

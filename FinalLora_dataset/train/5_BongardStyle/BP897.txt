@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex shape composed of multiple overlapping triangles forming a larger triangular structure.
+Top-right: Two separate triangles placed side by side.
+Middle-left: A shape consisting of two overlapping triangles forming a diamond-like structure.
+Middle-right: A zigzag line with sharp angles and a triangular extension at the end.
+Bottom-left: A symmetrical shape resembling a bowtie, formed by two intersecting triangles.
+Bottom-right: Three small triangles arranged in a triangular pattern.
+
+Minimalist black-and-white style.".

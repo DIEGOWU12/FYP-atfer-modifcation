@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tic-tac-toe board with Xs and Os, where Xs form a diagonal line.
+Top-right: A tic-tac-toe board with Xs and Os, where Xs form a horizontal line.
+Middle-left: A grid with checkered patterns, where the top row is filled with Xs and the bottom row has alternating Xs and Os.
+Middle-right: Two upward-pointing arrows of equal size.
+Bottom-left: A sequence of arrows pointing left and right alternately, with a dot in the center.
+Bottom-right: A hexagon with a circle inside it, surrounded by smaller circles.
+
+Minimalist black-and-white style.".

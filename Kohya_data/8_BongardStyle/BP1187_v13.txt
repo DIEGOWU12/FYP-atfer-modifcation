@@ -1,1 +1,0 @@
-Smaller section tiles the grid vs. not so.

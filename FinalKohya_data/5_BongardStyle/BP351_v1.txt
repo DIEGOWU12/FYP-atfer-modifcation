@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of five diagonal lines with small perpendicular marks at each end, resembling stylized arrows pointing upwards and to the right.
+Top-right: A sequence of four wavy lines, each progressively smaller and higher than the previous one, creating a descending zigzag pattern.
+Middle-left: A series of three curved lines, each forming a spiral shape that increases in size from left to right.
+Middle-right: A row of five solid black squares aligned horizontally.
+Bottom-left: A group of five circles arranged in a horizontal line, with the second circle from the left slightly overlapping the first.
+Bottom-right: A set of five vertical bars of varying heights, with the tallest bar on the far right and the shortest on the far left, creating a stepped appearance.
+
+Minimalist black-and-white style."

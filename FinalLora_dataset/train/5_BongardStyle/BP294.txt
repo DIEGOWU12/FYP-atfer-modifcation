@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A maze with a single entrance and exit, featuring a complex network of paths.
+Top-right: A maze with a single entrance and exit, characterized by a dense arrangement of walls.
+Middle-left: A maze with a single entrance and exit, displaying a more open layout with fewer walls.
+Middle-right: A maze with a single entrance and exit, featuring a mix of open spaces and tight corridors.
+Bottom-left: A maze with a single entrance and exit, presenting a highly intricate pattern of paths.
+Bottom-right: A maze with a single entrance and exit, showing a relatively simple structure with fewer twists.
+
+Minimalist black-and-white style.".

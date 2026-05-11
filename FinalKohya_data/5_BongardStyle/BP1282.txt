@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A linear arrangement of circles connected by lines, with the first and last circles having an additional small circle attached.
+Top-right: A similar linear arrangement of circles connected by lines, but with the second circle from the left having an additional small circle attached.
+Middle-left: A circular arrangement of circles connected by lines, with one circle having an additional small circle attached.
+Middle-right: A circular arrangement of circles connected by lines, with two opposite circles each having an additional small circle attached.
+Bottom-left: A linear arrangement of circles connected by lines, with the second circle from the left having an additional small circle attached.
+Bottom-right: A circular arrangement of circles connected by lines, with all circles having an additional small circle attached.
+
+Minimalist black-and-white style."

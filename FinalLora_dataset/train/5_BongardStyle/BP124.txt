@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small, irregularly shaped black figure with a circular dot nearby.
+Top-right: A complex, angular shape resembling a stylized letter 'L' with an additional protrusion.
+Middle-left: Two identical triangular shapes pointing towards each other.
+Middle-right: A curved line forming a partial loop with a small circle adjacent to it.
+Bottom-left: A dark, abstract shape resembling a stylized hourglass or a pair of inverted cones.
+Bottom-right: A simple, elongated oval shape with a diagonal line intersecting it.
+
+Minimalist black-and-white style.".

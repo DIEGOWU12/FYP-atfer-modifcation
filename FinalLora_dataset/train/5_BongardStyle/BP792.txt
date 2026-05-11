@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small squares forming irregular rectangular patterns
+Top-right: A dense arrangement of small squares creating a complex, maze-like structure
+Middle-left: A scene with various geometric shapes and symbols, including circles, triangles, and text elements, resembling a schematic or diagram
+Middle-right: A collection of circular shapes with internal markings, some containing letters like 'A' and 'D'
+Bottom-left: A set of interconnected circles and lines, forming a network-like pattern with labeled nodes
+Bottom-right: A simple, abstract design with overlapping circles and small shapes, giving a sense of motion or interaction
+
+Minimalist black-and-white style.".

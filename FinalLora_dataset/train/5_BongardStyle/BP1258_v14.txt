@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black-and-white patterns:
+
+Top-left: A grid with scattered black dots forming an irregular pattern.
+Top-right: A grid with a mix of solid and outlined squares, some filled with smaller shapes.
+Middle-left: A grid with a dense cluster of black dots in the center, surrounded by white space.
+Middle-right: A grid with a repeating pattern of small black squares and circles.
+Bottom-left: A grid with a complex arrangement of black shapes, including circles and irregular forms.
+Bottom-right: A grid with evenly spaced black dots arranged in a grid-like pattern.
+
+Minimalist black-and-white style.".

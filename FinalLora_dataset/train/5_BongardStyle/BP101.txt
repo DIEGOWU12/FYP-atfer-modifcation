@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a lowercase 'z' with a horizontal line extending from its top and bottom.
+Top-right: A shape resembling a lowercase 'e' with a horizontal line extending from its top and bottom.
+Middle-left: A shape resembling a lowercase 'a' with a horizontal line extending from its top and bottom.
+Middle-right: A shape resembling a lowercase 's' with a horizontal line extending from its top and bottom.
+Bottom-left: A shape resembling a lowercase 'c' with a horizontal line extending from its top and bottom.
+Bottom-right: A shape resembling a lowercase 'e' with a horizontal line extending from its top and bottom.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small squares and rectangles forming irregular patterns.
+Top-right: A dense arrangement of small squares creating a textured, mosaic-like appearance.
+Middle-left: A series of interconnected circles and ovals with varying sizes and orientations.
+Middle-right: A pattern of horizontal and vertical lines forming a grid-like structure.
+Bottom-left: A network of lines and dots with no clear pattern, resembling a random scatter.
+Bottom-right: A sequence of alternating triangles and circles in a linear arrangement.
+
+Minimalist black-and-white style.".

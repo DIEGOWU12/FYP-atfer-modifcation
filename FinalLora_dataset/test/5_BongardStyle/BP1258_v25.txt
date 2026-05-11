@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: [Three interconnected shapes resembling a stylized letter 'S' with a circular element]
+Top-right: [A grid of alternating X and O symbols in a 3x3 pattern]
+Middle-left: [A grid with scattered black dots on a white background]
+Middle-right: [A grid of various small square patterns, including solid squares and combinations of smaller squares]
+Bottom-left: [A complex pattern of black and white shapes forming an abstract design with overlapping elements]
+Bottom-right: [A grid with evenly spaced black dots arranged in a rectangular pattern]
+
+Minimalist black-and-white style.".

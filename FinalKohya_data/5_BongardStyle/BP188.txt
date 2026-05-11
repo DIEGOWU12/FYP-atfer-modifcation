@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A stepped, L-shaped structure composed of stacked squares.
+Top-right: A rectangular frame with a complex internal pattern of intersecting lines and smaller shapes.
+Middle-left: A cluster of squares arranged in a non-uniform, scattered pattern.
+Middle-right: A row of evenly spaced squares aligned horizontally.
+Bottom-left: A symmetrical arrangement of triangles and diamonds forming a diamond-like shape.
+Bottom-right: A large square divided into smaller triangular sections by intersecting lines.
+
+Minimalist black-and-white style."

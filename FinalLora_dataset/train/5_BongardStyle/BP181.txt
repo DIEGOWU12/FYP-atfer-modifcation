@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An irregular, elongated shape with a rounded top and a flat bottom.
+Top-right: A curved, incomplete circular shape resembling a crescent.
+Middle-left: A circle with a smaller circle inside it, creating a donut-like appearance.
+Middle-right: A triangular shape pointing to the right.
+Bottom-left: A complex, irregular polygon with multiple angles and a jagged edge.
+Bottom-right: A simple, irregular quadrilateral with a slightly curved edge.
+
+Minimalist black-and-white style.".

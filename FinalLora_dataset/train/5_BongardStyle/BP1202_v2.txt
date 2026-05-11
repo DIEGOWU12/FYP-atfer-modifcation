@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six colorful abstract shapes:
+
+Top-left: [Green and blue overlapping curved shapes with a yellow accent]
+Top-right: [Pink and brown curved shapes with a purple accent]
+Middle-left: [Blue and pink curved shapes with a flowing appearance]
+Middle-right: [Yellow, blue, and green overlapping curved shapes]
+Bottom-left: [Red, yellow, and blue curved shapes with a dynamic arrangement]
+Bottom-right: [Purple, teal, and orange intertwined curved shapes]
+
+Vibrant and minimalist style.".

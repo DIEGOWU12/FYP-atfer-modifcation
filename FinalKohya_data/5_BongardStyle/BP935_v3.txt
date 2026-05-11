@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle with a vertical line extending from its top left corner
+Top-right: A diamond shape next to a parallelogram
+Middle-left: Two overlapping circles with a vertical line intersecting them
+Middle-right: A vertical rectangle next to a diamond shape
+Bottom-left: A horizontal rectangle
+Bottom-right: A plus sign with an additional vertical line extending from its bottom center
+
+Minimalist black-and-white style."

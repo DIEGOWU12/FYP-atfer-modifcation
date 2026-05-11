@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cube with all edges and vertices clearly defined.
+Top-right: A rectangular prism with a slightly skewed perspective.
+Middle-left: A tetrahedron with four triangular faces.
+Middle-right: A complex polyhedron with multiple irregular faces.
+Bottom-left: A cylinder with circular bases and a curved side.
+Bottom-right: A pyramid with a triangular base and three triangular faces.
+
+Minimalist black-and-white style.".

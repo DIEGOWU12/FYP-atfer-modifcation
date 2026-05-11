@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line with a small vertical extension on the right side.
+Top-right: A horizontal line with a small vertical extension on the left side.
+Middle-left: A jagged, stepped shape resembling a staircase.
+Middle-right: A shape with multiple vertical lines and a horizontal line at the top.
+Bottom-left: A large, irregular shape with a jagged bottom edge.
+Bottom-right: A shape with a horizontal line and a small vertical extension on the right side.
+
+Minimalist black-and-white style."

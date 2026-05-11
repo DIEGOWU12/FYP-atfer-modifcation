@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of horizontal lines with varying lengths and gaps
+Top-right: A vertical rectangle with a smaller circle partially overlapping it
+Middle-left: A puzzle piece shape with a circular protrusion on the right side
+Middle-right: A horizontal rectangle with a smaller rectangle extending from its top right corner
+Bottom-left: A T-shaped figure with a vertical line and a horizontal line intersecting it
+Bottom-right: A complex shape resembling a puzzle piece with multiple protrusions and indentations
+
+Minimalist black-and-white style."

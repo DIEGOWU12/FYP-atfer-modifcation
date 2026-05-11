@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle divided into four smaller triangles, with the topmost small triangle shaded.
+Top-right: A triangle divided into nine smaller triangles, with a central hexagon formed by six small triangles shaded.
+Middle-left: A triangle divided into four smaller triangles, with the bottom two small triangles shaded.
+Middle-right: A triangle divided into nine smaller triangles, with a pattern of shaded triangles forming a larger triangle in the center.
+Bottom-left: A triangle divided into four smaller triangles, with the bottom left and bottom right small triangles shaded.
+Bottom-right: A triangle divided into nine smaller triangles, with a pattern of shaded triangles forming a larger triangle in the bottom right corner.
+
+Minimalist black-and-white style."

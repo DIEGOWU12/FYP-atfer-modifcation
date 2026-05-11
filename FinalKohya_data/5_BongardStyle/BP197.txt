@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six white rectangular blocks with black text:
+
+Top-left: 'woven'
+Top-right: 'pyjamas'
+Middle-left: 'for blue'
+Middle-right: 'silk'
+Bottom-left: 'exchanged'
+Bottom-right: 'quartz'
+
+Minimalist black-and-white style."

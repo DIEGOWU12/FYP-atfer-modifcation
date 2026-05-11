@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square divided into four smaller squares by two perpendicular lines.
+Top-right: A blank white square.
+Middle-left: A rectangle filled with diagonal black lines.
+Middle-right: A triangle pointing to the right.
+Bottom-left: A plus sign (+) with short lines extending from each arm.
+Bottom-right: Three parallel diagonal lines pointing upwards.
+
+Minimalist black-and-white style.".

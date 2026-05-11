@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An irregular, amoeba-like shape with three small black dots inside.
+Top-right: A rectangle with rounded corners containing four small black dots arranged in a square.
+Middle-left: An irregular, leaf-like shape with three small black dots inside and one dot outside near the bottom.
+Middle-right: A triangle with three small black dots inside and one dot outside near the bottom.
+Bottom-left: An oval shape with three small black dots inside and two dots outside near the top.
+Bottom-right: A parallelogram with rounded corners containing three small black dots inside and one dot outside near the top.
+
+Minimalist black-and-white style.".

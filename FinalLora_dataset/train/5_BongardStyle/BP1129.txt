@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single elongated oval shape.
+Top-right: Two overlapping ovals forming a figure-eight pattern.
+Middle-left: An oval with a horizontal line dividing it into two sections.
+Middle-right: Three interconnected loops resembling a chain.
+Bottom-left: An oval with three parallel horizontal lines inside.
+Bottom-right: Three interconnected loops with a more complex, intertwined pattern.
+
+Minimalist black-and-white style.".

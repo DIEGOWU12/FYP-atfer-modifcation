@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a circle above it
+Top-right: A triangle with a dot below it
+Middle-left: A circle with a dot inside it
+Middle-right: A rectangle with a dot to its right
+Bottom-left: A rectangle with a dot below it
+Bottom-right: An oval with a triangle below it
+
+Minimalist black-and-white style."

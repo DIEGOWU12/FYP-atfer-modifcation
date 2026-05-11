@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller circle inside it, partially cut off at the top right corner.
+Top-right: A plus sign composed of two overlapping rectangles.
+Middle-left: A puzzle piece shape with a circular protrusion on the right side.
+Middle-right: A rectangle with a smaller rectangle attached to its top right corner.
+Bottom-left: A T-shaped figure with a horizontal bar extending from the center of a vertical bar.
+Bottom-right: A shape resembling a simplified human figure with a rectangular body and two horizontal lines for arms.
+
+Minimalist black-and-white style."

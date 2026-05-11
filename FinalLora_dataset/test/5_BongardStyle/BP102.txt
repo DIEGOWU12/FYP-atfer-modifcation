@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved arrow pointing left with a smaller arrow curving back towards the right.
+Top-right: A complex, angular shape resembling a folded or twisted rectangle with multiple layers.
+Middle-left: Three parallel, wavy lines with small circular marks near the ends.
+Middle-right: Two U-shaped curves facing each other, connected by a vertical line.
+Bottom-left: A spiral shape starting from the center and expanding outward in a clockwise direction.
+Bottom-right: A series of interconnected L-shaped and straight lines forming a more intricate pattern.
+
+Minimalist black-and-white style.".

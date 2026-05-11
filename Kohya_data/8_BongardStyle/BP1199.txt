@@ -1,1 +1,0 @@
-The only rectangles are the individual regions and the whole vs. there is some other rectangle made of rectangles.

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 2x2 grid with the bottom-left square filled in.
+Top-right: A 2x2 grid with all squares filled in.
+Middle-left: A 4x4 grid with the top-left 2x2 area filled in.
+Middle-right: A 4x4 grid with only the bottom-right square filled in.
+Bottom-left: A 2x2 grid with the bottom-right square filled in.
+Bottom-right: A 5x5 grid with the bottom-left 2x2 area filled in.
+
+Minimalist black-and-white style.".

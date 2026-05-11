@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small squares forming a larger square with a central void.
+Top-right: A pattern of small squares arranged in a cross shape with additional squares extending outward.
+Middle-left: A plus sign composed of small squares with a symmetrical arrangement.
+Middle-right: A series of small squares forming a diagonal line with a few additional squares branching off.
+Bottom-left: A pattern of small squares creating a star-like shape with intersecting lines.
+Bottom-right: A triangular arrangement of small squares with a smaller triangle nested inside.
+
+Minimalist black-and-white style.".

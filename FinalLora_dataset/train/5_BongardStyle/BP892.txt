@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single black square with a smaller square cut out from its bottom left corner.
+Top-right: A cluster of small black dots arranged in a scattered pattern.
+Middle-left: A complex shape composed of multiple overlapping black polygons.
+Middle-right: A group of five black circles arranged in a triangular formation.
+Bottom-left: A collection of black star shapes of varying sizes and orientations.
+Bottom-right: A single black rectangle with a smaller rectangle cut out from its top right corner.
+
+Minimalist black-and-white style.".

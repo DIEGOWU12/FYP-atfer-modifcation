@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 4x3 grid of twelve black geometric shapes:
+
+Top-left: A single dot centered in a square.
+Top-right: Three dots arranged in a vertical line within a square.
+Middle-left: A cluster of nine dots forming a 3x3 grid within a square.
+Middle-right: A single dot centered in a square.
+Bottom-left: A cluster of four dots forming a 2x2 grid within a square.
+Bottom-right: A cluster of nine dots forming a 3x3 grid within a square.
+
+Minimalist black-and-white style.".

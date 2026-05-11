@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside, rotated 45 degrees, and a diamond shape in the center.
+Top-right: A square with a smaller square inside, rotated 45 degrees, and a cross shape in the center.
+Middle-left: A plus sign with four smaller plus signs at its ends.
+Middle-right: A plus sign with four smaller plus signs at its ends, arranged in a larger plus shape.
+Bottom-left: Three triangles pointing upwards, decreasing in size from left to right.
+Bottom-right: A plus sign with four smaller plus signs at its ends, arranged in a larger plus shape.
+
+Minimalist black-and-white style."

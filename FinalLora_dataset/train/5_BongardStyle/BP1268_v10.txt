@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two separate parentheses facing each other
+Top-right: A series of overlapping curved lines forming an abstract pattern
+Middle-left: A sequence of alternating solid and outlined squares
+Middle-right: A pattern of repeating 'X' shapes with varying orientations
+Bottom-left: A set of irregular, angular shapes resembling abstract letters
+Bottom-right: A series of interconnected, rounded shapes forming a continuous line
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small, scattered dots forming an irregular pattern.
+Top-right: Two distinct shapes: a triangle and a square, both filled with solid black.
+Middle-left: A dense pattern of small, evenly spaced dots creating a textured appearance.
+Middle-right: An irregular, organic shape outlined in black, containing a few scattered dots.
+Bottom-left: A pattern of small, evenly spaced dots arranged in a grid-like formation.
+Bottom-right: Two distinct shapes: a triangle and a pentagon, both filled with solid black.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a Y with three branches, each ending in a small circle.
+Top-right: A linear arrangement of five circles connected by lines.
+Middle-left: A complex network of interconnected circles forming a web-like structure.
+Middle-right: A triangular shape with additional circles extending from its vertices.
+Bottom-left: A star-like shape with five points, each connected to a central circle.
+Bottom-right: A quadrilateral with additional circles at each corner and center.
+
+Minimalist black-and-white style.".

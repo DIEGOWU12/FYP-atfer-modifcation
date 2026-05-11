@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A dense cluster of interconnected lines forming a complex, web-like pattern.
+Top-right: A series of evenly spaced, vertical plus signs arranged in a grid.
+Middle-left: A rectangular array of plus signs with varying spacing and alignment.
+Middle-right: A set of parallel, vertical lines with consistent spacing.
+Bottom-left: A chaotic scattering of short, intersecting lines creating an abstract, starburst effect.
+Bottom-right: A symmetrical arrangement of plus signs forming a cross-like pattern.
+
+Minimalist black-and-white style.".

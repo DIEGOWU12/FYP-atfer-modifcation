@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An oval with a horizontal line inside
+Top-right: A ring with a smaller concentric oval inside
+Middle-left: A square with a small circle in the center
+Middle-right: A hexagonal prism with a small circle on the top face
+Bottom-left: A parallelogram with a diagonal line inside
+Bottom-right: A rectangular prism with a horizontal line inside
+
+Minimalist black-and-white style.".

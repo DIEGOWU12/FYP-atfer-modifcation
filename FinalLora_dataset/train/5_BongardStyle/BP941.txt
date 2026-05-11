@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A continuous, wavy line forming an irregular loop
+Top-right: A perfect circle
+Middle-left: A curved, S-shaped line with two small loops at the ends
+Middle-right: A five-pointed star
+Bottom-left: A tilted square
+Bottom-right: A cluster of small, scattered dots
+
+Minimalist black-and-white style.".

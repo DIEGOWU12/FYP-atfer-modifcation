@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small, scattered dots forming an irregular pattern.
+Top-right: A dense collection of dots arranged in a compact, almost circular formation.
+Middle-left: A group of dots with a more elongated and linear arrangement.
+Middle-right: A sparse distribution of dots with varying distances between them.
+Bottom-left: A symmetrical pattern of dots forming a cross-like shape.
+Bottom-right: A single dot positioned slightly off-center.
+
+Minimalist black-and-white style.".

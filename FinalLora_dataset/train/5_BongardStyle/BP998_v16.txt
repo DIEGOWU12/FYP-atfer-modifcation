@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of irregular shapes including stars, triangles, and abstract forms.
+Top-right: A set of various symbols and icons, including squares, diamonds, and curved lines.
+Middle-left: A group of elongated shapes with different orientations, some resembling arrows or flags.
+Middle-right: A pattern of small, repeating square-like shapes arranged in a grid.
+Bottom-left: A mix of geometric shapes such as circles, triangles, and polygons, interspersed with star-like symbols.
+Bottom-right: A series of angular and pointed shapes, including triangles and arrow-like forms.
+
+Minimalist black-and-white style.".

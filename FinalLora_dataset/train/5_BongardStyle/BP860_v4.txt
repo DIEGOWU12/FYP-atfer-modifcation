@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of horizontal lines stacked closely together
+Top-right: A vertical rectangle with a small circle above it
+Middle-left: A cross-like shape with equal-length arms
+Middle-right: A horizontal rectangle with a smaller rectangle inside it
+Bottom-left: A vertical line with a horizontal line intersecting it near the top
+Bottom-right: A shape resembling a chair or a person sitting on a bench
+
+Minimalist black-and-white style.".

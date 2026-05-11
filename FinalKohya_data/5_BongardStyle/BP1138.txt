@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single vertical cylinder with horizontal lines
+Top-right: Three stacked cylinders with horizontal lines, each smaller than the one below
+Middle-left: Four diamonds arranged in a square pattern
+Middle-right: Six triangles pointing upwards, arranged in two rows of three
+Bottom-left: Two stacked cylinders with horizontal lines, one above the other
+Bottom-right: Four pairs of parallel lines, each pair separated by space
+
+Minimalist black-and-white style."

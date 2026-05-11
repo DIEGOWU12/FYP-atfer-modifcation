@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single dot above a cluster of elongated, irregular shapes.
+Top-right: A single dot above a cluster of elongated, irregular shapes with varying orientations.
+Middle-left: A cluster of elongated, irregular shapes with a mix of horizontal and curved orientations.
+Middle-right: A cluster of elongated, irregular shapes with a more uniform horizontal orientation.
+Bottom-left: A single dot below a cluster of elongated, irregular shapes with a mix of horizontal and curved orientations.
+Bottom-right: A cluster of elongated, irregular shapes with a more uniform horizontal orientation.
+
+Minimalist black-and-white style.".

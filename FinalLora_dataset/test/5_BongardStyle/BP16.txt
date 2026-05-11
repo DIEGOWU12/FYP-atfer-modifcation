@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single spiral with a tight center and gradually expanding loops.
+Top-right: A larger spiral with a similar pattern but more pronounced expansion.
+Middle-left: A shape resembling a folded corner with a pointed tip extending downward.
+Middle-right: A square with a smaller, rotated square inside it, creating a layered effect.
+Bottom-left: A cluster of irregular, cloud-like shapes with a central, more defined form.
+Bottom-right: A simple, concentric circular design with a small gap in the outer ring.
+
+Minimalist black-and-white style.".

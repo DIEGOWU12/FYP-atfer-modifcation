@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three small, vertically aligned circles
+Top-right: Two horizontally aligned ovals with a smaller oval below them
+Middle-left: Two horizontally aligned ovals
+Middle-right: Three horizontally aligned ovals
+Bottom-left: Two horizontally aligned ovals
+Bottom-right: Two horizontally aligned ovals with a smaller oval between them
+
+Minimalist black-and-white style.".

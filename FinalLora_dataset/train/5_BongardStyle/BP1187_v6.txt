@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two distinct symbols, one resembling a stylized 'S' and the other a triangle with a line through it.
+Top-right: A series of interconnected shapes forming a pattern that resembles a chain or network.
+Middle-left: A collection of triangles pointing in various directions, creating a dynamic and scattered arrangement.
+Middle-right: A mix of curved and angular shapes, including crescents and lines, arranged in a seemingly random pattern.
+Bottom-left: A group of small, star-like shapes with multiple points, evenly distributed across the space.
+Bottom-right: A set of circular and semi-circular shapes, some solid and others hollow, arranged in a balanced composition.
+
+Minimalist black-and-white style.".

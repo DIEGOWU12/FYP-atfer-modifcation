@@ -1,1 +1,0 @@
-Fractal with hole vs. fractal with no hole (simply connected).

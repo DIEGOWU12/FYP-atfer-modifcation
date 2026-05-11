@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Intersecting diagonal lines forming a chaotic pattern
+Top-right: Intersecting diagonal lines forming a chaotic pattern
+Middle-left: Intersecting diagonal lines forming a chaotic pattern
+Middle-right: Intersecting diagonal lines forming a chaotic pattern
+Bottom-left: Intersecting diagonal lines forming a chaotic pattern
+Bottom-right: Intersecting diagonal lines forming a chaotic pattern
+
+Minimalist black-and-white style.".

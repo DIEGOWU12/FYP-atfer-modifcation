@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An irregular oval shape
+Top-right: A scalene triangle with no equal sides
+Middle-left: A single diagonal line segment
+Middle-right: A parallelogram with opposite sides parallel
+Bottom-left: A quadrilateral with one pair of parallel sides
+Bottom-right: A curved, irregular shape resembling a bent leaf
+
+Minimalist black-and-white style."

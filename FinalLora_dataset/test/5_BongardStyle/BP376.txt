@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three black dots arranged in an L-shape
+Top-right: Four black dots forming a square with one dot missing
+Middle-left: A dense pattern of black dots filling the entire grid
+Middle-right: Two black dots with a white square in the center
+Bottom-left: Two black dots with one dot slightly offset
+Bottom-right: Four black dots forming a diamond shape
+
+Minimalist black-and-white style.".

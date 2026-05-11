@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Trapezoid
+Top-right: Ellipse
+Middle-left: Rectangle with a smaller rectangle cut out from its top right corner
+Middle-right: Parallelogram
+Bottom-left: Arrow pointing to the right
+Bottom-right: Triangle pointing upwards
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A five-pointed star with jagged edges
+Top-right: A cluster of irregular, abstract shapes with varying sizes and orientations
+Middle-left: A wavy line with multiple peaks and troughs
+Middle-right: A smooth, continuous sine wave
+Bottom-left: A grid of squares arranged in a stepped pattern
+Bottom-right: Three stacked rectangular blocks with a curved handle-like shape on the right
+
+Minimalist black-and-white style.".

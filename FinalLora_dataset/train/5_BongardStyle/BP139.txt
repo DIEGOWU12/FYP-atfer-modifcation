@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Seven small circles arranged in a circular pattern
+Top-right: A series of horizontal lines decreasing in length from top to bottom
+Middle-left: A waveform with three sharp peaks and two troughs
+Middle-right: Multiple straight lines radiating outward from a single point
+Bottom-left: A square within a square, both rotated slightly
+Bottom-right: A series of concentric, nested rectangles
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six colored geometric shapes:
+
+Top-left: A solid red triangle
+Top-right: A square with orange diagonal stripes
+Middle-left: A purple outlined rectangle
+Middle-right: An oval with brown diagonal stripes
+Bottom-left: A pink grid patterned square
+Bottom-right: A solid orange heart
+
+Colorful minimalist style.".

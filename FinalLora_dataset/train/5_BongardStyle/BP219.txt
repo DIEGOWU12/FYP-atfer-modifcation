@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two parallel, wavy lines with a textured fill
+Top-right: Three vertical cylinders of varying heights
+Middle-left: Two horizontal, curved bands with a solid fill
+Middle-right: A single, curved band with a dotted texture
+Bottom-left: Multiple parallel, angled lines with a striped texture
+Bottom-right: Four short, vertical lines with varying lengths
+
+Minimalist black-and-white style.".

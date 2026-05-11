@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with two smaller squares inside it, one in the top left corner and one in the bottom right corner.
+Top-right: A speech bubble shape with a small rectangle underneath it.
+Middle-left: An elongated oval shape with a small diamond shape below it.
+Middle-right: A horizontal line with a small dot to the right of it.
+Bottom-left: A shape resembling the letter 'E' with a wavy line at the bottom.
+Bottom-right: A downward-pointing arrow with an 'X' inside it.
+
+Minimalist black-and-white style."

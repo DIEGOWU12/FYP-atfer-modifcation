@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of alternating straight and curved lines forming a continuous pattern.
+Top-right: A sequence of small, evenly spaced dots followed by three pairs of parentheses.
+Middle-left: A pattern of alternating dashes and crosses.
+Middle-right: Three pairs of parentheses in a row.
+Bottom-left: A series of small, evenly spaced dots.
+Bottom-right: A sequence of alternating letters and symbols.
+
+Minimalist black-and-white style."

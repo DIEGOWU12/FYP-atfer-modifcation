@@ -1,0 +1,33 @@
+"The image shows a 5x4 grid of twenty black geometric shapes:
+
+Top-left: [Shape description]
+Top-second-left: [Shape description]
+Top-third-left: [Shape description]
+Top-fourth-left: [Shape description]
+Top-fifth-left: [Shape description]
+
+Top-right: [Shape description]
+Top-second-right: [Shape description]
+Top-third-right: [Shape description]
+Top-fourth-right: [Shape description]
+Top-fifth-right: [Shape description]
+
+Middle-left: [Shape description]
+Middle-second-left: [Shape description]
+Middle-third-left: [Shape description]
+Middle-fourth-left: [Shape description]
+Middle-fifth-left: [Shape description]
+
+Middle-right: [Shape description]
+Middle-second-right: [Shape description]
+Middle-third-right: [Shape description]
+Middle-fourth-right: [Shape description]
+Middle-fifth-right: [Shape description]
+
+Bottom-left: [Shape description]
+Bottom-second-left: [Shape description]
+Bottom-third-left: [Shape description]
+Bottom-fourth-left: [Shape description]
+Bottom-fifth-left: [Shape description]
+
+Minimalist black-and-white style."

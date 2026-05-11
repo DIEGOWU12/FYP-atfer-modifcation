@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single curved line with a small dot at the top.
+Top-right: A single curved line with a small dot at the top, similar to the top-left but slightly more elongated.
+Middle-left: Two curved lines branching out from a central point, each ending in a small dot.
+Middle-right: A single curved line with a small dot at the top, similar to the top-left but with a different curvature.
+Bottom-left: Three curved lines branching out from a central point, each ending in a small dot.
+Bottom-right: Three curved lines branching out from a central point, each ending in a small dot, similar to the bottom-left but with a different curvature.
+
+Minimalist black-and-white style.".

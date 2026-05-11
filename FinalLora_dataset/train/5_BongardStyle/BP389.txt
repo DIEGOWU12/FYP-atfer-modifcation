@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two separate circles not touching each other
+Top-right: Two interlocking loops forming a single continuous shape
+Middle-left: A single loop with a smaller loop inside it
+Middle-right: A complex knot-like structure with multiple intertwined loops
+Bottom-left: Two interlocking loops forming an infinity-like shape
+Bottom-right: A more intricate knot with multiple intertwined loops
+
+Minimalist black-and-white style.".

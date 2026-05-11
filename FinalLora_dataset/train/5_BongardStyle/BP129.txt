@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a curved, elongated oval with a small protrusion at one end.
+Top-right: A shape with a rounded top and a smaller, similar shape attached below it.
+Middle-left: A shape that looks like a mushroom with a rounded cap and a short stem.
+Middle-right: A shape resembling a rounded, irregular blob with two small protrusions at the bottom.
+Bottom-left: A shape with a jagged, irregular outline and a small loop at one corner.
+Bottom-right: A shape with a rectangular base and a smaller, L-shaped protrusion on the right side.
+
+Minimalist black-and-white style.".

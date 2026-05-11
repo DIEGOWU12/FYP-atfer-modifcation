@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of interconnected polygons forming a chain-like structure.
+Top-right: A series of parallel lines with varying lengths and orientations.
+Middle-left: A row of five solid circles aligned horizontally.
+Middle-right: A pattern of vertical lines grouped into clusters of increasing size.
+Bottom-left: A set of alternating triangles and squares arranged in a diagonal line.
+Bottom-right: A collection of irregular shapes including lines, curves, and blocks.
+
+Minimalist black-and-white style.".

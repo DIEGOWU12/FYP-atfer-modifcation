@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'M' with two peaks.
+Top-right: A cross-like shape formed by intersecting horizontal and vertical lines.
+Middle-left: A simple, solid rectangle.
+Middle-right: A rectangle filled with diagonal black stripes.
+Bottom-left: A triangle pointing upwards.
+Bottom-right: A small plus sign surrounded by short lines.
+
+Minimalist black-and-white style."

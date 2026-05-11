@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with two smaller circles inside and one circle outside.
+Top-right: A semicircle with three small circles below it and one small circle to the right.
+Middle-left: A rectangle with three small dots inside and one dot outside.
+Middle-right: An L-shaped figure with four small circles inside and one circle outside.
+Bottom-left: A triangle with no additional shapes.
+Bottom-right: A hexagon with two small circles inside.
+
+Minimalist black-and-white style."

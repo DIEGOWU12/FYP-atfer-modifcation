@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of small squares forming a larger rectangular pattern.
+Top-right: A set of circles and triangles arranged in a specific sequence.
+Middle-left: A series of horizontal bars of varying lengths.
+Middle-right: A collection of three-dimensional geometric shapes, including pyramids and cubes.
+Bottom-left: A network of interconnected lines and dots forming a complex pattern.
+Bottom-right: A row of alternating triangles and circles.
+
+Minimalist black-and-white style."

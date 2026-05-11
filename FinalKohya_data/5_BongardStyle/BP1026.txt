@@ -1,0 +1,13 @@
+"The image shows a 4x3 grid of twelve black geometric shapes:
+
+Top-left: A square with a dense cluster of small dots in the center.
+Top-center: A square with a single dot near the top left corner.
+Top-right: A square with a pattern of dots forming a diagonal line from top left to bottom right.
+Middle-left: A square with a single dot near the bottom left corner.
+Middle-center: A square with a dense cluster of small dots in the center.
+Middle-right: A square with a pattern of dots forming a diagonal line from top left to bottom right.
+Bottom-left: A square with a dense cluster of small dots in the center.
+Bottom-center: A square with a pattern of dots forming a diagonal line from top left to bottom right.
+Bottom-right: A square with a dense cluster of small dots in the center.
+
+Minimalist black-and-white style."

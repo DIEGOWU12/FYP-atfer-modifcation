@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 4x4 grid of sixteen black geometric shapes:
+
+Top-left: [Shape description]
+Top-right: [Shape description]
+Middle-left: [Shape description]
+Middle-right: [Shape description]
+Bottom-left: [Shape description]
+Bottom-right: [Shape description]
+
+Minimalist black-and-white style.".

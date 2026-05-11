@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a circle and a diamond inside it.
+Top-right: Four small circles arranged in a square pattern.
+Middle-left: A set of five shapes including a star, a crescent, and other abstract forms.
+Middle-right: A collection of five shapes featuring stars, dots, and other abstract designs.
+Bottom-left: A series of nine 'X' shapes arranged in a 3x3 grid.
+Bottom-right: A series of nine asterisks arranged in a 3x3 grid.
+
+Minimalist black-and-white style.".

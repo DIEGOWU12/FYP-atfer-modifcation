@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with its longest side slanted upwards to the right
+Top-right: An elongated oval shape, horizontally oriented
+Middle-left: A small vertical line segment
+Middle-right: A wavy, irregular line with multiple curves
+Bottom-left: A short vertical line segment
+Bottom-right: A zigzag line composed of multiple connected straight segments
+
+Minimalist black-and-white style.".

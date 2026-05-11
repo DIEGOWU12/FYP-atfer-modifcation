@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a shaded right angle
+Top-right: A quadrilateral with a shaded top-left corner
+Middle-left: An arrow pointing right with a shaded left end
+Middle-right: A quadrilateral with a shaded bottom-right corner
+Bottom-left: A rectangle with a shaded left half
+Bottom-right: A parallelogram with a shaded top-left corner
+
+Minimalist black-and-white style.".

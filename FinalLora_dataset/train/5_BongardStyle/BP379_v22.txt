@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern of stacked squares and rectangles forming a larger rectangular shape.
+Top-right: A series of overlapping circles with shaded regions, creating a Venn diagram-like structure.
+Middle-left: A set of interconnected shapes including circles and triangles, with some shaded areas.
+Middle-right: A grid of squares with alternating shaded and unshaded rows.
+Bottom-left: Three-dimensional geometric shapes including a cube, a sphere, and a pyramid.
+Bottom-right: A network of interconnected dots and lines, resembling a molecular or network structure.
+
+Minimalist black-and-white style.".

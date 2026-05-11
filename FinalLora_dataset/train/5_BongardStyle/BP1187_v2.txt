@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single triangle with a dot inside it.
+Top-right: Three pairs of crescent shapes pointing in opposite directions.
+Middle-left: A row of alternating triangles and dots.
+Middle-right: A mix of crescent shapes and dots arranged in a pattern.
+Bottom-left: A combination of triangles, dots, and a tree-like shape.
+Bottom-right: Multiple pairs of crescent shapes pointing in opposite directions.
+
+Minimalist black-and-white style.".

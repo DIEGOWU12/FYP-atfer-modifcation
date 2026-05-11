@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy, spiral-like line forming a continuous loop
+Top-right: Two pairs of concentric circles, each pair consisting of a larger and a smaller circle
+Middle-left: A tree-like structure with a main trunk branching into several smaller branches
+Middle-right: A pattern of eight dots arranged in two rows of four
+Bottom-left: A rectangle with a smaller square inside it, both outlined in black
+Bottom-right: A circular arrangement of small dots forming a ring
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of irregular, spiky shapes resembling asterisks.
+Top-right: Three wavy, interconnected lines forming abstract, organic patterns.
+Middle-left: A series of alternating solid and outlined squares in a horizontal line.
+Middle-right: A group of squares with various internal patterns, including dots and lines.
+Bottom-left: A sequence of letters and numbers arranged in a grid, with some characters repeated.
+Bottom-right: Three simple, curved lines forming abstract, flowing shapes.
+
+Minimalist black-and-white style.".

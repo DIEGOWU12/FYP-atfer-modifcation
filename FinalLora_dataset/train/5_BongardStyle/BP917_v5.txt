@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a crab with two claws and a segmented body.
+Top-right: A shape resembling a star with five points.
+Middle-left: A shape resembling a crescent moon with a smaller crescent inside it.
+Middle-right: A shape resembling a series of overlapping curved lines.
+Bottom-left: A shape resembling an hourglass with a cross in the center.
+Bottom-right: A shape resembling a cluster of small circles.
+
+Minimalist black-and-white style.".

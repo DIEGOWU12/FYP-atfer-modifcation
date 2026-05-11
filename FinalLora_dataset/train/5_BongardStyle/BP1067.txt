@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three horizontal rectangles with varying lengths, aligned side by side.
+Top-right: A series of concentric squares, decreasing in size towards the center.
+Middle-left: A series of concentric squares, decreasing in size towards the center, with a larger square at the bottom.
+Middle-right: Two vertical rectangles stacked on top of each other, with the top one smaller than the bottom one.
+Bottom-left: Two horizontal rectangles, one above the other, with the top one smaller than the bottom one.
+Bottom-right: A complex arrangement of multiple overlapping and nested rectangles and squares.
+
+Minimalist black-and-white style.".

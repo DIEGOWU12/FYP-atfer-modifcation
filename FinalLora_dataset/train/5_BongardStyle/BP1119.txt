@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, dense pattern resembling a fractal with intricate, repeating square-like structures.
+Top-right: A simple, abstract design featuring a series of horizontal and vertical lines forming a stepped, staircase-like pattern.
+Middle-left: A grid-like structure composed of squares and rectangles, creating a blocky, pixelated appearance.
+Middle-right: A triangular fractal pattern with multiple smaller triangles nested within a larger triangle.
+Bottom-left: A symmetrical, cross-like shape with four arms extending from a central point, each arm ending in a small square.
+Bottom-right: A chaotic, organic pattern resembling a tree or plant with numerous branches and leaves.
+
+Minimalist black-and-white style.".

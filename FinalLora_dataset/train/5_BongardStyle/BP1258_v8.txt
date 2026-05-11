@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 4x4 grid of sixteen black symbols:
+
+Top-left: [Symbol description]
+Top-right: [Symbol description]
+Middle-left: [Symbol description]
+Middle-right: [Symbol description]
+Bottom-left: [Symbol description]
+Bottom-right: [Symbol description]
+
+Minimalist black-and-white style.".

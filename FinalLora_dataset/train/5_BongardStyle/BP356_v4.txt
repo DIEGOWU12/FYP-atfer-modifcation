@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small, irregularly shaped dots.
+Top-right: A series of vertical bars of varying heights.
+Middle-left: A group of interconnected lines forming abstract shapes.
+Middle-right: A collection of small, scattered dots.
+Bottom-left: A set of angular, block-like shapes with sharp edges.
+Bottom-right: A pattern of repeating plus signs.
+
+Minimalist black-and-white style.".

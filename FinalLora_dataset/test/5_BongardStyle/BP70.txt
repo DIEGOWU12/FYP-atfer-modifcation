@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black abstract shapes:
+
+Top-left: A shape resembling a branch with two main offshoots and several smaller twigs.
+Top-right: A shape resembling a Y with three branches extending from a central point.
+Middle-left: A shape resembling a cluster of leaves with multiple thin, elongated forms branching out.
+Middle-right: A shape resembling a branch with several offshoots of varying lengths.
+Bottom-left: A shape resembling a simple branch with a few small twigs.
+Bottom-right: A shape resembling a curved branch with a few small twigs.
+
+Minimalist black-and-white style.".

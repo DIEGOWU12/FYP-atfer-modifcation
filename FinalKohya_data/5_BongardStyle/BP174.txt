@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with two triangles attached to its top sides, forming a roof-like structure.
+Top-right: A parallelogram with a triangle extending from one of its longer sides.
+Middle-left: A five-pointed star enclosed within a pentagon.
+Middle-right: Three overlapping circles forming a Venn diagram.
+Bottom-left: A rectangle with a circle inside it, flanked by two smaller squares on each side.
+Bottom-right: A hexagon with a smaller hexagon inside it.
+
+Minimalist black-and-white style."

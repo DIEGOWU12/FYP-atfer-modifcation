@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex fractal pattern resembling a snowflake with intricate, repeating details.
+Top-right: A series of horizontal bars with varying lengths and a jagged edge on the right side.
+Middle-left: A Sierpinski triangle composed of smaller triangles within a larger triangle.
+Middle-right: A larger Sierpinski triangle with multiple levels of nested triangles.
+Bottom-left: A dynamic, abstract design with overlapping and intersecting shapes creating a sense of depth.
+Bottom-right: A symmetrical pattern of plus signs arranged in a grid-like formation.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rectangular arrangement of irregularly sized and oriented rectangles.
+Top-right: A rectangular arrangement of elongated rectangles forming a staggered pattern.
+Middle-left: A rectangular arrangement of rectangles with varying orientations, creating a more complex structure.
+Middle-right: A rectangular arrangement of rectangles with a mix of horizontal and vertical orientations, forming a balanced layout.
+Bottom-left: A uniform grid of small, evenly sized squares.
+Bottom-right: A rectangular arrangement of rectangles with a mix of orientations, forming a compact and dense pattern.
+
+Minimalist black-and-white style.".

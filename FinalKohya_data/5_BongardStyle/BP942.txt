@@ -1,0 +1,8 @@
+"The image shows a 2x2 grid of four black geometric shapes:
+
+Top-left: [Empty white square]
+Top-right: [Empty white square]
+Middle-left: [Empty white square]
+Middle-right: [Empty white square]
+
+Minimalist black-and-white style."

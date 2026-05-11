@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tetrahedron viewed from a top-down perspective, showing three triangular faces.
+Top-right: A tetrahedron viewed from a side angle, showing two triangular faces and one edge.
+Middle-left: A tetrahedron viewed from a slightly elevated angle, showing three triangular faces.
+Middle-right: A tetrahedron viewed from a side angle, showing two triangular faces and one edge.
+Bottom-left: A tetrahedron viewed from a top-down perspective, showing three triangular faces.
+Bottom-right: A tetrahedron viewed from a slightly elevated angle, showing three triangular faces.
+
+Minimalist black-and-white style.".

@@ -1,1 +1,0 @@
-Any shape's axis of reflection is shared by another shape vs. not so.

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle composed of five smaller rectangles aligned side by side.
+Top-right: A square divided into various smaller rectangles and squares, creating a complex pattern.
+Middle-left: A spiral formed by a series of nested rectangles decreasing in size towards the center.
+Middle-right: A square divided into several smaller rectangles, with one large rectangle on the left and smaller ones on the right.
+Bottom-left: A shape resembling a staircase, composed of alternating horizontal and vertical rectangles.
+Bottom-right: A grid of 16 small squares arranged in a 4x4 pattern.
+
+Minimalist black-and-white style."

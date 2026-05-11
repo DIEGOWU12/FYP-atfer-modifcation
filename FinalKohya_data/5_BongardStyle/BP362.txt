@@ -1,0 +1,10 @@
+"The image shows a 3x3 grid of nine black geometric shapes:
+
+Top-left: A plus sign composed of four squares
+Top-right: Two overlapping rectangles with a small gap between them
+Middle-left: A square with a smaller square inside it
+Middle-right: A pattern of dots forming a larger square
+Bottom-left: A circle with a smaller circle inside it
+Bottom-right: A triangle filled with smaller triangles
+
+Minimalist black-and-white style."

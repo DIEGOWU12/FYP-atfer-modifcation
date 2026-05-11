@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a smaller, tilted triangle inside it.
+Top-right: A series of vertical lines of varying lengths arranged in a stepped pattern.
+Middle-left: A sequence of dots decreasing in size along a diagonal line.
+Middle-right: A square with a smaller square inside it, offset towards the top right.
+Bottom-left: A black L-shaped figure with a small rectangular cutout.
+Bottom-right: A grid of small, evenly spaced squares forming a larger rectangle.
+
+Minimalist black-and-white style.".

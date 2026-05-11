@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two overlapping circles with one smaller circle partially inside the larger.
+Top-right: A large circle with a smaller circle inside it, not overlapping the edge.
+Middle-left: A small circle partially overlapping a larger circle.
+Middle-right: A large circle with a smaller circle inside it, centered.
+Bottom-left: Two overlapping circles with one larger circle partially inside the other.
+Bottom-right: A large circle with a smaller circle inside it, off-center.
+
+Minimalist black-and-white style."

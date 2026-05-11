@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single diagonal line segment
+Top-right: Two intersecting lines forming an 'X'
+Middle-left: Three lines forming a 'Y' shape
+Middle-right: A closed triangle
+Bottom-left: A zigzag line with three segments
+Bottom-right: An inverted 'V' shape
+
+Minimalist black-and-white style."

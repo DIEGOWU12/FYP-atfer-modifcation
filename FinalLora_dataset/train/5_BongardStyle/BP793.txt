@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 4x2 grid of eight black geometric patterns:
+
+Top-left: [Pattern description]
+Top-right: [Pattern description]
+Middle-left: [Pattern description]
+Middle-right: [Pattern description]
+Bottom-left: [Pattern description]
+Bottom-right: [Pattern description]
+
+Minimalist black-and-white style.".

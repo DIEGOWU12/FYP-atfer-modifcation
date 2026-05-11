@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line with three plus signs above and one below.
+Top-right: A diagonal line from top-left to bottom-right with two plus signs above and one below.
+Middle-left: A vertical line with four plus signs above and one below.
+Middle-right: A diagonal line from top-left to bottom-right with two plus signs above and one below.
+Bottom-left: A diagonal line from top-right to bottom-left with three plus signs above and one below.
+Bottom-right: A diagonal line from top-left to bottom-right with two plus signs above and one below.
+
+Minimalist black-and-white style.".

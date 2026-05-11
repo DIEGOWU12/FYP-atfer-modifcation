@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two circles and a triangle, with the triangle pointing upwards.
+Top-right: A series of small, irregular shapes including circles and crescents.
+Middle-left: A collection of abstract, cloud-like shapes with varying sizes and orientations.
+Middle-right: A mix of stars and other abstract shapes, some with multiple points.
+Bottom-left: A pattern of small, cross-like shapes arranged in a grid.
+Bottom-right: A set of circular and semi-circular shapes, some filled and some outlined.
+
+Minimalist black-and-white style.".

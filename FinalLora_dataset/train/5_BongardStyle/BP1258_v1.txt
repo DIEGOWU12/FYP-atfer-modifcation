@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pattern of alternating 'X' and 'L' shapes in a 3x3 grid.
+Top-right: A sequence of abstract symbols including a circle, a crescent, a human figure, a triangle, a question mark, and a puzzle piece.
+Middle-left: A 3x3 grid with a repeating pattern of 'X', 'L', and 'N' shapes.
+Middle-right: A 3x3 grid with three dots forming a diagonal line from the top-left to the bottom-right.
+Bottom-left: A collection of various symbols including letters, numbers, and abstract shapes.
+Bottom-right: A set of icons featuring stars, suns, and other abstract designs.
+
+Minimalist black-and-white style.".

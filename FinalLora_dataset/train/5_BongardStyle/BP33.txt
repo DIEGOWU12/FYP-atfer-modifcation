@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single, elongated, and slightly curved shape resembling a tilted parallelogram.
+Top-right: A five-pointed star with sharp, evenly spaced points.
+Middle-left: A shape resembling the letter 'N' with a horizontal line connecting the two vertical lines.
+Middle-right: A smooth, elongated, and curved shape resembling a leaf or a teardrop.
+Bottom-left: Two overlapping circles forming a figure-eight or infinity symbol.
+Bottom-right: A simple, equilateral triangle pointing upwards.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three circles in a row, alternating between solid black and gray.
+Top-right: Six small circles in a row, alternating between solid black and gray.
+Middle-left: Five circles in a row, alternating between solid black, gray, and white.
+Middle-right: Two large circles, one solid black and one gray.
+Bottom-left: Seven circles in a row, alternating between solid black, gray, and white.
+Bottom-right: Three circles in a row, alternating between solid black, gray, and white.
+
+Minimalist black-and-white style."

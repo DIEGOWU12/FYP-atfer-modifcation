@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a trapezoid with a horizontal top and bottom, and two slanted sides.
+Top-right: A shape resembling a pentagon with one side significantly longer than the others.
+Middle-left: A complex, irregular shape with multiple protrusions and a small circular detail.
+Middle-right: A shape resembling a triangle with an extended base and a small protrusion on one side.
+Bottom-left: A shape resembling a parallelogram with a slanted top and bottom, and two vertical sides.
+Bottom-right: A shape resembling a quadrilateral with one side significantly longer than the others.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stepped pyramid with three levels.
+Top-right: A smooth, symmetrical shape with a pointed top and rounded base.
+Middle-left: A shape with multiple protrusions, resembling a stylized tree or plant.
+Middle-right: A rounded shape with a flat bottom and a curved top.
+Bottom-left: A stepped shape with four levels, similar to a staircase.
+Bottom-right: A shape with multiple branches, resembling a tree.
+
+Minimalist black-and-white style.".

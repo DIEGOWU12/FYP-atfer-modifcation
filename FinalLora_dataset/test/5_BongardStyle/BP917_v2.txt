@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of irregular, jagged shapes resembling abstract foliage.
+Top-right: Two solid black squares with rounded corners.
+Middle-left: A dynamic arrangement of curved and angular lines forming an abstract, flowing pattern.
+Middle-right: A series of crescent shapes with varying orientations and sizes.
+Bottom-left: A group of elongated, wavy lines creating a sense of movement.
+Bottom-right: A collection of small, scattered dots forming a sparse, dotted pattern.
+
+Minimalist black-and-white style.".

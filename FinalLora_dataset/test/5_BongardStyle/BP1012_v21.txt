@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A grid of evenly spaced squares forming a uniform checkerboard pattern.
+Top-right: An irregular tessellation of polygons with varying shapes and sizes, creating a natural, organic look.
+Middle-left: A series of wavy, parallel lines that create a dynamic, flowing effect.
+Middle-right: A repeating pattern of hexagons arranged in a honeycomb structure, giving a sense of order and symmetry.
+Bottom-left: A pattern of interconnected hexagons with some areas filled in, creating a textured, mosaic-like appearance.
+Bottom-right: A series of zigzag lines that form a continuous, undulating wave pattern.
+
+Minimalist black-and-white style.".

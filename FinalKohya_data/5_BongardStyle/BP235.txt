@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line above a small circle
+Top-right: A vertical line with a small circle to its right and a wavy line above it
+Middle-left: Two overlapping circles
+Middle-right: A wavy line above a square with a small circle inside it
+Bottom-left: A wavy line above a small circle and a rectangle
+Bottom-right: Two small circles above a square
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Four triangles pointing downwards and one triangle pointing upwards
+Top-right: Three vertical bars with varying heights and a horizontal bar connecting the middle and right bars
+Middle-left: Two arrows pointing in opposite directions with a dotted line between them
+Middle-right: A combination of numbers and letters (6, e, 6) with two circles above
+Bottom-left: A spiral shape with a square below it
+Bottom-right: A circle surrounded by dots
+
+Minimalist black-and-white style.".

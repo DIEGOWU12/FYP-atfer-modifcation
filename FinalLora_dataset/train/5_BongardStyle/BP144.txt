@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square, a circle, and a smaller circle stacked vertically.
+Top-right: A larger circle with a smaller circle inside it, enclosed in a rectangle.
+Middle-left: A horizontal line with three vertical lines extending upwards and one downwards.
+Middle-right: A series of triangles pointing upwards and downwards, with a parallelogram on the right.
+Bottom-left: A circle with a smaller circle inside it, another circle with a smaller circle inside it, and a circle with a smaller circle inside it.
+Bottom-right: Three small circles arranged in a triangular pattern.
+
+Minimalist black-and-white style.".

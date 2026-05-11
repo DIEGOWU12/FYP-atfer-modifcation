@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid parallelogram tilted to the right
+Top-right: A solid parallelogram tilted to the left
+Middle-left: A solid star with five points
+Middle-right: A solid star with five points
+Bottom-left: A curved shape resembling a crescent moon
+Bottom-right: A curved shape resembling a smaller crescent moon
+
+Minimalist black-and-white style."

@@ -1,0 +1,20 @@
+"The image shows a 4x3 grid of twelve black geometric patterns:
+
+Top-left: [Pattern description]
+Top-second: [Pattern description]
+Top-third: [Pattern description]
+Top-right: [Pattern description]
+Second-left: [Pattern description]
+Second-second: [Pattern description]
+Second-third: [Pattern description]
+Second-right: [Pattern description]
+Third-left: [Pattern description]
+Third-second: [Pattern description]
+Third-third: [Pattern description]
+Third-right: [Pattern description]
+Bottom-left: [Pattern description]
+Bottom-second: [Pattern description]
+Bottom-third: [Pattern description]
+Bottom-right: [Pattern description]
+
+Minimalist black-and-white style."

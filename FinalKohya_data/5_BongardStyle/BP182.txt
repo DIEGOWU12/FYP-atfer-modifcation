@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of dots forming a circular pattern with a gap.
+Top-right: A grid of evenly spaced dots arranged in a rectangular pattern.
+Middle-left: A scattered arrangement of dots with no apparent pattern.
+Middle-right: A triangular formation of dots with a pointed tip.
+Bottom-left: A diagonal line of dots extending from the bottom left to the top right.
+Bottom-right: A square outline formed by dots.
+
+Minimalist black-and-white style."

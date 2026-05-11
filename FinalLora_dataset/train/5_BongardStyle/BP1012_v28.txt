@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: Interlocking lattice pattern
+Top-right: Irregular tessellation resembling cracked earth
+Middle-left: Zigzag wave pattern
+Middle-right: Hexagonal grid with interconnected cubes
+Bottom-left: Honeycomb-like hexagonal pattern
+Bottom-right: Wavy zigzag lines
+
+Minimalist black-and-white style.".

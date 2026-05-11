@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A simple triangle with a single dot inside.
+Top-right: A triangle with three dots inside, arranged in a pattern.
+Middle-left: A complex shape resembling an 'E' with multiple dots scattered throughout.
+Middle-right: A shape resembling a 'V' with two dots inside.
+Bottom-left: A zigzag-like shape with four dots inside.
+Bottom-right: A quadrilateral with five dots inside.
+
+Minimalist black-and-white style."

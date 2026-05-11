@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle and a star-like shape with lines radiating outward, accompanied by a few scattered lines.
+Top-right: Two star-like shapes with lines radiating outward and a triangle, with a few scattered lines.
+Middle-left: Three triangles and a star-like shape with lines radiating outward, accompanied by a few scattered lines.
+Middle-right: A triangle and a star-like shape with lines radiating outward, with a few scattered lines.
+Bottom-left: Two triangles and a star-like shape with lines radiating outward, with a few scattered lines.
+Bottom-right: A star-like shape with lines radiating outward, a triangle, and a few scattered lines.
+
+Minimalist black-and-white style.".

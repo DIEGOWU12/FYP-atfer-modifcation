@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy, continuous line forming an irregular loop
+Top-right: A smooth, curved shape resembling the letter 'M'
+Middle-left: A closed, oval-like curve with a slightly elongated form
+Middle-right: A U-shaped curve with a rounded bottom
+Bottom-left: A series of connected, angular lines forming a zigzag pattern
+Bottom-right: A complex, intertwined shape with multiple loops and curves
+
+Minimalist black-and-white style.".

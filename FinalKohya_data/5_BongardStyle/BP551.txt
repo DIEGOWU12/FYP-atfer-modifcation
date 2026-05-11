@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle with a semicircle on top
+Top-right: An inverted triangle
+Middle-left: A diamond shape above a square
+Middle-right: Three small circles stacked vertically, with a larger circle to the right
+Bottom-left: A pentagon
+Bottom-right: A small triangle
+
+Minimalist black-and-white style."

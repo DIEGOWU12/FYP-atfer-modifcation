@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A right triangle with vertical stripes
+Top-right: A rectangle with vertical stripes
+Middle-left: An ellipse with vertical stripes
+Middle-right: An oval with vertical stripes
+Bottom-left: A parallelogram with diagonal stripes
+Bottom-right: A triangle with horizontal stripes
+
+Minimalist black-and-white style."

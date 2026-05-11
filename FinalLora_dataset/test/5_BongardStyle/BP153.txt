@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three parallel horizontal lines
+Top-right: A closed loop with a small tail
+Middle-left: A wavy horizontal line
+Middle-right: A figure resembling the letter 'M'
+Bottom-left: A shape resembling a lowercase 'g' with a loop
+Bottom-right: A wavy line with a slight curve
+
+Minimalist black-and-white style.".

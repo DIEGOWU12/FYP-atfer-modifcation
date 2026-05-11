@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A five-pointed star
+Top-right: A vertical line with a short horizontal line extending to the right at the top
+Middle-left: A zigzag line with two peaks and one valley
+Middle-right: A plus sign
+Bottom-left: A horizontal line with a short vertical line extending downward from the center
+Bottom-right: A curved line resembling a smile
+
+Minimalist black-and-white style.".

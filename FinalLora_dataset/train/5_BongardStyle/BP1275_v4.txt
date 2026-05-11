@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of alternating angular and curved lines
+Top-right: A sequence of interconnected circular and linear patterns
+Middle-left: A pattern of repeated arrows pointing in various directions
+Middle-right: A collection of abstract symbols including a star, arrow, and flower-like shape
+Bottom-left: A row of five stars
+Bottom-right: A set of directional arrows and a house symbol
+
+Minimalist black-and-white style.".

@@ -1,1 +1,0 @@
-Connected fractal vs. disconnected fractal.

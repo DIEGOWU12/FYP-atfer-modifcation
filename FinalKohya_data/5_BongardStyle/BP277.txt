@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black characters:
+
+Top-left: 'S'
+Top-right: '+'
+Middle-left: 'K'
+Middle-right: 'Ö'
+Bottom-left: 'É'
+Bottom-right: '...'
+
+Minimalist black-and-white style."

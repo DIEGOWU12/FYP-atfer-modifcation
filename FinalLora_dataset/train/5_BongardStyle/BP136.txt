@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a dot near its bottom left corner.
+Top-right: An L-shaped figure with five dots along its perimeter.
+Middle-left: A zigzag pattern with a series of connected lines and dots.
+Middle-right: A T-shaped figure with four dots, one at each end and two in the middle.
+Bottom-left: A pentagon with three dots inside it.
+Bottom-right: A star with five points and dots at each point.
+
+Minimalist black-and-white style.".

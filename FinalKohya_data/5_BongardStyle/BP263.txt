@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape with a vertical line ending in a dot, connected to a horizontal line that curves upward and ends in another dot.
+Top-right: A shape with a horizontal line ending in a dot, connected to a vertical line that curves downward and ends in another dot.
+Middle-left: A shape with a vertical line ending in a dot, connected to a horizontal line that curves downward and ends in another dot.
+Middle-right: A shape with a horizontal line ending in a dot, connected to a vertical line that curves upward and ends in another dot.
+Bottom-left: A shape with a horizontal line ending in a dot, connected to a curved line that loops downward and ends in another dot.
+Bottom-right: A shape with a horizontal line ending in a dot, connected to a curved line that loops upward and ends in another dot.
+
+Minimalist black-and-white style."

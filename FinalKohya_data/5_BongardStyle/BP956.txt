@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single pair of parentheses
+Top-right: A nested pair of parentheses with an additional outer pair
+Middle-left: Three pairs of parentheses in a linear arrangement
+Middle-right: Two pairs of parentheses, one nested within the other
+Bottom-left: Four pairs of parentheses in a linear arrangement with alternating nesting
+Bottom-right: Three pairs of parentheses in a nested arrangement
+
+Minimalist black-and-white style."

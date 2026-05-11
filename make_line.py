@@ -43,7 +43,7 @@ def process_images_inplace(target_folder, line_color=(0, 0, 0), thickness=25):
     print(f"\n任务完成！共处理了 {count} 张图片。")
 
 # --- 你的特定路径 ---
-path = r'C:\Users\Lenovo\OneDrive\文档\GitHub\FYP-atfer-modifcation\fyp\Kohya_new_dataset\5_BongardStyle'
+path = r'C:\Users\Lenovo\OneDrive\文档\GitHub\FYP-atfer-modifcation\FinalKohya_data\5_BongardStyle'
 
 # 执行（线宽设为 25 像素，适合模型学习边界特征）
 process_images_inplace(path, thickness=25)

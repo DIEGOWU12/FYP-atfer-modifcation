@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A smooth, continuous sine wave with three full cycles.
+Top-right: A similar sine wave but with a slightly different amplitude and phase.
+Middle-left: A wavy line with sharp peaks and troughs, resembling a jagged sine wave.
+Middle-right: A more complex wavy line with varying amplitudes and frequencies.
+Bottom-left: A highly irregular, chaotic wavy line with many small, sharp fluctuations.
+Bottom-right: A smooth, continuous sine wave with two full cycles.
+
+Minimalist black-and-white style."

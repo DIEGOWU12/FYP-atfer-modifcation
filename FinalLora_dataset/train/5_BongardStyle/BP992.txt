@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a house with a rectangular base and a smaller rectangle on top.
+Top-right: Two overlapping circles forming a crescent-like shape.
+Middle-left: Two separate circles, one larger than the other, positioned side by side.
+Middle-right: A shape with a rounded bottom and two vertical lines extending upwards.
+Bottom-left: A wavy line with sharp angles.
+Bottom-right: A triangle with a small circle on top.
+
+Minimalist black-and-white style.".

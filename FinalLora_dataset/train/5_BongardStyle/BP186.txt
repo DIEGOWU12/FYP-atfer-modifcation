@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy, zigzag line
+Top-right: A cluster of triangles pointing in various directions
+Middle-left: A pattern of scattered circles of varying sizes
+Middle-right: A tightly coiled spring-like shape
+Bottom-left: A long, narrow rectangle with diagonal lines
+Bottom-right: A circular arrangement of small circles with a few additional dots
+
+Minimalist black-and-white style.".

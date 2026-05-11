@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An equilateral triangle
+Top-right: A small circle
+Middle-left: A square rotated 45 degrees
+Middle-right: A larger circle
+Bottom-left: A plus sign
+Bottom-right: A horizontal rectangle
+
+Minimalist black-and-white style."

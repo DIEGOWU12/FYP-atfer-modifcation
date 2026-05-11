@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pentagon with one side missing
+Top-right: A complex polygon with multiple sides and internal lines
+Middle-left: An oval shape with a wavy line above it
+Middle-right: A square with a smaller square inside it and a spiral above
+Bottom-left: A hexagon with a pattern of dots above it
+Bottom-right: A triangular prism and a rectangular prism
+
+Minimalist black-and-white style."

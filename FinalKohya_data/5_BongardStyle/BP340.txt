@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A five-pointed star with intersecting lines forming a smaller star inside.
+Top-right: A six-pointed star with intersecting lines forming a hexagon in the center.
+Middle-left: A four-pointed star with intersecting lines forming a smaller square inside.
+Middle-right: A hexagon with intersecting lines forming a smaller hexagon in the center.
+Bottom-left: An octagon with intersecting lines forming a smaller octagon inside.
+Bottom-right: A five-pointed star with intersecting lines forming a smaller star inside, similar to the top-left but rotated.
+
+Minimalist black-and-white style."

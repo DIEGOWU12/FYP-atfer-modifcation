@@ -1,0 +1,13 @@
+BongardStyle, "The image shows a 3x3 grid of nine black-and-white abstract patterns:
+
+Top-left: A pattern with a vertical line and a small square.
+Top-center: A pattern with a large square and smaller shapes inside.
+Top-right: A pattern with a spiral and a small square.
+Middle-left: A pattern with diagonal lines and a small square.
+Middle-center: A pattern with a grid of small squares and a few larger shapes.
+Middle-right: A pattern with a grid of small squares and a few larger shapes.
+Bottom-left: A pattern with a grid of small squares and a few larger shapes.
+Bottom-center: A pattern with a grid of small squares and a few larger shapes.
+Bottom-right: A pattern with a grid of small squares and a few larger shapes.
+
+Minimalist black-and-white style.".

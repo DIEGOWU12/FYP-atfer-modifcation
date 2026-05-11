@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an 'L' with a diagonal line extending from its top right corner.
+Top-right: A shape resembling a 'T' with a horizontal line extending from the top and a vertical line extending downward.
+Middle-left: A rectangle with slightly rounded corners.
+Middle-right: An 'X' shape formed by two intersecting diagonal lines.
+Bottom-left: A zigzag pattern resembling the letter 'W'.
+Bottom-right: A shape resembling a 'T' with a horizontal line extending from the bottom and a vertical line extending upward.
+
+Minimalist black-and-white style.".

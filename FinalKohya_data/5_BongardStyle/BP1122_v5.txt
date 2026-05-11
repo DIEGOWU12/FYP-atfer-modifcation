@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside it, both aligned and centered.
+Top-right: A series of concentric squares, each smaller than the previous, creating a spiral effect.
+Middle-left: A square with a smaller square inside it, but the inner square is offset from the center.
+Middle-right: A large square with a small square inside it, positioned in the top-right corner.
+Bottom-left: A single small square.
+Bottom-right: A series of concentric squares, each smaller than the previous, creating a spiral effect.
+
+Minimalist black-and-white style."

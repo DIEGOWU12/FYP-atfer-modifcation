@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: Tetromino shapes including a T, I, and L tetromino
+Top-right: A series of circles with internal symbols such as triangles and squares
+Middle-left: A pattern of interconnected shapes resembling a network or graph
+Middle-right: A sequence of rectangles with varying fill patterns including solid and striped
+Bottom-left: A cluster of small circles and lines forming a complex network
+Bottom-right: A row of alternating filled and outlined squares and circles
+
+Minimalist black-and-white style.".

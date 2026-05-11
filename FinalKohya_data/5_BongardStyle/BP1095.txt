@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tilted parallelogram with one corner pointing downward
+Top-right: Two intersecting lines forming an acute angle
+Middle-left: A parallelogram with a diagonal line extending from its bottom left corner
+Middle-right: Three intersecting lines forming a triangular shape with an additional short line
+Bottom-left: A parallelogram with a diagonal line extending from its top right corner
+Bottom-right: A triangle with a vertical line extending from its base
+
+Minimalist black-and-white style."

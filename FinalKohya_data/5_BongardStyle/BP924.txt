@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A scalene triangle with no equal sides or angles.
+Top-right: A quadrilateral with all sides and angles unequal.
+Middle-left: A trapezoid with one pair of parallel sides.
+Middle-right: A scalene triangle with no equal sides or angles.
+Bottom-left: A scalene triangle with no equal sides or angles.
+Bottom-right: A quadrilateral with all sides and angles unequal.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six red geometric shapes:
+
+Top-left: A solid red triangle pointing upwards
+Top-right: A small solid red circle
+Middle-left: A solid red diamond tilted to the side
+Middle-right: A solid red curved shape resembling a 'C'
+Bottom-left: A solid red oval lying horizontally
+Bottom-right: A solid red zigzag line
+
+Minimalist red-and-white style.".

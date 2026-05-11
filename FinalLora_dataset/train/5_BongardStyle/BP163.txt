@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A bean-shaped figure with a small square above it.
+Top-right: A curved shape with a triangle inside and a small square below it.
+Middle-left: A triangular shape with a smaller rectangle below it.
+Middle-right: A square with a small circle to its right.
+Bottom-left: An oval shape with a small circle below it.
+Bottom-right: A starburst-like shape with a small triangle above it.
+
+Minimalist black-and-white style.".

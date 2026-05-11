@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 3x2 rectangle with dots arranged in a pattern of two rows of three dots each.
+Top-right: A 2x1 rectangle with dots arranged in a pattern of one row of two dots.
+Middle-left: A 3x2 rectangle with dots arranged in a pattern of two rows of three dots each, mirrored vertically.
+Middle-right: A 3x2 rectangle with dots arranged in a pattern of three rows of two dots each.
+Bottom-left: A 3x2 rectangle with dots arranged in a pattern of two rows of three dots each, mirrored horizontally.
+Bottom-right: A 2x2 square with dots arranged in a pattern of two rows of two dots each.
+
+Minimalist black-and-white style."

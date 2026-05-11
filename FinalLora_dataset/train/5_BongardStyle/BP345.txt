@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rounded rectangle with a flat top and bottom
+Top-right: A semicircle with the straight edge at the bottom
+Middle-left: A large, irregularly shaped figure resembling a stylized letter 'S'
+Middle-right: A small, curved triangle pointing to the right
+Bottom-left: A rounded rectangle with a flat bottom and curved top
+Bottom-right: A small, rounded rectangle with a flat bottom and slightly curved top
+
+Minimalist black-and-white style.".

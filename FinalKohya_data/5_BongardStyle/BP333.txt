@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tetrahedron with four triangular faces.
+Top-right: A regular octahedron with eight triangular faces.
+Middle-left: A dodecahedron with twelve pentagonal faces.
+Middle-right: An icosahedron with twenty triangular faces.
+Bottom-left: A cube with six square faces.
+Bottom-right: A parallelepiped with six parallelogram faces.
+
+Minimalist black-and-white style."

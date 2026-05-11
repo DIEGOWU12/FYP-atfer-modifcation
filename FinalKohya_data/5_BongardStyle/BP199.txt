@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A diagonal line segment forming an acute angle with the horizontal
+Top-right: Two parallel vertical lines
+Middle-left: An 'H' shape with three horizontal lines and two vertical lines
+Middle-right: A 'T' shape with a horizontal line intersecting a vertical line at its midpoint
+Bottom-left: A shape resembling a stylized human figure with a circular head and two arms extending downward
+Bottom-right: A stepped or staircase-like structure with alternating horizontal and vertical lines
+
+Minimalist black-and-white style."

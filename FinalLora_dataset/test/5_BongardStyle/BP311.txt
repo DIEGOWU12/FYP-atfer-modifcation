@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with one side slightly curved
+Top-right: A quadrilateral with all sides straight and angles not equal
+Middle-left: A pentagon with one side slightly curved
+Middle-right: A triangle with one side significantly longer than the others
+Bottom-left: A hexagon with all sides straight and angles not equal
+Bottom-right: A polygon with multiple sides, including one curved segment
+
+Minimalist black-and-white style.".

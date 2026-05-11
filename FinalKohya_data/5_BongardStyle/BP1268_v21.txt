@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two open parentheses followed by a closed parenthesis
+Top-right: A sequence of alternating circles and stars
+Middle-left: A pattern of three crescents followed by a series of 'W' shapes
+Middle-right: A repeating pattern of 'X' and 'O' shapes
+Bottom-left: A sequence of triangles, a circle, and a crescent
+Bottom-right: A pattern of alternating stars and circles
+
+Minimalist black-and-white style."

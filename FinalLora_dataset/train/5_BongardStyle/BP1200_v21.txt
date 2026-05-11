@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle composed of five smaller rectangles.
+Top-right: A larger rectangle divided into irregularly shaped sections.
+Middle-left: A complex arrangement of rectangles forming an L-shape with additional smaller rectangles.
+Middle-right: A rectangle divided into several sections, including a large central rectangle and smaller surrounding rectangles.
+Bottom-left: A grid of 16 small squares arranged in a 4x4 pattern.
+Bottom-right: A vertical rectangle composed of smaller rectangles stacked vertically.
+
+Minimalist black-and-white style.".

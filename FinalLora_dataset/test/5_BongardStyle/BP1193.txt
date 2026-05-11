@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A zigzag line with three segments
+Top-right: A broken line with two segments forming an acute angle
+Middle-left: A curved line with a straight segment extending from it
+Middle-right: A diagonal line intersecting a horizontal line at an angle
+Bottom-left: A jagged line with multiple sharp turns
+Bottom-right: A long, slightly curved line with a small perpendicular extension
+
+Minimalist black-and-white style.".

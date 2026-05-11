@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of alternating circles and stars
+Top-right: A sequence of alternating squares and triangles
+Middle-left: A sequence of alternating parentheses
+Middle-right: A sequence of alternating puzzle pieces, stars, downward arrows, and flowers
+Bottom-left: A sequence of alternating stars and plus signs
+Bottom-right: A sequence of alternating downward arrows, upward arrows, and houses
+
+Minimalist black-and-white style.".

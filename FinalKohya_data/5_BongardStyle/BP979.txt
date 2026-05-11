@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A combination of a letter 'J', a circle, and a letter 'L' with arrows pointing in various directions.
+Top-right: A set of arrows pointing in different directions with a dot in the center.
+Middle-left: A grid with five black dots arranged in a specific pattern.
+Middle-right: A set of plus signs, an equals sign, and an anchor symbol.
+Bottom-left: A grid with arrows pointing in various directions.
+Bottom-right: A grid with a pattern of squares and rectangles.
+
+Minimalist black-and-white style."

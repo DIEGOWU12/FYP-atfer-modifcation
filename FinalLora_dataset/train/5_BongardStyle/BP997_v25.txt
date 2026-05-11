@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 4x4 grid with a single black square in the center.
+Top-right: A 4x4 grid with a single black square in the bottom-right corner.
+Middle-left: A 5x5 grid with a single black square in the top-left corner.
+Middle-right: A 6x6 grid with a single black square in the bottom-left corner.
+Bottom-left: A 2x2 grid with a single black square in the top-left corner.
+Bottom-right: A 5x5 grid with a single black square in the bottom-right corner.
+
+Minimalist black-and-white style.".

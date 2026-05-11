@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Triangles and a star-like shape
+Top-right: Squares and rectangles
+Middle-left: Circles and crosses
+Middle-right: A pixelated star
+Bottom-left: Rectangles with varying orientations
+Bottom-right: Hexagons and circles
+
+Minimalist black-and-white style."

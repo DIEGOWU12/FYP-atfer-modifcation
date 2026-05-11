@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A grid of evenly spaced squares forming a uniform checkerboard pattern.
+Top-right: A woven basket weave pattern with interlocking rectangular shapes.
+Middle-left: A wavy, zigzag line pattern creating a dynamic, flowing effect.
+Middle-right: A three-dimensional cube pattern with overlapping hexagons and triangles.
+Bottom-left: A honeycomb pattern composed of interconnected hexagons.
+Bottom-right: A zigzag line pattern with alternating peaks and troughs.
+
+Minimalist black-and-white style.".

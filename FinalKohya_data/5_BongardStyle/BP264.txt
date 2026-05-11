@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black characters:
+
+Top-left: @ symbol
+Top-right: The number 4
+Middle-left: The letter A
+Middle-right: The letter B
+Bottom-left: The letter Q
+Bottom-right: The letter R
+
+Minimalist black-and-white style."

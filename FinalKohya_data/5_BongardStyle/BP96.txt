@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of parallel diagonal lines forming a triangular shape with a jagged edge.
+Top-right: A solid triangle filled with diagonal lines.
+Middle-left: A solid triangle filled with horizontal lines.
+Middle-right: A series of vertical lines forming a triangular shape with a jagged edge.
+Bottom-left: A series of parallel diagonal lines forming a small triangular shape.
+Bottom-right: A series of horizontal lines forming a triangular shape with a jagged edge.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Diagonal stripes
+Top-right: A series of decreasing circles along the top right corner
+Middle-left: A large circle with a smaller circle below it
+Middle-right: A diamond shape with a small square above it
+Bottom-left: A star with a smaller star below it
+Bottom-right: A rectangle with rounded corners
+
+Minimalist black-and-white style."

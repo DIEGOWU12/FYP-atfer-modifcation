@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three circles of varying sizes, with two solid black and one outlined white.
+Top-right: A single large solid black circle.
+Middle-left: Two overlapping solid black circles.
+Middle-right: A single large outlined white circle.
+Bottom-left: Three circles of varying sizes, with two outlined white and one solid black.
+Bottom-right: Four solid black circles arranged in a square pattern.
+
+Minimalist black-and-white style."

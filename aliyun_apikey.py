@@ -4,12 +4,12 @@ import dashscope
 from dashscope import MultiModalConversation
 
 # ================= 配置区 =================
-API_KEY = "myapikey"  # 🔑 替换为你的真实 Key
+API_KEY = "sk-e03f2df5f8ed44e2bb77a9bae5ff5121"  # 🔑 替换为你的真实 Key
 # 获取脚本所在的当前文件夹路径
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # 修改为相对路径定位
-IMAGE_DIR = os.path.join(BASE_DIR, "Kohya_data", "7_BongardStyle")
+IMAGE_DIR = os.path.join(BASE_DIR, "FinalKohya_data", "5_BongardStyle")
 MODEL = "qwen-vl-plus"
 DELAY_SECONDS = 1.5
 MAX_RETRIES = 3 

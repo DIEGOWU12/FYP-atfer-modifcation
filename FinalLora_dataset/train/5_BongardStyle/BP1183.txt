@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A spiral pattern with concentric circles
+Top-right: A series of stacked, offset rectangular blocks
+Middle-left: A textured, grainy pattern resembling noise
+Middle-right: A three-dimensional cube viewed from an angle
+Bottom-left: A crescent shape with a smooth curve
+Bottom-right: A large triangle composed of smaller triangles
+
+Minimalist black-and-white style.".

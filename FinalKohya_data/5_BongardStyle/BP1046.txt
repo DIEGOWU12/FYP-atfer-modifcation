@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black circle
+Top-right: A pattern of alternating black and white circles in a grid
+Middle-left: An outline of a circle
+Middle-right: A pattern of alternating black and white circles in a grid
+Bottom-left: A small solid black circle next to two outlined circles
+Bottom-right: A pattern of alternating black and white circles in a grid
+
+Minimalist black-and-white style."

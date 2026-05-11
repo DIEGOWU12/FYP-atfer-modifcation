@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three small black dots arranged in a vertical line
+Top-right: Four small black dots forming a square
+Middle-left: Five small black dots forming a cross shape
+Middle-right: Three small black dots forming a right triangle
+Bottom-left: Two small black dots forming a horizontal line
+Bottom-right: Three small black dots forming an equilateral triangle
+
+Minimalist black-and-white style.".

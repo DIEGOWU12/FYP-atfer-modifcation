@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two vertical ovals
+Top-right: Two wavy horizontal lines
+Middle-left: Two S-shaped curves
+Middle-right: Two crescent moons
+Bottom-left: Two star-like shapes with four points
+Bottom-right: Two small dots
+
+Minimalist black-and-white style.".

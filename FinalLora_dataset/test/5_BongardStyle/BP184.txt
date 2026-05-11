@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A continuous, flowing line forming a spiral with a small loop at the end.
+Top-right: A similar continuous line forming a spiral, but with a more pronounced loop and a smaller tail.
+Middle-left: A line that curves into a spiral with a small, sharp turn at the end.
+Middle-right: A line that forms a spiral with a larger, more open loop and a smaller tail.
+Bottom-left: A complex, swirling pattern with multiple loops and a dynamic, flowing appearance.
+Bottom-right: A spiral with a smooth, continuous curve and a small, delicate tail.
+
+Minimalist black-and-white style.".

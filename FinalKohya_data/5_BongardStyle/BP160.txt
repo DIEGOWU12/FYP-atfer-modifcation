@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with one side extended outward.
+Top-right: A triangle with an additional line extending from one vertex.
+Middle-left: A quadrilateral formed by connecting the midpoints of a larger triangle's sides.
+Middle-right: A triangle with a line segment inside it connecting two sides.
+Bottom-left: A simple triangle.
+Bottom-right: A triangle with one side extended outward.
+
+Minimalist black-and-white style."

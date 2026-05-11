@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line with a vertical line extending from its right end
+Top-right: A diamond shape next to a parallelogram
+Middle-left: Two small circles stacked vertically with a vertical line between them
+Middle-right: A rectangle next to a diamond shape
+Bottom-left: A circle with a smaller circle inside it
+Bottom-right: A plus sign with an additional vertical line extending from its top
+
+Minimalist black-and-white style.".

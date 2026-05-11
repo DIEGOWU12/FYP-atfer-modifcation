@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Small squares arranged in a diagonal line
+Top-right: Dots forming a diagonal line with increasing spacing
+Middle-left: Squares of varying sizes scattered without a clear pattern
+Middle-right: Horizontal lines of varying lengths stacked vertically
+Bottom-left: Triangles pointing upwards, with one triangle pointing downwards
+Bottom-right: Squares and rectangles of different sizes scattered without a clear pattern
+
+Minimalist black-and-white style.".

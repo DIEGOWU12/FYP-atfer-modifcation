@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small squares forming irregular rectangular patterns
+Top-right: A series of circles and ovals arranged in a structured, symmetrical layout
+Middle-left: Rectangular blocks of varying lengths aligned horizontally
+Middle-right: Three-dimensional geometric solids including pyramids and cubes
+Bottom-left: Scattered dots and lines creating an abstract, random pattern
+Bottom-right: A sequence of triangles and diamonds in a repeating pattern
+
+Minimalist black-and-white style.".

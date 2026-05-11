@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two overlapping circles with a triangle pointing upwards between them.
+Top-right: A series of alternating triangles and circles in a horizontal line.
+Middle-left: Three curved shapes resembling crescents or semi-circles arranged in a row.
+Middle-right: A pattern of repeating 'X' shapes and numbers '1' and '0' in a grid.
+Bottom-left: Six small, identical shapes resembling stylized stars or asterisks.
+Bottom-right: Three pairs of shapes including a circle, a semicircle, and a triangle.
+
+Minimalist black-and-white style.".

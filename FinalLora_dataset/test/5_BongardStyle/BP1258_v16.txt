@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black-and-white patterns:
+
+Top-left: A pattern featuring various geometric shapes including a circle, triangle, and arrows.
+Top-right: A pattern composed of alternating squares and X's in a grid.
+Middle-left: A pattern with scattered dots forming a sparse distribution.
+Middle-right: A pattern with a mix of letters and symbols arranged in a seemingly random order.
+Bottom-left: A pattern with a combination of plus signs, stars, and other small shapes.
+Bottom-right: A pattern with overlapping circles and partial shapes creating a complex design.
+
+Minimalist black-and-white style.".

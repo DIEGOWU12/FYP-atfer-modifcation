@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three dots in a row with a square containing three dots to its right.
+Top-right: A single dot inside a square.
+Middle-left: Two dots in a rectangle divided into two sections.
+Middle-right: Two dots in a row with a square containing two dots to its right.
+Bottom-left: Four dots in a row.
+Bottom-right: Five dots in a row.
+
+Minimalist black-and-white style."

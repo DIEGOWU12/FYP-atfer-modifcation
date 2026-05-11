@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A short horizontal line
+Top-right: A circle with a small arc pointing left
+Middle-left: A question mark
+Middle-right: A curved shape resembling a 'C' with an additional loop
+Bottom-left: A parallelogram with a small triangle attached to its bottom right corner
+Bottom-right: A circle with a small dot inside
+
+Minimalist black-and-white style.".

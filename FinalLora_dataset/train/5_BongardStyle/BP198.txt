@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two circles and a square, with the square positioned between the two circles.
+Top-right: A hexagon with dots inside and a series of dots extending to the right.
+Middle-left: A triangle with smaller shapes inside, including a circle and a diamond.
+Middle-right: A hexagon surrounded by stars.
+Bottom-left: A large triangle with smaller triangles and letters inside.
+Bottom-right: A mountain-like shape with repeating patterns resembling a chain.
+
+Minimalist black-and-white style.".

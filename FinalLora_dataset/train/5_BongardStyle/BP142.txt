@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line with circular nodes
+Top-right: A series of nested L-shapes
+Middle-left: A grid of circles and ovals
+Middle-right: Three curved lines resembling parentheses
+Bottom-left: A circle divided into triangular segments
+Bottom-right: A series of curved lines with small circles
+
+Minimalist black-and-white style.".

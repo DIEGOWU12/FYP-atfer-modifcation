@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid with various symbols including letters, arrows, and question marks.
+Top-right: A grid with a mix of Xs, Os, and L-shaped symbols.
+Middle-left: A grid featuring a variety of abstract symbols and shapes.
+Middle-right: A grid with icons resembling buildings, suns, and other small objects.
+Bottom-left: A grid with circular and curved shapes, some filled in.
+Bottom-right: A grid with dots arranged in a pattern.
+
+Minimalist black-and-white style.".

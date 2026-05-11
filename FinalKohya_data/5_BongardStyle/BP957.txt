@@ -1,0 +1,20 @@
+"The image shows a 4x4 grid of sixteen black geometric shapes:
+
+Top-left: [Shape description]
+Top-second: [Shape description]
+Top-third: [Shape description]
+Top-right: [Shape description]
+Second-left: [Shape description]
+Second-second: [Shape description]
+Second-third: [Shape description]
+Second-right: [Shape description]
+Third-left: [Shape description]
+Third-second: [Shape description]
+Third-third: [Shape description]
+Third-right: [Shape description]
+Bottom-left: [Shape description]
+Bottom-second: [Shape description]
+Bottom-third: [Shape description]
+Bottom-right: [Shape description]
+
+Minimalist black-and-white style."

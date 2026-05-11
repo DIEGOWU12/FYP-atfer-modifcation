@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square cut out from its center.
+Top-right: A rectangle with a circle partially overlapping it from the top right.
+Middle-left: A plus sign shape formed by four squares.
+Middle-right: A rectangle with a smaller rectangle cut out from its center.
+Bottom-left: A square with a spiral pattern inside it.
+Bottom-right: A rectangle with a circular cutout and a small circle attached to its right side.
+
+Minimalist black-and-white style.".

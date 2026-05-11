@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A hexagon with a curved line intersecting it
+Top-right: A hexagon with a straight line intersecting it
+Middle-left: A cross-like shape formed by two perpendicular lines
+Middle-right: A triangle with a thick outline
+Bottom-left: A plus sign with diagonal lines extending from its corners
+Bottom-right: A rectangle with multiple short, angled lines inside it
+
+Minimalist black-and-white style.".

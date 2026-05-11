@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of irregular quadrilaterals and a single square.
+Top-right: A series of small, irregular polygons arranged in a curved pattern.
+Middle-left: A mix of pentagons and hexagons with varying orientations.
+Middle-right: A group of hexagons and irregular quadrilaterals.
+Bottom-left: A cluster of hexagons and irregular polygons.
+Bottom-right: A few isolated irregular polygons.
+
+Minimalist black-and-white style."

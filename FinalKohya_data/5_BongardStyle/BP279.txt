@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black text elements:
+
+Top-left: '83'
+Top-right: '?!'
+Middle-left: 'EL'
+Middle-right: 'mn'
+Bottom-left: 'Oo'
+Bottom-right: 'XY'
+
+Minimalist black-and-white style."

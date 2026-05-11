@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A grid of evenly spaced horizontal and vertical lines forming squares.
+Top-right: A grid of diagonal lines intersecting to form triangles.
+Middle-left: Irregular, jagged lines creating an abstract, fragmented pattern.
+Middle-right: Wavy, parallel lines with varying amplitudes forming a dynamic, undulating pattern.
+Bottom-left: Hexagonal shapes arranged in a tessellated pattern.
+Bottom-right: Hexagons with one side extended, forming a more complex tessellation.
+
+Minimalist black-and-white style."

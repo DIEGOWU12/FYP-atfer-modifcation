@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three small dots arranged in a triangle
+Top-right: Four small dots arranged in a square
+Middle-left: Six small dots arranged in a hexagon
+Middle-right: Three small dots arranged in a triangle
+Bottom-left: Five small dots arranged in a cross
+Bottom-right: Three small dots arranged in a triangle
+
+Minimalist black-and-white style."

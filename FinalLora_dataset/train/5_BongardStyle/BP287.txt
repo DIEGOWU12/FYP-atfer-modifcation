@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single triangle pointing upwards.
+Top-right: Multiple triangles scattered in various orientations.
+Middle-left: Triangles pointing in different directions, some overlapping.
+Middle-right: Triangles pointing downwards and to the right.
+Bottom-left: Triangles pointing in various directions, some overlapping.
+Bottom-right: Triangles pointing in various directions, some overlapping.
+
+Minimalist black-and-white style.".

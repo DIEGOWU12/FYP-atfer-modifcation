@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stick figure with one arm raised and a small circle above it.
+Top-right: A shape resembling a stick figure with one arm raised and a small circle above it, but with a different orientation.
+Middle-left: A shape resembling a horizontal line with a small circle attached to its left end.
+Middle-right: A shape resembling a horizontal line with a small circle attached to its right end.
+Bottom-left: A shape resembling a diagonal line with a small circle at its lower end.
+Bottom-right: A shape resembling a vertical line with a small circle at its lower end.
+
+Minimalist black-and-white style.".

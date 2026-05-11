@@ -1,0 +1,13 @@
+BongardStyle, "The image shows a 3x3 grid of nine black geometric patterns:
+
+Top-left: A grid of 16 dots arranged in a 4x4 square.
+Top-center: A grid of 9 dots arranged in a 3x3 square.
+Top-right: A single dot centered in the square.
+Middle-left: A grid of 25 dots arranged in a 5x5 square.
+Middle-center: A grid of 16 dots arranged in a 4x4 square with a central empty space.
+Middle-right: A grid of 9 dots arranged in a 3x3 square with a central empty space.
+Bottom-left: A single dot centered in the square.
+Bottom-center: A grid of 16 dots arranged in a 4x4 square with a diagonal line of empty spaces.
+Bottom-right: A grid of 16 dots arranged in a 4x4 square with a triangular pattern of empty spaces.
+
+Minimalist black-and-white style.".

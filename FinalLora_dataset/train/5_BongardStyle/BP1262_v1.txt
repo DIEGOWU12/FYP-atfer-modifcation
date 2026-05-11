@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, intertwined shape with multiple loops and curves.
+Top-right: A single, smooth, bean-like shape with a rounded form.
+Middle-left: A wavy, irregular shape with a flowing, organic outline.
+Middle-right: Two separate, small, oval-like shapes with a soft, cloud-like appearance.
+Bottom-left: A dynamic, intersecting shape with sharp angles and overlapping lines.
+Bottom-right: A dense cluster of overlapping circles creating a textured, web-like pattern.
+
+Minimalist black-and-white style.".

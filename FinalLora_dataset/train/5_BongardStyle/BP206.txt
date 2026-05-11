@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved, incomplete oval shape.
+Top-right: A small, simple curve resembling a comma.
+Middle-left: A shape resembling a lowercase 'g' with a loop.
+Middle-right: A larger, more complex spiral.
+Bottom-left: A cluster of small, interconnected loops.
+Bottom-right: A single, vertical line with a slight curve at the bottom.
+
+Minimalist black-and-white style.".

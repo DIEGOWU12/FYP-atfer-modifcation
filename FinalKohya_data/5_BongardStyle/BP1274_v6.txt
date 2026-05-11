@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of alternating triangles and lines forming a pattern
+Top-right: A sequence of circles and crosses with a dash at the end
+Middle-left: Three nested parentheses in a row
+Middle-right: A group of five small circles
+Bottom-left: Two pairs of overlapping shapes resembling '8' or infinity symbols
+Bottom-right: A collection of various abstract shapes including stars, arrows, and other symbols
+
+Minimalist black-and-white style."

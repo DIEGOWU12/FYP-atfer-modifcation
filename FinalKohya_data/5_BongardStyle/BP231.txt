@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a pointed top and two slanted sides.
+Top-right: Two curved lines resembling a smile, with a small semicircle above them.
+Middle-left: A large star with five points, one pointing upwards.
+Middle-right: A smaller star with five points, one pointing downwards.
+Bottom-left: A plus sign composed of four equal-length lines intersecting at the center.
+Bottom-right: Two overlapping circles forming a lens shape.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single dot
+Top-right: Four dots arranged in a square
+Middle-left: A single dot
+Middle-right: Six dots arranged in a hexagon
+Bottom-left: Three dots in a horizontal line
+Bottom-right: Five dots arranged in a pentagon
+
+Minimalist black-and-white style.".

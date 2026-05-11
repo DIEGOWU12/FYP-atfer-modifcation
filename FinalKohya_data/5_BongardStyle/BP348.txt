@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two ovals, one larger than the other
+Top-right: A star and a trapezoid
+Middle-left: Two downward-pointing triangles
+Middle-right: A circle with a smaller circle inside it and a teardrop shape
+Bottom-left: A star and a pentagon
+Bottom-right: A letter 'C' and a square
+
+Minimalist black-and-white style."

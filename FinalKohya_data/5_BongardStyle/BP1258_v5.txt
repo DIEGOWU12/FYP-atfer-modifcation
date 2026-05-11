@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern of alternating 'X' and 'L' shapes in a 3x3 grid.
+Top-right: A pattern of various puzzle piece shapes arranged in a 3x3 grid.
+Middle-left: A pattern of alternating 'X' and 'L' shapes in a 3x3 grid, rotated 90 degrees clockwise.
+Middle-right: A pattern of dots forming a diagonal line in a 3x3 grid.
+Bottom-left: A pattern of small square shapes arranged in a 3x3 grid with a central cross.
+Bottom-right: A pattern of dots forming a horizontal line in a 3x3 grid.
+
+Minimalist black-and-white style."

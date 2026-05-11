@@ -1,0 +1,10 @@
+The image shows a 3x2 grid of six text-based examples:
+
+Top-left: Solution has large black text on a white background.
+Top-right: Non-solution has small black text on a white background.
+Middle-left: Solution has large black text on a black background.
+Middle-right: Non-solution has small black text on a black background.
+Bottom-left: Solution is seen left vs. non-solution is not seen right.
+Bottom-right: Solution is seen left vs. non-solution is not seen right.
+
+Minimalist black-and-white style.

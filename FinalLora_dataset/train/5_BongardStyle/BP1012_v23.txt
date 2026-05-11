@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A triangular tessellation with interconnected lines forming equilateral triangles.
+Top-right: A woven pattern resembling interlocking ribbons or braided strands.
+Middle-left: A cracked or fractured pattern with irregular, jagged lines creating a fragmented appearance.
+Middle-right: A wavy, undulating pattern with smooth, flowing lines creating a sense of motion.
+Bottom-left: A three-dimensional cube-like structure with overlapping hexagons and perspective lines.
+Bottom-right: A zigzag or sawtooth pattern with sharp, angular lines creating a repetitive, dynamic effect.
+
+Minimalist black-and-white style.".

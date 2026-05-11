@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single diagonal line segment with endpoints.
+Top-right: A triangle with all sides equal and vertices connected.
+Middle-left: A square with all sides equal and right angles at each corner.
+Middle-right: A circle with a continuous curved line forming a closed loop.
+Bottom-left: A parallelogram with opposite sides parallel and equal in length.
+Bottom-right: A semicircle with a straight diameter and a curved arc.
+
+Minimalist black-and-white style."

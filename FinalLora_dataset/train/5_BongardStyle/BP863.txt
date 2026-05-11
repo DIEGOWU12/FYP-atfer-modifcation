@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A parallelogram tilted to the right
+Top-right: A rectangle with a small boat-like shape inside it
+Middle-left: A vertical rectangle with a smaller rectangle cut out from its center
+Middle-right: A complex shape resembling a stylized animal or creature
+Bottom-left: A solid square
+Bottom-right: A shape resembling a simplified tree or plant
+
+Minimalist black-and-white style.".

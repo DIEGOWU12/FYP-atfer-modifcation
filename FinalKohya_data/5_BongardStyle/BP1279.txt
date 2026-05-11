@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of 16 circles arranged in a 4x4 pattern.
+Top-right: A grid of 16 dots arranged in a 4x4 pattern.
+Middle-left: A grid of 16 diamonds arranged in a 4x4 pattern.
+Middle-right: A grid of 16 circles with a central dot, arranged in a 4x4 pattern.
+Bottom-left: A grid of 16 dots with a central circle, arranged in a 4x4 pattern.
+Bottom-right: A grid of 16 diamonds with a central dot, arranged in a 4x4 pattern.
+
+Minimalist black-and-white style."

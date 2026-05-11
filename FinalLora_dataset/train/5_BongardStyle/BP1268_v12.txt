@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Parentheses-like shapes with two open ends
+Top-right: Irregular, abstract shapes resembling tangled lines
+Middle-left: A sequence of symbols including a circle, star, and arrows
+Middle-right: Curved, wave-like patterns with varying thickness
+Bottom-left: A series of interconnected, elongated shapes
+Bottom-right: A mix of angular and rounded forms with a central star
+
+Minimalist black-and-white style.".

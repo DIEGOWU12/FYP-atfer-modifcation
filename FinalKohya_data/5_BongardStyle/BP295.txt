@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large square with a smaller square inside it, connected by a line.
+Top-right: A small square above a larger square, with a diagonal line extending from the larger square.
+Middle-left: A large square with several smaller squares around it, connected by lines.
+Middle-right: A large square with smaller squares around it, with a diagonal line extending from the large square.
+Bottom-left: A diagonal line crossing through a large square, with smaller squares around it.
+Bottom-right: A small square above a larger square, with a diagonal line extending from the larger square.
+
+Minimalist black-and-white style."

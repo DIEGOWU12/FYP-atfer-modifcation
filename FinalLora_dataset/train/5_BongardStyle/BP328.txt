@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pentagon with five sides of varying lengths.
+Top-right: A parallelogram with opposite sides parallel and equal in length.
+Middle-left: A quadrilateral with four sides of unequal lengths.
+Middle-right: A hexagon with six sides of equal length.
+Bottom-left: A rhombus with four sides of equal length and two acute angles.
+Bottom-right: A small diamond shape, which is a rotated square.
+
+Minimalist black-and-white style.".

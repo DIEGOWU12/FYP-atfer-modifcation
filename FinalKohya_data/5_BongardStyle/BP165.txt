@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A downward-pointing triangle with a vertical line above it.
+Top-right: A semicircle with a vertical line to its left.
+Middle-left: A zigzag polygon with a vertical line above it.
+Middle-right: A skewed quadrilateral with a horizontal line extending from its right side.
+Bottom-left: A pentagon with a diagonal line inside it.
+Bottom-right: A complex irregular polygon with a short horizontal line extending from its lower right corner.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 4x4 grid with a single black square in the top-left corner.
+Top-right: A 4x4 grid with a single black square in the center.
+Middle-left: A 4x4 grid with a single black square in the bottom-left corner.
+Middle-right: A 4x4 grid with a single black square in the top-right corner.
+Bottom-left: A 4x4 grid with a single black square in the bottom-center.
+Bottom-right: A 4x4 grid with a single black square in the top-center.
+
+Minimalist black-and-white style."

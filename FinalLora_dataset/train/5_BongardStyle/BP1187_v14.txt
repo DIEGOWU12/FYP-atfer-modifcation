@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two circles with a triangle above them and a diamond below.
+Top-right: Three pairs of overlapping circles forming a pattern.
+Middle-left: A series of cloud-like shapes with varying numbers of points.
+Middle-right: A grid of nine 'X' shapes arranged in a 3x3 pattern.
+Bottom-left: A series of asterisk-like shapes with multiple points.
+Bottom-right: A set of three different types of curved shapes resembling slices.
+
+Minimalist black-and-white style.".

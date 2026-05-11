@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black triangle with sharp, clean edges.
+Top-right: A series of small, evenly spaced circles forming a curved line.
+Middle-left: A dashed outline of a triangle with a vertical dashed line extending from its base.
+Middle-right: A solid black triangle pointing downwards.
+Bottom-left: A shaded triangle with diagonal lines filling its interior.
+Bottom-right: A triangle filled with small, scattered dots.
+
+Minimalist black-and-white style.".

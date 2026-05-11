@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A trapezoid with a horizontal line inside it
+Top-right: A rectangle with a smaller rectangle cut out from its right side
+Middle-left: A triangle with a horizontal line inside it
+Middle-right: A circle with a horizontal line inside it
+Bottom-left: An 'E' shape with a smaller 'E' shape cut out from its left side
+Bottom-right: A square with a smaller square cut out from its right side
+
+Minimalist black-and-white style."

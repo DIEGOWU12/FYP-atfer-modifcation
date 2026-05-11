@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A right-angled triangle with its right angle at the top left corner
+Top-right: A right-angled triangle with its right angle at the bottom right corner
+Middle-left: A pattern of dots arranged in a grid with a central cluster of denser dots
+Middle-right: A pattern of dots arranged in a grid with a central cluster of denser dots, mirrored horizontally
+Bottom-left: A grid of squares with alternating filled and empty squares
+Bottom-right: A grid of squares with alternating filled and empty squares, mirrored vertically
+
+Minimalist black-and-white style.".

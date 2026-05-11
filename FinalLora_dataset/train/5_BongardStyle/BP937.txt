@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle pointing upwards
+Top-right: A right angle shape with a vertical line extending to the left
+Middle-left: An oval shape
+Middle-right: A shape resembling a bell with a curved bottom and a small protrusion on top
+Bottom-left: A circle
+Bottom-right: A diamond shape
+
+Minimalist black-and-white style.".

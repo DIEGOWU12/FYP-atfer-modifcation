@@ -1,0 +1,13 @@
+"The image shows a 3x3 grid of nine black geometric shapes:
+
+Top-left: [Shape description]
+Top-middle: [Shape description]
+Top-right: [Shape description]
+Middle-left: [Shape description]
+Center: [Shape description]
+Middle-right: [Shape description]
+Bottom-left: [Shape description]
+Bottom-middle: [Shape description]
+Bottom-right: [Shape description]
+
+Minimalist black-and-white style."

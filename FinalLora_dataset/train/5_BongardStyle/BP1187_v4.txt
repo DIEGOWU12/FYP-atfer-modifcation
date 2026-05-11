@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single circle and two triangles pointing in opposite directions.
+Top-right: Three pairs of shapes, each pair consisting of a triangle and a cloud-like symbol.
+Middle-left: A row of alternating triangles and cloud-like symbols.
+Middle-right: A mix of triangles and cloud-like symbols arranged in a scattered pattern.
+Bottom-left: A vertical column of alternating 'X' and 'Z' shapes.
+Bottom-right: A vertical column of alternating 'X' and 'Z' shapes with a different spacing pattern.
+
+Minimalist black-and-white style.".

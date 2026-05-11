@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small circle
+Top-right: A small circle above a rectangle between two squares
+Middle-left: A square inside a circle
+Middle-right: A circle inside a square
+Bottom-left: Two squares and a small circle
+Bottom-right: A curved shape resembling a smile inside a circle
+
+Minimalist black-and-white style."

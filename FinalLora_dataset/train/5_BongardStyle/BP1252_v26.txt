@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'C' with a vertical line extending from its top.
+Top-right: A cross-like shape formed by two intersecting horizontal and vertical lines.
+Middle-left: A rectangle filled with diagonal black and white stripes.
+Middle-right: A triangle pointing to the right, outlined in black.
+Bottom-left: A small cross symbol surrounded by short diagonal lines.
+Bottom-right: A shape resembling a hand with four fingers extended.
+
+Minimalist black-and-white style.".

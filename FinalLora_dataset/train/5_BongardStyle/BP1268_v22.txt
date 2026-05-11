@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of vertical lines with varying lengths and spacing
+Top-right: A sequence of alternating solid and hollow circles
+Middle-left: A pattern of alternating arrows pointing left and right
+Middle-right: A group of overlapping curved lines forming a wave-like pattern
+Bottom-left: A row of irregularly spaced and sized dots
+Bottom-right: A collection of abstract shapes including triangles and a tree-like form
+
+Minimalist black-and-white style.".

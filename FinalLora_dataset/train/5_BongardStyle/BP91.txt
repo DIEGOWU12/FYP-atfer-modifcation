@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A Y-shaped figure with three lines extending from a central point.
+Top-right: Two squares, one upright and one tilted.
+Middle-left: Four vertical lines of equal length.
+Middle-right: An equilateral triangle.
+Bottom-left: A shape resembling a pumpkin with a stem and two curved sections.
+Bottom-right: A wavy line with three dots along its path.
+
+Minimalist black-and-white style.".

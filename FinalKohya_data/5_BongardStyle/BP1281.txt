@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle composed of smaller circles arranged in a triangular pattern.
+Top-right: A triangle made up of solid black dots forming a triangular shape.
+Middle-left: A triangle filled with alternating solid and outlined circles, creating a checkerboard-like pattern.
+Middle-right: A triangle formed by solid black dots with a single outlined circle at the top.
+Bottom-left: A triangle filled with alternating solid and outlined circles, similar to the middle-left but with a different arrangement.
+Bottom-right: A triangle composed of solid black dots with a single outlined circle at the bottom.
+
+Minimalist black-and-white style."

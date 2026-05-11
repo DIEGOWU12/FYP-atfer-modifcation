@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six colored geometric shapes:
+
+Top-left: Dark green rectangle
+Top-right: Bright green square
+Middle-left: Dark green rectangle
+Middle-right: Very dark green rectangle
+Bottom-left: Light green square
+Bottom-right: Medium green square
+
+Minimalist color style."

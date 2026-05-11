@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small circles and lines forming an abstract pattern
+Top-right: A mix of squares, rectangles, and a barcode-like element
+Middle-left: A combination of triangles, circles, and a larger circle with a smaller one inside
+Middle-right: A group of circles and dots arranged in a scattered pattern
+Bottom-left: A series of overlapping circles creating a textured effect
+Bottom-right: Triangles and arrows pointing in various directions
+
+Minimalist black-and-white style.".

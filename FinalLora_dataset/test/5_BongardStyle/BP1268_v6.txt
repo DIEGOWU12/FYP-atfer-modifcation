@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three separate parentheses symbols
+Top-right: A series of Chinese characters
+Middle-left: A sequence of small, evenly spaced dots
+Middle-right: A pattern with alternating arrows and stars
+Bottom-left: A combination of abstract shapes including a triangle and a circle
+Bottom-right: A series of asterisks and other symbols
+
+Minimalist black-and-white style.".

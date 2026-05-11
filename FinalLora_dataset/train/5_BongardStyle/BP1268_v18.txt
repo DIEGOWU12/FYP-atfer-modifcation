@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two open parentheses facing each other
+Top-right: A sequence of alternating filled and empty squares
+Middle-left: A pattern of alternating circles and stars
+Middle-right: A series of connected curved lines resembling waves
+Bottom-left: Three distinct shapes: a triangle, a circle, and a crescent
+Bottom-right: A combination of asterisks and circles in a scattered arrangement
+
+Minimalist black-and-white style.".

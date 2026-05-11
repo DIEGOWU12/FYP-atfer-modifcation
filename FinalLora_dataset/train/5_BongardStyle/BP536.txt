@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small, irregularly shaped gears with varying tooth counts.
+Top-right: A group of larger, evenly spaced gears with consistent tooth patterns.
+Middle-left: A single large gear with a complex tooth design, accompanied by smaller gears.
+Middle-right: A collection of medium-sized gears with uniform tooth spacing.
+Bottom-left: A mix of small and medium gears, some overlapping, with varied tooth counts.
+Bottom-right: A single large gear with a dense, intricate tooth pattern.
+
+Minimalist black-and-white style.".

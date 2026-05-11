@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: [Irregular, scattered white shapes on a black background]
+Top-right: [Clustered white shapes with varying sizes and orientations on a black background]
+Middle-left: [Fewer white shapes, more spaced out with some overlapping on a black background]
+Middle-right: [Moderate number of white shapes, some overlapping and clustered on a black background]
+Bottom-left: [Minimal white shapes, mostly isolated on a black background]
+Bottom-right: [Scattered white shapes with a mix of spacing and clustering on a black background]
+
+Minimalist black-and-white style.".

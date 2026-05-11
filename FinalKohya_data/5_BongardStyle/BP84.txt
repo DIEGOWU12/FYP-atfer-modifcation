@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle composed of small dots with a square in the center.
+Top-right: A rectangle composed of small dots with a square in the center.
+Middle-left: A vertical rectangle composed of small dots with a square in the center.
+Middle-right: A horizontal rectangle composed of small dots with a square in the center.
+Bottom-left: A circle composed of small dots with a square in the bottom left corner.
+Bottom-right: A circle composed of small dots with a square in the bottom right corner.
+
+Minimalist black-and-white style."

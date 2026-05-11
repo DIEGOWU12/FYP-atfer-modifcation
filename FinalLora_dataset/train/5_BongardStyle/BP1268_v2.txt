@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two open parentheses facing each other
+Top-right: A series of alternating solid and outlined circles
+Middle-left: A sequence of alternating solid and outlined squares
+Middle-right: A pattern of alternating solid and outlined triangles
+Bottom-left: A series of alternating solid and outlined crescents
+Bottom-right: A pattern of alternating solid and outlined triangles with a central dot
+
+Minimalist black-and-white style.".

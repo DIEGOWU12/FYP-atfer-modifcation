@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a mushroom with a rounded cap and a curved stem.
+Top-right: A shape with a small circle above a larger oval, connected by a vertical line.
+Middle-left: A rectangle with a smaller rectangle inside it, accompanied by a triangle to the right.
+Middle-right: A parallelogram with a curved line extending from one corner, forming a loop.
+Bottom-left: A combination of a circle and a triangle, with the triangle partially overlapping the circle.
+Bottom-right: Two triangles, one larger and one smaller, overlapping each other.
+
+Minimalist black-and-white style.".

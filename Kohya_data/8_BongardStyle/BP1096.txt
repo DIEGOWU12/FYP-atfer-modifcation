@@ -1,1 +1,0 @@
-Line between ends intersects symbol vs. not

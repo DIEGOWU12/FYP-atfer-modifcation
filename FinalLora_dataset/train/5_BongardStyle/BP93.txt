@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small circles and squares arranged in a scattered pattern.
+Top-right: A group of hexagons and squares forming a more compact and structured layout.
+Middle-left: A diagonal arrangement of alternating circles and squares.
+Middle-right: A zigzag pattern composed of circles and squares.
+Bottom-left: A dense, irregular cluster of circles and squares.
+Bottom-right: A linear arrangement of alternating circles and squares.
+
+Minimalist black-and-white style.".

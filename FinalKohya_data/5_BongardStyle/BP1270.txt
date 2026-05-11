@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square and a triangle with a small horizontal line below the square
+Top-right: A circle, a triangle, and a larger circle
+Middle-left: A triangle, a diamond, and a circle with a small dot inside
+Middle-right: Abstract curved lines forming an irregular shape
+Bottom-left: Dotted lines forming a triangular pattern with a horizontal line below
+Bottom-right: A star, a plus sign, and an upward arrow
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller circle inside and a larger circle partially overlapping it
+Top-right: A rectangle with a smaller rectangle cut out from its center
+Middle-left: A five-pointed star
+Middle-right: A semicircle
+Bottom-left: An oval
+Bottom-right: A regular hexagon
+
+Minimalist black-and-white style."

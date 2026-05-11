@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line with an upward arrow on the left end
+Top-right: A vertical line with a downward arrow on the top end
+Middle-left: A horizontal line with an upward arrow in the center
+Middle-right: A horizontal line with an upward arrow on the right end
+Bottom-left: A horizontal line with a downward arrow on the left end
+Bottom-right: A horizontal line with a downward arrow on the right end
+
+Minimalist black-and-white style."

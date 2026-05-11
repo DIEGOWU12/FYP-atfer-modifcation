@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with an intersecting line inside it
+Top-right: A closed loop with a small tail extending from it
+Middle-left: A shape resembling a lowercase 'e' with a curved tail
+Middle-right: A closed loop with a smaller loop inside it
+Bottom-left: A parallelogram with a diagonal line crossing it
+Bottom-right: A complex, irregular shape with multiple curves and loops
+
+Minimalist black-and-white style."

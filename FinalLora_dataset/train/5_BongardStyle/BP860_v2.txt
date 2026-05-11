@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of horizontal lines stacked closely together
+Top-right: A vertical rectangle with a small circle and a larger circle partially overlapping it
+Middle-left: A plus sign composed of four equal-length rectangles
+Middle-right: A puzzle piece shape with a circular protrusion on the right side
+Bottom-left: A horizontal rectangle with a smaller rectangle inside it, offset to the left
+Bottom-right: A shape resembling a simplified human figure with a rectangular body and a circular head
+
+Minimalist black-and-white style.".

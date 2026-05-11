@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A hexagon with a curved line intersecting it
+Top-right: A hexagon with a straight line passing through it
+Middle-left: A rectangle divided into four smaller rectangles by two perpendicular lines
+Middle-right: A rectangle filled with diagonal lines
+Bottom-left: A square with a cross and radiating lines
+Bottom-right: A square with three diagonal lines emanating from the bottom right corner
+
+Minimalist black-and-white style."

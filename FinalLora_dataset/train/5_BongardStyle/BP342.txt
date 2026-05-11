@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontally elongated, rounded shape resembling a capsule or a pill.
+Top-right: A parallelogram with its sides slanted and not perpendicular to the base.
+Middle-left: A T-shaped figure composed of a vertical rectangle with a smaller horizontal rectangle extending from its top center.
+Middle-right: An equilateral triangle with all sides of equal length.
+Bottom-left: A right-angled triangle with one angle at 90 degrees.
+Bottom-right: A semicircle with a straight diameter at the bottom.
+
+Minimalist black-and-white style.".

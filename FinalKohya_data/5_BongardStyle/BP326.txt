@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small circle with a diagonal line passing through it.
+Top-right: A small circle with a diagonal line passing through it.
+Middle-left: A large oval with a diagonal line passing through it.
+Middle-right: A small dot with a vertical line passing through it.
+Bottom-left: A large oval with a diagonal line passing through it.
+Bottom-right: A large oval with no lines passing through it.
+
+Minimalist black-and-white style."

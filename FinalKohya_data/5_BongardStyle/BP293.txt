@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rectangle divided into four equal vertical sections.
+Top-right: A rectangle divided into two equal horizontal sections.
+Middle-left: A rectangle with a diagonal line from the top-left corner to the bottom-right corner.
+Middle-right: A rectangle divided into five equal horizontal sections.
+Bottom-left: A rectangle with two diagonal lines crossing each other.
+Bottom-right: A rectangle containing a wavy, curved line.
+
+Minimalist black-and-white style."

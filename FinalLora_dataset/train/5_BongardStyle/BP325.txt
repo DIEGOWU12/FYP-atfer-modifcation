@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two curved lines forming an open shape
+Top-right: A triangle above a hexagram
+Middle-left: A large circle above a smaller circle
+Middle-right: A triangle above a triangle with a smaller triangle inside
+Bottom-left: A parallelogram above a square
+Bottom-right: Three triangles stacked vertically
+
+Minimalist black-and-white style.".

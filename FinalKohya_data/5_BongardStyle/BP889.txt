@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line with a small loop
+Top-right: A simple closed loop with a small tail
+Middle-left: A square with a diagonal line crossing it
+Middle-right: A lowercase letter 'g'
+Bottom-left: A triangle with a horizontal line inside
+Bottom-right: The number '84'
+
+Minimalist black-and-white style."

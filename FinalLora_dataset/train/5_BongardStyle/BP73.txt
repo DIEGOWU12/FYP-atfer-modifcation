@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A parallelogram, an oval, and a triangle.
+Top-right: An oval, a triangle, and a rectangle.
+Middle-left: An oval, a rectangle, and a triangle.
+Middle-right: A circle, a triangle, and a rectangle.
+Bottom-left: A rectangle, a triangle, and an oval.
+Bottom-right: A triangle, a rectangle, and an oval.
+
+Minimalist black-and-white style.".

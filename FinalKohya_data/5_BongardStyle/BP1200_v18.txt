@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rectangular arrangement of 10 squares in a 2x5 configuration.
+Top-right: A series of nested rectangles forming a spiral pattern.
+Middle-left: A complex arrangement of irregularly shaped polygons.
+Middle-right: A combination of rectangles and L-shapes forming a larger rectangle.
+Bottom-left: A grid of 20 squares arranged in a 4x5 configuration.
+Bottom-right: A compact arrangement of small squares forming a larger square.
+
+Minimalist black-and-white style."

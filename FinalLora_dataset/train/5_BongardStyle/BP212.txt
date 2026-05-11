@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Curved lines with varying lengths and orientations
+Top-right: A complex, looping curved line forming an intricate pattern
+Middle-left: A series of evenly spaced, short horizontal dashes
+Middle-right: A single, elongated oval shape composed of small dots
+Bottom-left: Multiple intersecting curved lines creating a dense, web-like structure
+Bottom-right: A single vertical line composed of small dots
+
+Minimalist black-and-white style.".

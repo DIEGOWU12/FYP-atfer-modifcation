@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern with intersecting lines forming a complex network of small squares and rectangles.
+Top-right: A pattern with intersecting lines and a single circle near the center.
+Middle-left: A pattern with intersecting lines and two circles, one near the top left and the other near the bottom right.
+Middle-right: A pattern with intersecting lines and a single circle near the center.
+Bottom-left: A pattern with intersecting lines and two circles, one near the top left and the other near the bottom right.
+Bottom-right: A pattern with intersecting lines and a single circle near the center.
+
+Minimalist black-and-white style.".

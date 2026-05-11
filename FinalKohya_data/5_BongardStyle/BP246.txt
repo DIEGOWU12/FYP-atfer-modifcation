@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved shape resembling a partial arc with a straight line extending from one end.
+Top-right: A triangular shape with one side curved outward.
+Middle-left: A shape consisting of a vertical line and a small circle near the bottom left corner.
+Middle-right: A simple oval shape centered in the cell.
+Bottom-left: A shape formed by two intersecting lines creating an 'X' pattern.
+Bottom-right: A complex shape with multiple curves and a small semicircular cutout.
+
+Minimalist black-and-white style."

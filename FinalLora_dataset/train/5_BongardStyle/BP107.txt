@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pentagon with one wavy side
+Top-right: A rectangle with a wavy top and bottom edge
+Middle-left: A hexagon with two wavy sides
+Middle-right: A rectangle with straight edges
+Bottom-left: A pentagon with all sides wavy
+Bottom-right: A triangle with one wavy side
+
+Minimalist black-and-white style.".

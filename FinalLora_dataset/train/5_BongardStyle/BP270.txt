@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black symbols:
+
+Top-left: [Capital letter T]
+Top-right: [Capital letter F]
+Middle-left: [Capital letter L]
+Middle-right: [Lowercase letter S]
+Bottom-left: [Plus sign +]
+Bottom-right: [Lowercase letter Q]
+
+Minimalist black-and-white style.".

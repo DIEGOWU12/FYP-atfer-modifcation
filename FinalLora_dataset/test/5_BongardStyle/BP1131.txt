@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black circle
+Top-right: A complex, irregular shape with multiple curves and protrusions
+Middle-left: A teardrop shape pointing downwards
+Middle-right: A rounded rectangle with a small protrusion on one side
+Bottom-left: A solid black circle with a smaller white circle inside it
+Bottom-right: A shape resembling a figure-eight or infinity symbol
+
+Minimalist black-and-white style.".

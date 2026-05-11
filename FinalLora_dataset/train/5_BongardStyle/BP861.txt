@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of horizontal lines with varying lengths and spacing
+Top-right: A complex, nested, L-shaped pattern with multiple right angles
+Middle-left: A combination of a vertical rectangle and two overlapping circles
+Middle-right: A jigsaw puzzle piece with a protruding tab and a corresponding hole
+Bottom-left: A rectangular shape with a smaller rectangle attached to its top left corner
+Bottom-right: A T-shaped figure with a horizontal bar extending from the top of a vertical bar
+
+Minimalist black-and-white style.".

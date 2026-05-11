@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with its base parallel to the bottom edge, enclosed within a grid pattern.
+Top-right: A triangle with its base parallel to the bottom edge, enclosed within a diagonal line pattern.
+Middle-left: A triangle with its base parallel to the bottom edge, enclosed within a diagonal line pattern.
+Middle-right: A triangle with its base parallel to the bottom edge, enclosed within a diagonal line pattern.
+Bottom-left: A triangle with its base parallel to the bottom edge, enclosed within a wavy line pattern.
+Bottom-right: A triangle with its base parallel to the bottom edge, enclosed within a diagonal line pattern.
+
+Minimalist black-and-white style.".

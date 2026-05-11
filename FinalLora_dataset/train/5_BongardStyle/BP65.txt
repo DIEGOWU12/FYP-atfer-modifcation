@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Triangles and circles arranged in a scattered pattern
+Top-right: Circles stacked vertically in a column
+Middle-left: A mix of triangles and circles with varying sizes and positions
+Middle-right: Triangles and circles placed in a horizontal line
+Bottom-left: Triangles and circles distributed across the space with no specific pattern
+Bottom-right: Circles and triangles arranged in a sparse, random manner
+
+Minimalist black-and-white style.".

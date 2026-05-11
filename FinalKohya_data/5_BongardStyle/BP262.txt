@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an 'S' with two endpoints connected by a continuous line.
+Top-right: A shape with a curved line forming a loop and two endpoints.
+Middle-left: A shape with a horizontal line and a vertical line extending upwards from the middle, with a dot at the top.
+Middle-right: A shape with a vertical line and a dot at the bottom, with a small horizontal line extending to the right.
+Bottom-left: A straight horizontal line with dots at both ends.
+Bottom-right: A shape with a curved line forming a loop and two endpoints.
+
+Minimalist black-and-white style."

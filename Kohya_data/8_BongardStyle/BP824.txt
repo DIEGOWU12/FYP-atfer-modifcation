@@ -1,1 +1,0 @@
-Objects are generated in a principled way vs. random choices involved.

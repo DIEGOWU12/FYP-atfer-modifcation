@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A complex fractal pattern resembling a square with intricate, repeating smaller squares.
+Top-right: A triangular fractal pattern composed of smaller triangles forming a larger triangle.
+Middle-left: A dense, textured pattern of small, irregular shapes creating a mosaic-like appearance.
+Middle-right: A fractal pattern featuring interconnected loops and spirals.
+Bottom-left: A star-like fractal pattern with multiple points extending outward.
+Bottom-right: A series of vertical lines of varying lengths, creating a simple, linear design.
+
+Minimalist black-and-white style.".

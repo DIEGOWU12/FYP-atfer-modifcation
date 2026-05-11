@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A cluster of irregular, elongated shapes resembling abstract brush strokes.
+Top-right: A series of vertical bars of varying heights, creating a stepped pattern.
+Middle-left: A group of small, scattered dots forming a sparse distribution.
+Middle-right: A dense collection of small, circular dots arranged in a compact cluster.
+Bottom-left: A mix of angular and curved lines forming an intricate, interconnected network.
+Bottom-right: A combination of dots and lines, with some lines extending outward in a star-like fashion.
+
+Minimalist black-and-white style.".

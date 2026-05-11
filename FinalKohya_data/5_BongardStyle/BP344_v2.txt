@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large square with a smaller square cut out from its center
+Top-right: A solid oval shape
+Middle-left: A square with a small circle and a small white circle inside it
+Middle-right: A cross shape formed by two overlapping rectangles
+Bottom-left: A rectangle with a horizontal line through its center
+Bottom-right: A puzzle piece shape with a small circle on its protruding part
+
+Minimalist black-and-white style."

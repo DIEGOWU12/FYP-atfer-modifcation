@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line with three small squares above it
+Top-right: A horizontal line with a small square to its right
+Middle-left: A horizontal line with a small square to its left and another small square below it
+Middle-right: A horizontal line with a small square to its right
+Bottom-left: A horizontal line with no additional shapes
+Bottom-right: A horizontal line with a small square below it
+
+Minimalist black-and-white style.".

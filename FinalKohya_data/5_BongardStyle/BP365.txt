@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: [Spiral shapes arranged in a row]
+Top-right: [Rectangular shapes aligned horizontally]
+Middle-left: [Hexagonal shapes connected in a zigzag pattern]
+Middle-right: [Vertical lines with circular ends of varying lengths]
+Bottom-left: [Stacks of squares forming larger square grids]
+Bottom-right: [Bar graphs with varying heights]
+
+Minimalist black-and-white style."

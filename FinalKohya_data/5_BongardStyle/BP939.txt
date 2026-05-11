@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two parallel arrows pointing in opposite directions
+Top-right: A large circle with a smaller filled circle inside it, and a separate small filled circle
+Middle-left: An inverted triangle with a horizontal line near its base
+Middle-right: A vertical line intersected by a shorter horizontal line
+Bottom-left: Multiple lines radiating outward from a central point
+Bottom-right: A series of parallel lines converging toward a single point
+
+Minimalist black-and-white style."

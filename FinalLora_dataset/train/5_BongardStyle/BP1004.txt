@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical line with a horizontal line intersecting it near the top, resembling a T-shape.
+Top-right: A series of vertical lines of varying lengths, some with small horizontal lines at the top.
+Middle-left: A wavy line with a small circle and a curved arrow pointing towards it.
+Middle-right: A triangle with a smaller triangle inside it, surrounded by abstract shapes.
+Bottom-left: A combination of geometric shapes including a diamond, a circle, and a spiral.
+Bottom-right: A collection of simple shapes including a triangle, a circle, and a wavy line.
+
+Minimalist black-and-white style.".

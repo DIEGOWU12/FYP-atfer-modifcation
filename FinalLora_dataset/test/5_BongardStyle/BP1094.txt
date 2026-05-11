@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a smaller star shape inside it
+Top-right: A stylized human figure with arms and legs spread out
+Middle-left: A parallelogram with a smaller, tilted rectangle inside it
+Middle-right: Three overlapping circles of varying sizes
+Bottom-left: A parallelogram with a smaller, tilted rectangle inside it, mirrored from the middle-left
+Bottom-right: Two separate star shapes
+
+Minimalist black-and-white style.".

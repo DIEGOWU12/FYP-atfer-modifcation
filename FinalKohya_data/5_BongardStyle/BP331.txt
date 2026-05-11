@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A diamond shape with diagonal hatching
+Top-right: A solid black triangle
+Middle-left: An empty oval
+Middle-right: A gray, irregular blob-like shape
+Bottom-left: A thin, slanted rectangle
+Bottom-right: A series of parallel, wavy lines
+
+Minimalist black-and-white style."

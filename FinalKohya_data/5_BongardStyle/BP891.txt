@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of five dots forming a vertical line with one dot slightly offset to the left.
+Top-right: A cluster of five dots forming a horizontal line with one dot slightly offset upwards.
+Middle-left: Two pairs of dots, each pair forming a small horizontal line, with one dot slightly offset downwards.
+Middle-right: Three dots forming a small triangle with one dot slightly offset to the right.
+Bottom-left: A cluster of five dots forming a diagonal line from top-left to bottom-right with one dot slightly offset downwards.
+Bottom-right: A cluster of five dots forming a diagonal line from top-right to bottom-left with one dot slightly offset upwards.
+
+Minimalist black-and-white style."

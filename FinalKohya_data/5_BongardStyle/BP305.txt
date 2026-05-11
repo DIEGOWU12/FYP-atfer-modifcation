@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A right triangle with its hypotenuse on the right side
+Top-right: Two overlapping curved lines forming a wave-like pattern
+Middle-left: A shape resembling a house with a square base and a smaller rectangle on top
+Middle-right: An L-shaped figure with an arrow pointing downward from the corner
+Bottom-left: A circular arrow indicating a clockwise rotation
+Bottom-right: Three parallel horizontal lines
+
+Minimalist black-and-white style."

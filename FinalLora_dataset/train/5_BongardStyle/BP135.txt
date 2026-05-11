@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line with two small loops at the ends.
+Top-right: A curved line with a loop near the top and a small dot at the end.
+Middle-left: A shape resembling a backward 'S' with a small loop at the bottom.
+Middle-right: A curved line with a small loop near the top and a larger loop at the bottom.
+Bottom-left: A shape with a large loop and a smaller loop inside it.
+Bottom-right: A simple curved line with two small loops at the ends.
+
+Minimalist black-and-white style.".

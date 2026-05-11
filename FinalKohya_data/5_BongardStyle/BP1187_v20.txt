@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single circle with a smaller circle inside it, accompanied by two triangles pointing upwards.
+Top-right: A series of alternating circles and triangles, all pointing upwards.
+Middle-left: A cluster of irregular, spiky shapes resembling asterisks or starbursts.
+Middle-right: A pattern of repeating 'X' shapes arranged in a grid.
+Bottom-left: A group of small, scattered asterisk-like shapes.
+Bottom-right: A set of three distinct shapes: an oval, a teardrop, and a circle.
+
+Minimalist black-and-white style."

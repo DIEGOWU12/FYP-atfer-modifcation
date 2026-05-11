@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with one vertex pointing downward, enclosed in an oval.
+Top-right: A parallelogram tilted to the right, enclosed in an oval.
+Middle-left: A rectangle with its longer side horizontal, enclosed in an oval.
+Middle-right: A pentagon with irregular sides, enclosed in an oval.
+Bottom-left: A semicircle with the straight edge at the bottom, enclosed in an oval.
+Bottom-right: A hexagon with irregular sides, enclosed in an oval.
+
+Minimalist black-and-white style."

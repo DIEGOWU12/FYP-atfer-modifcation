@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two separate parentheses facing each other
+Top-right: A series of overlapping, irregular shapes resembling abstract letters or symbols
+Middle-left: A sequence of small, evenly spaced, vertical lines
+Middle-right: A group of interconnected, rounded shapes forming a cluster
+Bottom-left: Three distinct, angular shapes with varying orientations
+Bottom-right: A collection of small, scattered, star-like shapes
+
+Minimalist black-and-white style.".

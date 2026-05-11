@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line forming a partial spiral
+Top-right: A small, closed loop resembling a comma
+Middle-left: A compact spiral with a tight center
+Middle-right: A larger, open spiral with a wide opening
+Bottom-left: A small, incomplete curve with a pointed end
+Bottom-right: A large, open spiral with a smooth, flowing shape
+
+Minimalist black-and-white style.".

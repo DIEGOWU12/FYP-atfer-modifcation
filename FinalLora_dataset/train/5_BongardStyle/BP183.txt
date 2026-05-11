@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large oval shape with two smaller, curved lines inside.
+Top-right: A spiral shape with a smaller, curved line extending from it.
+Middle-left: An oval shape with a smaller, circular spiral inside and a curved line extending outward.
+Middle-right: A spiral shape with a smaller, curved line extending from it.
+Bottom-left: A spiral shape with a small, circular element near its center.
+Bottom-right: An oval shape with a spiral and a curved line extending from it.
+
+Minimalist black-and-white style.".

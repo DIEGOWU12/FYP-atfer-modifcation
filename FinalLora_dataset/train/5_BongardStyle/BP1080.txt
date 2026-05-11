@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black-and-white images:
+
+Top-left: A circle and a square.
+Top-right: A triangle, an oval, and a diamond.
+Middle-left: A line intersecting a square and a smaller square.
+Middle-right: A wavy line.
+Bottom-left: A series of arrows pointing in various directions.
+Bottom-right: A pattern of small squares forming larger squares.
+
+Minimalist black-and-white style.".

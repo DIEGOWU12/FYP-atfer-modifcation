@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a plus sign inside
+Top-right: A circle with a plus sign inside
+Middle-left: A circle with a plus sign inside
+Middle-right: A circle with a plus sign inside
+Bottom-left: A circle with a plus sign inside
+Bottom-right: A circle with a plus sign inside
+
+Minimalist black-and-white style.".

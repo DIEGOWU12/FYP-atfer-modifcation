@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three dots forming an equilateral triangle
+Top-right: A single dot near the top center
+Middle-left: A vertical line of three dots
+Middle-right: A horizontal line of three dots
+Bottom-left: Two dots forming a diagonal line from top-left to bottom-right
+Bottom-right: Two dots forming a diagonal line from top-right to bottom-left
+
+Minimalist black-and-white style."

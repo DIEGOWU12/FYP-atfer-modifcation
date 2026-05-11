@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black and white patterns:
+
+Top-left: A grid of alternating X and O symbols with L shapes.
+Top-right: A grid of dots arranged in a pattern with some missing.
+Middle-left: A grid of various symbols including letters, numbers, and special characters.
+Middle-right: A grid of squares and sun-like symbols.
+Bottom-left: A grid of irregular black shapes on a white background.
+Bottom-right: A grid of dots arranged in a pattern with some missing.
+
+Minimalist black-and-white style.".

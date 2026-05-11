@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black text symbols:
+
+Top-left: A smiley face emoticon
+Top-right: A plus and forward slash symbol
+Middle-left: The letter 'a' followed by an at symbol
+Middle-right: The letters 'ab'
+Bottom-left: The letter 'l' with an acute accent
+Bottom-right: The letters 'xy'
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A dense pattern of small, evenly spaced dots forming a solid block.
+Top-right: A sparse pattern of small, evenly spaced dots creating a light, airy effect.
+Middle-left: A uniform pattern of small, evenly spaced squares forming a textured surface.
+Middle-right: A pattern of small, evenly spaced squares with slightly larger spacing, giving a more open texture.
+Bottom-left: A dense pattern of small, evenly spaced squares forming a solid, textured block.
+Bottom-right: A pattern of small, evenly spaced squares with larger spacing, creating a lighter, more open texture.
+
+Minimalist black-and-white style.".

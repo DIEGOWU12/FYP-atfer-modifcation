@@ -1,0 +1,13 @@
+"The image shows a 3x3 grid of nine black geometric shapes:
+
+Top-left: A square with two dots in the top left corner.
+Top-center: A square with four dots arranged in a 2x2 grid.
+Top-right: A square with six dots arranged in a 2x3 grid.
+Middle-left: A square with a single dot in the center.
+Middle-center: A square with eight dots arranged in a 2x4 grid.
+Middle-right: A square with six dots arranged in a 2x3 grid.
+Bottom-left: A square with nine dots arranged in a 3x3 grid.
+Bottom-center: A square with four dots arranged in a 2x2 grid.
+Bottom-right: A square with ten dots arranged in a 2x5 grid.
+
+Minimalist black-and-white style."

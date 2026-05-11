@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large solid black circle.
+Top-right: Three small circles, one solid black and two outlined white.
+Middle-left: A grid of alternating solid black and outlined white circles.
+Middle-right: A single large outlined white circle.
+Bottom-left: A dense pattern of alternating solid black and outlined white circles.
+Bottom-right: Two outlined white circles and one solid black circle.
+
+Minimalist black-and-white style.".

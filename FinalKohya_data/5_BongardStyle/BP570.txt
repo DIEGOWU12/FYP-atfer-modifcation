@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A three-dimensional hexagonal prism
+Top-right: A right-angled triangle
+Middle-left: A regular octagon
+Middle-right: A parallelogram
+Bottom-left: An ellipse
+Bottom-right: A rectangle
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy, undulating line
+Top-right: A sharp, angular peak resembling a mountain
+Middle-left: A straight diagonal line
+Middle-right: A smooth, curved arc
+Bottom-left: A spiral with a tight center and expanding loops
+Bottom-right: A small, irregular squiggle
+
+Minimalist black-and-white style.".

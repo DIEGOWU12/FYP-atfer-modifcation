@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid equilateral triangle
+Top-right: An irregular, jagged outline resembling a triangle
+Middle-left: A small, solid equilateral triangle
+Middle-right: A large equilateral triangle with a wavy, zigzag bottom edge
+Bottom-left: A very small, solid equilateral triangle
+Bottom-right: A small, irregular, jagged outline resembling a triangle
+
+Minimalist black-and-white style."

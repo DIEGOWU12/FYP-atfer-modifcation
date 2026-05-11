@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A checkmark-like shape with a straight line and a diagonal stroke
+Top-right: A curved, open-ended shape resembling a backward 'C'
+Middle-left: A wavy, horizontal line with a slight upward curve at the end
+Middle-right: A sharp, angular shape with two intersecting lines forming an 'X' or 'V' pattern
+Bottom-left: A smooth, continuous curve resembling a small wave or tilde
+Bottom-right: A complex, multi-looped shape with overlapping curves
+
+Minimalist black-and-white style.".

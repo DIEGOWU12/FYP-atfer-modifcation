@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a hexagon with alternating straight and curved edges.
+Top-right: A shape composed of intersecting lines forming an 'X' with additional diagonal lines.
+Middle-left: A shape with a central horizontal line and two diagonal lines extending from its ends.
+Middle-right: A shape featuring a series of interconnected loops and curves.
+Bottom-left: A shape with multiple diagonal lines converging towards a central point.
+Bottom-right: A complex arrangement of intersecting lines and curves, creating a dense pattern.
+
+Minimalist black-and-white style.".

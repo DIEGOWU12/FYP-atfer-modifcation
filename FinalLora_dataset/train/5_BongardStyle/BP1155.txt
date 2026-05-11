@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of irregular polygons and lines forming an abstract pattern.
+Top-right: A collection of simple shapes including triangles, squares, and lines scattered across the space.
+Middle-left: A group of overlapping geometric forms with sharp angles and varying sizes.
+Middle-right: A mix of small, distinct shapes like diamonds and triangles arranged sparsely.
+Bottom-left: A dense arrangement of various polygons and lines creating a complex structure.
+Bottom-right: A scattering of basic shapes such as squares, triangles, and lines with minimal overlap.
+
+Minimalist black-and-white style.".

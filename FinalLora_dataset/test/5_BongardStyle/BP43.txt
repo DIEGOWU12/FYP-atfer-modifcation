@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A smooth, continuous wavy line with gentle curves.
+Top-right: A jagged, irregular wavy line with sharp peaks and valleys.
+Middle-left: A series of connected straight lines forming a zigzag pattern.
+Middle-right: A complex, irregular wavy line with varying amplitudes and frequencies.
+Bottom-left: A simple, evenly spaced zigzag line with consistent angles.
+Bottom-right: A smooth, continuous wavy line with moderate curves.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single small circle
+Top-right: A horizontal row of five alternating black and white circles
+Middle-left: A cluster of four interconnected black shapes resembling a plus sign
+Middle-right: A horizontal row of five alternating black and white circles
+Bottom-left: A horizontal row of seven alternating black and white circles
+Bottom-right: A horizontal row of three black circles
+
+Minimalist black-and-white style.".

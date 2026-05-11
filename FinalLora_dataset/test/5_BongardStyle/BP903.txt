@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An equilateral triangle
+Top-right: A square
+Middle-left: A wavy, irregular line
+Middle-right: An 'X' shape formed by two intersecting lines
+Bottom-left: A simple smiley face with two dots for eyes and a curved line for a mouth
+Bottom-right: Three horizontal parallel lines
+
+Minimalist black-and-white style.".

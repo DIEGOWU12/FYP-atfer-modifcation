@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Irregular, fragmented shape with jagged edges and varying density.
+Top-right: Fragmented shape with horizontal streaks and a mix of dense and sparse areas.
+Middle-left: Dense, clustered pattern with irregular outlines and a mix of solid and empty spaces.
+Middle-right: Fragmented shape with vertical streaks and a combination of solid and empty regions.
+Bottom-left: Irregular, fragmented shape with jagged edges and a mix of solid and empty areas.
+Bottom-right: Fragmented shape with horizontal streaks and a mix of dense and sparse regions.
+
+Minimalist black-and-white style.".

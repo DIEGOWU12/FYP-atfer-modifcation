@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A bowtie-like shape with two pointed ends and a narrow center.
+Top-right: A shape resembling an hourglass or a figure-eight with a vertical orientation.
+Middle-left: A triangular shape with one side extended outward, forming an irregular polygon.
+Middle-right: A shape similar to a figure-eight lying on its side, with two loops connected at the center.
+Bottom-left: A rounded shape with a small protrusion at the bottom, resembling a simplified bubble or droplet.
+Bottom-right: A small, elongated shape with a pointed end, resembling a comma or a small leaf.
+
+Minimalist black-and-white style.".

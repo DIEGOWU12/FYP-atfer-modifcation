@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three distinct triangular shapes with varying orientations
+Top-right: A sequence of alternating circular and diamond shapes
+Middle-left: A simple pair of parentheses
+Middle-right: A pattern of repeating vertical lines with a central inverted triangle
+Bottom-left: A series of interconnected circular shapes forming a continuous loop
+Bottom-right: A set of irregular, abstract shapes resembling stylized letters or symbols
+
+Minimalist black-and-white style.".

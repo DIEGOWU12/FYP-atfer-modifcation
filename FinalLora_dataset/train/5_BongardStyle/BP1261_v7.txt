@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single irregular, rounded shape resembling a bean.
+Top-right: A complex, intertwined shape with multiple loops and curves.
+Middle-left: Two separate, irregular, cloud-like shapes.
+Middle-right: A dynamic, swirling shape with intersecting loops.
+Bottom-left: Three overlapping circles forming a Venn diagram-like pattern.
+Bottom-right: Four overlapping circles creating a more intricate interlocking pattern.
+
+Minimalist black-and-white style.".

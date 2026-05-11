@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cross-like shape with four squares extending from a central square.
+Top-right: A T-shaped figure with three squares in a vertical line and one square extending to the right from the middle square.
+Middle-left: A shape resembling a staircase with three squares on the left and two squares extending to the right.
+Middle-right: A shape resembling a staircase with three squares on the right and two squares extending to the left.
+Bottom-left: A shape resembling a zigzag with alternating squares extending to the right and down.
+Bottom-right: A shape resembling a zigzag with alternating squares extending to the right and up.
+
+Minimalist black-and-white style."

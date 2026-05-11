@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An elongated oval with a small cluster of circular shapes attached to its top left.
+Top-right: An elongated oval with a small cluster of circular shapes attached to its bottom right.
+Middle-left: An elongated oval with a small circular shape attached to its bottom center.
+Middle-right: An elongated oval with a small square shape attached to its bottom right.
+Bottom-left: An elongated oval with a small cluster of circular shapes attached to its bottom left.
+Bottom-right: An elongated oval with a small cluster of circular shapes attached to its bottom right.
+
+Minimalist black-and-white style.".

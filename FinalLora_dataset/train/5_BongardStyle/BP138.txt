@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Scattered dots with no apparent pattern
+Top-right: Dots forming a loose cluster with some alignment
+Middle-left: Dots arranged in a horizontal line with even spacing
+Middle-right: Dots forming a diagonal line from top-left to bottom-right
+Bottom-left: Dots scattered in a random pattern similar to the top-left
+Bottom-right: Dots forming a curved line resembling a gentle arc
+
+Minimalist black-and-white style.".

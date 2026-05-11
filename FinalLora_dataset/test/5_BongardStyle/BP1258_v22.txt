@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of interconnected lines forming abstract shapes.
+Top-right: A pattern of alternating X and O symbols in a grid.
+Middle-left: A grid with scattered black dots on a white background.
+Middle-right: A collection of various symbols including letters, numbers, and shapes.
+Bottom-left: A grid of small squares and plus signs arranged in a pattern.
+Bottom-right: A grid of black and white circular patterns.
+
+Minimalist black-and-white style.".

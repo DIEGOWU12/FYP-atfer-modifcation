@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A parallelogram with a diagonal line dividing it into two triangles, one shaded.
+Top-right: A hexagon with a horizontal line dividing it into two trapezoids, one shaded.
+Middle-left: A trapezoid with a diagonal line dividing it into two triangles, one shaded.
+Middle-right: An oval with a horizontal line dividing it into two segments, one shaded.
+Bottom-left: A triangle with a diagonal line dividing it into two smaller triangles, one shaded.
+Bottom-right: A trapezoid with a diagonal line dividing it into two triangles, one shaded.
+
+Minimalist black-and-white style."

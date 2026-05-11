@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with one side extended outward
+Top-right: A triangle with two lines extending from its vertices
+Middle-left: Two triangles, one smaller and inside the other
+Middle-right: Two intersecting lines forming an 'X'
+Bottom-left: A quadrilateral with one side missing
+Bottom-right: Two overlapping triangles forming an 'X'
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with its vertices pointing upwards, surrounded by small dots.
+Top-right: A square with its sides parallel to the grid lines, surrounded by small dots.
+Middle-left: A star with five points, oriented with one point upwards, surrounded by small dots.
+Middle-right: A triangle with its vertices pointing downwards, surrounded by small dots.
+Bottom-left: A parallelogram tilted at an angle, with its longer sides slanted, surrounded by small dots.
+Bottom-right: A star with five points, oriented with one point downwards, surrounded by small dots.
+
+Minimalist black-and-white style."

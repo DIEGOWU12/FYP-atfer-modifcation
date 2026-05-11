@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six Bongard-style pattern sets:
+
+Top-left: A set of various symbols including letters, numbers, and geometric shapes.
+Top-right: A grid with scattered black dots on a white background.
+Middle-left: A collection of diverse symbols such as currency signs, mathematical operators, and abstract shapes.
+Middle-right: A series of icons representing different types of buildings and structures.
+Bottom-left: A pattern of black and white circular shapes arranged in a specific sequence.
+Bottom-right: A grid with rows of black dots and dashes on a white background.
+
+Minimalist black-and-white style.".

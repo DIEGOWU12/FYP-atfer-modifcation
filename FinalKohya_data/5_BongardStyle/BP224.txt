@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with two diagonal lines crossing inside it.
+Top-right: A circle with three curved lines radiating outward from the center.
+Middle-left: A shape resembling a crescent with a smaller circular cutout on the left side.
+Middle-right: A shape resembling a crescent with a smaller circular cutout on the right side.
+Bottom-left: A circle with a small square in the bottom right corner.
+Bottom-right: A circle with a small square in the bottom center.
+
+Minimalist black-and-white style."

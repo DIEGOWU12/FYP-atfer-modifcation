@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Irregular hexagon with uneven sides
+Top-right: Parallelogram tilted to the right
+Middle-left: Diamond (rotated square)
+Middle-right: Rectangle standing upright
+Bottom-left: Regular hexagon with equal sides
+Bottom-right: Trapezoid with one pair of parallel sides
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two circles and a triangle, with the triangle pointing upwards.
+Top-right: Four pairs of crescent shapes, each pair facing opposite directions.
+Middle-left: A series of alternating triangles and circles, with the triangles pointing upwards.
+Middle-right: A series of alternating crescent shapes and small circles, with the crescents pointing in various directions.
+Bottom-left: A pattern of 'X' shapes and vertical lines, with the 'X' shapes appearing in a staggered arrangement.
+Bottom-right: A series of crescent shapes and circles, with the crescents pointing in various directions.
+
+Minimalist black-and-white style.".

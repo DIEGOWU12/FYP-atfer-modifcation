@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle composed of six smaller squares.
+Top-right: A vertical rectangle composed of five smaller rectangles arranged in a 2x3 grid with one square missing.
+Middle-left: A spiral pattern formed by nested squares decreasing in size towards the center.
+Middle-right: A complex arrangement of rectangles and squares forming a non-repeating, abstract pattern.
+Bottom-left: A grid of 100 small squares arranged in a 10x10 formation.
+Bottom-right: A vertical rectangle composed of seven smaller rectangles arranged in a 2x4 grid with one square missing.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black abstract smiley faces:
+
+Top-left: Three small, simple smiley faces with two dots for eyes and a curved line for a mouth.
+Top-right: Two small, simple smiley faces with two dots for eyes and a curved line for a mouth.
+Middle-left: One small, simple smiley face with two dots for eyes and a curved line for a mouth.
+Middle-right: Two small, simple smiley faces with two dots for eyes and a curved line for a mouth.
+Bottom-left: Three small, simple smiley faces with two dots for eyes and a curved line for a mouth.
+Bottom-right: Two small, simple smiley faces with two dots for eyes and a curved line for a mouth.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black dot patterns:
+
+Top-left: [Clustered dots forming an irregular shape]
+Top-right: [Three separate dots arranged in a triangle]
+Middle-left: [Two rectangular clusters of dots side by side]
+Middle-right: [Vertical lines of dots with varying lengths]
+Bottom-left: [Two clusters of dots resembling a pair of eyes]
+Bottom-right: [Four dots arranged in a square]
+
+Minimalist black-and-white style.".

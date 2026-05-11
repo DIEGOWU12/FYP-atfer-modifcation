@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle
+Top-right: A square
+Middle-left: A parallelogram
+Middle-right: A triangle
+Bottom-left: A pentagon
+Bottom-right: A V-shaped arrow
+
+Minimalist black-and-white style.".

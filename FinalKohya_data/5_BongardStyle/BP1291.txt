@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of interconnected points forming a rectangular lattice.
+Top-right: A chain of connected points with alternating angles, creating a zigzag pattern.
+Middle-left: A three-dimensional network of interconnected points forming a complex polyhedron.
+Middle-right: A branching structure with multiple lines extending from a central point.
+Bottom-left: A two-dimensional network of interconnected points forming a flat, angular shape.
+Bottom-right: A complex network of interconnected points forming a dense, multi-layered structure.
+
+Minimalist black-and-white style."

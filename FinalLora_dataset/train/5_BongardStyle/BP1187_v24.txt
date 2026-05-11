@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Cloud-like shapes with varying numbers of points
+Top-right: Stars and triangles with different point counts
+Middle-left: Curved shapes resembling crescents and semi-circles
+Middle-right: Stars and abstract shapes with multiple points
+Bottom-left: Spider-like shapes with multiple legs
+Bottom-right: Semicircles and circular segments
+
+Minimalist black-and-white style.".

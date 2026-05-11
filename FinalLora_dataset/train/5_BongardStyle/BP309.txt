@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line with a small black dot near the top left corner.
+Top-right: A wavy line with a small black dot near the top right corner.
+Middle-left: A curved line forming a partial loop with a small black dot at the bottom center.
+Middle-right: A wavy line with a small black dot near the top center.
+Bottom-left: A wavy line with a small black dot near the bottom left corner.
+Bottom-right: A circular loop with a small black dot at the bottom center.
+
+Minimalist black-and-white style.".

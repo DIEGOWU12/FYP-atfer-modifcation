@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a diagonal line extending from its bottom left corner.
+Top-right: A square with a curved line extending from its top right corner.
+Middle-left: A square with a small protrusion on its top left corner.
+Middle-right: A square with a circular indentation on its right side.
+Bottom-left: A semi-circular shape with a straight edge at the bottom.
+Bottom-right: A square with a curved cutout on its bottom right corner.
+
+Minimalist black-and-white style."

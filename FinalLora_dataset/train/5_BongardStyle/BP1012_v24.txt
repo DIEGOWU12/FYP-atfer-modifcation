@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A triangular lattice pattern with interconnected triangles.
+Top-right: A woven basket weave pattern with interlocking rectangles.
+Middle-left: A cracked or fractured pattern with irregular polygonal shapes.
+Middle-right: A wavy, undulating pattern with smooth, flowing lines.
+Bottom-left: A hexagonal tessellation pattern with uniform hexagons.
+Bottom-right: A zigzag or sawtooth pattern with sharp, angular lines.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An oval with a small dot near its center
+Top-right: A five-pointed star
+Middle-left: A rightward-pointing arrow
+Middle-right: A pentagon with a small dot near one of its vertices
+Bottom-left: A four-pointed star with a small dot at its center
+Bottom-right: A right-angled L-shape with a small dot near its corner
+
+Minimalist black-and-white style."

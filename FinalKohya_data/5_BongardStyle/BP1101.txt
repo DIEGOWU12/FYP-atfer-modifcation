@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single line segment with two endpoints.
+Top-right: A small cluster of three disconnected line segments.
+Middle-left: A triangle with an additional line segment extending from one vertex.
+Middle-right: A central point connected to six other points by line segments, forming a star-like pattern.
+Bottom-left: A complex network of interconnected lines forming a web-like structure.
+Bottom-right: A three-dimensional cube-like structure with additional internal connections.
+
+Minimalist black-and-white style."

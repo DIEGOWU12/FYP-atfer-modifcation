@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A diamond shape tilted to the right, partially shaded gray.
+Top-right: A parallelogram with a flat top and bottom, fully shaded gray.
+Middle-left: A hexagon with all sides equal, fully shaded gray.
+Middle-right: A triangle with one side horizontal, partially shaded gray.
+Bottom-left: A semicircle with the straight edge at the bottom, fully shaded gray.
+Bottom-right: A pentagon with irregular sides, fully shaded gray.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An oval with a small dot inside and a line extending from its right side
+Top-right: A square with a small dot inside
+Middle-left: A shape resembling a dumbbell with two circular ends connected by a horizontal bar
+Middle-right: A vertical rectangle with a small dot inside
+Bottom-left: A hexagon with a small dot inside
+Bottom-right: A star with five points
+
+Minimalist black-and-white style.".

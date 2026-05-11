@@ -1,1 +1,0 @@
-Line segments linking same-coloured dots would intersect vs. not so.

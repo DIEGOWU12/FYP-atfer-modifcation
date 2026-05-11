@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, intertwined loop with sharp angles
+Top-right: A hexagon with a smaller, offset hexagon inside
+Middle-left: An empty white rectangle
+Middle-right: A solid triangle pointing upwards
+Bottom-left: A plus sign (+) with intersecting lines
+Bottom-right: Multiple short, angled lines radiating outward
+
+Minimalist black-and-white style.".

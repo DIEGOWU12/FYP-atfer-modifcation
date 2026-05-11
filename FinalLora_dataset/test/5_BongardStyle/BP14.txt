@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy, continuous line forming an irregular loop
+Top-right: A series of three connected loops with varying sizes
+Middle-left: A perfect circle with a smaller concentric circle inside
+Middle-right: A single, smooth, curved line resembling a partial spiral
+Bottom-left: Five vertical lines evenly spaced and parallel to each other
+Bottom-right: An abstract shape composed of intersecting straight and angular lines
+
+Minimalist black-and-white style.".

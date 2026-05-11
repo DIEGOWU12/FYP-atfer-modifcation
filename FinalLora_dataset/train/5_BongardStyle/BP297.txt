@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of irregularly shaped black blocks with varying sizes and orientations.
+Top-right: A similar cluster of black blocks, but with a more compact and symmetrical arrangement.
+Middle-left: A configuration where the blocks are more spread out, with some gaps between them.
+Middle-right: A dense arrangement of blocks, forming a more solid and less fragmented shape.
+Bottom-left: A sparse layout with a few isolated blocks scattered across the space.
+Bottom-right: A balanced composition with blocks evenly distributed and no overlapping.
+
+Minimalist black-and-white style.".

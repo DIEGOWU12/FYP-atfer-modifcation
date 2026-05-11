@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern of alternating triangles and squares.
+Top-right: A pattern of arrows pointing right, followed by a row of dots.
+Middle-left: A pattern of circles with varying sizes.
+Middle-right: A pattern of squares transitioning into a 3D cube.
+Bottom-left: A pattern of arrows pointing in various directions.
+Bottom-right: A pattern of diamonds, circles, and triangles.
+
+Minimalist black-and-white style."

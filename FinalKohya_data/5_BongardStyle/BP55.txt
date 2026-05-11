@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rectangular shape with a protruding tab on the right side and a corresponding hole on the left.
+Top-right: A parallelogram with a small circular indentation near one corner.
+Middle-left: A semi-circular shape with a small protruding tab on the curved edge.
+Middle-right: An irregular, rounded shape with a small circular indentation near one end.
+Bottom-left: A triangular shape with a protruding tab on one side and a corresponding hole on another.
+Bottom-right: A square with a small circular indentation near one corner.
+
+Minimalist black-and-white style."

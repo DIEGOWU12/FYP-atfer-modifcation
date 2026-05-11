@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single small dot
+Top-right: Two small dots, one above the other
+Middle-left: A small dot with a small triangle pointing upwards to its right
+Middle-right: A small dot with a small diamond shape to its right
+Bottom-left: A small dot with a small circle below it
+Bottom-right: A single small dot
+
+Minimalist black-and-white style."

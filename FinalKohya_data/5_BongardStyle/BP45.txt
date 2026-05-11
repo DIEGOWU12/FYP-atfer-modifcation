@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An oval shape with a smaller, overlapping circle on its right side.
+Top-right: A triangle pointing to the right, partially overlapping a curved shape.
+Middle-left: A rectangle above a triangle, both aligned along their bases.
+Middle-right: A parallelogram above a trapezoid, both tilted and overlapping.
+Bottom-left: A square above a curved, elongated shape resembling a leaf.
+Bottom-right: A triangle with a smaller circle inside it, positioned near the bottom.
+
+Minimalist black-and-white style."

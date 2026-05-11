@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single dot above a short diagonal line.
+Top-right: A single dot above a longer diagonal line.
+Middle-left: A short diagonal line above a single dot.
+Middle-right: A single dot above a horizontal line with a small gap in the middle.
+Bottom-left: A long diagonal line above a single dot.
+Bottom-right: A single dot above a short vertical line.
+
+Minimalist black-and-white style.".

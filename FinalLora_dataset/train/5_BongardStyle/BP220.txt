@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of diagonal lines converging towards the top left corner
+Top-right: A large, stylized number '5' with a smooth, flowing curve
+Middle-left: A dense, irregular pattern of small, scattered dots
+Middle-right: A similar dense, irregular pattern of small, scattered dots but with a slightly different distribution
+Bottom-left: A group of small, rounded shapes clustered together
+Bottom-right: A series of overlapping squares and rectangles forming a layered structure
+
+Minimalist black-and-white style.".

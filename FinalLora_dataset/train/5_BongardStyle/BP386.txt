@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of squares forming a larger square with an additional square below it.
+Top-right: A horizontal line of squares with two squares stacked vertically below the right end.
+Middle-left: A grid of squares forming a larger square with an additional square below it.
+Middle-right: A grid of squares forming a larger square with two squares stacked vertically below the right end.
+Bottom-left: A grid of squares forming a larger square with an additional square below it.
+Bottom-right: A grid of squares forming a larger square with two squares stacked vertically below the right end.
+
+Minimalist black-and-white style.".

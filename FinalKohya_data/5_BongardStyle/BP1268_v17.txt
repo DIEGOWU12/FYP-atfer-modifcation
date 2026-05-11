@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black abstract patterns:
+
+Top-left: Two open parentheses facing each other
+Top-right: A sequence of alternating filled and open squares
+Middle-left: A pattern of alternating circles and stars
+Middle-right: A series of connected crescent shapes
+Bottom-left: A sequence of alternating circles and asterisks
+Bottom-right: A pattern of alternating asterisks and circles
+
+Minimalist black-and-white style."

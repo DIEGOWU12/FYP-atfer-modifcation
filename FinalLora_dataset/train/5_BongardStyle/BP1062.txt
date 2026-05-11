@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single rectangle with the word 'Bongard' inside.
+Top-right: A series of concentric rectangles forming a nested pattern.
+Middle-left: A series of concentric squares forming a nested pattern.
+Middle-right: A series of concentric rectangles forming a nested pattern, with the innermost rectangle being smaller and centered.
+Bottom-left: A single large rectangle.
+Bottom-right: A series of concentric squares forming a nested pattern.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern of evenly spaced dots forming a rectangular grid.
+Top-right: A pattern of vertical lines with varying spacing, creating a striped effect.
+Middle-left: A pattern of horizontal lines with consistent spacing.
+Middle-right: A pattern of irregular, fragmented shapes resembling shattered glass.
+Bottom-left: A pattern of vertical lines with uniform spacing and thickness.
+Bottom-right: A pattern of intersecting horizontal and vertical lines forming a grid of squares.
+
+Minimalist black-and-white style.".

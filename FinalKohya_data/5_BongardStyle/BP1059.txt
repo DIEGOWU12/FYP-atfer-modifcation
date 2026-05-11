@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rectangle with two smaller rectangles inside it, aligned horizontally.
+Top-right: A large rectangle containing a smaller square inside it.
+Middle-left: Two rows of four small squares each, arranged in a grid pattern.
+Middle-right: A large rectangle containing three smaller squares inside it, arranged in a triangular formation.
+Bottom-left: Four small squares arranged in a 2x2 grid.
+Bottom-right: A series of concentric squares, decreasing in size towards the center.
+
+Minimalist black-and-white style."

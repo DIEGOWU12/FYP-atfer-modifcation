@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling the letter 'H' with two vertical lines and one horizontal line connecting them.
+Top-right: A circle above an oval, with a small rectangle below the oval and a diagonal line extending from the rectangle.
+Middle-left: A series of connected zigzag lines forming a wavy pattern.
+Middle-right: A right triangle with its hypotenuse on the bottom, placed above a horizontal rectangle.
+Bottom-left: A single vertical line with a curved line extending from its bottom end.
+Bottom-right: Several intersecting lines and shapes, including a parallelogram and a few diagonal lines.
+
+Minimalist black-and-white style."

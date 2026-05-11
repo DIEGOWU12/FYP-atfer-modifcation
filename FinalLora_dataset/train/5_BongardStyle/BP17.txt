@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A crescent shape with a smooth curve
+Top-right: A leaf-like shape with two rounded lobes
+Middle-left: A zigzag pattern resembling a stylized letter 'M'
+Middle-right: A triangular arrow pointing to the right
+Bottom-left: A parallelogram with a slanted top edge
+Bottom-right: Two overlapping circles forming a figure-eight
+
+Minimalist black-and-white style.".

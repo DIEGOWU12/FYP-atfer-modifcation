@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A pattern featuring various symbols including letters, arrows, and question marks.
+Top-right: A pattern composed of X's, O's, and L's in a grid.
+Middle-left: A pattern with dots arranged in a grid, some forming small clusters.
+Middle-right: A pattern with scattered dots on a grid.
+Bottom-left: A pattern with vertical and horizontal lines forming a grid-like structure.
+Bottom-right: A pattern with bold, angular shapes resembling letters or symbols.
+
+Minimalist black-and-white style.".

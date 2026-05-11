@@ -1,0 +1,23 @@
+BongardStyle, "The image shows a 5x5 grid of twenty-five black geometric shapes:
+
+Top-left: [Shape description]
+Top-second: [Shape description]
+Top-third: [Shape description]
+Top-fourth: [Shape description]
+Top-right: [Shape description]
+Second-left: [Shape description]
+Second-center: [Shape description]
+Second-right: [Shape description]
+Third-left: [Shape description]
+Third-center: [Shape description]
+Third-right: [Shape description]
+Fourth-left: [Shape description]
+Fourth-center: [Shape description]
+Fourth-right: [Shape description]
+Bottom-left: [Shape description]
+Bottom-second: [Shape description]
+Bottom-third: [Shape description]
+Bottom-fourth: [Shape description]
+Bottom-right: [Shape description]
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of overlapping circles of varying sizes.
+Top-right: A mix of triangles and cubes, some solid and some outlined.
+Middle-left: A pattern of irregularly shaped black and white blocks.
+Middle-right: A combination of hexagons and dots arranged in a grid.
+Bottom-left: Alternating rows of circles and stars.
+Bottom-right: A series of vertical and horizontal lines with varying lengths.
+
+Minimalist black-and-white style.".

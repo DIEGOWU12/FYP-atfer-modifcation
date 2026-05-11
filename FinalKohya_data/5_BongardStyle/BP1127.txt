@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Small circles scattered randomly
+Top-right: Triangles and circles mixed together
+Middle-left: Triangles and small circles combined
+Middle-right: Triangles and circles intermixed
+Bottom-left: Circles and small crosses mixed
+Bottom-right: Circles and triangles combined
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line centered in the top-left quadrant
+Top-right: A horizontal line centered in the top-right quadrant
+Middle-left: A horizontal line centered in the middle-left quadrant
+Middle-right: A horizontal line centered in the middle-right quadrant
+Bottom-left: A horizontal line centered in the bottom-left quadrant
+Bottom-right: A horizontal line centered in the bottom-right quadrant
+
+Minimalist black-and-white style.".

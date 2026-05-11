@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six sets of geometric shapes:
+
+Top-left: A set of four L-shaped and square tetrominoes.
+Top-right: A complex arrangement of various tetrominoes forming a larger pattern.
+Middle-left: A collection of overlapping circles with labels inside, arranged in a grid.
+Middle-right: A similar set of overlapping circles with labels, but with a different configuration.
+Bottom-left: Three-dimensional geometric shapes including a cube, a sphere, and a pyramid.
+Bottom-right: A series of interconnected polygons forming a tessellation pattern.
+
+Minimalist black-and-white style.".

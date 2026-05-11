@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square cut out from its center.
+Top-right: A star-like shape with four pointed ends and a central void.
+Middle-left: A building-like structure composed of stacked cubes forming a rectangular base with windows.
+Middle-right: A simple house-like shape with a triangular roof and a rectangular base.
+Bottom-left: Two abstract, curved shapes resembling stylized eyes or faces.
+Bottom-right: A wavy line with two small loops extending from it.
+
+Minimalist black-and-white style.".

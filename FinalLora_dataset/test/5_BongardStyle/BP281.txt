@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape with three horizontal lines intersected by two vertical lines, creating a grid-like pattern.
+Top-right: A shape with two horizontal lines intersected by one vertical line, forming a simple cross.
+Middle-left: A shape with four horizontal lines intersected by three vertical lines, creating a dense grid.
+Middle-right: A shape with three horizontal lines intersected by two vertical lines, similar to the top-left but with a different arrangement.
+Bottom-left: A shape with three horizontal lines intersected by two vertical lines, forming a compact grid.
+Bottom-right: A shape with two horizontal lines intersected by three vertical lines, creating a taller grid.
+
+Minimalist black-and-white style.".

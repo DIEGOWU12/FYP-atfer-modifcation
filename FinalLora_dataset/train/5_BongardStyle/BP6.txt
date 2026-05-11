@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small, upright triangle.
+Top-right: A large, filled-in triangle pointing to the right.
+Middle-left: A parallelogram with a diagonal line inside it.
+Middle-right: A small, inverted triangle.
+Bottom-left: A small, upright triangle.
+Bottom-right: A large, inverted triangle.
+
+Minimalist black-and-white style.".

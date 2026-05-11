@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square cut out from its center
+Top-right: A solid black oval
+Middle-left: A square with two smaller circles inside it, one near the top and one near the bottom
+Middle-right: A rectangle with a smaller rectangle cut out from its center
+Bottom-left: A square with a zigzag pattern along its bottom edge
+Bottom-right: A shape resembling a jigsaw puzzle piece with a circular protrusion on the right side
+
+Minimalist black-and-white style.".

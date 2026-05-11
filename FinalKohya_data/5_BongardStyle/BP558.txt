@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single black dot near the top left corner
+Top-right: A single black dot near the top right corner
+Middle-left: A single black dot near the bottom left corner
+Middle-right: A single black dot near the bottom right corner
+Bottom-left: A single black dot near the center left
+Bottom-right: A single black dot near the center right
+
+Minimalist black-and-white style."

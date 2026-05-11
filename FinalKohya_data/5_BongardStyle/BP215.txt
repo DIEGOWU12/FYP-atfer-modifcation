@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A smiling face with a textured mouth and two circular eyes.
+Top-right: A simple face with a straight line for a mouth and two dots for eyes.
+Middle-left: A face with a curved smile and a single dot for an eye.
+Middle-right: A face with a jagged, pixelated mouth and a small square for an eye.
+Bottom-left: A face with a wide, toothy grin and two large, round eyes.
+Bottom-right: A face with a dotted mouth and a series of dots for eyes.
+
+Minimalist black-and-white style."

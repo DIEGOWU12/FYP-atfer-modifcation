@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of circles and a diamond, with one small square.
+Top-right: Four arrows pointing in different directions, forming a cross.
+Middle-left: Three horizontal lines of varying lengths.
+Middle-right: A combination of a circle, a line intersecting it, and a small dot.
+Bottom-left: A set of triangles and a square.
+Bottom-right: A group of circles and ovals, some with internal lines.
+
+Minimalist black-and-white style.".

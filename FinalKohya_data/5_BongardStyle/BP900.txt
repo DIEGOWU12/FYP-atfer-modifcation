@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A tetrahedron
+Top-right: A rectangular prism with a smaller rectangular prism on top
+Middle-left: A cylinder
+Middle-right: A diamond (rhombus)
+Bottom-left: A cube
+Bottom-right: A cone
+
+Minimalist black-and-white style."

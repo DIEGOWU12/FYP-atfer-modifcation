@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A rectangle with the word 'Bongard' inside.
+Top-right: A rectangle with the word 'Bongard' inside, followed by a smaller rectangle.
+Middle-left: A series of concentric squares decreasing in size.
+Middle-right: A grid of small squares arranged in a larger square pattern.
+Bottom-left: A collection of small rectangles and squares forming a complex structure.
+Bottom-right: A single large empty rectangle.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle above a circle, with a square below the circle.
+Top-right: A square above a triangle, with a circle below the triangle.
+Middle-left: A square above a circle, with a triangle below the circle.
+Middle-right: A triangle above a circle, with a square below the circle.
+Bottom-left: A circle above a triangle, with a square below the triangle.
+Bottom-right: A triangle above a circle, with a square below the circle.
+
+Minimalist black-and-white style."

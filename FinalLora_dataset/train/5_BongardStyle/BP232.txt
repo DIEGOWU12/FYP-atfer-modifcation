@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a vertical line extending from its apex
+Top-right: A circle with a horizontal line intersecting it and a diagonal line extending outward
+Middle-left: A square within a larger square, both centered
+Middle-right: A horizontal line with three evenly spaced dots and two diagonal lines extending from the outer dots
+Bottom-left: Three diagonal lines converging at a point
+Bottom-right: A triangle with a vertical line extending from its base
+
+Minimalist black-and-white style.".

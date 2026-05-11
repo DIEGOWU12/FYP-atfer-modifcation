@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single, elongated, curved shape resembling a bean.
+Top-right: A shape composed of two overlapping loops forming a figure-eight-like structure.
+Middle-left: A shape with a wavy, spiral-like line extending from one end.
+Middle-right: A circular shape containing a jagged, lightning-bolt-like line.
+Bottom-left: A shape resembling a pair of lips or a stylized mouth with a central gap.
+Bottom-right: A rectangular shape with a curved indentation on one side.
+
+Minimalist black-and-white style.".

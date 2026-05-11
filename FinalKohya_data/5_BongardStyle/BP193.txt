@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid black rectangle with a white triangular cutout on the right side.
+Top-right: Three black curved arrows pointing downward and to the left.
+Middle-left: A chaotic pattern of intersecting black lines forming an abstract, dense design.
+Middle-right: A black circle with a white crescent shape inside it, resembling a Pac-Man character.
+Bottom-left: A solid black triangle with a textured pattern of diagonal lines.
+Bottom-right: A solid black triangle with a smooth, solid fill.
+
+Minimalist black-and-white style."

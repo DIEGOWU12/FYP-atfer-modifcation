@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two downward-pointing arrows
+Top-right: A right-angled triangle with the right angle at the top left
+Middle-left: Three parallel diagonal lines pointing upwards to the right
+Middle-right: Two upward-pointing arrows forming a V-shape
+Bottom-left: A single diagonal line pointing upwards to the right
+Bottom-right: A right-angled triangle with the right angle at the bottom right
+
+Minimalist black-and-white style."

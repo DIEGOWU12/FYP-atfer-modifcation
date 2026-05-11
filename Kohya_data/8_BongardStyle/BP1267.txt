@@ -1,1 +1,0 @@
-Any two lines intersect, and no three lines share an intersection point vs. not so.

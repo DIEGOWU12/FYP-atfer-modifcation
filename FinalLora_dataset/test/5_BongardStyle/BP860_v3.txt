@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of horizontal lines stacked closely together
+Top-right: A vertical rectangle with a small circle to its right
+Middle-left: A cross shape formed by two intersecting rectangles
+Middle-right: A puzzle piece shape with a circular protrusion on the right
+Bottom-left: A T-shape with a longer vertical bar and shorter horizontal bar
+Bottom-right: A shape resembling a simplified letter 'H' with an additional horizontal line extending from the top right
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black letters:
+
+Top-left: J
+Top-right: L
+Middle-left: N
+Middle-right: S
+Bottom-left: G
+Bottom-right: V
+
+Minimalist black-and-white style.".

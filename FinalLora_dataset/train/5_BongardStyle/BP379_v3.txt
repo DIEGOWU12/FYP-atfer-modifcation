@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Four squares arranged in a 2x2 pattern
+Top-right: A cluster of irregularly placed squares and rectangles
+Middle-left: Six circles with various symbols inside them
+Middle-right: Three circles with symbols inside, one larger circle above
+Bottom-left: Two horizontal bars with a vertical bar between them
+Bottom-right: A series of overlapping circles and triangles
+
+Minimalist black-and-white style.".

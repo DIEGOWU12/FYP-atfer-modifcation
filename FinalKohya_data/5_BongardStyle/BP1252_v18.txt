@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line forming a loop
+Top-right: A cross shape with equal arms
+Middle-left: An empty white rectangle
+Middle-right: A rectangle filled with diagonal lines
+Bottom-left: A small cross inside a larger shape with radiating lines
+Bottom-right: A rectangle with three short, angled lines at the bottom
+
+Minimalist black-and-white style."

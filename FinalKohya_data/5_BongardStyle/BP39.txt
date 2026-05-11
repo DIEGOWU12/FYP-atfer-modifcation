@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three diagonal lines slanting upwards from left to right
+Top-right: Four vertical and diagonal lines of varying lengths
+Middle-left: Three diagonal lines slanting downwards from left to right
+Middle-right: Five horizontal and diagonal lines of varying lengths
+Bottom-left: Three diagonal lines slanting downwards from left to right
+Bottom-right: Four diagonal lines slanting downwards from left to right
+
+Minimalist black-and-white style."

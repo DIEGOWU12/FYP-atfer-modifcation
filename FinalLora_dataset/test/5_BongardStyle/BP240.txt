@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A continuous, swirling spiral with no sharp angles.
+Top-right: A smooth, curved line forming an incomplete loop.
+Middle-left: A straight line with a single diagonal line extending from one end.
+Middle-right: A trapezoid with a vertical line extending from its right side.
+Bottom-left: Three parallel, wavy lines forming a zigzag pattern.
+Bottom-right: A closed, irregular shape resembling a figure-eight.
+
+Minimalist black-and-white style.".

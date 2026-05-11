@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle composed of smaller triangles, forming a larger triangle.
+Top-right: A square with a smaller square inside it, surrounded by four smaller squares.
+Middle-left: A complex pattern of interlocking lines and shapes, creating a dense, intricate design.
+Middle-right: A cluster of irregular shapes and lines, resembling a chaotic arrangement.
+Bottom-left: A series of overlapping squares and rectangles, creating a layered effect.
+Bottom-right: A collection of small, scattered shapes and lines, forming a sparse, abstract pattern.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside it
+Top-right: An oval with a smaller oval inside it
+Middle-left: A triangle with a smaller triangle inside it
+Middle-right: A square with a smaller square inside it, rotated
+Bottom-left: A rectangle with the letter 'S' repeated twice inside it
+Bottom-right: Three ovals, one larger and two smaller ones
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two separate triangles, one pointing up and the other pointing down.
+Top-right: A curved shape resembling a crescent moon with a small circular dot near it.
+Middle-left: A collection of various shapes including a square, triangles, and abstract forms scattered around.
+Middle-right: Three horizontal rectangles aligned vertically.
+Bottom-left: A pattern of stars and diamond shapes arranged in a grid.
+Bottom-right: A shape resembling a stylized letter 'V' with a curved line above it.
+
+Minimalist black-and-white style.".

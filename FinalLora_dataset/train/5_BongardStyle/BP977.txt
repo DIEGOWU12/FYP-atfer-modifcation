@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two spiral shapes with varying sizes and orientations
+Top-right: Three triangles of different sizes, one larger and two smaller ones
+Middle-left: Two maze-like patterns with intricate pathways
+Middle-right: A rounded shape with two stars inside it
+Bottom-left: A maze with a starting point marked by an 'X' and an endpoint marked by another 'X'
+Bottom-right: Two oval shapes with dots inside them
+
+Minimalist black-and-white style.".

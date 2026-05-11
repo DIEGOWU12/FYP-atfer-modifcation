@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single black dot centered in the square.
+Top-right: A cluster of five black dots forming a small, irregular pattern.
+Middle-left: A group of four black dots arranged in a loose, scattered formation.
+Middle-right: A dense cluster of nine black dots forming a compact, almost rectangular shape.
+Bottom-left: A symmetrical arrangement of six black dots forming a hexagonal pattern.
+Bottom-right: A vertical line of seven black dots forming a straight column.
+
+Minimalist black-and-white style.".

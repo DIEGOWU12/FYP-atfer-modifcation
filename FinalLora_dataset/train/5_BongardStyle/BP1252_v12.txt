@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling intertwined loops
+Top-right: A hexagon with a missing side
+Middle-left: A blank white rectangle
+Middle-right: A rectangle filled with diagonal lines
+Bottom-left: A triangle with a thick outline
+Bottom-right: A rectangle with three short lines extending from its bottom edge
+
+Minimalist black-and-white style.".

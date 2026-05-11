@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved shape resembling a wave with a flat top.
+Top-right: A shape with a flat bottom and a wavy top.
+Middle-left: A rounded shape with a flat bottom and a curved top.
+Middle-right: A triangular shape with a flat base and a pointed top.
+Bottom-left: A rectangular shape with a small protrusion on the right side.
+Bottom-right: A shape with a flat bottom and a wavy top, similar to the top-right but smaller.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of nested squares forming a spiral pattern
+Top-right: A complex arrangement of rectangles creating a maze-like structure
+Middle-left: A collection of irregularly placed rectangles forming a fragmented pattern
+Middle-right: A symmetrical layout of rectangles with a central vertical line
+Bottom-left: A grid of uniformly sized squares arranged in a dense, orderly fashion
+Bottom-right: A cluster of rectangles forming an abstract, non-uniform shape
+
+Minimalist black-and-white style.".

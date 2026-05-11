@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single curved line with a small protrusion at the top
+Top-right: A single curved line with a small protrusion at the bottom
+Middle-left: A single curved line with a small protrusion at the top
+Middle-right: A single curved line with a small protrusion at the bottom
+Bottom-left: A single curved line with a small protrusion at the top
+Bottom-right: A single curved line with a small protrusion at the bottom
+
+Minimalist black-and-white style.".

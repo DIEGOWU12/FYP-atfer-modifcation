@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black-and-white facial features:
+
+Top-left: [Upper face with visible eyes and forehead]
+Top-right: [Face with prominent nose and eyes]
+Middle-left: [Profile view of a face with closed eyes]
+Middle-right: [Face with wide eyes and nose]
+Bottom-left: [Lower face with nose and mouth]
+Bottom-right: [Smiling face with visible teeth]
+
+Minimalist black-and-white style.".

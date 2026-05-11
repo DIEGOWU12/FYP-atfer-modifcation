@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A wavy line with a single loop
+Top-right: A wavy line with two loops
+Middle-left: A straight diagonal line
+Middle-right: A wavy line with three loops
+Bottom-left: A curved line with a single loop
+Bottom-right: A spiral line with multiple loops
+
+Minimalist black-and-white style.".

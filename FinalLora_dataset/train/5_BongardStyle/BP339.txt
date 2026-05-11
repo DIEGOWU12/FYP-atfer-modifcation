@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three circles with various symbols inside, including a triangle and an asterisk.
+Top-right: Two circles with symbols such as triangles and asterisks, one circle contains a single symbol.
+Middle-left: A circle with multiple symbols including an asterisk and a letter 'S', and a smaller circle with a single symbol.
+Middle-right: Two circles, one with an asterisk and the letter 'S', the other with two asterisks.
+Bottom-left: A circle with multiple symbols including an asterisk and a letter 'S', and a smaller circle with a single symbol.
+Bottom-right: Two circles, one with a number '4' and the other with an asterisk.
+
+Minimalist black-and-white style.".

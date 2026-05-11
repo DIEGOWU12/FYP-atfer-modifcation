@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of five small circles with one circle slightly offset from the group.
+Top-right: A cluster of four small circles arranged in a loose square pattern.
+Middle-left: A cluster of four small circles forming a diamond shape.
+Middle-right: A cluster of five small circles arranged in a cross pattern.
+Bottom-left: A cluster of three small circles forming a vertical line.
+Bottom-right: A cluster of four small circles arranged in a square pattern.
+
+Minimalist black-and-white style.".

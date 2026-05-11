@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A grid of evenly spaced horizontal and vertical lines forming squares.
+Top-right: A grid of diagonal lines intersecting to form triangles.
+Middle-left: A woven pattern resembling interlocking T-shapes.
+Middle-right: A wavy, zigzag pattern with alternating peaks and troughs.
+Bottom-left: A hexagonal grid pattern with interconnected hexagons.
+Bottom-right: A series of parallel, wavy lines creating a textured effect.
+
+Minimalist black-and-white style.".

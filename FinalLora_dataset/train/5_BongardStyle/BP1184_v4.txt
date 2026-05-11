@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with a shaded triangle pointing upwards
+Top-right: A circle with a shaded parallelogram tilted to the right
+Middle-left: A circle with a shaded rectangle tilted to the left
+Middle-right: A circle with a shaded triangle pointing downwards
+Bottom-left: A circle with a shaded semicircle on the bottom
+Bottom-right: A circle with a shaded pentagon
+
+Minimalist black-and-white style.".

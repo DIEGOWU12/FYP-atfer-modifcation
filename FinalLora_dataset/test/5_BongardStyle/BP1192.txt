@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single, elongated triangle with a small triangle cut out from its base.
+Top-right: A zigzag line with three peaks and valleys.
+Middle-left: A series of connected zigzag lines forming a jagged path.
+Middle-right: A shape resembling a letter 'K' with a horizontal line extending from the top right.
+Bottom-left: A zigzag line with four peaks and valleys.
+Bottom-right: A 'V' shape with a small horizontal line extending from the right side.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a circle inside, surrounded by three 'X' marks.
+Top-right: A square with two circles on top and one 'X' in the middle, surrounded by three 'X' marks.
+Middle-left: A triangle with an 'X' inside, surrounded by three 'X' marks.
+Middle-right: A square with an 'X' in the center, a circle on the right, and two 'X' marks below.
+Bottom-left: A square with an 'X' in the center, a circle on the bottom left, and a triangle on the bottom right.
+Bottom-right: A square with a triangle on the top left, a circle on the top right, and an 'X' in the center.
+
+Minimalist black-and-white style."

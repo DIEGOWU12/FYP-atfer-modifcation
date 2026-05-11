@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large, irregular, amorphous shape with a smooth outline.
+Top-right: A cluster of various small, angular shapes with some filled in with a crosshatch pattern.
+Middle-left: A chaotic, jagged pattern resembling cracked earth or a rough texture.
+Middle-right: A series of concentric circles creating a spiral effect.
+Bottom-left: A U-shaped form with a rounded bottom and two vertical lines extending upwards.
+Bottom-right: Two diagonal lines crossing each other at an angle.
+
+Minimalist black-and-white style.".

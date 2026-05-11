@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'M' with two peaks and a central dip.
+Top-right: A shape composed of two horizontal lines intersected by a vertical line, forming a cross-like structure.
+Middle-left: A simple rectangular shape with no additional features.
+Middle-right: A rectangular shape filled with diagonal lines.
+Bottom-left: A small cross symbol located in the center of the rectangle.
+Bottom-right: A rectangular shape with several short, angled lines extending outward from the bottom edge.
+
+Minimalist black-and-white style.".

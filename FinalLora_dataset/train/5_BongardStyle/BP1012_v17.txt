@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric patterns:
+
+Top-left: A grid of evenly spaced horizontal and vertical lines forming squares.
+Top-right: A woven pattern with interlocking diagonal lines creating a basketweave effect.
+Middle-left: A cracked or fractured pattern with irregular, jagged lines resembling broken glass.
+Middle-right: A wavy, undulating pattern with smooth, continuous curves.
+Bottom-left: A three-dimensional cube pattern with overlapping hexagons creating a sense of depth.
+Bottom-right: A zigzag pattern with sharp, angular lines forming a repetitive, wave-like design.
+
+Minimalist black-and-white style.".

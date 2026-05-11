@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A large gear with multiple smaller gears around it
+Top-right: A cluster of small gears with no central large gear
+Middle-left: A group of small gears arranged in a circular pattern
+Middle-right: A large gear with several small gears around it
+Bottom-left: A large gear with a few small gears near it
+Bottom-right: A cluster of small gears with no central large gear
+
+Minimalist black-and-white style.".

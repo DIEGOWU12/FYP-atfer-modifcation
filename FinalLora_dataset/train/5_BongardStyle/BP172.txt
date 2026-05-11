@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cross-like shape with a vertical line intersecting a horizontal line, each with small perpendicular lines at their ends.
+Top-right: A wavy, irregular line forming an abstract, flowing shape.
+Middle-left: A triangle with three dots inside, one near each vertex.
+Middle-right: A complex, symmetrical pattern resembling intertwined loops or a stylized flower.
+Bottom-left: A five-pointed star with sharp, evenly spaced points.
+Bottom-right: A flower-like shape with multiple rounded petals radiating outward.
+
+Minimalist black-and-white style.".

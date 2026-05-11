@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex arrangement of intersecting lines forming multiple small squares and rectangles.
+Top-right: A similar complex arrangement with intersecting lines, but the pattern is slightly different from the top-left.
+Middle-left: A dense network of horizontal and vertical lines creating a grid-like structure with some gaps.
+Middle-right: A pattern with intersecting lines forming a more open grid, with larger empty spaces compared to the middle-left.
+Bottom-left: A configuration of lines that form a series of interconnected shapes, including circles and polygons.
+Bottom-right: A pattern with intersecting lines and circles, creating a mix of geometric forms and open spaces.
+
+Minimalist black-and-white style.".

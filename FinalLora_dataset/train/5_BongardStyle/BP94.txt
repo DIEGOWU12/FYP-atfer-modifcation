@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A linear chain of five circles with the first circle filled black.
+Top-right: A curved chain of five circles with the first circle filled black.
+Middle-left: A branching structure with a central filled black circle connected to four other circles.
+Middle-right: A Y-shaped structure with a central filled black circle connected to three other circles.
+Bottom-left: A triangular arrangement with a central filled black circle connected to three other circles.
+Bottom-right: A curved chain of five circles with the last circle filled black.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A diamond shape with sharp angles and equal sides.
+Top-right: A long, narrow triangle with one acute angle and two obtuse angles.
+Middle-left: A curved, irregular shape resembling a loop or a small swirl.
+Middle-right: A short, wide oval with a smooth, elongated form.
+Bottom-left: A straight, horizontal line segment.
+Bottom-right: A long, narrow parallelogram with slanted sides.
+
+Minimalist black-and-white style.".

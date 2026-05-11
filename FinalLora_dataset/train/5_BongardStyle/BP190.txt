@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A closed loop with a triangle and a square inside, connected by lines.
+Top-right: A series of interconnected shapes including a circle, triangle, and square, forming a complex pattern.
+Middle-left: A curved path with a square and a triangle, leading to a smaller shape.
+Middle-right: A simple line connecting a circle and a square, with a small dot nearby.
+Bottom-left: A circular path with a square and a triangle, forming a continuous loop.
+Bottom-right: A dynamic arrangement of shapes including circles, squares, and triangles, connected by lines.
+
+Minimalist black-and-white style.".

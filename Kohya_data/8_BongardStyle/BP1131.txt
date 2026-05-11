@@ -1,1 +1,0 @@
-One shape can be totally obscured by the other vs. neither shape can be obscured.

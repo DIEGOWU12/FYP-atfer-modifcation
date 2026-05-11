@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black stylized letters:
+
+Top-left: A bold, angular letter 'A' with sharp edges.
+Top-right: A cursive, flowing letter 'A' with smooth curves.
+Middle-left: A calligraphic letter 'A' with elegant, sweeping strokes.
+Middle-right: A minimalist, geometric letter 'A' with straight lines.
+Bottom-left: A solid, blocky letter 'A' with a filled-in appearance.
+Bottom-right: A light, airy letter 'A' with thin, delicate lines.
+
+Minimalist black-and-white style.".

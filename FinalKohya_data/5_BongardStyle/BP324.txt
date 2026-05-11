@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A greater-than symbol followed by an 'x'
+Top-right: An element-of symbol followed by the letter 'E'
+Middle-left: A less-than-or-equal-to symbol followed by a vertical line
+Middle-right: A downward-pointing triangle followed by a star
+Bottom-left: A circle followed by a smaller circle below it
+Bottom-right: A rectangle with a smaller rectangle inside it
+
+Minimalist black-and-white style."

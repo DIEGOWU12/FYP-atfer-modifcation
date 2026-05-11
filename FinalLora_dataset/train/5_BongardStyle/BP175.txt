@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved shape resembling a 'C' with a small line extending from its left side.
+Top-right: A square with a small circle inside it, positioned near the bottom right corner.
+Middle-left: A large 'C' shape with a small dot inside it, located near the center.
+Middle-right: A large 'C' shape with a small solid black circle to its right.
+Bottom-left: A curved shape resembling a 'C' with a small line extending from its left side, similar to the top-left shape.
+Bottom-right: A triangular shape with a small vertical line inside it, positioned near the bottom right corner.
+
+Minimalist black-and-white style.".

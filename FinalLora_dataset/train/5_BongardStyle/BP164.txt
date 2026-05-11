@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of three overlapping rectangles and parallelograms.
+Top-right: An oval shape with a smaller, similar oval inside it.
+Middle-left: A semicircle with a straight base at the bottom.
+Middle-right: A triangle with a smaller triangle inside it, pointing upwards.
+Bottom-left: A rectangle with a smaller rectangle inside it, aligned to the left.
+Bottom-right: A V-shaped figure with two lines forming an inverted angle.
+
+Minimalist black-and-white style.".

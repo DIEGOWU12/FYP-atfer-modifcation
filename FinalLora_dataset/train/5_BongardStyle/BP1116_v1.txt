@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, interconnected pattern resembling a snowflake or fractal design.
+Top-right: A simple, abstract arrangement of lines and dots forming a sparse, scattered pattern.
+Middle-left: A dense, intricate network of lines and dots creating a highly detailed, almost chaotic appearance.
+Middle-right: A series of nested triangles forming a larger triangle, with smaller triangles inside.
+Bottom-left: A linear, branching pattern that resembles a tree or dendrite structure.
+Bottom-right: A symmetrical, layered triangular design composed of multiple smaller triangles.
+
+Minimalist black-and-white style.".

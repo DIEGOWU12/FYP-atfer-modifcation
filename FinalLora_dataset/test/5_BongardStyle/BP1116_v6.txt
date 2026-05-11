@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, intricate pattern resembling a snowflake with multiple branching points.
+Top-right: A similar snowflake-like pattern but with a different arrangement and fewer branches.
+Middle-left: A series of nested triangles forming a larger triangle, with smaller triangles inside.
+Middle-right: A pattern of diagonal lines intersected by small crosses at various points.
+Bottom-left: A large triangle composed of smaller triangles, creating a fractal-like structure.
+Bottom-right: A grid of squares with a diagonal line pattern cutting through them.
+
+Minimalist black-and-white style.".

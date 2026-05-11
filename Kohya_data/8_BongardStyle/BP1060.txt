@@ -1,1 +1,0 @@
-All nonempty boxes have same number of boxes in them vs. not so.

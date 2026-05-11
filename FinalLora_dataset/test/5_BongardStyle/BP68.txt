@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single curved line with a small branch extending from its lower end.
+Top-right: A single curved line with a small branch extending from its upper end.
+Middle-left: A single curved line with a small branch extending from its upper end.
+Middle-right: A single curved line with a small branch extending from its lower end.
+Bottom-left: A single curved line with a small branch extending from its lower end.
+Bottom-right: Two curved lines, each with a small branch extending from their respective ends.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A star-like shape with a central diamond and four surrounding points.
+Top-right: A structure resembling a building with a flat roof and a window.
+Middle-left: A simple geometric figure composed of a rectangle and a smaller square on top.
+Middle-right: A checkerboard pattern with alternating black and white squares.
+Bottom-left: A symmetrical abstract shape with two pointed ends and a curved center.
+Bottom-right: A wavy line with a small loop at the end.
+
+Minimalist black-and-white style.".

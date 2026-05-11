@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with four smaller squares attached to its sides, forming a cross-like shape.
+Top-right: A diamond shape with a smaller square inside it.
+Middle-left: A parallelogram with a smaller parallelogram inside it, tilted at an angle.
+Middle-right: Two overlapping parallelograms, creating a complex angular shape.
+Bottom-left: A rectangle with a smaller rectangle inside it, aligned horizontally.
+Bottom-right: A rectangle with a smaller parallelogram inside it, tilted at an angle.
+
+Minimalist black-and-white style."

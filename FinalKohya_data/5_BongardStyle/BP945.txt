@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three dots arranged in a triangular pattern
+Top-right: A single dot centered on the white background
+Middle-left: Six dots forming a hexagonal pattern
+Middle-right: A cluster of dots scattered irregularly
+Bottom-left: A grid of nine dots arranged in a 3x3 square
+Bottom-right: A dense cluster of dots forming a circular pattern
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical rectangle with a smaller rectangle removed from its center.
+Top-right: A horizontal rectangle with a smaller rectangle removed from its center.
+Middle-left: A square with a smaller square removed from its top-left corner.
+Middle-right: A square with a smaller square removed from its bottom-right corner.
+Bottom-left: A checkerboard pattern of alternating black and white squares.
+Bottom-right: A single black square.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small circles and one plus sign.
+Top-right: A single circle, a plus sign, and another circle.
+Middle-left: A vertical line with a circle at the top and bottom.
+Middle-right: A group of circles with one plus sign.
+Bottom-left: A plus sign surrounded by circles.
+Bottom-right: A plus sign and circles scattered around.
+
+Minimalist black-and-white style."

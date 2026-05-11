@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black abstract shapes:
+
+Top-left: A shape resembling a spiral with a small loop at the end.
+Top-right: A shape with a large loop and a smaller, separate loop nearby.
+Middle-left: A shape with a curved line and a small protrusion.
+Middle-right: A shape with a spiral and a small, detached loop.
+Bottom-left: A shape with a curved line and a small, intricate detail.
+Bottom-right: A shape with a vertical line and a small, curved detail at the bottom.
+
+Minimalist black-and-white style.".

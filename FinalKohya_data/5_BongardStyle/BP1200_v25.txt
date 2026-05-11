@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex arrangement of rectangles forming an irregular pattern.
+Top-right: A series of nested squares creating a spiral effect.
+Middle-left: A cluster of rectangles with varying orientations and sizes.
+Middle-right: A combination of vertical and horizontal rectangles forming a stepped pattern.
+Bottom-left: A uniform grid of small, evenly spaced squares.
+Bottom-right: A compact arrangement of rectangles forming a dense, irregular shape.
+
+Minimalist black-and-white style."

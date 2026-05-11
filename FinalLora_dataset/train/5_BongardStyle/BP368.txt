@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Ellipse
+Top-right: Circle
+Middle-left: Rectangle
+Middle-right: Star
+Bottom-left: Plus sign
+Bottom-right: Staircase-like shape
+
+Minimalist black-and-white style.".

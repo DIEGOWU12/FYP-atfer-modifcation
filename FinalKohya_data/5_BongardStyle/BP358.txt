@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single vertical line with a small circle at the top.
+Top-right: Two lines forming an angle, with a small circle at the vertex.
+Middle-left: Two intersecting lines forming an 'X' shape, with small circles at the ends.
+Middle-right: A vertical line with a small circle at the bottom and a horizontal line extending to the right from the circle.
+Bottom-left: A diagonal line with a small circle at the bottom end.
+Bottom-right: Two vertical lines with small circles at the top and bottom of each line.
+
+Minimalist black-and-white style."

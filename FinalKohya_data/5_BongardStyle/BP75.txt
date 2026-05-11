@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line with a small triangle above it
+Top-right: A curved line with a small triangle below it
+Middle-left: A curved line with a small dot below it
+Middle-right: A curved line with a large triangle below it
+Bottom-left: A small triangle with a curved line below it
+Bottom-right: A small triangle with a curved line above it
+
+Minimalist black-and-white style."

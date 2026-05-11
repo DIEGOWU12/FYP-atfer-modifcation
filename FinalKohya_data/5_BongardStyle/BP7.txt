@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A simple closed oval shape
+Top-right: A vertical stack of five small, evenly spaced horizontal lines
+Middle-left: A vertical line with a small curved extension at the bottom
+Middle-right: A vertical stack of five small, evenly spaced horizontal lines, similar to the top-right but slightly thicker
+Bottom-left: A vertical line with a zigzag pattern at the bottom
+Bottom-right: A wavy vertical line
+
+Minimalist black-and-white style."

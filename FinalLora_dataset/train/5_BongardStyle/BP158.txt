@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A short, thick diagonal line slanting upwards from left to right.
+Top-right: A long, thin diagonal line slanting upwards from left to right.
+Middle-left: A medium-length diagonal line slanting upwards from left to right.
+Middle-right: A medium-length diagonal line slanting downwards from left to right.
+Bottom-left: A very short diagonal line slanting upwards from left to right.
+Bottom-right: A short diagonal line slanting downwards from left to right.
+
+Minimalist black-and-white style.".

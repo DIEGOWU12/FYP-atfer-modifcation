@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller, offset square inside it, creating a stepped, L-shaped pattern.
+Top-right: A vertical rectangle with a small circle above and to the right of it.
+Middle-left: A horizontal rectangle with a smaller rectangle cut out from its center, creating a frame-like shape.
+Middle-right: A curved, crescent-like shape pointing to the left.
+Bottom-left: A semicircle with the straight edge at the bottom.
+Bottom-right: An L-shaped figure with the longer side on the right.
+
+Minimalist black-and-white style."

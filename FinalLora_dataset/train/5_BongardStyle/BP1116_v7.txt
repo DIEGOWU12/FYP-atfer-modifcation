@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, irregular shape composed of multiple small lines and angles.
+Top-right: A symmetrical, star-like pattern with repeating triangular elements.
+Middle-left: A large triangle divided into smaller triangles, creating a fractal-like structure.
+Middle-right: A series of diagonal lines intersected by smaller cross-like shapes.
+Bottom-left: A large triangle filled with smaller, evenly spaced triangles.
+Bottom-right: A grid of squares with a diagonal line cutting through it, creating a stepped pattern.
+
+Minimalist black-and-white style.".

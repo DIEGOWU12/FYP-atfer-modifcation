@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a figure-eight or infinity symbol
+Top-right: A hexagon with its top and bottom sides extended outward
+Middle-left: A rectangle filled with diagonal lines
+Middle-right: A triangle with a thick border
+Bottom-left: A plus sign (+) surrounded by short lines
+Bottom-right: A rectangle with several short, angled lines extending from its bottom edge
+
+Minimalist black-and-white style.".

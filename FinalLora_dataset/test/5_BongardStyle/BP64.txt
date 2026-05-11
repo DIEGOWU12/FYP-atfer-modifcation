@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An oval with a small 'x' mark near its top left corner.
+Top-right: An oval with a small 'o' mark near its bottom right corner.
+Middle-left: An oval with a small 'x' mark near its top left corner and a small 'o' mark near its bottom right corner.
+Middle-right: An oval with a small 'o' mark near its bottom right corner and a small '+' mark near its top left corner.
+Bottom-left: A small circle with a small '+' mark near its bottom right corner.
+Bottom-right: An oval with a small '+' mark near its top left corner and a small 'o' mark near its bottom right corner.
+
+Minimalist black-and-white style.".

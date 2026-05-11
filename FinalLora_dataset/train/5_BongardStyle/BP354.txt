@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Five small circles arranged in a horizontal line
+Top-right: A series of diagonal lines forming a zigzag pattern
+Middle-left: Three overlapping circles creating a Venn diagram-like structure
+Middle-right: A vertical sequence of alternating black and white rectangular bars
+Bottom-left: A series of vertical lines of varying lengths, resembling a bar graph
+Bottom-right: A series of angular lines forming a jagged, upward-pointing shape
+
+Minimalist black-and-white style.".

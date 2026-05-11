@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of small dots forming a rough circular pattern with a few elongated lines extending outward.
+Top-right: A symmetrical arrangement of dots forming a cross-like shape with additional dots scattered around the periphery.
+Middle-left: A dense cluster of dots forming a rectangular block with a few smaller clusters and lines extending from it.
+Middle-right: A sparse distribution of dots forming a simple, elongated line with a few additional dots scattered around.
+Bottom-left: A dense, almost solid block of dots forming a rectangular shape with a few smaller clusters and lines extending from it.
+Bottom-right: A mix of dense clusters and scattered dots forming an irregular, amoeba-like shape with a few elongated lines extending outward.
+
+Minimalist black-and-white style.".

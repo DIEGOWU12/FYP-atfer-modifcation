@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A vertical rectangle with a smaller rectangle inside it, creating a frame-like appearance.
+Top-right: A pattern of horizontal and vertical lines forming a grid of small squares.
+Middle-left: A series of diagonal lines creating a stepped or zigzag pattern.
+Middle-right: A honeycomb pattern composed of hexagons.
+Bottom-left: A series of intersecting horizontal and vertical lines forming a grid of rectangles.
+Bottom-right: A pattern of vertical lines of varying lengths, creating a sense of depth.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A row of four small rectangles with text inside, arranged horizontally.
+Top-right: A single small rectangle with text inside, placed to the left of a larger empty rectangle.
+Middle-left: A group of five small rectangles with text inside, arranged in two rows (two on top, three below).
+Middle-right: A series of concentric squares, decreasing in size towards the center.
+Bottom-left: A cluster of twelve small rectangles with text inside, arranged in a grid pattern.
+Bottom-right: A series of concentric squares, decreasing in size towards the center.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Four small squares arranged in a 2x2 pattern
+Top-right: Six small squares arranged in two rows of three
+Middle-left: Eight small squares arranged in a 2x4 pattern
+Middle-right: Eight small squares arranged in a 4x2 pattern
+Bottom-left: Ten small squares arranged in a 2x5 pattern
+Bottom-right: Twelve small squares arranged in a 3x4 pattern
+
+Minimalist black-and-white style.".

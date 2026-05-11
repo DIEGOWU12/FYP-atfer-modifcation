@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A grid of nine squares with four filled in, arranged in a 2x2 pattern.
+Top-right: A set of five symbols including a circle, a crescent, a person, a triangle, and a question mark.
+Middle-left: A grid of nine squares with three filled in, arranged in a diagonal line.
+Middle-right: A set of five symbols including a star, a spiral, a heart, a swirl, and a question mark.
+Bottom-left: A grid of nine squares with five filled in, arranged in a cross pattern.
+Bottom-right: A set of five symbols including a plus sign, a minus sign, a multiplication sign, a division sign, and a dot.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A solid white rectangle
+Top-right: A cluster of small black dots forming a dense pattern
+Middle-left: A white rectangle with a black oval shape inside it
+Middle-right: A white rectangle with a black 'X' and a horizontal line below it
+Bottom-left: Six evenly spaced white circles in two rows
+Bottom-right: A white shape resembling a downward-pointing triangle
+
+Minimalist black-and-white style.".

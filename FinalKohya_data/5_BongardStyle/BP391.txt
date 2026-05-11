@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single straight line segment.
+Top-right: A closed shape resembling a distorted rectangle with rounded corners.
+Middle-left: A shape consisting of three interconnected lines forming a triangle with an additional line extending from one vertex.
+Middle-right: A shape resembling a zigzag line with three connected segments.
+Bottom-left: A shape resembling a broken line with four connected segments.
+Bottom-right: A complex network of interconnected lines forming multiple overlapping triangles.
+
+Minimalist black-and-white style."

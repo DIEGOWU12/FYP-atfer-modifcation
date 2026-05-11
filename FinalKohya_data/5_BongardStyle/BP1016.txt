@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single triangle with three vertices connected by straight lines.
+Top-right: A complex network of interconnected triangles forming a larger triangular structure.
+Middle-left: A dense lattice of interconnected triangles creating a hexagonal pattern.
+Middle-right: A quadrilateral with additional internal connections forming a star-like pattern.
+Bottom-left: A highly complex network of interconnected triangles and polygons forming an intricate web.
+Bottom-right: A simple quadrilateral with two additional internal points connected by lines.
+
+Minimalist black-and-white style."

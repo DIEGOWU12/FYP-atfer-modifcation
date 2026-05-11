@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A spiral composed of small circles, starting from the center and expanding outward.
+Top-right: A circular pattern made of evenly spaced small circles forming a larger circle.
+Middle-left: A zigzagging line formed by alternating small circles and triangles.
+Middle-right: A cluster of small triangles and plus signs scattered in a seemingly random pattern.
+Bottom-left: A triangular shape composed of smaller triangles pointing inward.
+Bottom-right: A circular pattern similar to the top-right, but with a more open and less dense arrangement of small circles.
+
+Minimalist black-and-white style.".

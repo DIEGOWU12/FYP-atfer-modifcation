@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line resembling a partial loop with a small protrusion.
+Top-right: A shape resembling a lowercase 'b' with a small dot near the bottom.
+Middle-left: A large, open, circular shape with a smaller, similar shape inside it.
+Middle-right: A curved line forming a partial loop with a small dot at the end.
+Bottom-left: A shape resembling a lowercase 'd' with a small dot near the top.
+Bottom-right: A large, open, circular shape with a smaller, similar shape inside it.
+
+Minimalist black-and-white style."

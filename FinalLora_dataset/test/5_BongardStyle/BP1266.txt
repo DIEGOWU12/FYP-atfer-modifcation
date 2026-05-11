@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape with intersecting lines forming an irregular polygon.
+Top-right: A shape with a single line crossing over another, creating a simple intersection.
+Middle-left: A shape resembling a zigzag or angular path with multiple turns.
+Middle-right: A shape with overlapping lines forming a complex, intertwined pattern.
+Bottom-left: A shape with a series of connected lines forming a jagged, angular outline.
+Bottom-right: A shape with a single line crossing over another, similar to the top-right but with a different orientation.
+
+Minimalist black-and-white style.".

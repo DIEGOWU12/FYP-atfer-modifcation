@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square cut out from its top-left corner
+Top-right: A rectangle with a semicircle attached to its top edge
+Middle-left: A triangle pointing upwards, with a portion of its base extending beyond the main shape
+Middle-right: A square with a smaller square cut out from its top-right corner
+Bottom-left: A circle with a portion of its circumference extending beyond the main shape
+Bottom-right: A square with a smaller square cut out from its bottom-left corner
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved, elongated shape resembling a stylized 'C' or a partial loop.
+Top-right: A complex, intertwined loop with multiple curves and a small enclosed space.
+Middle-left: A smooth, flowing curve that loops back on itself, creating a continuous, organic form.
+Middle-right: A simple, straight line with a slight curve at one end, resembling a checkmark.
+Bottom-left: A dynamic, angular shape with sharp turns and a sense of movement.
+Bottom-right: A wavy, undulating line that flows smoothly from one end to the other.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A collection of irregularly arranged squares and rectangles forming a complex pattern.
+Top-right: A series of overlapping circles with varying sizes and positions, creating a layered effect.
+Middle-left: A set of interconnected shapes including circles, triangles, and polygons, forming a network-like structure.
+Middle-right: A sequence of horizontal bars with alternating patterns of solid and empty spaces.
+Bottom-left: Three-dimensional geometric solids, including cubes and pyramids, depicted in a minimalist style.
+Bottom-right: A series of simple geometric shapes such as circles, triangles, and diamonds, arranged in a scattered pattern.
+
+Minimalist black-and-white style.".

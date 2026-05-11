@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black-and-white images:
+
+Top-left: A complex, continuous line forming a maze-like pattern.
+Top-right: A chaotic tangle of intersecting lines creating an abstract scribble.
+Middle-left: A stylized, abstract face with exaggerated features and sharp lines.
+Middle-right: Abstract text-like symbols with irregular shapes and varying thicknesses.
+Bottom-left: A series of flowing, organic curves resembling calligraphic strokes.
+Bottom-right: A geometric pattern composed of interlocking, repeating shapes.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling a stylized letter 'S' with a zigzag line extending from it.
+Top-right: A smooth, irregular blob-like shape with no sharp edges.
+Middle-left: A cluster of fragmented, angular shapes scattered across the space.
+Middle-right: A chaotic, textured pattern resembling cracked or rough terrain.
+Bottom-left: A series of concentric circles forming a spiral pattern.
+Bottom-right: Two parallel diagonal lines.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A black shape with a small white square inside and a curved cutout on the left side.
+Top-right: A black shape with a small white square inside and a curved cutout on the right side.
+Middle-left: A black shape with a small white square inside and a curved cutout on the bottom side.
+Middle-right: A black shape with a small white square inside and a curved cutout on the top side.
+Bottom-left: A black shape with a small white square inside and a curved cutout on the bottom side.
+Bottom-right: A black shape with a small white square inside and a curved cutout on the top side.
+
+Minimalist black-and-white style."

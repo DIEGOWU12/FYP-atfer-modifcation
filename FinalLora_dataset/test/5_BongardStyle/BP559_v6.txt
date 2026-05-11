@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Trapezoid with a longer top side
+Top-right: Rectangle with a small notch on the bottom right corner
+Middle-left: Pentagon with all sides equal
+Middle-right: Parallelogram with a slanted orientation
+Bottom-left: Arrow pointing to the right
+Bottom-right: Triangle pointing upwards
+
+Minimalist black-and-white style.".

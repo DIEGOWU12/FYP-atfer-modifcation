@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of nested rectangles decreasing in size from left to right.
+Top-right: A single empty rectangle.
+Middle-left: A collection of four squares arranged in a 2x2 grid.
+Middle-right: A series of nested squares decreasing in size from left to right.
+Bottom-left: A series of nested squares decreasing in size from top to bottom.
+Bottom-right: A single empty square.
+
+Minimalist black-and-white style."

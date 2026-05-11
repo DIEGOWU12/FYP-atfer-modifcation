@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A series of hexagons decreasing in size from left to right.
+Top-right: A sequence of arrows pointing upwards and to the right, increasing in size.
+Middle-left: A pattern of interconnected hexagons forming a larger hexagonal structure.
+Middle-right: A row of alternating triangles and squares.
+Bottom-left: A sequence of overlapping circles.
+Bottom-right: A series of S-shaped curves.
+
+Minimalist black-and-white style."

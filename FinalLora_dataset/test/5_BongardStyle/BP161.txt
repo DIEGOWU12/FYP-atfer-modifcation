@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Three parallel diagonal lines
+Top-right: Two horizontal lines with a short vertical line below them
+Middle-left: Two vertical lines with a small gap between them
+Middle-right: Two diagonal lines intersecting at a point
+Bottom-left: Two parallel diagonal lines
+Bottom-right: Three diagonal lines converging towards the right
+
+Minimalist black-and-white style.".

@@ -1,0 +1,12 @@
+"The image shows a 4x4 grid of sixteen black geometric patterns:
+
+Top-left: [Pattern description]
+Top-right: [Pattern description]
+Second row left: [Pattern description]
+Second row right: [Pattern description]
+Third row left: [Pattern description]
+Third row right: [Pattern description]
+Bottom-left: [Pattern description]
+Bottom-right: [Pattern description]
+
+Minimalist black-and-white style."

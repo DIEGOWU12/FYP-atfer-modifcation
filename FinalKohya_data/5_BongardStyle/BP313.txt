@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A simple, closed loop resembling a lowercase 'p'
+Top-right: A curved line with a small tail, resembling a lowercase 'g'
+Middle-left: A shape with two loops and a tail, resembling a lowercase 'q'
+Middle-right: A single, curved line with a small tail, resembling a lowercase '6'
+Bottom-left: A complex, swirling shape with multiple loops
+Bottom-right: A long, vertical line with a small loop at the bottom
+
+Minimalist black-and-white style."

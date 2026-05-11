@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circle with a vertical line extending upwards from its top.
+Top-right: A diagonal line ending in a small circle.
+Middle-left: A small circle connected to a longer line extending downwards and to the right.
+Middle-right: A magnifying glass shape with a dot below it.
+Bottom-left: A horizontal line ending in a circle.
+Bottom-right: A large circle connected to a diagonal line extending downwards and to the left.
+
+Minimalist black-and-white style."

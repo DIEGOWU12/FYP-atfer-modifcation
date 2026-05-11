@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal line of squares with two shaded squares at each end.
+Top-right: A square made up of smaller squares, with a smaller square removed from the top right corner.
+Middle-left: A rectangular frame with a small protruding square on the left side.
+Middle-right: A rectangular frame with a small protruding square on the top right corner.
+Bottom-left: A square frame with a smaller square removed from the center.
+Bottom-right: A checkerboard pattern of alternating shaded and unshaded squares.
+
+Minimalist black-and-white style.".

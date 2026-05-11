@@ -1,1 +1,0 @@
-Contains self somewhere within any area around any point within self vs. not so.

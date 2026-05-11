@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line with an arrowhead pointing to the right.
+Top-right: A curved line with an arrowhead pointing to the left.
+Middle-left: A closed loop with an arrowhead indicating clockwise direction.
+Middle-right: A curved line with an arrowhead pointing to the right, forming a partial loop.
+Bottom-left: A wavy line with an arrowhead pointing to the right.
+Bottom-right: A wavy line with an arrowhead pointing to the left.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of irregular, abstract shapes including triangles and lines.
+Top-right: A collection of symmetrical, repeating patterns with circular and triangular elements.
+Middle-left: A series of dynamic, angular shapes resembling arrows and zigzags.
+Middle-right: A pattern of alternating circles and triangles in a linear arrangement.
+Bottom-left: A mix of simple geometric forms like triangles, squares, and curves.
+Bottom-right: A variety of star-like and cloud-like shapes with varying complexity.
+
+Minimalist black-and-white style.".

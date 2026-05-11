@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: An irregular, elongated oval shape with a smooth outline.
+Top-right: A wavy, organic line that loops and curves in an abstract manner.
+Middle-left: A continuous, sinuous line that twists and turns in a fluid, serpentine pattern.
+Middle-right: A square with a downward-pointing arrow inside it, indicating direction.
+Bottom-left: A complex, abstract shape composed of multiple intertwined, flowing lines.
+Bottom-right: A simple, solid triangle pointing to the right.
+
+Minimalist black-and-white style.".

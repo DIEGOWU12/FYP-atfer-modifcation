@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A circular arrangement of dots with a solid black dot at the center.
+Top-right: A curved line of dots forming an arc with a solid black dot at the end.
+Middle-left: A diagonal line of dots sloping upwards from left to right.
+Middle-right: A circular cluster of dots with a solid black dot near the top right.
+Bottom-left: A circular arrangement of dots with a solid black dot at the bottom.
+Bottom-right: A vertical line of dots with a solid black dot at the bottom.
+
+Minimalist black-and-white style.".

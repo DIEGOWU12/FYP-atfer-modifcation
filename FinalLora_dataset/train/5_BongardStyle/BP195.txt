@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a circle and an ellipse inside it
+Top-right: A rectangle with a semicircle and a triangle inside it
+Middle-left: A circle with two triangles and a diamond inside it
+Middle-right: A shape resembling a chain with a square and a diamond inside it
+Bottom-left: A rectangle with a smaller rectangle and a square inside it
+Bottom-right: Two '0' shapes with the word 'Front' below them
+
+Minimalist black-and-white style.".

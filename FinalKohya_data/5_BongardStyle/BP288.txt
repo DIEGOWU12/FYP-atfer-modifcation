@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A small square with a diagonal line dividing it into two triangles, one shaded.
+Top-right: A large square with a smaller square cut out from its bottom right corner.
+Middle-left: A large square with a smaller square cut out from its top left corner.
+Middle-right: A small square with a larger square cut out from its bottom left corner.
+Bottom-left: A triangle with a smaller triangle cut out from its top right corner.
+Bottom-right: A large rectangle with a smaller rectangle cut out from its bottom right corner.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A horizontal rectangle composed of five smaller rectangles aligned side by side.
+Top-right: A larger rectangle divided into multiple smaller rectangles of varying sizes, creating an irregular pattern.
+Middle-left: A complex arrangement of smaller rectangles forming a non-uniform, abstract shape.
+Middle-right: A combination of vertical and horizontal rectangles creating a stepped or staggered pattern.
+Bottom-left: A grid of 16 smaller squares arranged in a 4x4 formation.
+Bottom-right: A compact arrangement of smaller rectangles forming a dense, almost solid block.
+
+Minimalist black-and-white style."

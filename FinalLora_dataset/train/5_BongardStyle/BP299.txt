@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with its base horizontal and apex pointing upwards.
+Top-right: A rectangle with its longer sides horizontal.
+Middle-left: A triangle with its base horizontal and apex pointing downwards.
+Middle-right: A diamond (rotated square) with its vertices aligned vertically and horizontally.
+Bottom-left: A parallelogram with its longer sides slanted.
+Bottom-right: A hexagon with all sides equal and angles consistent.
+
+Minimalist black-and-white style.".

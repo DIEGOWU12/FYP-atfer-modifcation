@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A single vertical line intersected by two diagonal lines.
+Top-right: Two diagonal lines crossing each other.
+Middle-left: Three intersecting diagonal lines forming a star-like pattern.
+Middle-right: Four intersecting diagonal lines creating a complex web.
+Bottom-left: Multiple intersecting diagonal lines forming an intricate network.
+Bottom-right: A single vertical line intersected by two diagonal lines.
+
+Minimalist black-and-white style.".

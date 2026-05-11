@@ -6,7 +6,7 @@ from PIL import Image
 # 1. 路径与全局配置
 # ====================================================================
 SOURCE_DIR = "Bongard_Dataset_v3"
-FINAL_TARGET_DIR = "Kohya_data/8_BongardStyle"
+FINAL_TARGET_DIR = "FinalKohya_data/5_BongardStyle"
 
 # 最终组合图的总尺寸
 FINAL_WIDTH = 256

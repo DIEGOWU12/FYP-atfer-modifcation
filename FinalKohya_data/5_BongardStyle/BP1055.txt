@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A diamond shape tilted on its side
+Top-right: A parallelogram with a slight tilt
+Middle-left: A trapezoid with a horizontal top and bottom
+Middle-right: A triangle with a horizontal base
+Bottom-left: A quadrilateral with no parallel sides
+Bottom-right: A quadrilateral with one pair of parallel sides
+
+Minimalist black-and-white style."

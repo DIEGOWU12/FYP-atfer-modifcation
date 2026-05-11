@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Cloud-like shapes with varying numbers of peaks and curves.
+Top-right: Circular and semi-circular shapes with different internal patterns and orientations.
+Middle-left: Star-like shapes with multiple points and some with additional internal lines.
+Middle-right: A mix of star-like and abstract shapes with intricate internal details.
+Bottom-left: Letter 'X' shapes with varying line thicknesses and orientations.
+Bottom-right: Letter 'Z' shapes with consistent line thickness and orientation.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A square with a smaller square inside it, offset towards the bottom right.
+Top-right: A collection of various geometric shapes including triangles, circles, and rectangles, arranged in a dense pattern.
+Middle-left: A series of overlapping shapes including a circle, a triangle, and a rectangle, creating a layered effect.
+Middle-right: A grid of small squares and rectangles, some filled and some outlined, forming a structured pattern.
+Bottom-left: A simple arrangement of squares and rectangles, with one square partially overlapping another.
+Bottom-right: A complex pattern of interconnected shapes, including circles, triangles, and rectangles, creating a dynamic composition.
+
+Minimalist black-and-white style."

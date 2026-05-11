@@ -1,1 +1,0 @@
-Each attribute is shared by every group or none vs. some attribute is shared by exactly two groups

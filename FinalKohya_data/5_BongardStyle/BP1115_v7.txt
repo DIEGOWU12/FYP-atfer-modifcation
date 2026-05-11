@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of four small squares arranged in a 2x2 pattern.
+Top-right: A cross shape with four squares extending from a central square.
+Middle-left: A horizontal line of five connected squares.
+Middle-right: A T-shaped figure with three squares forming the vertical part and two squares extending horizontally from the middle of the vertical part.
+Bottom-left: A plus sign made up of five squares, with one square at the center and four squares extending outwards.
+Bottom-right: A right-angled triangle composed of three squares.
+
+Minimalist black-and-white style."

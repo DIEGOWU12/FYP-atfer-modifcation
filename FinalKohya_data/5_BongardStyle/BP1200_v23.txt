@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex arrangement of rectangles forming a larger rectangle with internal divisions.
+Top-right: A series of nested squares creating a spiral-like pattern.
+Middle-left: A configuration of rectangles and L-shapes forming a larger rectangle with a central void.
+Middle-right: A layout of rectangles and squares creating a stepped, layered effect.
+Bottom-left: A collection of rectangles arranged to form a larger rectangle with a protruding section.
+Bottom-right: A compact arrangement of small rectangles forming a staircase-like structure.
+
+Minimalist black-and-white style."

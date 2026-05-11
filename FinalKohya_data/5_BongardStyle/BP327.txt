@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A continuous wavy line with multiple peaks and troughs.
+Top-right: A diagonal line intersecting a short horizontal line.
+Middle-left: An irregular, amoeba-like shape with smooth edges.
+Middle-right: A simple, closed oval shape.
+Bottom-left: A continuous wavy line similar to the top-left but with fewer peaks.
+Bottom-right: A single, smooth, curved line forming an arc.
+
+Minimalist black-and-white style."

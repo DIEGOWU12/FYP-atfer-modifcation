@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A set of four distinct symbols including a letter 'J', a circle, a letter 'L', and a question mark.
+Top-right: A collection of five abstract icons featuring a stylized face, a curved arrow, a human figure, a puzzle piece, and a wavy line.
+Middle-left: A group of nine diverse symbols including letters 'T' and 'S', a star, a swirl, a heart, and other unique shapes.
+Middle-right: A series of six icons depicting various objects such as a house, a car, a clock, a sun, a moon, and a cloud.
+Bottom-left: A pattern of eight interconnected circular shapes forming a complex design.
+Bottom-right: A sequence of ten dots arranged in two rows, with the top row containing five dots and the bottom row containing five dashes.
+
+Minimalist black-and-white style.".

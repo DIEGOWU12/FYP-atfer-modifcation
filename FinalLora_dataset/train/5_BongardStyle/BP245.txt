@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A shape resembling an open square with a small vertical line extending from the bottom left corner.
+Top-right: A single diagonal line slanting upwards from left to right.
+Middle-left: A horizontal line segment with a short vertical line extending downwards from its right end.
+Middle-right: A vertical line segment with a short horizontal line extending to the right from its bottom end.
+Bottom-left: An L-shape formed by two perpendicular lines, with the longer line extending downwards.
+Bottom-right: Two parallel horizontal lines separated by a small gap.
+
+Minimalist black-and-white style.".

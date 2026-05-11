@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with one vertex pointing downward, enclosed in an oval.
+Top-right: A parallelogram tilted to the right, enclosed in an oval.
+Middle-left: A rectangle tilted slightly to the right, enclosed in an oval.
+Middle-right: A pentagon with one side extending outward, enclosed in an oval.
+Bottom-left: A sector of a circle with a straight edge on the left, enclosed in an oval.
+Bottom-right: A hexagon with one side extending outward, enclosed in an oval.
+
+Minimalist black-and-white style.".

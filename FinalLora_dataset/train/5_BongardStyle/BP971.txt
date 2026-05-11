@@ -1,0 +1,1 @@
+BongardStyle, A similar, but different, solution is "center of mass is on the left half vs. center of mass is on the right half.".

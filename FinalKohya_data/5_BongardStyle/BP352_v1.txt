@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of interconnected polygons forming a chain-like structure.
+Top-right: A series of parallel lines with evenly spaced dots at each end.
+Middle-left: A row of five solid circles aligned horizontally.
+Middle-right: A pattern of vertical lines with varying lengths and spacing.
+Bottom-left: A diagonal arrangement of dots connected by short lines.
+Bottom-right: A set of four distinct geometric shapes (diamond, triangle, circle, square) arranged in a row.
+
+Minimalist black-and-white style."

@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A 3x3 grid of squares with the center square missing.
+Top-right: A 2x2 grid of squares with an additional square above and to the right of the top-right square.
+Middle-left: A 2x2 grid of squares with an additional square above and to the left of the top-left square.
+Middle-right: A 2x2 grid of squares with an additional square below and to the right of the bottom-right square.
+Bottom-left: A 2x2 grid of squares with an additional square below and to the left of the bottom-left square.
+Bottom-right: A 2x2 grid of squares with an additional square above and to the left of the top-left square.
+
+Minimalist black-and-white style."

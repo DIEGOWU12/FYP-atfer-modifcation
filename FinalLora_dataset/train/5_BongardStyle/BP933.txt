@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A straight line with a dot above it
+Top-right: Two intersecting lines with a dot above them
+Middle-left: A curved line forming a peak with a dot below it
+Middle-right: A curved line sloping downward with a dot above it
+Bottom-left: A wavy line with a dot below it
+Bottom-right: A V-shaped line with a dot above it
+
+Minimalist black-and-white style.".

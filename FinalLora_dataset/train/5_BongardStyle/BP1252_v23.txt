@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: Two overlapping open-ended shapes resembling parentheses
+Top-right: A cross formed by two intersecting horizontal and vertical lines
+Middle-left: A simple rectangle with no internal features
+Middle-right: A rectangle filled with diagonal black and white stripes
+Bottom-left: An open triangle pointing to the right
+Bottom-right: A rectangle with three short, angled lines extending from its bottom edge
+
+Minimalist black-and-white style.".

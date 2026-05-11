@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black-and-white patterns:
+
+Top-left: A pattern of alternating 'X' and 'L' shapes in a 4x4 grid.
+Top-right: A pattern of various abstract symbols including arrows, question marks, and puzzle pieces.
+Middle-left: A pattern of alternating 'X' and 'L' shapes in a 4x4 grid.
+Middle-right: A pattern of scattered black dots on a white background.
+Bottom-left: A pattern of circular shapes with varying shades of gray.
+Bottom-right: A pattern of horizontal lines with varying lengths and spacing.
+
+Minimalist black-and-white style.".

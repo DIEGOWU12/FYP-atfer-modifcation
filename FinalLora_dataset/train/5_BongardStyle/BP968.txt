@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 4x4 grid of sixteen black geometric shapes:
+
+Top-left: Square with a smaller square inside
+Top-right: Circle with a star inside
+Middle-left: Triangle with a dot inside
+Middle-right: Hexagon with a triangle inside
+Bottom-left: Pentagon with a diamond inside
+Bottom-right: Rectangle with a circle inside
+
+Minimalist black-and-white style.".

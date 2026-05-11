@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A cluster of irregular, abstract shapes resembling a splash or smudge.
+Top-right: A horizontal oval shape with a smooth, elongated form.
+Middle-left: A circular shape with a smaller circle inside, creating a simple face-like appearance.
+Middle-right: A small, isolated dot near the center of the cell.
+Bottom-left: A wavy, cloud-like shape with a soft, organic outline.
+Bottom-right: A large, rounded shape that appears to be a partial circle or dome.
+
+Minimalist black-and-white style.".

@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A triangle with a circle inside it, followed by two circles.
+Top-right: Three small triangles pointing upwards, followed by three small squares.
+Middle-left: A row of alternating circles and triangles pointing upwards.
+Middle-right: A row of alternating small triangles pointing upwards and small crescent shapes.
+Bottom-left: A sequence starting with a tree-like shape, followed by a star, a triangle, and a series of tree-like shapes.
+Bottom-right: A sequence of 'X' shapes, followed by a series of 'Z' shapes, and ending with a series of 'O' shapes.
+
+Minimalist black-and-white style.".

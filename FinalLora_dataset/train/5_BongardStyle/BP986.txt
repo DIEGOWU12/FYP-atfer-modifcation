@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A sequence of alternating 'A' and 'B' letters forming a pattern
+Top-right: A sequence of alternating 'A' and 'B' letters forming a different pattern
+Middle-left: A series of symbols including arrows, circles, and a triangle
+Middle-right: A series of abstract curved lines
+Bottom-left: A series of symbols including arrows and a circle
+Bottom-right: A single gray oval shape
+
+Minimalist black-and-white style.".

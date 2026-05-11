@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A stylized, flowing letter 'E' with a curved top and bottom.
+Top-right: A stylized, flowing letter 'C' with a looped top and bottom.
+Middle-left: A stylized, flowing letter 'S' with a sharp curve at the top and a looped bottom.
+Middle-right: A stylized, flowing letter 'T' with a horizontal bar and a vertical stem ending in a loop.
+Bottom-left: A stylized, flowing letter 'G' with a rounded top and a looped bottom.
+Bottom-right: A stylized, flowing letter 'O' with a continuous loop forming a circular shape.
+
+Minimalist black-and-white style.".

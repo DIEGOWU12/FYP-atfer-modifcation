@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A pentagon with all vertices connected to each other.
+Top-right: Two squares sharing a common side, with diagonals drawn in both squares.
+Middle-left: A tetrahedron viewed from above, showing three triangular faces.
+Middle-right: A hexagon with all vertices connected to each other.
+Bottom-left: A cube viewed from above, showing three square faces.
+Bottom-right: Four lines intersecting at a central point, forming an X shape.
+
+Minimalist black-and-white style.".

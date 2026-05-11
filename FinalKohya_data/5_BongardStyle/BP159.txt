@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A black rectangle with a white triangle and a diagonal line
+Top-right: A white circle, a white triangle, and a black square on a diagonal line
+Middle-left: A black rectangle, a black triangle, and a diagonal line
+Middle-right: A white triangle, a white circle, and a black rectangle on a diagonal line
+Bottom-left: A black star, a white circle, and a diagonal line
+Bottom-right: A white pentagon, a white hexagon, and a black pentagon on a diagonal line
+
+Minimalist black-and-white style."

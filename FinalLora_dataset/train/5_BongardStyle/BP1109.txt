@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A branching structure resembling a tree with three main branches, each ending in a circle.
+Top-right: A three-dimensional cube with all edges and vertices connected.
+Middle-left: A square with an additional line extending from one corner to the center.
+Middle-right: A horizontal line with two short perpendicular lines at each end.
+Bottom-left: A cross-like shape with four equal-length lines extending from a central point.
+Bottom-right: A triangle with a small circle near one of its vertices.
+
+Minimalist black-and-white style.".

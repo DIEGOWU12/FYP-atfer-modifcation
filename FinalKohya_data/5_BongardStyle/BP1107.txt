@@ -1,0 +1,10 @@
+"The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A complex, pixelated pattern resembling a maze or fractal design
+Top-right: A series of horizontal bars with varying lengths and a small triangular shape at the top right
+Middle-left: A spiral pattern with a gradient effect, creating a three-dimensional appearance
+Middle-right: Two rectangular shapes with smaller rectangles inside them, aligned horizontally
+Bottom-left: A pixelated, abstract design with a mix of solid and empty spaces forming an irregular pattern
+Bottom-right: A triangular fractal pattern composed of smaller triangles
+
+Minimalist black-and-white style."

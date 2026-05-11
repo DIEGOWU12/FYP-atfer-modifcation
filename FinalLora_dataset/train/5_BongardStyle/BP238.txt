@@ -1,0 +1,10 @@
+BongardStyle, "The image shows a 3x2 grid of six black geometric shapes:
+
+Top-left: A curved line resembling a parenthesis pointing left
+Top-right: A simple outline of a head with a small circle on top
+Middle-left: A curved line resembling a parenthesis pointing right
+Middle-right: A simple outline of a head with a small arc above it
+Bottom-left: Two parallel curved lines resembling two parentheses facing each other
+Bottom-right: A single curved line resembling a parenthesis pointing right
+
+Minimalist black-and-white style.".

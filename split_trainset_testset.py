@@ -13,7 +13,7 @@ SOURCE_ROOT = os.path.join(BASE_DIR, "FinalKohya_data", "5_BongardStyle")
 
 # 目标目录
 TRAIN_DIR = os.path.join(BASE_DIR, "FinalLora_dataset", "train", "5_BongardStyle")
-TEST_DIR  = os.path.join(BASE_DIR, "Lora_dataset", "test", "5_BongardStyle")
+TEST_DIR  = os.path.join(BASE_DIR, "FinalLora_dataset", "test", "5_BongardStyle")
 
 os.makedirs(TRAIN_DIR, exist_ok=True)
 os.makedirs(TEST_DIR, exist_ok=True)

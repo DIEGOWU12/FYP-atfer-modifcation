@@ -1,24 +1,106 @@
-from pytorch_fid import fid_score
+import os
+import torch
+import pandas as pd
+from PIL import Image
+from torchvision import transforms
+from torchvision.models import inception_v3
+import torch.nn.functional as F
 
-def calculate_my_fid():
-    real_path = "data/real"
-    fake_path = "generated_results" # 你之前生图代码保存的文件夹
-    
-    print("正在计算 FID 分数，请稍候...")
-    
-    # dims=2048 是 InceptionV3 的标准特征维度
-    score = fid_score.calculate_fid_given_paths(
-        [real_path, fake_path],
-        batch_size=50,
-        device='cuda', # 如果没显卡改成 'cpu'
-        dims=2048
-    )
-    
-    print(f"==============================")
-    print(f"最终 FID 得分: {score}")
-    print(f"==============================")
-    return score
 
+# -------------------------
+# model
+# -------------------------
+device = "cuda" if torch.cuda.is_available() else "cpu"
+
+model = inception_v3(pretrained=True, transform_input=False)
+model.fc = torch.nn.Identity()
+model.eval()
+model.to(device)
+
+
+# -------------------------
+# transform
+# -------------------------
+transform = transforms.Compose([
+    transforms.Resize((299, 299)),
+    transforms.ToTensor(),
+])
+
+
+def get_feature(img_path):
+    img = Image.open(img_path).convert("RGB")
+    img = transform(img).unsqueeze(0).to(device)
+
+    with torch.no_grad():
+        feat = model(img)
+
+    return feat.squeeze(0)
+
+
+# -------------------------
+# main eval
+# -------------------------
+def compare_folders(real_path, fake_path, save_csv="fid_report.csv"):
+
+    real_files = sorted([f for f in os.listdir(real_path) if f.endswith(".png")])
+    fake_files = set(os.listdir(fake_path))
+
+    results = []
+    distances = []
+
+    for name in real_files:
+
+        if name not in fake_files:
+            print(f"跳过（缺失 image）：{name}")
+            continue
+
+        real_img = os.path.join(real_path, name)
+        fake_img = os.path.join(fake_path, name)
+
+        real_feat = get_feature(real_img)
+        fake_feat = get_feature(fake_img)
+
+        dist = F.mse_loss(real_feat, fake_feat).item()
+        distances.append(dist)
+
+        results.append([name, dist])
+
+    # -------------------------
+    # table
+    # -------------------------
+    df = pd.DataFrame(results, columns=["Image", "Distance"])
+
+    print("\n==============================")
+    print("Pairwise Distance Table")
+    print("==============================")
+    print(df.to_string(index=False))
+
+    # -------------------------
+    # mean
+    # -------------------------
+    mean_dist = sum(distances) / len(distances)
+
+    print("\n==============================")
+    print(f"Mean Distance: {mean_dist:.6f}")
+    print("==============================")
+
+    # -------------------------
+    # save CSV (for paper)
+    # -------------------------
+    df.loc[len(df)] = ["MEAN", mean_dist]
+    df.to_csv(save_csv, index=False)
+
+    print(f"\nCSV saved to: {save_csv}")
+
+    return df, mean_dist
+
+
+# -------------------------
+# run
+# -------------------------
 if __name__ == "__main__":
-    # 在你跑完批量生图逻辑后调用
-    calculate_my_fid()
+
+   real_path = "FinalLora_dataset/test/5_BongardStyle"
+   fake_path = "Datasets for evaluation/BongardStyle_LoRA"
+
+compare_folders(real_path, fake_path)

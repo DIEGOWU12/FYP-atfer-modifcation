@@ -9,7 +9,7 @@ from pathlib import Path
 URL = "http://127.0.0.1:7860/sdapi/v1/txt2img"
 
 INPUT_FOLDER = "FinalLora_dataset/test/5_BongardStyle"
-OUTPUT_FOLDER = "Datasets for evaluation/BongardStyle_LoRA"
+OUTPUT_FOLDER = "Datasets for evaluation2/BongardStyle_LoRA"
 
 # ⭐ LoRA 配置（新增）
 LORA_NAME = "sdxltrained8"
@@ -24,8 +24,9 @@ def get_image_from_sd(prompt):
 
     # ⭐ 只改这里：把 LoRA 插入 prompt
     prompt = f"{prompt}, <lora:{LORA_NAME}:{LORA_WEIGHT}>"
+    prompt1 = f"{prompt}"
     payload = {
-        "prompt": prompt,
+        "prompt": prompt1,
         "steps": 20,
         "width": 256,
         "height": 256,
